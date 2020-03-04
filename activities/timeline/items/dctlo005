@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo005",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> TIMELINE</div> \n",
     "ui": {
         "inputType": "text"
     },

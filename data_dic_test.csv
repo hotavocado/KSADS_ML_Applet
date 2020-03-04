@@ -1,6 +1,5 @@
 Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
-dctlo005,timeline,"<div style=""font-size: 12pt; text-decoration: underline;""> TIMELINE</div> 
-",text,What is your birthday?,,,date_mdy,,,,,,,,,,
+dctlo005,timeline,,text,What is your birthday?,,,date_mdy,,,,,,,,,,
 dctlo008,timeline,,dropdown,"So, how old are you?","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 | 8, 8 | 9, 9 | 10, 10 | 11, 11 | 12, 12 | 13, 13 | 14, 14 | 15, 15 | 16, 16 | 17, 17 | 18, 18 | 997, 997 | 998, 998 | 999, 999",AGE,autocomplete,,,,,,,,,,
 dctlo009,timeline,,dropdown,What is your grade in school? (or last completed grade),"100, Pre-K | 0, Kindergarten | 1, 1st | 2, 2nd | 3, 3rd | 4, 4th | 5, 5th | 6, 6th | 7, 7th | 8, 8th | 9, 9th | 10, 10th | 11, 11th | 12, 12th | 13, College Freshman | 14, College Sophomore | 15, College Junior | 16, College Senior | 997, 997 | 998, 998 | 999, 999",GRADE,autocomplete,1,12,,,,,,,,
 ,,,,,,,,,,,,,,,,,
