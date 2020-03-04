@@ -116,6 +116,5 @@
                 "@type": "schema:option"
             }
         ]
-    },
-    "schema:description": "GRADE"
+    }
 }
