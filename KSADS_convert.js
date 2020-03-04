@@ -64,7 +64,7 @@ const schemaMap = {
 const inputTypeMap = {
     "calc": "number",
     "checkbox": "radio",
-    "descriptive": "static",
+    "descriptive": "markdown-message",
     "dropdown": "select",
     "notes": "text"
 };
