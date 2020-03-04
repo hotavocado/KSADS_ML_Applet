@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo008",
     "ui": {
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": "So, how old are you?",
     "responseOptions": {

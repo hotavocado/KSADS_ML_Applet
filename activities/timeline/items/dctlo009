@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo009",
     "ui": {
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": "What is your grade in school? (or last completed grade)",
     "responseOptions": {
