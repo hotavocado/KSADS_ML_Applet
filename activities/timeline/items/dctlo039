@@ -35,7 +35,6 @@
                 "schema:name": "Not applicable",
                 "@type": "schema:option"
             }
-        ],
-        "requiredValue": ""
+        ]
     }
 }

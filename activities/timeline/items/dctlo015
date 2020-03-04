@@ -7,8 +7,5 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "4. How well do you get a long with your parents and siblings?  Do you do things together?",
-    "responseOptions": {
-        "requiredValue": ""
-    }
+    "question": "4. How well do you get a long with your parents and siblings?  Do you do things together?"
 }

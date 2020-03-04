@@ -70,7 +70,7 @@ const inputTypeMap = {
 };
 
 const uiList = ['inputType', 'shuffle', 'allow'];
-const responseList = ['type', 'requiredValue'];
+const responseList = ['type'];
 const defaultLanguage = 'en';
 const datas = {};
 
@@ -272,7 +272,6 @@ function processRow(form, data){
                 // split string wrt '|' to get each choice
                 let minValVal = (data[current_key]);
               
-                // insert 'multiplechoices' key inside responseOptions of the item
                 if (rowData.hasOwnProperty('responseOptions')) {
                     rowData.responseOptions[schemaMap[current_key]] = minValVal;
                 }
@@ -288,7 +287,6 @@ function processRow(form, data){
                 // split string wrt '|' to get each choice
                 let maxValVal = (data[current_key]);
               
-                // insert 'multiplechoices' key inside responseOptions of the item
                 if (rowData.hasOwnProperty('responseOptions')) {
                     rowData.responseOptions[schemaMap[current_key]] = maxValVal;
                 }
@@ -299,20 +297,18 @@ function processRow(form, data){
             }
 
             //parse required
-            //else if (schemaMap[current_key] === 'requiredValue' && data[current_key] !== '') {
+            else if (schemaMap[current_key] === 'requiredValue' && data[current_key] !== '') {
 
-                // split string wrt '|' to get each choice
-                //let requiredVal = (data[current_key]);
+                 let requiredVal = (data[current_key]);
               
-                // insert 'multiplechoices' key inside responseOptions of the item
-                //if (rowData.hasOwnProperty('responseOptions')) {
-                //    rowData.responseOptions[schemaMap[current_key]] = requiredVal;
-                //}
-                //else {
-                //    rspObj[schemaMap[current_key]] = requiredVal;
-                //   rowData['responseOptions'] = rspObj;
-                //}
-            //}
+                  if (rowData.hasOwnProperty('responseOptions')) {
+                    rowData.responseOptions[schemaMap[current_key]] = requiredVal;
+                }
+                else {
+                    rspObj[schemaMap[current_key]] = requiredVal;
+                   rowData['responseOptions'] = rspObj;
+                }
+            }
 /*
             //parse @type
             else if (schemaMap[current_key] === '@type') {

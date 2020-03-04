@@ -8,8 +8,5 @@
         "inputType": "text"
     },
     "question": "Other subject 3",
-    "schema:description": "OTHER SUBJECT 3",
-    "responseOptions": {
-        "requiredValue": ""
-    }
+    "schema:description": "OTHER SUBJECT 3"
 }

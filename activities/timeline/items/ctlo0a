@@ -7,8 +7,5 @@
     "ui": {
         "inputType": "static"
     },
-    "question": " <div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">\nINTERVIEWER: This section should not be completed if child is out of high school.</div>",
-    "responseOptions": {
-        "requiredValue": ""
-    }
+    "question": " <div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">\nINTERVIEWER: This section should not be completed if child is out of high school.</div>"
 }

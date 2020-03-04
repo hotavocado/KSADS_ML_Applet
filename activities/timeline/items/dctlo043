@@ -25,7 +25,6 @@
                 "schema:name": "Unk",
                 "@type": "schema:option"
             }
-        ],
-        "requiredValue": ""
+        ]
     }
 }
