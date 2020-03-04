@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/",
+        "timeline": {
+            "@id": "activity_path:timeline/timeline_schema",
+            "@type": "@id"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo059",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Have you had any serious problems? ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

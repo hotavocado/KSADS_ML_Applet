@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo021",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "2. How often do you see them outside of school?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

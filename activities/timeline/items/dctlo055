@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo055",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Are you nervous a lot?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

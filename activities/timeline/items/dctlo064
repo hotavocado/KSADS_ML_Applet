@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo064",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: If child/parent endorses treatment of any kind, identify the primary reason for treatment (ADHD, MDD, etc.) and code at the end of the appropriate section.</div>",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

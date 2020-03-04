@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo023",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "4. Do you have problems making/keeping friends?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

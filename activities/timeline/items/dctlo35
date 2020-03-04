@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo35",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Other subject 2",
+    "schema:description": "OTHER SUBJECT 2",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

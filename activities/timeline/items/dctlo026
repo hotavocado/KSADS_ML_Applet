@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo026",
+    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> SIGNIFICANT EVENTS</div>",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Are there any other things that happened in your life that stand out for you as very important? Things that may have happened to you like memorable vacations, team sports, your friends, your family? (positive or negative)",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

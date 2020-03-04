@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo022",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "3. Do you have friends in other places (e.g. neighborhoods and/or clubs)?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

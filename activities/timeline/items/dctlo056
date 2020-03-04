@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo056",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Do you mostly like to be with other kids, or by yourself?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

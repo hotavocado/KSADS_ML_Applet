@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo016",
+    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> SCHOOL </div>",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "1. When did your last school year begin? When did it end? When did summer break begin?  ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

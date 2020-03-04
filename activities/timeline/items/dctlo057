@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo057",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How would you describe yourself?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

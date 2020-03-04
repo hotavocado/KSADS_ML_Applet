@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo014",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "3. Do you have any brothers and/or sisters? Are they older or younger? Do they live with you?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}
