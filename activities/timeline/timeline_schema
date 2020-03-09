@@ -13,27 +13,15 @@
         {
             "variableName": "dctlo005",
             "isAbout": "dctlo005"
-        },
-        {
-            "variableName": "dctlo008",
-            "isAbout": "dctlo008"
-        },
-        {
-            "variableName": "dctlo009",
-            "isAbout": "dctlo009"
         }
     ],
     "ui": {
         "order": [
-            "dctlo005",
-            "dctlo008",
-            "dctlo009"
+            "dctlo005"
         ],
         "shuffle": false,
         "visibility": {
-            "dctlo005": true,
-            "dctlo008": true,
-            "dctlo009": true
+            "dctlo005": true
         }
     }
 }
