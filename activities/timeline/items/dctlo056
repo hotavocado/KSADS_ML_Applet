@@ -3,10 +3,9 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dctlo005",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> TIMELINE</div> \n",
+    "skos:altLabel": "dctlo056",
     "ui": {
         "inputType": "text"
     },
-    "question": "What is your birthday?"
+    "question": "Do you mostly like to be with other kids, or by yourself?"
 }

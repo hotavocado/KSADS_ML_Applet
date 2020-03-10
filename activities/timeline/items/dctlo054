@@ -3,10 +3,9 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dctlo005",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> TIMELINE</div> \n",
+    "skos:altLabel": "dctlo054",
     "ui": {
         "inputType": "text"
     },
-    "question": "What is your birthday?"
+    "question": "Is there anything that makes you afraid?"
 }

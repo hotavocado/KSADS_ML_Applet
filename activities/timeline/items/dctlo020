@@ -3,10 +3,10 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dctlo005",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> TIMELINE</div> \n",
+    "skos:altLabel": "dctlo020",
+    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> PEERS</div>",
     "ui": {
         "inputType": "text"
     },
-    "question": "What is your birthday?"
+    "question": "1. Do you have friends in school? "
 }

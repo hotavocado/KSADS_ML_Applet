@@ -3,11 +3,11 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dctlo008",
+    "skos:altLabel": "dctlo027",
     "ui": {
         "inputType": "select"
     },
-    "question": "So, how old are you?",
+    "question": "Date at beginning of school year (Month)",
     "responseOptions": {
         "choices": [
             {
@@ -71,51 +71,21 @@
                 "@type": "schema:option"
             },
             {
-                "schema:value": 13,
-                "schema:name": "13",
+                "schema:value": 97,
+                "schema:name": "97",
                 "@type": "schema:option"
             },
             {
-                "schema:value": 14,
-                "schema:name": "14",
+                "schema:value": 98,
+                "schema:name": "98",
                 "@type": "schema:option"
             },
             {
-                "schema:value": 15,
-                "schema:name": "15",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 16,
-                "schema:name": "16",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 17,
-                "schema:name": "17",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 18,
-                "schema:name": "18",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 997,
-                "schema:name": "997",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 998,
-                "schema:name": "998",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 999,
-                "schema:name": "999",
+                "schema:value": 99,
+                "schema:name": "99",
                 "@type": "schema:option"
             }
         ]
     },
-    "schema:description": "AGE"
+    "schema:description": "MONTH"
 }

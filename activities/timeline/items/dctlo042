@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dctlo042",
+    "preamble": "<div style=\"font-size: 14pt; text-decoration: underline;\"> GENERAL CHARACTERISTICS OF CHILD</div>\n\n<div style=\"font-size: 12pt; text-decoration: underline;\"> PARENT ABOUT CHILD</div>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "Does (child's name) have any serious problems?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unk",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

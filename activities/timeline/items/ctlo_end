@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "ctlo_end",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\" color: red; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: END Timeline section.</div>"
+}

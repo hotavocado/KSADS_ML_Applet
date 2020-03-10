@@ -4,7 +4,7 @@
 const protocolName = "KSADS_ML_Applet"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "KSADS v0.4"
+const protocolDisplayName = "KSADS v0.5"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -131,7 +131,7 @@ csv
             visibilityObj = {};
             variableMap = [];
             //console.log(fieldList[0]['Form Display Name']);
-            activityDisplayName = fieldList[0]['Form Display Name'];
+            activityDisplayName = (fieldList[0]['Form Display Name'] == undefined | fieldList[0]['Form Display Name'] == '') ? fieldList[0]['Form Name'] : fieldList[0]['Form Display Name'];
             activityDescription = fieldList[0]['Form Note'];
             fieldList.forEach( field => {
                 if(languages.length === 0){
