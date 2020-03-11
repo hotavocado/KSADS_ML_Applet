@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr100",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Delusions: \r\n\r\n Have you ever believed in things and later found out they weren't true, like people being out to get you, or talking about you behind your back, or controlling what you do or think?",

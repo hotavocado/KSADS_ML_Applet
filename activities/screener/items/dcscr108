@@ -6,6 +6,9 @@
     "skos:altLabel": "dcscr108",
     "preamble": "Suicide",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever thought a lot about death or dying?",

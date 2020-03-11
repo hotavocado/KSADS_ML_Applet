@@ -6,6 +6,9 @@
     "skos:altLabel": "dcscr119",
     "preamble": "Substance Use",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever used: \r\n\r\n Tobacco- like cigarettes or chewing tobacco?",

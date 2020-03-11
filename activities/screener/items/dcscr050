@@ -6,7 +6,7 @@
     "skos:altLabel": "dcscr050",
     "preamble": "Panic Disorder Course",
     "ui": {
-        "inputType": "number"
+        "inputType": "text"
     },
     "question": "How many of these attacks have you had?",
     "schema:description": "NUMBER OF ATTACKS"

@@ -4,11 +4,8 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "checklist_b",
-    "ui": {
-        "inputType": "radio"
-    },
-    "question": "_INTERVIEWER: Use the following checklist to record the sections you need to complete. _ \r\n\r\n SECTIONS: NEED TO COMPLETE",
     "responseOptions": {
+        "multipleChoice": true,
         "choices": [
             {
                 "schema:value": 4,
@@ -111,5 +108,9 @@
                 "@type": "schema:option"
             }
         ]
-    }
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: Use the following checklist to record the sections you need to complete. _ \r\n\r\n SECTIONS: NEED TO COMPLETE"
 }

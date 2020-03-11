@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo028",
     "ui": {
-        "inputType": "number"
+        "inputType": "text"
     },
     "question": "Date at beginning of school year (Year)",
     "schema:description": "YEAR"

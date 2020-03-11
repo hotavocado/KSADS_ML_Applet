@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr099",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Delusions: \r\n\r\n Have you ever believed in things that most other people or your parents don't believe in? What?",

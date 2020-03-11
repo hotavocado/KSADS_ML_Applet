@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr110",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever been in a flood or a tornado or an earthquake or hurricane or some other natural disaster where you thought you were going to die or be seriously hurt?",

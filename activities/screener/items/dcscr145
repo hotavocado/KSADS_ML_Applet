@@ -6,6 +6,9 @@
     "skos:altLabel": "dcscr145",
     "preamble": "Tobacco",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever smoked a cigarette, cigar, pipe or other tobacco product, even a single puff? ",

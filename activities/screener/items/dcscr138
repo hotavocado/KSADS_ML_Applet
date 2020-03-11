@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr138",
     "ui": {
-        "inputType": "number "
+        "inputType": "text"
     },
     "question": "Opiates: Age when used the most",
     "schema:description": "AGE"

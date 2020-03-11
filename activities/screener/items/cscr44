@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "cscr44",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "_FOR INTERVIEWER: Was the reaction grossly out of proportion to the precipitating event?_",

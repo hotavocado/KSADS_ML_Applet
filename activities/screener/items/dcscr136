@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr136",
     "ui": {
-        "inputType": "number "
+        "inputType": "text"
     },
     "question": "Sedatives: Age when used the most",
     "schema:description": "AGE"

@@ -4,11 +4,8 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr146",
-    "ui": {
-        "inputType": "radio"
-    },
-    "question": "What is the reason(s) that you never smoked or used tobacco?",
     "responseOptions": {
+        "multipleChoice": true,
         "choices": [
             {
                 "schema:value": 1,
@@ -61,5 +58,9 @@
                 "@type": "schema:option"
             }
         ]
-    }
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "What is the reason(s) that you never smoked or used tobacco?"
 }

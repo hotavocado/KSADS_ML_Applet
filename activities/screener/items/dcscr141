@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr141",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever taken more perscription medicine or over the counter medicine than you were supposed to, or used someone else's prescription medicine to get high?  \r\n\r\n _INTERVIEWER: If yes, get name of substance and code under appropriate section._",

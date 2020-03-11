@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcscr143",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever felt like you got hooked on presciption or over the counter medicine? \r\n\r\n _INTERVIEWER: If yes, get name of substance and code under appropriate section._",
