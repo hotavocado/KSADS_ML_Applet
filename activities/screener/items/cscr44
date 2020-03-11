@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_FOR INTERVIEWER: Was the reaction grossly out of proportion to the precipitating event?_",
+    "question": "_FOR INTERVIEWER:_ \r\n\r\n _Was the reaction grossly out of proportion to the precipitating event?_",
     "responseOptions": {
         "choices": [
             {

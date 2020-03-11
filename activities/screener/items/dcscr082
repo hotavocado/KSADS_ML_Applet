@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Elevated Mood: \r\n\r\n Have you ever had a time when you felt much more happy or excited than you usually do; when there was nothing special going on? \r\n\r\n INTERVIEWER: NOT mild elation.",
+    "question": "Elevated Mood: \r\n\r\n Have you ever had a time when you felt much more happy or excited than you usually do; when there was nothing special going on? \r\n\r\n _INTERVIEWER: NOT mild elation._",
     "responseOptions": {
         "choices": [
             {

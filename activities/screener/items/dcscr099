@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Delusions: \r\n\r\n Have you ever believed in things that most other people or your parents don't believe in? What?",
+    "question": "Have you ever believed in things that most other people or your parents don't believe in? What?",
     "responseOptions": {
         "choices": [
             {

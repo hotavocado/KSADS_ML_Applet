@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Hallucinations: \r\n\r\n Have you ever seen things that other people couldn't see?",
+    "question": "Have you ever seen things that other people couldn't see?",
     "responseOptions": {
         "choices": [
             {

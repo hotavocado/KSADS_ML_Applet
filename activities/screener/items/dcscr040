@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever been very nervous or afraid of:\r\n\r\n Doctors, needles, or blood?",
+    "question": "Doctors, needles, or blood?",
     "responseOptions": {
         "choices": [
             {

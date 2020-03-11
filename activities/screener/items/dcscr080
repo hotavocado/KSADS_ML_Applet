@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Increased Energy: \r\n\r\n Has there ever been a time when you felt like you hardly needed sleep? \r\n\r\n _INTERVIEWER: Do NOT include isolated events, like a slumber party._",
+    "question": "Has there ever been a time when you felt like you hardly needed sleep? \r\n\r\n _INTERVIEWER: Do NOT include isolated events, like a slumber party._",
     "responseOptions": {
         "choices": [
             {

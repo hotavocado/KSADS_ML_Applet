@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Elevated Mood: \r\n\r\n Have you ever had a time when you felt like you could do almost anything?",
+    "question": "Have you ever had a time when you felt like you could do almost anything?",
     "responseOptions": {
         "choices": [
             {

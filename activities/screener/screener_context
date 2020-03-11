@@ -506,10 +506,6 @@
             "@id": "screener:dcscr107",
             "@type": "@id"
         },
-        "cscr45": {
-            "@id": "screener:cscr45",
-            "@type": "@id"
-        },
         "dcscr108": {
             "@id": "screener:dcscr108",
             "@type": "@id"

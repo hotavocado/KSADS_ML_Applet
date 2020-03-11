@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Are there different reading and arithmetic groups in your class at school? Which group are you in? Review ratings (specify academic \"track\" or group). If discrepancies exist, make notes but code for highest achievement.",
+    "question": "Are there different reading and arithmetic groups in your class at school? Which group are you in? \r\n\r\n _INTERVIEWER: Review ratings (specify academic \"track\" or group). If discrepancies exist, make notes but code for highest achievement._",
     "responseOptions": {
         "choices": [
             {

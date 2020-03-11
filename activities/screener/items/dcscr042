@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever been very nervous or afraid of:\r\n\r\n Flying or airplanes?",
+    "question": "Flying or airplanes?",
     "responseOptions": {
         "choices": [
             {

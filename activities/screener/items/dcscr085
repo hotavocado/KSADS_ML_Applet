@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Irritable Mood: \r\n\r\n Did other people, like parents or teachers, notice this change or worry about you? ",
+    "question": "Did other people, like parents or teachers, notice this change or worry about you? ",
     "responseOptions": {
         "choices": [
             {

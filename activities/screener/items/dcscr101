@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Delusions: \r\n\r\n Were you sure of that at the time or did you think it just might be so?",
+    "question": "Were you sure of that at the time or did you think it just might be so?",
     "responseOptions": {
         "choices": [
             {

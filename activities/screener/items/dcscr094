@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Hallucinations: \r\n\r\n Has there ever been anything unusual about the way things smelled or felt or looked?",
+    "question": "Has there ever been anything unusual about the way things smelled or felt or looked?",
     "responseOptions": {
         "choices": [
             {

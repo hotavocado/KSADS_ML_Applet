@@ -10,6 +10,6 @@
         ],
         "inputType": "text"
     },
-    "question": "_INTERVIEWER: List examples_ \r\n\r\n Example 3",
+    "question": "Example 3",
     "schema:description": "EXAMPLE"
 }

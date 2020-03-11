@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Was there ever a time in your life: \r\n\r\n When you felt very afraid or uncomfortable when you had to do something in front of a group of people, like speaking in class?",
+    "question": "When you felt very afraid or uncomfortable when you had to do something in front of a group of people, like speaking in class?",
     "responseOptions": {
         "choices": [
             {

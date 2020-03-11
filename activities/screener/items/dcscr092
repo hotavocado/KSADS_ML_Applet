@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Hallucinations: \r\n\r\n Have you ever seen visions?",
+    "question": "Have you ever seen visions?",
     "responseOptions": {
         "choices": [
             {
