@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo008",
     "ui": {
-        "inputType": "text"
+        "inputType": "number"
     },
     "question": "So, how old are you?",
     "schema:description": "AGE"

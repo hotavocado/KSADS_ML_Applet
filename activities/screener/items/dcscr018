@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr018",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Who said that you were a worrier?"
+}

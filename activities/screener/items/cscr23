@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cscr23",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "_INTERVIEWER: Since the participant replied \\\"no\\\" to the previous two questions, do not complete the **Agoraphobia** section; consider other phobias._"
+}

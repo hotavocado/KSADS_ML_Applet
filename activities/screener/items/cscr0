@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cscr0",
+    "preamble": "Treatment",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "_INTERVIEWER: Use timeline to date treatment, symptoms, etc._"
+}

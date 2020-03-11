@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr141",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "Have you ever taken more perscription medicine or over the counter medicine than you were supposed to, or used someone else's prescription medicine to get high?  \r\n\r\n _INTERVIEWER: If yes, get name of substance and code under appropriate section._",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

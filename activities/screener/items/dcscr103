@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr103",
+    "preamble": "Intermittent Explosive Disorder",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "Have you ever had a time when you became so angry you could not control your temper and ended up hitting someone or breaking things? \r\n\r\n _INTERVIEWER: Use clinical judgement here to rate positively. The item broken should be something of value like a car window or punching holes in the wall, not minor things like breaking a pencil._",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

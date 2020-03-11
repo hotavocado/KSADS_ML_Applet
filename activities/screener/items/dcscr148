@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr148",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What is the reason(s) that you never smoked or used tobacco? Other 1"
+}

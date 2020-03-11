@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr107",
+    "ui": {
+        "inputType": "number"
+    },
+    "question": "How old were you when this happened the most?",
+    "schema:description": "AGE"
+}

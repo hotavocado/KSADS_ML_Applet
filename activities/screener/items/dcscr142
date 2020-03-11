@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr142",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Name of substance:",
+    "schema:description": "SUBSTANCE"
+}

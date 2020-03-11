@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr120",
+    "ui": {
+        "inputType": "number "
+    },
+    "question": "Tobacco: Age when used the most",
+    "schema:description": "AGE"
+}

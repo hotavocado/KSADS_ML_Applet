@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.9",
+    "skos:prefLabel": "KSADS v0.10",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -15,15 +15,27 @@
         {
             "variableName": "timeline",
             "isAbout": "timeline"
+        },
+        {
+            "variableName": "screener",
+            "isAbout": "screener"
+        },
+        {
+            "variableName": "screener_checklist",
+            "isAbout": "screener_checklist"
         }
     ],
     "ui": {
         "order": [
-            "timeline"
+            "timeline",
+            "screener",
+            "screener_checklist"
         ],
         "shuffle": false,
         "visibility": {
-            "timeline": true
+            "timeline": true,
+            "screener": true,
+            "screener_checklist": true
         }
     }
 }

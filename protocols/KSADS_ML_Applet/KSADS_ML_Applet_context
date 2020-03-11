@@ -5,6 +5,14 @@
         "timeline": {
             "@id": "activity_path:timeline/timeline_schema",
             "@type": "@id"
+        },
+        "screener": {
+            "@id": "activity_path:screener/screener_schema",
+            "@type": "@id"
+        },
+        "screener_checklist": {
+            "@id": "activity_path:screener_checklist/screener_checklist_schema",
+            "@type": "@id"
         }
     }
 }

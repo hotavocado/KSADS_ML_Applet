@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr128",
+    "ui": {
+        "inputType": "number "
+    },
+    "question": "Inhalants: Age when used the most",
+    "schema:description": "AGE"
+}

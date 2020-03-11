@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cscr25",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What is the longest period that you have had these thoughts or behaviors? \r\n\r\n _Note: please record your response like so: N of weeks, N of months, N of years_"
+}

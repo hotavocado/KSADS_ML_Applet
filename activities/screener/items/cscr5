@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cscr5",
+    "preamble": "Seperation Anxiety",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Some young people worry a lot about being away from their parents or the grown-up who takes care of them. "
+}

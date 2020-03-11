@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cscr6",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "\n\n_INTERVIEWER: For disruptive behavior disorders (ADHD, ODD, CD), complete the diagnostic section if any of the probes are endorsed._"
+}

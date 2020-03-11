@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcscr095c",
+    "ui": {
+        "allow": [
+            "dontKnow"
+        ],
+        "inputType": "text"
+    },
+    "question": "_INTERVIEWER: List examples_ \r\n\r\n Example 3",
+    "schema:description": "EXAMPLE"
+}
