@@ -4,9 +4,8 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo064",
-    "preamble": "Emotional or behavorial problems",
     "ui": {
         "inputType": "text"
     },
-    "question": "INTERVIEWER: If child/parent endorses treatment of any kind, identify the primary reason for treatment (ADHD, MDD, etc.) and code at the end of the appropriate section."
+    "question": "INTERVIEWER: _If child/parent endorsed treatment of any kind, identify the primary reason for treatment (ADHD, MDD, etc.) and code at the end of the appropriate section._"
 }

@@ -4,8 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo063",
-    "preamble": "Emotional or behavorial problems",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever received help for these problems or thought that you needed help?",

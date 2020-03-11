@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo018",
-    "preamble": "School",
     "ui": {
         "inputType": "text"
     },

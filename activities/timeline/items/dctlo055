@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo055",
-    "preamble": "Child about self",
     "ui": {
         "inputType": "text"
     },

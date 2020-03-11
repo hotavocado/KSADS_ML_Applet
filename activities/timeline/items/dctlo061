@@ -6,6 +6,9 @@
     "skos:altLabel": "dctlo061",
     "preamble": "Emotional or behavorial problems",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever had problems with your feelings, nerves, or mood?",

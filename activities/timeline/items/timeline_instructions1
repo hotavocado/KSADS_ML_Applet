@@ -4,8 +4,8 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "timeline_instructions1",
-    "preamble": "Now I'd like to learn more about you (your child), where you live, your school, your family and your friends.",
     "ui": {
         "inputType": "markdown-message"
-    }
+    },
+    "question": "Now I'd like to learn more about you (your child), where you live, your school, your family and your friends."
 }

@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo024",
-    "preamble": "Peers",
     "ui": {
         "inputType": "text"
     },

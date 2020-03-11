@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo052",
-    "preamble": "Parent about child",
     "ui": {
         "allow": [
             "autoAdvance"
