@@ -4,7 +4,7 @@
 const protocolName = "KSADS_ML_Applet"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "KSADS v0.7"
+const protocolDisplayName = "KSADS v0.8"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -408,6 +408,8 @@ function processRow(form, data){
                     condition = condition.replace(/\ and\ /g, " && ");
                     condition = condition.replace(/\ or\ /g, " || ");
                     re = RegExp(/\[([^\]]*)\]/g);
+                    condition = condition.replace(re, "$1");
+                    re = RegExp(/\'([^\']*)'/g);
                     condition = condition.replace(re, "$1");
                 }
                 visibilityObj[[data['Variable / Field Name']]] = condition;
