@@ -4,9 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo016",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> SCHOOL </div>",
+    "preamble": "School",
     "ui": {
         "inputType": "text"
     },
-    "question": "1. When did your last school year begin? When did it end? When did summer break begin?  "
+    "question": "When did your last school year begin? When did it end? When did summer break begin?  "
 }

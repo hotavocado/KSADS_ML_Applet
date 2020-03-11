@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo040",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "During the school year, how much TV do you usually watch every week? After school? After dinner? On Saturday or Sunday?",
@@ -37,7 +40,7 @@
             },
             {
                 "schema:value": 9,
-                "schema:name": "Unk",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ]

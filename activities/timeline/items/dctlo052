@@ -4,10 +4,14 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo052",
+    "preamble": "Parent about child",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Is he/she sensitive to the feelings of others? Too sensitive?(rate on this one)",
+    "question": "Is he/she sensitive to the feelings of others? Too sensitive? ",
     "responseOptions": {
         "choices": [
             {
@@ -22,7 +26,7 @@
             },
             {
                 "schema:value": 9,
-                "schema:name": "Unk",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ]

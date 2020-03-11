@@ -4,8 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo042",
-    "preamble": "<div style=\"font-size: 14pt; text-decoration: underline;\"> GENERAL CHARACTERISTICS OF CHILD</div>\n\n<div style=\"font-size: 12pt; text-decoration: underline;\"> PARENT ABOUT CHILD</div>",
+    "preamble": "Parent about child",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Does (child's name) have any serious problems?",
@@ -23,7 +26,7 @@
             },
             {
                 "schema:value": 9,
-                "schema:name": "Unk",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ]

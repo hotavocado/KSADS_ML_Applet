@@ -3,9 +3,10 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "ctlo_end",
+    "skos:altLabel": "timeline_instructions2",
+    "preamble": "School functioning",
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "INTERVIEWER: END of  **Timeline** section. "
+    "question": "The next questions refer to the current school year (when on summer break refer to the past school year)."
 }

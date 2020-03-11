@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "timeline_instructions3",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "How are you doing in school? What subjects do you have? What kind of grades do you get? \r\n\r\n Please rate academic subjects on the following scale. List any additional academic subjects and review ratings."
+}

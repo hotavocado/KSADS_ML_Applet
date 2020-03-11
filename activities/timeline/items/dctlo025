@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo025",
+    "preamble": "Peers",
     "ui": {
         "inputType": "text"
     },
-    "question": "6. Do you get into trouble with friends?"
+    "question": "Do you get into trouble with friends?"
 }

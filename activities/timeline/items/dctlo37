@@ -5,8 +5,11 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo37",
     "ui": {
+        "allow": [
+            "dontKnow"
+        ],
         "inputType": "text"
     },
-    "question": "Other subject 3",
+    "question": "Other subject 3 (list here)",
     "schema:description": "OTHER SUBJECT 3"
 }

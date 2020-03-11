@@ -14,6 +14,10 @@
             "@id": "timeline:dctlo009",
             "@type": "@id"
         },
+        "timeline_instructions1": {
+            "@id": "timeline:timeline_instructions1",
+            "@type": "@id"
+        },
         "dctlo010": {
             "@id": "timeline:dctlo010",
             "@type": "@id"
@@ -82,12 +86,12 @@
             "@id": "timeline:dctlo026",
             "@type": "@id"
         },
-        "ctlo0": {
-            "@id": "timeline:ctlo0",
+        "timeline_instructions2": {
+            "@id": "timeline:timeline_instructions2",
             "@type": "@id"
         },
-        "ctlo0a": {
-            "@id": "timeline:ctlo0a",
+        "ctlo0": {
+            "@id": "timeline:ctlo0",
             "@type": "@id"
         },
         "dctlo027": {
@@ -96,6 +100,10 @@
         },
         "dctlo028": {
             "@id": "timeline:dctlo028",
+            "@type": "@id"
+        },
+        "timeline_instructions3": {
+            "@id": "timeline:timeline_instructions3",
             "@type": "@id"
         },
         "dctlo031": {
@@ -132,6 +140,10 @@
         },
         "dctlo039": {
             "@id": "timeline:dctlo039",
+            "@type": "@id"
+        },
+        "dctlo039_notes": {
+            "@id": "timeline:dctlo039_notes",
             "@type": "@id"
         },
         "dctlo040": {

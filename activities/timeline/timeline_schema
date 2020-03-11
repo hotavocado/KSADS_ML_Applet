@@ -24,6 +24,10 @@
             "isAbout": "dctlo009"
         },
         {
+            "variableName": "timeline_instructions1",
+            "isAbout": "timeline_instructions1"
+        },
+        {
             "variableName": "dctlo010",
             "isAbout": "dctlo010"
         },
@@ -92,12 +96,12 @@
             "isAbout": "dctlo026"
         },
         {
-            "variableName": "ctlo0",
-            "isAbout": "ctlo0"
+            "variableName": "timeline_instructions2",
+            "isAbout": "timeline_instructions2"
         },
         {
-            "variableName": "ctlo0a",
-            "isAbout": "ctlo0a"
+            "variableName": "ctlo0",
+            "isAbout": "ctlo0"
         },
         {
             "variableName": "dctlo027",
@@ -106,6 +110,10 @@
         {
             "variableName": "dctlo028",
             "isAbout": "dctlo028"
+        },
+        {
+            "variableName": "timeline_instructions3",
+            "isAbout": "timeline_instructions3"
         },
         {
             "variableName": "dctlo031",
@@ -142,6 +150,10 @@
         {
             "variableName": "dctlo039",
             "isAbout": "dctlo039"
+        },
+        {
+            "variableName": "dctlo039_notes",
+            "isAbout": "dctlo039_notes"
         },
         {
             "variableName": "dctlo040",
@@ -253,6 +265,7 @@
             "dctlo005",
             "dctlo008",
             "dctlo009",
+            "timeline_instructions1",
             "dctlo010",
             "dctlo011",
             "dctlo012",
@@ -270,10 +283,11 @@
             "dctlo024",
             "dctlo025",
             "dctlo026",
+            "timeline_instructions2",
             "ctlo0",
-            "ctlo0a",
             "dctlo027",
             "dctlo028",
+            "timeline_instructions3",
             "dctlo031",
             "dctlo032",
             "dctlo33",
@@ -283,6 +297,7 @@
             "dctlo37",
             "dctlo38",
             "dctlo039",
+            "dctlo039_notes",
             "dctlo040",
             "dctlo041",
             "dctlo042",
@@ -315,6 +330,7 @@
             "dctlo005": true,
             "dctlo008": true,
             "dctlo009": true,
+            "timeline_instructions1": true,
             "dctlo010": true,
             "dctlo011": true,
             "dctlo012": true,
@@ -332,10 +348,11 @@
             "dctlo024": true,
             "dctlo025": true,
             "dctlo026": true,
+            "timeline_instructions2": true,
             "ctlo0": true,
-            "ctlo0a": "ctlo0 == '1'",
             "dctlo027": "ctlo0 == '0'",
             "dctlo028": "ctlo0 == '0'",
+            "timeline_instructions3": true,
             "dctlo031": "ctlo0 == '0'",
             "dctlo032": "ctlo0 == '0'",
             "dctlo33": "ctlo0 == '0'",
@@ -345,6 +362,7 @@
             "dctlo37": "ctlo0 == '0'",
             "dctlo38": "ctlo0 == '0'",
             "dctlo039": "ctlo0 == '0'",
+            "dctlo039_notes": "ctlo0 == '0'",
             "dctlo040": "ctlo0 == '0'",
             "dctlo041": "ctlo0 == '0'",
             "dctlo042": true,

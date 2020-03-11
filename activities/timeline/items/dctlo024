@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo024",
+    "preamble": "Peers",
     "ui": {
         "inputType": "text"
     },
-    "question": "5. Do you often fight/argue with friends?"
+    "question": "Do you often fight/argue with friends?"
 }

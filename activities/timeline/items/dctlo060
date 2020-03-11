@@ -4,8 +4,12 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo060",
+    "preamble": "Child about self",
     "ui": {
+        "allow": [
+            "dontKnow"
+        ],
         "inputType": "text"
     },
-    "question": "Notes"
+    "question": "_Additional notes:_"
 }

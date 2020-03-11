@@ -4,9 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo020",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> PEERS</div>",
+    "preamble": "Peers",
     "ui": {
         "inputType": "text"
     },
-    "question": "1. Do you have friends in school? "
+    "question": "Do you have friends in school? "
 }

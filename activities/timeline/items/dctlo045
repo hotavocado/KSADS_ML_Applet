@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo045",
+    "preamble": "Parent about child",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "With friends?",
@@ -22,7 +26,7 @@
             },
             {
                 "schema:value": 9,
-                "schema:name": "Unk",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ]

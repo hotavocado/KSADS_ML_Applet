@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo018",
+    "preamble": "School",
     "ui": {
         "inputType": "text"
     },
-    "question": "3. Did you ever have problems with your grades in school? Get into trouble for your behavior at school? "
+    "question": "Did you ever have problems with your grades in school? Get into trouble for your behavior at school? "
 }

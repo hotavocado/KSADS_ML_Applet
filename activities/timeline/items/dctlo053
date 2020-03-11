@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo053",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> CHILD ABOUT SELF</div>",
+    "preamble": "Child about self",
     "ui": {
         "inputType": "text"
     },

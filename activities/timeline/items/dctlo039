@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo039",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Are there different reading and arithmetic groups in your class at school? Which group are you in? Review ratings (specify academic \"track\" or group). If discrepancies exist, make notes but code for highest achievement.",

@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo061",
-    "preamble": "<div style=\"font-size: 14pt; text-decoration: underline;\"> OVERVIEW OF EMOTIONAL OR BEHAVIOR PROBLEMS</div>\n\n<div style=\"font-size: 12pt; text-decoration: underline;\"> SUGGEST PROBES</div>",
+    "preamble": "Emotional or behavorial problems",
     "ui": {
         "inputType": "radio"
     },

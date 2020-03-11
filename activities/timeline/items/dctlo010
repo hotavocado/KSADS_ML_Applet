@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo010",
-    "preamble": "<div style=\"color: blue;background-color: #ffffdd; \">Now I'd like to learn more about you (your child), where you live, your school, your family and your friends.</div>\n<div style=\"font-size: 12pt; text-decoration: underline;background-color: #ffffdd;\"> HOME</div>",
+    "preamble": "Home",
     "ui": {
         "inputType": "text"
     },

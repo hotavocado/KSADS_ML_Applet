@@ -5,6 +5,10 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo34",
     "ui": {
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ],
         "inputType": "radio"
     },
     "question": "Other subject 1",

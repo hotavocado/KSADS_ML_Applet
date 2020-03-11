@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo017",
+    "preamble": "School",
     "ui": {
         "inputType": "text"
     },
-    "question": "2.  Changing schools (grade school to junior high to high school to moves)\n"
+    "question": "Changing schools (grade school to junior high to high school to moves)\n"
 }

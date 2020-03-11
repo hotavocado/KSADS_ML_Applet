@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dctlo026",
-    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> SIGNIFICANT EVENTS</div>",
+    "preamble": "Significant events",
     "ui": {
         "inputType": "text"
     },
