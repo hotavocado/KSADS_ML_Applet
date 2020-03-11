@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/timeline/timeline_context"
+        "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/test_cl/activities/timeline/timeline_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "timeline_schema",
@@ -100,8 +100,8 @@
             "isAbout": "timeline_instructions2"
         },
         {
-            "variableName": "ctlo0",
-            "isAbout": "ctlo0"
+            "variableName": "newname",
+            "isAbout": "newname"
         },
         {
             "variableName": "dctlo027",
@@ -284,7 +284,7 @@
             "dctlo025",
             "dctlo026",
             "timeline_instructions2",
-            "ctlo0",
+            "newname",
             "dctlo027",
             "dctlo028",
             "timeline_instructions3",
@@ -349,22 +349,22 @@
             "dctlo025": true,
             "dctlo026": true,
             "timeline_instructions2": true,
-            "ctlo0": true,
-            "dctlo027": "ctlo0 == 1",
-            "dctlo028": "ctlo0 == 1",
-            "timeline_instructions3": "ctlo0 == 1",
-            "dctlo031": "ctlo0 == 1",
-            "dctlo032": "ctlo0 == 1",
-            "dctlo33": "ctlo0 == 1",
-            "dctlo34": "ctlo0 == 1",
-            "dctlo35": "ctlo0 == 1",
-            "dctlo36": "ctlo0 == 1",
-            "dctlo37": "ctlo0 == 1",
-            "dctlo38": "ctlo0 == 1",
-            "dctlo039": "ctlo0 == 1",
-            "dctlo039_notes": "ctlo0 == 1",
-            "dctlo040": "ctlo0 == 1",
-            "dctlo041": "ctlo0 == 1",
+            "newname": true,
+            "dctlo027": "newname == 1",
+            "dctlo028": "newname == 1",
+            "timeline_instructions3": "newname == 1",
+            "dctlo031": "newname == 1",
+            "dctlo032": "newname == 1",
+            "dctlo33": "newname == 1",
+            "dctlo34": "newname == 1",
+            "dctlo35": "newname == 1",
+            "dctlo36": "newname == 1",
+            "dctlo37": "newname == 1",
+            "dctlo38": "newname == 1",
+            "dctlo039": "newname == 1",
+            "dctlo039_notes": "newname == 1",
+            "dctlo040": "newname == 1",
+            "dctlo041": "newname == 1",
             "dctlo042": true,
             "dctlo043": "dctlo042 == 1",
             "dctlo044": "dctlo042 == 1",

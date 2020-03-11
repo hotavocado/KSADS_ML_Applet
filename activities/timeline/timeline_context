@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/timeline/items/",
+        "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/test_cl/activities/timeline/items/",
         "dctlo005": {
             "@id": "timeline:dctlo005",
             "@type": "@id"
@@ -90,8 +90,8 @@
             "@id": "timeline:timeline_instructions2",
             "@type": "@id"
         },
-        "ctlo0": {
-            "@id": "timeline:ctlo0",
+        "newname": {
+            "@id": "timeline:newname",
             "@type": "@id"
         },
         "dctlo027": {

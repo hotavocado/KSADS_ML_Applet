@@ -4,12 +4,12 @@
 const protocolName = "KSADS_ML_Applet"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "KSADS v0.8"
+const protocolDisplayName = "KSADS test_cl"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
 const repoName = 'KSADS_ML_Applet'
-const branchName = 'master'
+const branchName = 'test_cl'
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 

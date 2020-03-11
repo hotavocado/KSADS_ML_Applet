@@ -1,14 +1,14 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/protocols/KSADS_ML_Applet/KSADS_ML_Applet_context"
+        "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/test_cl/protocols/KSADS_ML_Applet/KSADS_ML_Applet_context"
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.8",
+    "skos:prefLabel": "KSADS test_cl",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
-    "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
+    "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/test_cl/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "variableMap": [
