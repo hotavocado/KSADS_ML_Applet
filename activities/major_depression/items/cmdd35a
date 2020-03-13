@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cmdd35a",
+    "preamble": "Distress (Episode)",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "I want to know how much your depression and other symptoms caused problems for you. Please look at the scale. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary, and assess areas most pertinent to the disorder; e.g. family, school, peers._ \r\n\r\n Participant Card 8 (Distress/Impairment)"
+}

@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcmdd135",
+    "preamble": "First Lifetime Episode",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you the very first time in your life that you felt (sad, depressed/ grouchy, like nothing was fun)?",
+    "schema:description": "AGE"
+}

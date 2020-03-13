@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cmdd51",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "How long was the shortest time you felt this way?  \r\n\r\n _INTERVIEWER: please record your response like so: N days, N weeks, N months_"
+}

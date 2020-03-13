@@ -13,6 +13,10 @@
         "screener_checklist": {
             "@id": "activity_path:screener_checklist/screener_checklist_schema",
             "@type": "@id"
+        },
+        "major_depression": {
+            "@id": "activity_path:major_depression/major_depression_schema",
+            "@type": "@id"
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcmdd036",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many hours earlier?",
+    "schema:description": "HOURS"
+}

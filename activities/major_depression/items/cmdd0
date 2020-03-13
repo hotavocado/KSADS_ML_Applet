@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cmdd0",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Earlier, you told me there was a time you felt _(insert participant's endorsed symptoms in Screener)_. I'd now like to ask you more about that"
+}

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cmdd56",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "You mentioned earlier that you had changes in your eating, sleeping, and sensitivity during the times that we discussed.  Did you have any of the following during other times that you were depressed that we did not talk about: \r\n\r\n _INTERVIEWER: Proceed to next screens_"
+}

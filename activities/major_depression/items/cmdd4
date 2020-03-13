@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cmdd4",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Now I would like to talk more about how you felt then. \r\n\r\n _INTERVIEWER: Code **WORST** episode._"
+}

@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cmdd51a",
+    "preamble": "Duration of Episodes",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "How long was the longest time you felt (sad, grouchy, like nothing was fun)? \r\n\r\n _INTERVIEWER: please record your response like so: N days, N weeks, N months_"
+}

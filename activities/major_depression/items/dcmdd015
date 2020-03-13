@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcmdd015",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you when this ended?",
+    "schema:description": "AGE"
+}

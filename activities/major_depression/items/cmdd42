@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cmdd42",
+    "preamble": "Episodes/Course (Lifetime)",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "INTERVIEWER: The following questions about course address episodes of depression across the lifetime. "
+}

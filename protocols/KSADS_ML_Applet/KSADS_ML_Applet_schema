@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.11",
+    "skos:prefLabel": "KSADS v0.12",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -23,19 +23,25 @@
         {
             "variableName": "screener_checklist",
             "isAbout": "screener_checklist"
+        },
+        {
+            "variableName": "major_depression",
+            "isAbout": "major_depression"
         }
     ],
     "ui": {
         "order": [
             "timeline",
             "screener",
-            "screener_checklist"
+            "screener_checklist",
+            "major_depression"
         ],
         "shuffle": false,
         "visibility": {
             "timeline": true,
             "screener": true,
-            "screener_checklist": true
+            "screener_checklist": true,
+            "major_depression": true
         }
     }
 }
