@@ -10,6 +10,6 @@
         ],
         "inputType": "text"
     },
-    "question": "Specify (Code)",
+    "question": "Specify (Code):",
     "schema:description": "CODE RESPONSE"
 }

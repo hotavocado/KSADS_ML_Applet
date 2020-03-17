@@ -10,6 +10,6 @@
         ],
         "inputType": "text"
     },
-    "question": "Specify (Professional/Treatment 3)",
+    "question": "Specify (Professional/Treatment 3):",
     "schema:description": "PROFESSIONAL/TREATMENT"
 }

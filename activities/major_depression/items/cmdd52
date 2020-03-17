@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "cmdd52",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "text"
     },
     "question": "How long do the (sad, depression, grouchy, like nothing was fun) feelings **usually** last?  \r\n\r\n _INTERVIEWER: please record your response like so: N days, N weeks, N months_"
 }

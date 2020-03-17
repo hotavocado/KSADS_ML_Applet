@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you feel bad about yourself even though there wasn't any real reason to feel like that? For example, did you start feeling that you weren't good-looking enough, that people wouldn't like you, that you weren't smart enough, or that you couldn't do anything well?",
+    "question": "Did you feel bad about yourself even though there wasn't any real reason to feel like that? \r\n\r\n For example, did you start feeling that you weren't good-looking enough, that people wouldn't like you, that you weren't smart enough, or that you couldn't do anything well?",
     "responseOptions": {
         "choices": [
             {

@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "You just told me that when you felt (sad/ grouchy/ like nothing was fun) that you also had (list symptoms).  How often did you have these things?  ",
+    "question": "You just told me that when you felt (sad/ grouchy/ like nothing was fun) that you also had _(list symptoms)_.  How often did you have these things?  ",
     "responseOptions": {
         "choices": [
             {

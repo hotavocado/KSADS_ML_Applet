@@ -8,5 +8,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "\nI would now like to talk about the time in between the periods when you felt (sad, grouchy, like nothing was fun)."
+    "question": "\nI would now like to talk about the time **in between** the periods when you felt (sad, grouchy, like nothing was fun)."
 }

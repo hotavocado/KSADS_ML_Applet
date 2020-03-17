@@ -10,6 +10,6 @@
         ],
         "inputType": "text"
     },
-    "question": "Hallucinations: \r\n\r\n Example 1",
+    "question": "Hallucinations Example 1:",
     "schema:description": "EXAMPLE"
 }

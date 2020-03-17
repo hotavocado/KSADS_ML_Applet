@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did anyone notice that you were (list endorsed psychomotor changes)?",
+    "question": "Did anyone notice that you were _(list endorsed psychomotor changes)_?",
     "responseOptions": {
         "choices": [
             {

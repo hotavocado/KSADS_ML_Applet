@@ -476,10 +476,6 @@
             "isAbout": "dcmdd112"
         },
         {
-            "variableName": "cmdd39b",
-            "isAbout": "cmdd39b"
-        },
-        {
             "variableName": "dcmdd113",
             "isAbout": "dcmdd113"
         },
@@ -558,10 +554,6 @@
         {
             "variableName": "dcmdd134",
             "isAbout": "dcmdd134"
-        },
-        {
-            "variableName": "cmdd45",
-            "isAbout": "cmdd45"
         },
         {
             "variableName": "dcmdd135",
@@ -766,7 +758,6 @@
             "dcmdd110",
             "dcmdd111",
             "dcmdd112",
-            "cmdd39b",
             "dcmdd113",
             "dcmdd115",
             "dcmdd116",
@@ -787,7 +778,6 @@
             "dcmdd133",
             "cmdd42",
             "dcmdd134",
-            "cmdd45",
             "dcmdd135",
             "cmdd47",
             "dcmdd138",
@@ -928,7 +918,6 @@
             "dcmdd110": true,
             "dcmdd111": true,
             "dcmdd112": true,
-            "cmdd39b": true,
             "dcmdd113": true,
             "dcmdd115": true,
             "dcmdd116": true,
@@ -949,7 +938,6 @@
             "dcmdd133": true,
             "cmdd42": true,
             "dcmdd134": true,
-            "cmdd45": true,
             "dcmdd135": true,
             "cmdd47": true,
             "dcmdd138": true,

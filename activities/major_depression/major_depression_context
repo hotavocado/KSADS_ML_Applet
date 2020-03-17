@@ -466,10 +466,6 @@
             "@id": "major_depression:dcmdd112",
             "@type": "@id"
         },
-        "cmdd39b": {
-            "@id": "major_depression:cmdd39b",
-            "@type": "@id"
-        },
         "dcmdd113": {
             "@id": "major_depression:dcmdd113",
             "@type": "@id"
@@ -548,10 +544,6 @@
         },
         "dcmdd134": {
             "@id": "major_depression:dcmdd134",
-            "@type": "@id"
-        },
-        "cmdd45": {
-            "@id": "major_depression:cmdd45",
             "@type": "@id"
         },
         "dcmdd135": {

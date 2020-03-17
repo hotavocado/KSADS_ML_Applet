@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "(Episode specific) When you were feeling (sad, grouchy, like nothing was fun) were you even more sensitive than usual?",
+    "question": "_(Episode specific)_ When you were feeling (sad, grouchy, like nothing was fun) were you even more sensitive than usual?",
     "responseOptions": {
         "choices": [
             {

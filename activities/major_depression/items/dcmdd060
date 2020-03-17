@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "(Not specific to episode) In general, do you get your feelings hurt easily when other kids tease you or don't want to play with you?",
+    "question": "_(Not specific to episode)_ In general, do you get your feelings hurt easily when other kids tease you or don't want to play with you?",
     "responseOptions": {
         "choices": [
             {

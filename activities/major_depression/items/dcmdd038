@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you eat less or feel less hungry than usual? (Did you lose weight)",
+    "question": "During this time, did you eat **less** or feel **less hungry** than usual? (Did you lose weight)",
     "responseOptions": {
         "choices": [
             {

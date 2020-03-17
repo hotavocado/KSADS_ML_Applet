@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you eat more or feel more hungry than usual?",
+    "question": "Did you eat **more** or feel **more hungry** than usual?",
     "responseOptions": {
         "choices": [
             {

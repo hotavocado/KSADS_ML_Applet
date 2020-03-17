@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "cmdd3",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "text"
     },
     "question": "How long did you feel this way? \r\n\r\n _INTERVIEWER: please record your response like so: N weeks, N months, N years_"
 }

@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: If respondent had any psychotic symptoms, was the content consistent with depressive themes such as poverty, guilt, illness, personal inadequacy or catastrophe?_",
+    "question": "_INTERVIEWER: If respondent had any psychotic symptoms, was the content **consistent** with depressive themes such as poverty, guilt, illness, personal inadequacy or catastrophe?_",
     "responseOptions": {
         "choices": [
             {

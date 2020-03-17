@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Based on clinical judgment, were these real hallucinations? (record examples on the following screens)_",
+    "question": "_INTERVIEWER: Based on clinical judgment, were these **real hallucinations**? (record examples on the following screens)_",
     "responseOptions": {
         "choices": [
             {

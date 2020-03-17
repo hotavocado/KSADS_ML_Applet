@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Were any episodes coded atypical in nature, i.e., the respondent had symptoms of mood reactivity, overeating, oversleeping, interpersonal sensitivity and leaden paralysis? (Check with participant if unsure)_",
+    "question": "_INTERVIEWER: Were any episodes coded **atypical in nature**, i.e., the respondent had symptoms of mood reactivity, overeating, oversleeping, interpersonal sensitivity and leaden paralysis? (Check with participant if unsure)_",
     "responseOptions": {
         "choices": [
             {

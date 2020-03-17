@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Delusions: \r\n\r\n During this time, did you think that your (list symptoms) was a punishment for something you had done?    ",
+    "question": "**Delusions:** \r\n\r\n During this time, did you think that your (list symptoms) was a punishment for something you had done?    ",
     "responseOptions": {
         "choices": [
             {

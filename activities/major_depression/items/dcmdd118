@@ -7,6 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "If no, how old were you the last time you got help?",
+    "question": "How old were you the last time you got help?",
     "schema:description": "AGE"
 }

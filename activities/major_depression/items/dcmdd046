@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you speak more slowly than usual?",
+    "question": "Did you **speak** more slowly than usual?",
     "responseOptions": {
         "choices": [
             {
