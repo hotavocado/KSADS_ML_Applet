@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsui054",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: How potentially lethal was the attempt? </div>",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "No danger (no effects",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/held pills in hand).png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Moderate (10 seconds",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/briefly unconscious).png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Severe (cut throat)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "No information",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

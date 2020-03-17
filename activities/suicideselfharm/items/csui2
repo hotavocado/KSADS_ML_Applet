@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csui2",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: If current, report to clinician.</div>\n"
+}

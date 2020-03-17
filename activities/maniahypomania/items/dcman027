@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcman027",
+    "ui": {
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ],
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: Use discretion on whether to ask child this question._ \r\n\r\n Were you interested in sex more than usual, or more sexually active?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcman147",
+    "preamble": "First Episode",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you when this happened for the very first time? ",
+    "schema:description": "AGE"
+}

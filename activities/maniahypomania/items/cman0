@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cman0",
+    "preamble": "Current/Most Recent Episode",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Some young people have times when they are energetic, or cheerful, very different from how they usually feel.  At these times, they may also feel more talkative, more active, sleep less and feel more restless."
+}

@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cman42",
+    "preamble": "Associated Conditions (Episode)",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "_INTERVIEWER: Associated condition questions apply ONLY to episode being coded._"
+}

@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.12",
+    "skos:prefLabel": "KSADS v0.13",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -27,6 +27,14 @@
         {
             "variableName": "major_depression",
             "isAbout": "major_depression"
+        },
+        {
+            "variableName": "maniahypomania",
+            "isAbout": "maniahypomania"
+        },
+        {
+            "variableName": "suicideselfharm",
+            "isAbout": "suicideselfharm"
         }
     ],
     "ui": {
@@ -34,14 +42,18 @@
             "timeline",
             "screener",
             "screener_checklist",
-            "major_depression"
+            "major_depression",
+            "maniahypomania",
+            "suicideselfharm"
         ],
         "shuffle": false,
         "visibility": {
             "timeline": true,
             "screener": true,
             "screener_checklist": true,
-            "major_depression": true
+            "major_depression": true,
+            "maniahypomania": true,
+            "suicideselfharm": true
         }
     }
 }

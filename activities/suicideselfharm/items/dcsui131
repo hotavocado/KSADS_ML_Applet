@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsui131",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many times would you say you've harmed yourself in this way (without the intention to kill yourself)?",
+    "schema:description": "NUMBER OF TIMES"
+}

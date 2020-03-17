@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcman079",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How long did this last? (N of Days)",
+    "schema:description": "DAYS"
+}

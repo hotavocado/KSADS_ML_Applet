@@ -17,6 +17,14 @@
         "major_depression": {
             "@id": "activity_path:major_depression/major_depression_schema",
             "@type": "@id"
+        },
+        "maniahypomania": {
+            "@id": "activity_path:maniahypomania/maniahypomania_schema",
+            "@type": "@id"
+        },
+        "suicideselfharm": {
+            "@id": "activity_path:suicideselfharm/suicideselfharm_schema",
+            "@type": "@id"
         }
     }
 }

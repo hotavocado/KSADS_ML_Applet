@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csui5",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"display:block; width: 100%; background-color: #ffffdd;\">ATTEMPT 1</div>"
+}

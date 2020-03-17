@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cman43b",
+    "preamble": "Distress/Impairment (Episode)",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "I want to know how your feeling (too happy/excited/grouchy/energetic) and other symptoms caused problems for you. Please look at the scale (Participant Card 8, Distress/Impaiment). \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary, and assess areas most pertinent to the disorder; e.g. family, school, peers._"
+}

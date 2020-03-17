@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsui069",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "Required psychiatric admission?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/voluntary.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Yes",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/involuntary.png"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknownnown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

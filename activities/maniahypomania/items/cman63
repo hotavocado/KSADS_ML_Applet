@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cman63",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How long does a typical episode last? \r\n\r\n _INTERVIEWER: please record your response like so: N days, N weeks, N months._"
+}

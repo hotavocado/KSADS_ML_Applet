@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cman3",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How long have you felt this way?  \r\n\r\n _INTERVIEWER: please record your response like so: N days, N weeks, N months_"
+}

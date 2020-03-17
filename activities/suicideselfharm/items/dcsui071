@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsui071",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "<div style=\"  color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: How serious was the attempt? </div>",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "No intent or minimal intent",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/manipulative gesture.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Definite intent",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/but ambivalent.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Serious intent",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/expected to die.png"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "No information",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

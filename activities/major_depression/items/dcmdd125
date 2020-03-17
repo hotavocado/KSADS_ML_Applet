@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Medications? \r\n\r\n _INTERVIEWER: Refer to Participant Card 9 (Medications), record responses in the following screens._",
+    "question": "Medications? \r\n\r\n _INTERVIEWER: Refer to Participant Card 9 (Medications), record and code responses in the following screens._",
     "responseOptions": {
         "choices": [
             {

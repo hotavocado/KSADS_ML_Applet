@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcman031",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "During this time, how many hours, on average, do you sleep per night?",
+    "schema:description": "HOURS"
+}

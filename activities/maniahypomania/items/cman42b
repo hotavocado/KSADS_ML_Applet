@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cman42b",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "\n<div style=\"font-size: 12pt;width: 100%; background-color: #ffffdd;\">ALCOHOL AND DRUGS</div>"
+}
