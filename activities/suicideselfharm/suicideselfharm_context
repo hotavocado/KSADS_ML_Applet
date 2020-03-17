@@ -2,20 +2,12 @@
     "@context": {
         "@version": 1.1,
         "suicideselfharm": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/suicideselfharm/items/",
-        "csui0": {
-            "@id": "suicideselfharm:csui0",
-            "@type": "@id"
-        },
         "dcsui001": {
             "@id": "suicideselfharm:dcsui001",
             "@type": "@id"
         },
         "dcsui002": {
             "@id": "suicideselfharm:dcsui002",
-            "@type": "@id"
-        },
-        "csui1": {
-            "@id": "suicideselfharm:csui1",
             "@type": "@id"
         },
         "dcsui003": {
@@ -46,20 +38,12 @@
             "@id": "suicideselfharm:dcsui008",
             "@type": "@id"
         },
-        "csui3": {
-            "@id": "suicideselfharm:csui3",
-            "@type": "@id"
-        },
         "dcsui009": {
             "@id": "suicideselfharm:dcsui009",
             "@type": "@id"
         },
         "csui4": {
             "@id": "suicideselfharm:csui4",
-            "@type": "@id"
-        },
-        "csui5": {
-            "@id": "suicideselfharm:csui5",
             "@type": "@id"
         },
         "dcsui010": {
@@ -106,10 +90,6 @@
             "@id": "suicideselfharm:dcsui020",
             "@type": "@id"
         },
-        "csui6": {
-            "@id": "suicideselfharm:csui6",
-            "@type": "@id"
-        },
         "dcsui028": {
             "@id": "suicideselfharm:dcsui028",
             "@type": "@id"
@@ -152,10 +132,6 @@
         },
         "dcsui038": {
             "@id": "suicideselfharm:dcsui038",
-            "@type": "@id"
-        },
-        "csui7": {
-            "@id": "suicideselfharm:csui7",
             "@type": "@id"
         },
         "dcsui046": {
@@ -202,10 +178,6 @@
             "@id": "suicideselfharm:dcsui056",
             "@type": "@id"
         },
-        "csui8": {
-            "@id": "suicideselfharm:csui8",
-            "@type": "@id"
-        },
         "dcsui064": {
             "@id": "suicideselfharm:dcsui064",
             "@type": "@id"
@@ -250,10 +222,6 @@
             "@id": "suicideselfharm:dcsui074",
             "@type": "@id"
         },
-        "csui9": {
-            "@id": "suicideselfharm:csui9",
-            "@type": "@id"
-        },
         "dcsui082": {
             "@id": "suicideselfharm:dcsui082",
             "@type": "@id"
@@ -296,10 +264,6 @@
         },
         "dcsui092": {
             "@id": "suicideselfharm:dcsui092",
-            "@type": "@id"
-        },
-        "csui10": {
-            "@id": "suicideselfharm:csui10",
             "@type": "@id"
         },
         "dcsui100": {
@@ -354,10 +318,6 @@
             "@id": "suicideselfharm:dcsui118",
             "@type": "@id"
         },
-        "csui12": {
-            "@id": "suicideselfharm:csui12",
-            "@type": "@id"
-        },
         "dcsui119": {
             "@id": "suicideselfharm:dcsui119",
             "@type": "@id"
@@ -372,10 +332,6 @@
         },
         "dcsui122": {
             "@id": "suicideselfharm:dcsui122",
-            "@type": "@id"
-        },
-        "csui13": {
-            "@id": "suicideselfharm:csui13",
             "@type": "@id"
         },
         "dcsui128": {

@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "csui11",
+    "preamble": "Self-Harm",
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "\n<div style=\"font-size: 14pt;text-decoration: underline;width: 100%; background-color: #ffffdd;\">SELF-HARM</div>\n<div style=\"  color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER:  This is self-mutilation or self-damage NOT accompanied by the wish or intention to die.  Code NO if only under context of suicidal ideation or behavior.</div>\n"
+    "question": "_INTERVIEWER:  This is self-mutilation or self-damage NOT accompanied by the wish or intention to die.  Code NO if **only** under context of suicidal ideation or behavior._"
 }

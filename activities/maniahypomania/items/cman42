@@ -8,5 +8,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "_INTERVIEWER: Associated condition questions apply ONLY to episode being coded._"
+    "question": "_INTERVIEWER: Associated condition questions apply **ONLY** to episode being coded._"
 }

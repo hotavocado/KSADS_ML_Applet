@@ -10,6 +10,6 @@
         ],
         "inputType": "text"
     },
-    "question": "Specify (Medication 1)",
+    "question": "Specify (Medication 1):",
     "schema:description": "MEDICATION"
 }

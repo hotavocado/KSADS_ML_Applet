@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did these (list endorsed hallucinations) start before, after or at the same time that you started feeling (too happy/excited/grouchy/energetic)?   ",
+    "question": "Did these _(list endorsed hallucinations)_ start before, after or at the same time that you started feeling (too happy/excited/grouchy/energetic)?   ",
     "responseOptions": {
         "choices": [
             {

@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "During this time: \r\n\r\n Did you think that someone was trying to harm you?",
+    "question": "Did you think that someone was trying to harm you?",
     "responseOptions": {
         "choices": [
             {

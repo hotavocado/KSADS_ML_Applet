@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui034",
+    "preamble": "Attempt 2",
     "ui": {
         "allow": [
             "autoAdvance"

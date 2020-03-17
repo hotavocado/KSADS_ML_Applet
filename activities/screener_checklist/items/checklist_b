@@ -112,5 +112,5 @@
     "ui": {
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Use the following checklist to record the sections you need to complete. _ \r\n\r\n SECTIONS: NEED TO COMPLETE"
+    "question": "_INTERVIEWER: Use the following checklist to record the sections you need to complete. _ \r\n\r\n **SECTIONS TO COMPLETE:**"
 }

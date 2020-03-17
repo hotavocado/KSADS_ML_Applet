@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Only when you were using alcohol?",
+    "question": "Did you (cut/burn/scratch) yourself: \r\n\r\n Only when you were using **alcohol**?",
     "responseOptions": {
         "choices": [
             {

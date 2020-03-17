@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "<div style=\"color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">If participant is female and reached menses:  </div>Only around the time of your period?",
+    "question": "_INTERVIEWER: If participant is female and reached menses, ask this question. If not, **Skip**:_ \r\n\r\n Only around the time of your period?",
     "responseOptions": {
         "choices": [
             {

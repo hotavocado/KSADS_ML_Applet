@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui038",
+    "preamble": "Attempt 2",
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Other)"
+    "question": "Specify (Other context):"
 }

@@ -4,11 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcman110",
-    "ui": {
-        "inputType": "radio"
-    },
-    "question": "Were you using alcohol often or drugs or both during this time?  \n<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">PROBE: Did you start feeling this way before using alcohol/drugs or after or did you increase the quantity after you had these feelings? </div>",
+    "preamble": "Alcohol and Drugs",
     "responseOptions": {
+        "multipleChoice": true,
         "choices": [
             {
                 "schema:value": 0,
@@ -31,5 +29,9 @@
                 "@type": "schema:option"
             }
         ]
-    }
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "Were you using alcohol often or drugs or both during this time?  \r\n\r\n _PROBE: Did you start feeling this way before using alcohol/drugs or after or did you increase the quantity after you had these feelings?_"
 }

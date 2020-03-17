@@ -4,11 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui019",
-    "ui": {
-        "inputType": "radio"
-    },
-    "question": "<div style=\"  color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER:  Did this attempt occur in the context of: (Check all that apply) </div>",
+    "preamble": "Attempt 1",
     "responseOptions": {
+        "multipleChoice": true,
         "choices": [
             {
                 "schema:value": 1,
@@ -46,5 +44,9 @@
                 "@type": "schema:option"
             }
         ]
-    }
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: Did this attempt occur in the context of: (Check all that apply)_"
 }

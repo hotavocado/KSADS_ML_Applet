@@ -430,10 +430,6 @@
             "@id": "maniahypomania:dcman109",
             "@type": "@id"
         },
-        "cman42b": {
-            "@id": "maniahypomania:cman42b",
-            "@type": "@id"
-        },
         "dcman110": {
             "@id": "maniahypomania:dcman110",
             "@type": "@id"
@@ -506,10 +502,6 @@
             "@id": "maniahypomania:dcman125",
             "@type": "@id"
         },
-        "cman49b": {
-            "@id": "maniahypomania:cman49b",
-            "@type": "@id"
-        },
         "dcman127": {
             "@id": "maniahypomania:dcman127",
             "@type": "@id"
@@ -576,10 +568,6 @@
         },
         "dcman145": {
             "@id": "maniahypomania:dcman145",
-            "@type": "@id"
-        },
-        "cman52": {
-            "@id": "maniahypomania:cman52",
             "@type": "@id"
         },
         "dcman146": {

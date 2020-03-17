@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever used: \r\n\r\n Cocaine- crack, powder, crank?",
+    "question": "Cocaine- crack, powder, crank?",
     "responseOptions": {
         "choices": [
             {

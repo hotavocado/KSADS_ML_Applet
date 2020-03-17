@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui001",
+    "preamble": "Suicide",
     "ui": {
         "allow": [
             "autoAdvance"

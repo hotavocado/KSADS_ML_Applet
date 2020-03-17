@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui014",
+    "preamble": "Attempt 1",
     "ui": {
         "allow": [
             "autoAdvance"
@@ -31,7 +32,7 @@
             },
             {
                 "schema:value": 9,
-                "schema:name": "Unknownnown",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ]

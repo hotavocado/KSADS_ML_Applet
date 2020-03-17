@@ -440,10 +440,6 @@
             "isAbout": "dcman109"
         },
         {
-            "variableName": "cman42b",
-            "isAbout": "cman42b"
-        },
-        {
             "variableName": "dcman110",
             "isAbout": "dcman110"
         },
@@ -516,10 +512,6 @@
             "isAbout": "dcman125"
         },
         {
-            "variableName": "cman49b",
-            "isAbout": "cman49b"
-        },
-        {
             "variableName": "dcman127",
             "isAbout": "dcman127"
         },
@@ -586,10 +578,6 @@
         {
             "variableName": "dcman145",
             "isAbout": "dcman145"
-        },
-        {
-            "variableName": "cman52",
-            "isAbout": "cman52"
         },
         {
             "variableName": "dcman146",
@@ -749,7 +737,6 @@
             "dcman107",
             "dcman108",
             "dcman109",
-            "cman42b",
             "dcman110",
             "dcman111",
             "dcman112",
@@ -768,7 +755,6 @@
             "dcman123",
             "dcman124",
             "dcman125",
-            "cman49b",
             "dcman127",
             "dcman128",
             "dcman129",
@@ -786,7 +772,6 @@
             "dcman143",
             "dcman144",
             "dcman145",
-            "cman52",
             "dcman146",
             "dcman147",
             "cman57",
@@ -909,7 +894,6 @@
             "dcman107": true,
             "dcman108": true,
             "dcman109": true,
-            "cman42b": true,
             "dcman110": true,
             "dcman111": true,
             "dcman112": true,
@@ -928,7 +912,6 @@
             "dcman123": true,
             "dcman124": true,
             "dcman125": true,
-            "cman49b": true,
             "dcman127": true,
             "dcman128": true,
             "dcman129": true,
@@ -946,7 +929,6 @@
             "dcman143": true,
             "dcman144": true,
             "dcman145": true,
-            "cman52": true,
             "dcman146": true,
             "dcman147": true,
             "cman57": true,

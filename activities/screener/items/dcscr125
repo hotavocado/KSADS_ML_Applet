@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever used: \r\n\r\n Cannabis- like marijuana?",
+    "question": "Cannabis- like marijuana?",
     "responseOptions": {
         "choices": [
             {

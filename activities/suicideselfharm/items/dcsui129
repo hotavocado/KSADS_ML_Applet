@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Only when you were using drugs?",
+    "question": "Only when you were using **drugs**?",
     "responseOptions": {
         "choices": [
             {

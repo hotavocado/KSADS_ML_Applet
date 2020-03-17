@@ -40,7 +40,7 @@
             },
             {
                 "schema:value": 9,
-                "schema:name": "Unknownnown",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ]

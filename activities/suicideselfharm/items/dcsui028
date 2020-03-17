@@ -4,10 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui028",
+    "preamble": "Attempt 2",
     "ui": {
         "inputType": "select"
     },
-    "question": "Age",
+    "question": "Age:",
     "responseOptions": {
         "choices": [
             {

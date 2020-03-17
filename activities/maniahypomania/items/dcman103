@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: If respondent had any psychotic symptoms, was the content consistent with manic themes such as inflated worth, power, knowledge, identity or special relationship with a deity or famous person?_",
+    "question": "_INTERVIEWER: If respondent had any psychotic symptoms, was the content **consistent** with manic themes such as inflated worth, power, knowledge, identity or special relationship with a deity or famous person?_",
     "responseOptions": {
         "choices": [
             {

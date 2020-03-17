@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui030",
+    "preamble": "Attempt 2",
     "ui": {
         "inputType": "text"
     },
-    "question": "Describe (Other)"
+    "question": "Describe (Other method):"
 }

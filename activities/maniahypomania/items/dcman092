@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you think this was true, even when you stopped feeling (too happy/excited/grouchy/energetic).  ",
+    "question": "Did you think this was true, even when you stopped feeling (too happy/excited/grouchy/energetic)?",
     "responseOptions": {
         "choices": [
             {

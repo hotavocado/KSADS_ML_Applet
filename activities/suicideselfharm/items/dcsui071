@@ -4,13 +4,14 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui071",
+    "preamble": "Attempt 4",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "<div style=\"  color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: How serious was the attempt? </div>",
+    "question": "_INTERVIEWER: How **serious** was the attempt?_",
     "responseOptions": {
         "choices": [
             {

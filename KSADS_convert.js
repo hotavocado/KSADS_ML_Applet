@@ -4,7 +4,7 @@
 const protocolName = "KSADS_ML_Applet"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "KSADS v0.14"
+const protocolDisplayName = "KSADS v0.15"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'

@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "If yes, specify:"
+    "question": "Specify (Physical problem or illness):"
 }

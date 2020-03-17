@@ -4,11 +4,8 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui121",
-    "ui": {
-        "inputType": "radio"
-    },
-    "question": "Was there something that happened in your life that made you want to do this? (Check all that apply)",
     "responseOptions": {
+        "multipleChoice": true,
         "choices": [
             {
                 "schema:value": 0,
@@ -41,5 +38,9 @@
                 "@type": "schema:option"
             }
         ]
-    }
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "Was there something that happened in your life that made you want to do this? _(Check all that apply)_"
 }

@@ -22,6 +22,11 @@
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
             }
         ]
     }

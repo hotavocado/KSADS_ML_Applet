@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "During this period, did you also feel/have: \r\n\r\n Loss of interest or pleasure? ",
+    "question": "Loss of interest or pleasure? ",
     "responseOptions": {
         "choices": [
             {
@@ -21,6 +21,11 @@
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ]
