@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpsy138",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "<div style=\"  color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: If thought disorder was present, was it associated with any of the following?</div>"
+}

@@ -25,6 +25,10 @@
         "suicideselfharm": {
             "@id": "activity_path:suicideselfharm/suicideselfharm_schema",
             "@type": "@id"
+        },
+        "psychosis": {
+            "@id": "activity_path:psychosis/psychosis_schema",
+            "@type": "@id"
         }
     }
 }

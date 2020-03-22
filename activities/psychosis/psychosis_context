@@ -1,0 +1,686 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "psychosis": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/psychosis/items/",
+        "cpsy0": {
+            "@id": "psychosis:cpsy0",
+            "@type": "@id"
+        },
+        "dcpsy001": {
+            "@id": "psychosis:dcpsy001",
+            "@type": "@id"
+        },
+        "cpsy2": {
+            "@id": "psychosis:cpsy2",
+            "@type": "@id"
+        },
+        "dcpsy006": {
+            "@id": "psychosis:dcpsy006",
+            "@type": "@id"
+        },
+        "cspy4": {
+            "@id": "psychosis:cspy4",
+            "@type": "@id"
+        },
+        "dcpsy011": {
+            "@id": "psychosis:dcpsy011",
+            "@type": "@id"
+        },
+        "cpsy6": {
+            "@id": "psychosis:cpsy6",
+            "@type": "@id"
+        },
+        "dcpsy016": {
+            "@id": "psychosis:dcpsy016",
+            "@type": "@id"
+        },
+        "cpsy8": {
+            "@id": "psychosis:cpsy8",
+            "@type": "@id"
+        },
+        "dcpsy021": {
+            "@id": "psychosis:dcpsy021",
+            "@type": "@id"
+        },
+        "cpsy10": {
+            "@id": "psychosis:cpsy10",
+            "@type": "@id"
+        },
+        "dcpsy026": {
+            "@id": "psychosis:dcpsy026",
+            "@type": "@id"
+        },
+        "cpsy12": {
+            "@id": "psychosis:cpsy12",
+            "@type": "@id"
+        },
+        "dcpsy031": {
+            "@id": "psychosis:dcpsy031",
+            "@type": "@id"
+        },
+        "cpsy14": {
+            "@id": "psychosis:cpsy14",
+            "@type": "@id"
+        },
+        "dcpsy036": {
+            "@id": "psychosis:dcpsy036",
+            "@type": "@id"
+        },
+        "dcpsy037": {
+            "@id": "psychosis:dcpsy037",
+            "@type": "@id"
+        },
+        "cpsy16": {
+            "@id": "psychosis:cpsy16",
+            "@type": "@id"
+        },
+        "dcpsy042": {
+            "@id": "psychosis:dcpsy042",
+            "@type": "@id"
+        },
+        "cpsy18": {
+            "@id": "psychosis:cpsy18",
+            "@type": "@id"
+        },
+        "dcpsy047": {
+            "@id": "psychosis:dcpsy047",
+            "@type": "@id"
+        },
+        "cpsy20": {
+            "@id": "psychosis:cpsy20",
+            "@type": "@id"
+        },
+        "cpsy21": {
+            "@id": "psychosis:cpsy21",
+            "@type": "@id"
+        },
+        "dcpsy054": {
+            "@id": "psychosis:dcpsy054",
+            "@type": "@id"
+        },
+        "dcpsy055": {
+            "@id": "psychosis:dcpsy055",
+            "@type": "@id"
+        },
+        "dcpsy056": {
+            "@id": "psychosis:dcpsy056",
+            "@type": "@id"
+        },
+        "dcpsy057": {
+            "@id": "psychosis:dcpsy057",
+            "@type": "@id"
+        },
+        "dcpsy058": {
+            "@id": "psychosis:dcpsy058",
+            "@type": "@id"
+        },
+        "dcpsy059": {
+            "@id": "psychosis:dcpsy059",
+            "@type": "@id"
+        },
+        "dcpsy060": {
+            "@id": "psychosis:dcpsy060",
+            "@type": "@id"
+        },
+        "dcpsy061": {
+            "@id": "psychosis:dcpsy061",
+            "@type": "@id"
+        },
+        "cpsy26": {
+            "@id": "psychosis:cpsy26",
+            "@type": "@id"
+        },
+        "dcpsy066": {
+            "@id": "psychosis:dcpsy066",
+            "@type": "@id"
+        },
+        "cpsy28": {
+            "@id": "psychosis:cpsy28",
+            "@type": "@id"
+        },
+        "dcpsy071": {
+            "@id": "psychosis:dcpsy071",
+            "@type": "@id"
+        },
+        "cpsy30": {
+            "@id": "psychosis:cpsy30",
+            "@type": "@id"
+        },
+        "dcpsy076": {
+            "@id": "psychosis:dcpsy076",
+            "@type": "@id"
+        },
+        "cpsy32": {
+            "@id": "psychosis:cpsy32",
+            "@type": "@id"
+        },
+        "dcpsy081": {
+            "@id": "psychosis:dcpsy081",
+            "@type": "@id"
+        },
+        "cpsy34": {
+            "@id": "psychosis:cpsy34",
+            "@type": "@id"
+        },
+        "dcpsy086": {
+            "@id": "psychosis:dcpsy086",
+            "@type": "@id"
+        },
+        "cpsy36": {
+            "@id": "psychosis:cpsy36",
+            "@type": "@id"
+        },
+        "dcpsy091": {
+            "@id": "psychosis:dcpsy091",
+            "@type": "@id"
+        },
+        "cpsy38": {
+            "@id": "psychosis:cpsy38",
+            "@type": "@id"
+        },
+        "dcpsy096": {
+            "@id": "psychosis:dcpsy096",
+            "@type": "@id"
+        },
+        "dcpsy097": {
+            "@id": "psychosis:dcpsy097",
+            "@type": "@id"
+        },
+        "cpsy40": {
+            "@id": "psychosis:cpsy40",
+            "@type": "@id"
+        },
+        "dcpsy102": {
+            "@id": "psychosis:dcpsy102",
+            "@type": "@id"
+        },
+        "dcpsy103": {
+            "@id": "psychosis:dcpsy103",
+            "@type": "@id"
+        },
+        "cpsy42": {
+            "@id": "psychosis:cpsy42",
+            "@type": "@id"
+        },
+        "dcpsy108": {
+            "@id": "psychosis:dcpsy108",
+            "@type": "@id"
+        },
+        "cpsy44": {
+            "@id": "psychosis:cpsy44",
+            "@type": "@id"
+        },
+        "dcpsy113": {
+            "@id": "psychosis:dcpsy113",
+            "@type": "@id"
+        },
+        "dcpsy114": {
+            "@id": "psychosis:dcpsy114",
+            "@type": "@id"
+        },
+        "cpsy45": {
+            "@id": "psychosis:cpsy45",
+            "@type": "@id"
+        },
+        "dcpsy119": {
+            "@id": "psychosis:dcpsy119",
+            "@type": "@id"
+        },
+        "dcpsy120": {
+            "@id": "psychosis:dcpsy120",
+            "@type": "@id"
+        },
+        "dcpsy121": {
+            "@id": "psychosis:dcpsy121",
+            "@type": "@id"
+        },
+        "dcpsy122": {
+            "@id": "psychosis:dcpsy122",
+            "@type": "@id"
+        },
+        "dcpsy123": {
+            "@id": "psychosis:dcpsy123",
+            "@type": "@id"
+        },
+        "dcpsy124": {
+            "@id": "psychosis:dcpsy124",
+            "@type": "@id"
+        },
+        "dcpsy125": {
+            "@id": "psychosis:dcpsy125",
+            "@type": "@id"
+        },
+        "dcpsy126": {
+            "@id": "psychosis:dcpsy126",
+            "@type": "@id"
+        },
+        "cpsy51": {
+            "@id": "psychosis:cpsy51",
+            "@type": "@id"
+        },
+        "dcpsy127": {
+            "@id": "psychosis:dcpsy127",
+            "@type": "@id"
+        },
+        "dcpsy128": {
+            "@id": "psychosis:dcpsy128",
+            "@type": "@id"
+        },
+        "dcpsy129": {
+            "@id": "psychosis:dcpsy129",
+            "@type": "@id"
+        },
+        "dcpsy130": {
+            "@id": "psychosis:dcpsy130",
+            "@type": "@id"
+        },
+        "dcpsy131": {
+            "@id": "psychosis:dcpsy131",
+            "@type": "@id"
+        },
+        "dcpsy132": {
+            "@id": "psychosis:dcpsy132",
+            "@type": "@id"
+        },
+        "dcpsy133": {
+            "@id": "psychosis:dcpsy133",
+            "@type": "@id"
+        },
+        "dcpsy134": {
+            "@id": "psychosis:dcpsy134",
+            "@type": "@id"
+        },
+        "dcpsy135": {
+            "@id": "psychosis:dcpsy135",
+            "@type": "@id"
+        },
+        "dcpsy136": {
+            "@id": "psychosis:dcpsy136",
+            "@type": "@id"
+        },
+        "dcpsy137": {
+            "@id": "psychosis:dcpsy137",
+            "@type": "@id"
+        },
+        "dcpsy138": {
+            "@id": "psychosis:dcpsy138",
+            "@type": "@id"
+        },
+        "cpsy50": {
+            "@id": "psychosis:cpsy50",
+            "@type": "@id"
+        },
+        "dcpsy139": {
+            "@id": "psychosis:dcpsy139",
+            "@type": "@id"
+        },
+        "cpsy52": {
+            "@id": "psychosis:cpsy52",
+            "@type": "@id"
+        },
+        "dcpsy144": {
+            "@id": "psychosis:dcpsy144",
+            "@type": "@id"
+        },
+        "cpsy54": {
+            "@id": "psychosis:cpsy54",
+            "@type": "@id"
+        },
+        "dcpsy149": {
+            "@id": "psychosis:dcpsy149",
+            "@type": "@id"
+        },
+        "cpsy56": {
+            "@id": "psychosis:cpsy56",
+            "@type": "@id"
+        },
+        "cpsy58": {
+            "@id": "psychosis:cpsy58",
+            "@type": "@id"
+        },
+        "dcpsy154": {
+            "@id": "psychosis:dcpsy154",
+            "@type": "@id"
+        },
+        "dcpsy155": {
+            "@id": "psychosis:dcpsy155",
+            "@type": "@id"
+        },
+        "cspy59": {
+            "@id": "psychosis:cspy59",
+            "@type": "@id"
+        },
+        "dcpsy156": {
+            "@id": "psychosis:dcpsy156",
+            "@type": "@id"
+        },
+        "dcpsy157": {
+            "@id": "psychosis:dcpsy157",
+            "@type": "@id"
+        },
+        "cpsy60": {
+            "@id": "psychosis:cpsy60",
+            "@type": "@id"
+        },
+        "dcpsy158": {
+            "@id": "psychosis:dcpsy158",
+            "@type": "@id"
+        },
+        "dcpsy159": {
+            "@id": "psychosis:dcpsy159",
+            "@type": "@id"
+        },
+        "cpsy61": {
+            "@id": "psychosis:cpsy61",
+            "@type": "@id"
+        },
+        "dcpsy160": {
+            "@id": "psychosis:dcpsy160",
+            "@type": "@id"
+        },
+        "dcpsy161": {
+            "@id": "psychosis:dcpsy161",
+            "@type": "@id"
+        },
+        "cpsy62": {
+            "@id": "psychosis:cpsy62",
+            "@type": "@id"
+        },
+        "dcpsy162": {
+            "@id": "psychosis:dcpsy162",
+            "@type": "@id"
+        },
+        "dcpsy163": {
+            "@id": "psychosis:dcpsy163",
+            "@type": "@id"
+        },
+        "cpsy63": {
+            "@id": "psychosis:cpsy63",
+            "@type": "@id"
+        },
+        "dcpsy164": {
+            "@id": "psychosis:dcpsy164",
+            "@type": "@id"
+        },
+        "dcpsy165": {
+            "@id": "psychosis:dcpsy165",
+            "@type": "@id"
+        },
+        "cpsy64": {
+            "@id": "psychosis:cpsy64",
+            "@type": "@id"
+        },
+        "dcpsy166": {
+            "@id": "psychosis:dcpsy166",
+            "@type": "@id"
+        },
+        "dcpsy167": {
+            "@id": "psychosis:dcpsy167",
+            "@type": "@id"
+        },
+        "cpsy65": {
+            "@id": "psychosis:cpsy65",
+            "@type": "@id"
+        },
+        "dcpsy168": {
+            "@id": "psychosis:dcpsy168",
+            "@type": "@id"
+        },
+        "dcpsy169": {
+            "@id": "psychosis:dcpsy169",
+            "@type": "@id"
+        },
+        "cpsy66": {
+            "@id": "psychosis:cpsy66",
+            "@type": "@id"
+        },
+        "dcpsy170": {
+            "@id": "psychosis:dcpsy170",
+            "@type": "@id"
+        },
+        "dcpsy171": {
+            "@id": "psychosis:dcpsy171",
+            "@type": "@id"
+        },
+        "cpsy67": {
+            "@id": "psychosis:cpsy67",
+            "@type": "@id"
+        },
+        "dcpsy172": {
+            "@id": "psychosis:dcpsy172",
+            "@type": "@id"
+        },
+        "dcpsy173": {
+            "@id": "psychosis:dcpsy173",
+            "@type": "@id"
+        },
+        "dcpsy174": {
+            "@id": "psychosis:dcpsy174",
+            "@type": "@id"
+        },
+        "dcpsy175": {
+            "@id": "psychosis:dcpsy175",
+            "@type": "@id"
+        },
+        "dcpsy176": {
+            "@id": "psychosis:dcpsy176",
+            "@type": "@id"
+        },
+        "dcpsy177": {
+            "@id": "psychosis:dcpsy177",
+            "@type": "@id"
+        },
+        "dcpsy178": {
+            "@id": "psychosis:dcpsy178",
+            "@type": "@id"
+        },
+        "dcpsy179": {
+            "@id": "psychosis:dcpsy179",
+            "@type": "@id"
+        },
+        "dcpsy180": {
+            "@id": "psychosis:dcpsy180",
+            "@type": "@id"
+        },
+        "dcpsy181": {
+            "@id": "psychosis:dcpsy181",
+            "@type": "@id"
+        },
+        "dcpsy182": {
+            "@id": "psychosis:dcpsy182",
+            "@type": "@id"
+        },
+        "dcpsy183": {
+            "@id": "psychosis:dcpsy183",
+            "@type": "@id"
+        },
+        "dcpsy184": {
+            "@id": "psychosis:dcpsy184",
+            "@type": "@id"
+        },
+        "dcpsy185": {
+            "@id": "psychosis:dcpsy185",
+            "@type": "@id"
+        },
+        "cpsy71": {
+            "@id": "psychosis:cpsy71",
+            "@type": "@id"
+        },
+        "dcpsy186": {
+            "@id": "psychosis:dcpsy186",
+            "@type": "@id"
+        },
+        "dcpsy188": {
+            "@id": "psychosis:dcpsy188",
+            "@type": "@id"
+        },
+        "dcpsy189": {
+            "@id": "psychosis:dcpsy189",
+            "@type": "@id"
+        },
+        "cpsy73": {
+            "@id": "psychosis:cpsy73",
+            "@type": "@id"
+        },
+        "dcpsy193": {
+            "@id": "psychosis:dcpsy193",
+            "@type": "@id"
+        },
+        "cpsy77": {
+            "@id": "psychosis:cpsy77",
+            "@type": "@id"
+        },
+        "dcpsy194": {
+            "@id": "psychosis:dcpsy194",
+            "@type": "@id"
+        },
+        "dcpsy198": {
+            "@id": "psychosis:dcpsy198",
+            "@type": "@id"
+        },
+        "cpsy80": {
+            "@id": "psychosis:cpsy80",
+            "@type": "@id"
+        },
+        "dcpsy202": {
+            "@id": "psychosis:dcpsy202",
+            "@type": "@id"
+        },
+        "dcpsy203": {
+            "@id": "psychosis:dcpsy203",
+            "@type": "@id"
+        },
+        "cpsy83": {
+            "@id": "psychosis:cpsy83",
+            "@type": "@id"
+        },
+        "cpsy86": {
+            "@id": "psychosis:cpsy86",
+            "@type": "@id"
+        },
+        "dcpsy207": {
+            "@id": "psychosis:dcpsy207",
+            "@type": "@id"
+        },
+        "dcpsy208": {
+            "@id": "psychosis:dcpsy208",
+            "@type": "@id"
+        },
+        "dcpsy209": {
+            "@id": "psychosis:dcpsy209",
+            "@type": "@id"
+        },
+        "cpsy89": {
+            "@id": "psychosis:cpsy89",
+            "@type": "@id"
+        },
+        "dcpsy213": {
+            "@id": "psychosis:dcpsy213",
+            "@type": "@id"
+        },
+        "dcpsy214": {
+            "@id": "psychosis:dcpsy214",
+            "@type": "@id"
+        },
+        "cpsy91": {
+            "@id": "psychosis:cpsy91",
+            "@type": "@id"
+        },
+        "dcpsy215": {
+            "@id": "psychosis:dcpsy215",
+            "@type": "@id"
+        },
+        "dcpsy216": {
+            "@id": "psychosis:dcpsy216",
+            "@type": "@id"
+        },
+        "dcpsy217": {
+            "@id": "psychosis:dcpsy217",
+            "@type": "@id"
+        },
+        "dcpsy218": {
+            "@id": "psychosis:dcpsy218",
+            "@type": "@id"
+        },
+        "dcpsy219": {
+            "@id": "psychosis:dcpsy219",
+            "@type": "@id"
+        },
+        "dcpsy220": {
+            "@id": "psychosis:dcpsy220",
+            "@type": "@id"
+        },
+        "dcpsy221": {
+            "@id": "psychosis:dcpsy221",
+            "@type": "@id"
+        },
+        "dcpsy223": {
+            "@id": "psychosis:dcpsy223",
+            "@type": "@id"
+        },
+        "dcpsy224": {
+            "@id": "psychosis:dcpsy224",
+            "@type": "@id"
+        },
+        "dcpsy225": {
+            "@id": "psychosis:dcpsy225",
+            "@type": "@id"
+        },
+        "dcpsy226": {
+            "@id": "psychosis:dcpsy226",
+            "@type": "@id"
+        },
+        "dcpsy227": {
+            "@id": "psychosis:dcpsy227",
+            "@type": "@id"
+        },
+        "cpsy93": {
+            "@id": "psychosis:cpsy93",
+            "@type": "@id"
+        },
+        "dcpsy231": {
+            "@id": "psychosis:dcpsy231",
+            "@type": "@id"
+        },
+        "dcpsy232": {
+            "@id": "psychosis:dcpsy232",
+            "@type": "@id"
+        },
+        "dcpsy233": {
+            "@id": "psychosis:dcpsy233",
+            "@type": "@id"
+        },
+        "dcpsy234": {
+            "@id": "psychosis:dcpsy234",
+            "@type": "@id"
+        },
+        "dcpsy235": {
+            "@id": "psychosis:dcpsy235",
+            "@type": "@id"
+        },
+        "dcpsy236": {
+            "@id": "psychosis:dcpsy236",
+            "@type": "@id"
+        },
+        "dcpsy237": {
+            "@id": "psychosis:dcpsy237",
+            "@type": "@id"
+        },
+        "dcpsy238": {
+            "@id": "psychosis:dcpsy238",
+            "@type": "@id"
+        },
+        "dcpsy239": {
+            "@id": "psychosis:dcpsy239",
+            "@type": "@id"
+        },
+        "dcpsy240": {
+            "@id": "psychosis:dcpsy240",
+            "@type": "@id"
+        },
+        "cpsy_end": {
+            "@id": "psychosis:cpsy_end",
+            "@type": "@id"
+        }
+    }
+}

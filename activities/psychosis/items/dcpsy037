@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpsy037",
+    "preamble": "Visual",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "Have you ever seen visions or seen things which other people could not see?  Did it come from a shadow? How clearly did you see these things? Were you awake or asleep?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

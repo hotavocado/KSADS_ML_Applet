@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpsy80",
+    "preamble": "Duration of Most Severe Episode",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "When you felt your worst, how long did that feeling last? \r\n\r\n _INTERVIEWER: please record your response like so: N days, N weeks, N months_"
+}

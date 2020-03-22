@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpsy60",
+    "preamble": "Markedly Peculiar Behavior",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "Did you do things that other people couldn't understand or thought were strange, things you wouldn't usually do?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

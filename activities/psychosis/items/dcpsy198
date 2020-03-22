@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpsy198",
+    "preamble": "Total Number of Episodes",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many different times have you (_____)? \r\n\r\n _INTERVIEWER: Different episodes should be seperated by at least 2 months._",
+    "schema:description": "TIMES"
+}

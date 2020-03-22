@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpsy096",
+    "preamble": "Delusions of Reference",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "Have you ever felt people were talking about you behind your back?  What about people in TV or radio?  ",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpsy21",
+    "preamble": "Duration",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "_INTERVIEWER: Estimate total duration of the period when hallucinations occurred (can be intermittent over this time):_ \r\n\r\n _please record your response like so: N days, N weeks_"
+}

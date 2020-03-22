@@ -4,7 +4,7 @@
 const protocolName = "KSADS_ML_Applet"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "KSADS v0.15"
+const protocolDisplayName = "KSADS"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -14,7 +14,7 @@ const branchName = 'master'
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 
 //3. add a description to your protocol
-let protocolDescription = "KSADS Interview"
+let protocolDescription = "KSADS Interview v0.16"
 
 //4. where are you hosting your images?
 let imagePath = 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'

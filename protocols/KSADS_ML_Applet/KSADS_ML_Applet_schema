@@ -5,9 +5,9 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.15",
+    "skos:prefLabel": "KSADS",
     "skos:altLabel": "KSADS_ML_Applet_schema",
-    "schema:description": "KSADS Interview",
+    "schema:description": "KSADS Interview v0.16",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
@@ -35,6 +35,10 @@
         {
             "variableName": "suicideselfharm",
             "isAbout": "suicideselfharm"
+        },
+        {
+            "variableName": "psychosis",
+            "isAbout": "psychosis"
         }
     ],
     "ui": {
@@ -44,7 +48,8 @@
             "screener_checklist",
             "major_depression",
             "maniahypomania",
-            "suicideselfharm"
+            "suicideselfharm",
+            "psychosis"
         ],
         "shuffle": false,
         "visibility": {
@@ -53,7 +58,8 @@
             "screener_checklist": true,
             "major_depression": true,
             "maniahypomania": true,
-            "suicideselfharm": true
+            "suicideselfharm": true,
+            "psychosis": true
         }
     }
 }

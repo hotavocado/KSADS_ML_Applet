@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpsy50",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: If no evidence of psychotic symptoms, choose **End Section**. If there are psychotic symptoms, choose **Continue**_\n\n",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "End Section",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Continue",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}
