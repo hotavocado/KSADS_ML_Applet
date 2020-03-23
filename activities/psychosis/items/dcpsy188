@@ -4,14 +4,14 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpsy188",
-    "preamble": "Episodes/Course: Onset",
+    "preamble": "Episodes: Current",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Are you still having these (behaviors/feelings) now?",
+    "question": "Are you still having these behaviors/feelings **now**?",
     "responseOptions": {
         "choices": [
             {

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cgad4",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"font-size: 14pt;text-decoration: underline;width: 100%; background-color: #ffffdd;\">ASSOCIATED CONDITIONS (EPISODE)</div>\n\n<div style=\"font-size: 12pt;width: 100%; background-color: #ffffdd;\">ALCOHOL AND DRUGS</div>"
+}

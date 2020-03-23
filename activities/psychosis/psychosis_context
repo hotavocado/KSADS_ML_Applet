@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "psychosis": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/psychosis/items/",
+        "psychosis_title": {
+            "@id": "psychosis:psychosis_title",
+            "@type": "@id"
+        },
         "cpsy0": {
             "@id": "psychosis:cpsy0",
             "@type": "@id"
@@ -258,22 +262,6 @@
             "@id": "psychosis:cpsy51",
             "@type": "@id"
         },
-        "dcpsy127": {
-            "@id": "psychosis:dcpsy127",
-            "@type": "@id"
-        },
-        "dcpsy128": {
-            "@id": "psychosis:dcpsy128",
-            "@type": "@id"
-        },
-        "dcpsy129": {
-            "@id": "psychosis:dcpsy129",
-            "@type": "@id"
-        },
-        "dcpsy130": {
-            "@id": "psychosis:dcpsy130",
-            "@type": "@id"
-        },
         "dcpsy131": {
             "@id": "psychosis:dcpsy131",
             "@type": "@id"
@@ -300,10 +288,6 @@
         },
         "dcpsy137": {
             "@id": "psychosis:dcpsy137",
-            "@type": "@id"
-        },
-        "dcpsy138": {
-            "@id": "psychosis:dcpsy138",
             "@type": "@id"
         },
         "cpsy50": {

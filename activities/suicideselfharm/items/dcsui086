@@ -21,13 +21,12 @@
             },
             {
                 "schema:value": 1,
-                "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/Emergency Room.png"
+                "schema:name": "Yes-Emergency Room",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "Yes",
+                "schema:name": "Yes-Inpatient/Medical Ward",
                 "@type": "schema:option"
             },
             {

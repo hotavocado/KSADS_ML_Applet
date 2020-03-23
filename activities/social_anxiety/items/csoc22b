@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csoc22b",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\" width: 100%;width: 100%; background-color: #E5D9F7;\">Participant Card 3 (Social Performance)</div>"
+}

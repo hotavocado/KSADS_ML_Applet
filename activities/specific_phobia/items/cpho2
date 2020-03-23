@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpho2",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Have you ever been very afraid of any animals or bugs such as:"
+}

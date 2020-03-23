@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsoc020",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Most distressing and avoided SOCIAL situation:"
+}

@@ -12,6 +12,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "suicide_title",
+            "isAbout": "suicide_title"
+        },
+        {
             "variableName": "dcsui001",
             "isAbout": "dcsui001"
         },
@@ -374,6 +378,7 @@
     ],
     "ui": {
         "order": [
+            "suicide_title",
             "dcsui001",
             "dcsui002",
             "dcsui003",
@@ -467,6 +472,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "suicide_title": true,
             "dcsui001": true,
             "dcsui002": true,
             "dcsui003": true,

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cgad0",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"color: blue;width: 100%; background-color: #ffffdd;\">Earlier, you told me that (insert endorsed symptoms from screener). </div>\n<div style=\"font-size: 14pt;text-decoration: underline;width: 100%; background-color: #ffffdd;\">CONTENT OF WORRY</div>\n<div style=\"color: blue;width: 100%; background-color: #ffffdd;\">I will first ask you about what you worried about during (that/these times).</div>"
+}

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpho11",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"font-size: 14pt; text-decoration: underline;display:block; width: 100%; background-color: #ffffdd;\">DISTRESS/IMPAIRMENT</div>\nPlease look at  the thermometer on this card."
+}

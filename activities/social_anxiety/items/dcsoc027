@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsoc027",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How much did having this fear upset or bother you?",
+    "schema:description": "CODE RESPONSE"
+}

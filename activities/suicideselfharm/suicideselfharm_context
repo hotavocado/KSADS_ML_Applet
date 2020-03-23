@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "suicideselfharm": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/suicideselfharm/items/",
+        "suicide_title": {
+            "@id": "suicideselfharm:suicide_title",
+            "@type": "@id"
+        },
         "dcsui001": {
             "@id": "suicideselfharm:dcsui001",
             "@type": "@id"

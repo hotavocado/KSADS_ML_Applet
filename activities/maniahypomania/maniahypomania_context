@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "maniahypomania": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/maniahypomania/items/",
+        "mania_title": {
+            "@id": "maniahypomania:mania_title",
+            "@type": "@id"
+        },
         "cman0": {
             "@id": "maniahypomania:cman0",
             "@type": "@id"

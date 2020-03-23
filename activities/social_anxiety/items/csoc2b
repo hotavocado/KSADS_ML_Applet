@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csoc2b",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Have you ever been very afraid or felt uncomfortable:"
+}

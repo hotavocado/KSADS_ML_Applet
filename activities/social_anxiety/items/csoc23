@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csoc23",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "You said that you were very afraid or uncomfortable about (list performance situations).  Which one of these things upsets you the most?"
+}

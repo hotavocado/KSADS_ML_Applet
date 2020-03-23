@@ -12,6 +12,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "screener_title",
+            "isAbout": "screener_title"
+        },
+        {
             "variableName": "cscr0",
             "isAbout": "cscr0"
         },
@@ -710,6 +714,7 @@
     ],
     "ui": {
         "order": [
+            "screener_title",
             "cscr0",
             "dcscr005",
             "dcscr006",
@@ -887,6 +892,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "screener_title": true,
             "cscr0": true,
             "dcscr005": true,
             "dcscr006": true,

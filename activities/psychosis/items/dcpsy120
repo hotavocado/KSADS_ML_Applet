@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpsy120",
-    "preamble": "Associated Conditions",
+    "preamble": "Associated Conditions: Delusions",
     "ui": {
         "allow": [
             "autoAdvance"

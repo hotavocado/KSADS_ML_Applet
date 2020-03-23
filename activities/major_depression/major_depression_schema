@@ -12,6 +12,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "depression_title",
+            "isAbout": "depression_title"
+        },
+        {
             "variableName": "cmdd0",
             "isAbout": "cmdd0"
         },
@@ -642,6 +646,7 @@
     ],
     "ui": {
         "order": [
+            "depression_title",
             "cmdd0",
             "dcmdd001",
             "dcmdd002",
@@ -802,6 +807,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "depression_title": true,
             "cmdd0": true,
             "dcmdd001": true,
             "dcmdd002": true,

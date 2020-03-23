@@ -6,7 +6,7 @@
     "skos:altLabel": "dcman090a",
     "ui": {
         "allow": [
-            " dontKnow"
+            "dontKnow"
         ],
         "inputType": "text"
     },

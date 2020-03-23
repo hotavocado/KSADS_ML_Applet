@@ -12,6 +12,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "timeline_title",
+            "isAbout": "timeline_title"
+        },
+        {
             "variableName": "dctlo005",
             "isAbout": "dctlo005"
         },
@@ -262,6 +266,7 @@
     ],
     "ui": {
         "order": [
+            "timeline_title",
             "dctlo005",
             "dctlo008",
             "dctlo009",
@@ -327,6 +332,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "timeline_title": true,
             "dctlo005": true,
             "dctlo008": true,
             "dctlo009": true,

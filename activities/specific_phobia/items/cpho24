@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpho24",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"font-size: 14pt;text-decoration: underline;width: 100%; background-color: #ffffdd;\">EPISODES/COURSE</div>"
+}

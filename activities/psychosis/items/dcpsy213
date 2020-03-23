@@ -21,9 +21,13 @@
             },
             {
                 "schema:value": 1,
-                "schema:name": "Yes| 9",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/Unknown.png"
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
             }
         ]
     }

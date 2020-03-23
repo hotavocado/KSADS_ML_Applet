@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpho10",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"font-size: 12pt;display:block; width: 100%; background-color: #ffffdd;\">1. WORST FEAR CATEGORY </div>\n<div style=\"color: purple; font-style: italic;display:block; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Do not assess multiple phobias in the same category; only the worst from each category.</div>\n<div style=\"color: blue;background-color: #ffffdd;\">I will now ask you about (your first fear listed): [dcpho036]. When you were most afraid of (your first fear): [dcpho036]: </div>  \n<div style=\"color: purple; font-style: italic;display:block; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Read responses never, sometimes, almost always after each question.</div>"
+}

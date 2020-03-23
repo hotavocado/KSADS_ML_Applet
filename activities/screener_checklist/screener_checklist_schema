@@ -12,17 +12,29 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "checklist_title",
+            "isAbout": "checklist_title"
+        },
+        {
             "variableName": "checklist_b",
             "isAbout": "checklist_b"
+        },
+        {
+            "variableName": "checklist_end",
+            "isAbout": "checklist_end"
         }
     ],
     "ui": {
         "order": [
-            "checklist_b"
+            "checklist_title",
+            "checklist_b",
+            "checklist_end"
         ],
         "shuffle": false,
         "visibility": {
-            "checklist_b": true
+            "checklist_title": true,
+            "checklist_b": true,
+            "checklist_end": true
         }
     }
 }

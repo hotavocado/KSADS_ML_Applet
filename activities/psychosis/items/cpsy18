@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How long did it last (Estimate duration and dates)?   \r\n\r\n _INTERVIEWER: please record your response like so: N mins, N hours, N days, N weeks_"
+    "question": "How long did it last (Estimate duration and dates)?   \r\n\r\n _(N mins, N hours, N days, N weeks)_"
 }

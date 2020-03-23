@@ -7,7 +7,7 @@
     "@id": "KSADS_ML_Applet_schema",
     "skos:prefLabel": "KSADS",
     "skos:altLabel": "KSADS_ML_Applet_schema",
-    "schema:description": "KSADS Interview v0.16",
+    "schema:description": "KSADS Interview v0.17",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
@@ -39,6 +39,18 @@
         {
             "variableName": "psychosis",
             "isAbout": "psychosis"
+        },
+        {
+            "variableName": "specific_phobia",
+            "isAbout": "specific_phobia"
+        },
+        {
+            "variableName": "social_anxiety",
+            "isAbout": "social_anxiety"
+        },
+        {
+            "variableName": "overanxiousgad",
+            "isAbout": "overanxiousgad"
         }
     ],
     "ui": {
@@ -49,7 +61,10 @@
             "major_depression",
             "maniahypomania",
             "suicideselfharm",
-            "psychosis"
+            "psychosis",
+            "specific_phobia",
+            "social_anxiety",
+            "overanxiousgad"
         ],
         "shuffle": false,
         "visibility": {
@@ -59,7 +74,10 @@
             "major_depression": true,
             "maniahypomania": true,
             "suicideselfharm": true,
-            "psychosis": true
+            "psychosis": true,
+            "specific_phobia": true,
+            "social_anxiety": true,
+            "overanxiousgad": true
         }
     }
 }

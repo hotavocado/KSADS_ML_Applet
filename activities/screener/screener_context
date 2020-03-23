@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "screener": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/screener/items/",
+        "screener_title": {
+            "@id": "screener:screener_title",
+            "@type": "@id"
+        },
         "cscr0": {
             "@id": "screener:cscr0",
             "@type": "@id"

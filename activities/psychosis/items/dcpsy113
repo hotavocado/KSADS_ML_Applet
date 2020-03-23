@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Probe for any other delusions_",
+    "question": "_INTERVIEWER: Probe for any other bizarre delusions_",
     "responseOptions": {
         "choices": [
             {

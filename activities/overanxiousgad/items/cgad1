@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cgad1",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Code content of worries in category below.</div>"
+}

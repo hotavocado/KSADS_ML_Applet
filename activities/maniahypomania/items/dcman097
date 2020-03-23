@@ -27,11 +27,6 @@
                 "schema:value": 9,
                 "schema:name": "Unknown",
                 "@type": "schema:option"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "N/A",
-                "@type": "schema:option"
             }
         ]
     }

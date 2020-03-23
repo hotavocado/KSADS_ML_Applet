@@ -12,6 +12,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "mania_title",
+            "isAbout": "mania_title"
+        },
+        {
             "variableName": "cman0",
             "isAbout": "cman0"
         },
@@ -630,6 +634,7 @@
     ],
     "ui": {
         "order": [
+            "mania_title",
             "cman0",
             "dcman001",
             "dcman002",
@@ -787,6 +792,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "mania_title": true,
             "cman0": true,
             "dcman001": true,
             "dcman002": true,

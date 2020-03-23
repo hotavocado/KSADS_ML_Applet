@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpho16",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"color: red; font-style: italic;display:block; width: 100%; background-color: #ffffdd;\">INTERVIEWER: If no more fears, SKIP to Episodes/Course.</div>"
+}

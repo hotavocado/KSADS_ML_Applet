@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csoc22a",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: List the worst performance fear below.  Assist the participant in choosing a situation coded with some distress or avoidance. Record the number corresponding to the social situation.</div>"
+}

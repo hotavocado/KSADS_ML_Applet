@@ -2,8 +2,16 @@
     "@context": {
         "@version": 1.1,
         "screener_checklist": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/screener_checklist/items/",
+        "checklist_title": {
+            "@id": "screener_checklist:checklist_title",
+            "@type": "@id"
+        },
         "checklist_b": {
             "@id": "screener_checklist:checklist_b",
+            "@type": "@id"
+        },
+        "checklist_end": {
+            "@id": "screener_checklist:checklist_end",
             "@type": "@id"
         }
     }

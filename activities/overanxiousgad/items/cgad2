@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cgad2",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"font-size: 14pt;text-decoration: underline;width: 100%; background-color: #ffffdd;\">SYMPTOMS</div>\n<div style=\"color: blue;width: 100%; background-color: #ffffdd;\">I just asked you about different worries that you have.  Now I will ask you if you get any physical feelings in your body when you worry.</div>"
+}

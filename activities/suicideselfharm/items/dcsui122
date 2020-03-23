@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsui122",
     "ui": {
-        "inputType": "text"
+        "inputType": "notes+G:G"
     },
     "question": "Describe (Other):"
 }

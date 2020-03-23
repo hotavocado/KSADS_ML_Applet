@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csoc2a",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "<div style=\"text-decoration: underline;display:block; width: 100%; background-color: #ffffdd;\">PERFORMANCE SITUATIONS</div>"
+}

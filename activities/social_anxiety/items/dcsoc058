@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsoc058",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many times did you miss a game or performance?",
+    "schema:description": "TIMES"
+}

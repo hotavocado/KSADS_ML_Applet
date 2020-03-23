@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/timeline/items/",
+        "timeline_title": {
+            "@id": "timeline:timeline_title",
+            "@type": "@id"
+        },
         "dctlo005": {
             "@id": "timeline:dctlo005",
             "@type": "@id"

@@ -12,6 +12,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "psychosis_title",
+            "isAbout": "psychosis_title"
+        },
+        {
             "variableName": "cpsy0",
             "isAbout": "cpsy0"
         },
@@ -268,22 +272,6 @@
             "isAbout": "cpsy51"
         },
         {
-            "variableName": "dcpsy127",
-            "isAbout": "dcpsy127"
-        },
-        {
-            "variableName": "dcpsy128",
-            "isAbout": "dcpsy128"
-        },
-        {
-            "variableName": "dcpsy129",
-            "isAbout": "dcpsy129"
-        },
-        {
-            "variableName": "dcpsy130",
-            "isAbout": "dcpsy130"
-        },
-        {
             "variableName": "dcpsy131",
             "isAbout": "dcpsy131"
         },
@@ -310,10 +298,6 @@
         {
             "variableName": "dcpsy137",
             "isAbout": "dcpsy137"
-        },
-        {
-            "variableName": "dcpsy138",
-            "isAbout": "dcpsy138"
         },
         {
             "variableName": "cpsy50",
@@ -694,6 +678,7 @@
     ],
     "ui": {
         "order": [
+            "psychosis_title",
             "cpsy0",
             "dcpsy001",
             "cpsy2",
@@ -758,10 +743,6 @@
             "dcpsy125",
             "dcpsy126",
             "cpsy51",
-            "dcpsy127",
-            "dcpsy128",
-            "dcpsy129",
-            "dcpsy130",
             "dcpsy131",
             "dcpsy132",
             "dcpsy133",
@@ -769,7 +750,6 @@
             "dcpsy135",
             "dcpsy136",
             "dcpsy137",
-            "dcpsy138",
             "cpsy50",
             "dcpsy139",
             "cpsy52",
@@ -867,6 +847,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "psychosis_title": true,
             "cpsy0": true,
             "dcpsy001": true,
             "cpsy2": true,
@@ -931,10 +912,6 @@
             "dcpsy125": true,
             "dcpsy126": true,
             "cpsy51": true,
-            "dcpsy127": true,
-            "dcpsy128": true,
-            "dcpsy129": true,
-            "dcpsy130": true,
             "dcpsy131": true,
             "dcpsy132": true,
             "dcpsy133": true,
@@ -942,7 +919,6 @@
             "dcpsy135": true,
             "dcpsy136": true,
             "dcpsy137": true,
-            "dcpsy138": true,
             "cpsy50": true,
             "dcpsy139": true,
             "cpsy52": true,

@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpho067c",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Example 3",
+    "schema:description": "EXAMPLE"
+}

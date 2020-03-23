@@ -4,14 +4,14 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "cpsy71",
-    "preamble": "Episodes/Course: Onset",
+    "preamble": "Episodes: Onset",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you always have these behaviors/feelings for as long as you can remember?",
+    "question": "Did you **always** have these behaviors/feelings for as long as you can remember?",
     "responseOptions": {
         "choices": [
             {

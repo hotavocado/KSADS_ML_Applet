@@ -29,6 +29,18 @@
         "psychosis": {
             "@id": "activity_path:psychosis/psychosis_schema",
             "@type": "@id"
+        },
+        "specific_phobia": {
+            "@id": "activity_path:specific_phobia/specific_phobia_schema",
+            "@type": "@id"
+        },
+        "social_anxiety": {
+            "@id": "activity_path:social_anxiety/social_anxiety_schema",
+            "@type": "@id"
+        },
+        "overanxiousgad": {
+            "@id": "activity_path:overanxiousgad/overanxiousgad_schema",
+            "@type": "@id"
         }
     }
 }

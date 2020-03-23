@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpho041",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Fear 3 (Code)",
+    "schema:description": "CODE RESPONSE"
+}

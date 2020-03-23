@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsoc028",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How much did the fear you told me about cause problems for you at home, at school, or with your family or friends?",
+    "schema:description": "CODE RESPONSE"
+}

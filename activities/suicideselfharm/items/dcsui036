@@ -16,19 +16,17 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "No danger (no effects",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/held pills in hand).png"
+                "schema:name": "No danger (no effects/held pills in hand)",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "Moderate (10 seconds",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/briefly unconscious).png"
+                "schema:name": "Moderate (10 seconds/briefly unconscious)",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "Severe (cut throat)",
+                "schema:name": "Severe (i.e. cut throat)",
                 "@type": "schema:option"
             },
             {

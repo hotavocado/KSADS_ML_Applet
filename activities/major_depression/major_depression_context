@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "major_depression": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/major_depression/items/",
+        "depression_title": {
+            "@id": "major_depression:depression_title",
+            "@type": "@id"
+        },
         "cmdd0": {
             "@id": "major_depression:cmdd0",
             "@type": "@id"

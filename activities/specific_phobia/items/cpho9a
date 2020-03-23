@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpho9a",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Most distressing and avoided fear(s) (animals, heights, medical, etc):"
+}

@@ -4,10 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpsy119",
-    "preamble": "Duration",
+    "preamble": "Duration: Delusions",
     "ui": {
         "inputType": "text"
     },
-    "question": "_INTERVIEWER: Estimate total duration of the period when delusions occurred (can be intermittent over this time): \r\n\r\n _please record your response like so: N days, N weeks_",
+    "question": "_INTERVIEWER: Estimate total duration of the period when delusions occurred (can be intermittent over this time):_ \r\n\r\n _(N days, N weeks)_",
     "schema:description": "WEEKS"
 }
