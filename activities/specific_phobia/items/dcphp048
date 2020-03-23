@@ -4,10 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcphp048",
+    "preamble": "Impairment",
     "ui": {
         "inputType": "select"
     },
-    "question": "How much did having this fear upset or bother you?",
+    "question": "How much have the feelings/behaviors that you have told me about caused problems for you at home, at school, or with your family or friends? ",
     "responseOptions": {
         "choices": [
             {
@@ -66,18 +67,8 @@
                 "@type": "schema:option"
             },
             {
-                "schema:value": 997,
-                "schema:name": "997",
-                "@type": "schema:option"
-            },
-            {
                 "schema:value": 998,
-                "schema:name": "998",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 999,
-                "schema:name": "999",
+                "schema:name": "Unknown ",
                 "@type": "schema:option"
             }
         ]

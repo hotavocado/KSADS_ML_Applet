@@ -7,6 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Example 2",
+    "question": "Example 2 (Things):",
     "schema:description": "EXAMPLE"
 }

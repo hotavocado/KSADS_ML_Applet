@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho010",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "9. A high staircase?",
+    "question": "9) A high staircase?",
     "responseOptions": {
         "choices": [
             {

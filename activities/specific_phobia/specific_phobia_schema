@@ -12,16 +12,12 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "specific_phobia_title",
+            "isAbout": "specific_phobia_title"
+        },
+        {
             "variableName": "cpho0",
             "isAbout": "cpho0"
-        },
-        {
-            "variableName": "cpho1",
-            "isAbout": "cpho1"
-        },
-        {
-            "variableName": "cpho2",
-            "isAbout": "cpho2"
         },
         {
             "variableName": "dcpho001",
@@ -48,10 +44,6 @@
             "isAbout": "dcpho006"
         },
         {
-            "variableName": "cpho3",
-            "isAbout": "cpho3"
-        },
-        {
             "variableName": "dcpho007",
             "isAbout": "dcpho007"
         },
@@ -76,10 +68,6 @@
             "isAbout": "dcpho012"
         },
         {
-            "variableName": "cpho4",
-            "isAbout": "cpho4"
-        },
-        {
             "variableName": "dcpho013",
             "isAbout": "dcpho013"
         },
@@ -98,10 +86,6 @@
         {
             "variableName": "dcpho017",
             "isAbout": "dcpho017"
-        },
-        {
-            "variableName": "cpho5",
-            "isAbout": "cpho5"
         },
         {
             "variableName": "dcpho018",
@@ -160,10 +144,6 @@
             "isAbout": "dcpho030"
         },
         {
-            "variableName": "cpho7",
-            "isAbout": "cpho7"
-        },
-        {
             "variableName": "dcpho031",
             "isAbout": "dcpho031"
         },
@@ -186,10 +166,6 @@
         {
             "variableName": "cpho8",
             "isAbout": "cpho8"
-        },
-        {
-            "variableName": "cpho9",
-            "isAbout": "cpho9"
         },
         {
             "variableName": "cpho9a",
@@ -218,6 +194,10 @@
         {
             "variableName": "dcpho041",
             "isAbout": "dcpho041"
+        },
+        {
+            "variableName": "dcpho_fear_number",
+            "isAbout": "dcpho_fear_number"
         },
         {
             "variableName": "cpho10",
@@ -256,14 +236,6 @@
             "isAbout": "dcpho047c"
         },
         {
-            "variableName": "cpho11",
-            "isAbout": "cpho11"
-        },
-        {
-            "variableName": "cpho12",
-            "isAbout": "cpho12"
-        },
-        {
             "variableName": "cpho13",
             "isAbout": "cpho13"
         },
@@ -276,10 +248,6 @@
             "isAbout": "dcphp048"
         },
         {
-            "variableName": "cpho15",
-            "isAbout": "cpho15"
-        },
-        {
             "variableName": "dcpho049",
             "isAbout": "dcpho049"
         },
@@ -290,10 +258,6 @@
         {
             "variableName": "dcpho051",
             "isAbout": "dcpho051"
-        },
-        {
-            "variableName": "cpho16",
-            "isAbout": "cpho16"
         },
         {
             "variableName": "cpho17",
@@ -332,24 +296,12 @@
             "isAbout": "dcpho057c"
         },
         {
-            "variableName": "cpho18a",
-            "isAbout": "cpho18a"
-        },
-        {
-            "variableName": "cpho18b",
-            "isAbout": "cpho18b"
-        },
-        {
             "variableName": "cpho18",
             "isAbout": "cpho18"
         },
         {
             "variableName": "dcpho058",
             "isAbout": "dcpho058"
-        },
-        {
-            "variableName": "cpho19",
-            "isAbout": "cpho19"
         },
         {
             "variableName": "dcpho059",
@@ -362,10 +314,6 @@
         {
             "variableName": "dcpho061",
             "isAbout": "dcpho061"
-        },
-        {
-            "variableName": "cpho20",
-            "isAbout": "cpho20"
         },
         {
             "variableName": "cpho21",
@@ -404,24 +352,12 @@
             "isAbout": "dcpho067c"
         },
         {
-            "variableName": "cpho22a",
-            "isAbout": "cpho22a"
-        },
-        {
-            "variableName": "cpho22b",
-            "isAbout": "cpho22b"
-        },
-        {
             "variableName": "cpho22",
             "isAbout": "cpho22"
         },
         {
             "variableName": "dcpho068",
             "isAbout": "dcpho068"
-        },
-        {
-            "variableName": "cpho23",
-            "isAbout": "cpho23"
         },
         {
             "variableName": "dcpho069",
@@ -436,28 +372,8 @@
             "isAbout": "dcpho071"
         },
         {
-            "variableName": "cpho24",
-            "isAbout": "cpho24"
-        },
-        {
-            "variableName": "cpho25",
-            "isAbout": "cpho25"
-        },
-        {
             "variableName": "cpho25a",
             "isAbout": "cpho25a"
-        },
-        {
-            "variableName": "dcpho072",
-            "isAbout": "dcpho072"
-        },
-        {
-            "variableName": "dcpho073",
-            "isAbout": "dcpho073"
-        },
-        {
-            "variableName": "cpho26",
-            "isAbout": "cpho26"
         },
         {
             "variableName": "dcpho074",
@@ -468,10 +384,6 @@
             "isAbout": "dcpho075"
         },
         {
-            "variableName": "cpho27",
-            "isAbout": "cpho27"
-        },
-        {
             "variableName": "dcpho076",
             "isAbout": "dcpho076"
         },
@@ -480,24 +392,8 @@
             "isAbout": "cpho27a"
         },
         {
-            "variableName": "dcpho077",
-            "isAbout": "dcpho077"
-        },
-        {
-            "variableName": "dcpho078",
-            "isAbout": "dcpho078"
-        },
-        {
-            "variableName": "dcpho079",
-            "isAbout": "dcpho079"
-        },
-        {
             "variableName": "dcpho080",
             "isAbout": "dcpho080"
-        },
-        {
-            "variableName": "cpho28",
-            "isAbout": "cpho28"
         },
         {
             "variableName": "dcpho081",
@@ -610,29 +506,25 @@
     ],
     "ui": {
         "order": [
+            "specific_phobia_title",
             "cpho0",
-            "cpho1",
-            "cpho2",
             "dcpho001",
             "dcpho002",
             "dcpho003",
             "dcpho004",
             "dcpho005",
             "dcpho006",
-            "cpho3",
             "dcpho007",
             "dcpho008",
             "dcpho009",
             "dcpho010",
             "dcpho011",
             "dcpho012",
-            "cpho4",
             "dcpho013",
             "dcpho014",
             "dcpho015",
             "dcpho016",
             "dcpho017",
-            "cpho5",
             "dcpho018",
             "dcpho019",
             "dcpho020",
@@ -647,14 +539,12 @@
             "dcpho028",
             "dcpho029",
             "dcpho030",
-            "cpho7",
             "dcpho031",
             "dcpho032",
             "dcpho033",
             "dcpho034",
             "dcpho035",
             "cpho8",
-            "cpho9",
             "cpho9a",
             "dcpho036",
             "dcpho037",
@@ -662,6 +552,7 @@
             "dcpho039",
             "dcpho040",
             "dcpho041",
+            "dcpho_fear_number",
             "cpho10",
             "dcpho042",
             "dcpho043",
@@ -671,16 +562,12 @@
             "dcpho047a",
             "dcpho047b",
             "dcpho047c",
-            "cpho11",
-            "cpho12",
             "cpho13",
             "cpho14",
             "dcphp048",
-            "cpho15",
             "dcpho049",
             "dcpho050",
             "dcpho051",
-            "cpho16",
             "cpho17",
             "dcpho052",
             "dcpho053",
@@ -690,15 +577,11 @@
             "dcpho057a",
             "dcpho057b",
             "dcpho057c",
-            "cpho18a",
-            "cpho18b",
             "cpho18",
             "dcpho058",
-            "cpho19",
             "dcpho059",
             "dcpho060",
             "dcpho061",
-            "cpho20",
             "cpho21",
             "dcpho062",
             "dcpho063",
@@ -708,30 +591,17 @@
             "dcpho067a",
             "dcpho067b",
             "dcpho067c",
-            "cpho22a",
-            "cpho22b",
             "cpho22",
             "dcpho068",
-            "cpho23",
             "dcpho069",
             "dcpho070",
             "dcpho071",
-            "cpho24",
-            "cpho25",
             "cpho25a",
-            "dcpho072",
-            "dcpho073",
-            "cpho26",
             "dcpho074",
             "dcpho075",
-            "cpho27",
             "dcpho076",
             "cpho27a",
-            "dcpho077",
-            "dcpho078",
-            "dcpho079",
             "dcpho080",
-            "cpho28",
             "dcpho081",
             "dcpho082",
             "cpho29a",
@@ -762,29 +632,25 @@
         ],
         "shuffle": false,
         "visibility": {
+            "specific_phobia_title": true,
             "cpho0": true,
-            "cpho1": true,
-            "cpho2": true,
             "dcpho001": true,
             "dcpho002": true,
             "dcpho003": true,
             "dcpho004": true,
             "dcpho005": true,
             "dcpho006": "dcpho005 == 1",
-            "cpho3": true,
             "dcpho007": true,
             "dcpho008": true,
             "dcpho009": true,
             "dcpho010": true,
             "dcpho011": true,
             "dcpho012": "dcpho011 == 1",
-            "cpho4": true,
             "dcpho013": true,
             "dcpho014": true,
             "dcpho015": true,
             "dcpho016": true,
             "dcpho017": "dcpho016 == 1",
-            "cpho5": true,
             "dcpho018": true,
             "dcpho019": true,
             "dcpho020": true,
@@ -799,14 +665,12 @@
             "dcpho028": "dcpho027 == 1",
             "dcpho029": true,
             "dcpho030": true,
-            "cpho7": true,
             "dcpho031": true,
             "dcpho032": true,
             "dcpho033": true,
             "dcpho034": true,
             "dcpho035": "dcpho034 == 1",
             "cpho8": "dcpho001 == 0 && dcpho002 == 0 &&  dcpho003 == 0 &&  dcpho004 == 0 && dcpho005 == 0 && dcpho007 == 0 && dcpho008 == 0 && dcpho009 == 0 && dcpho010 == 0 && dcpho011 == 0  && dcpho013 == 0 && dcpho014 == 0 && dcpho015 == 0 && dcpho016 == 0 && dcpho018 == 0 && dcpho019 == 0 && dcpho020 == 0 && dcpho021 == 0 && dcpho023 == 0 && dcpho024 == 0 && dcpho025 == 0 && dcpho026 == 0 && dcpho027 == 0 && dcpho029 == 0 && dcpho030 == 0 && dcpho031 == 0 && dcpho032 == 0 && dcpho033 == 0 && dcpho034 == 0",
-            "cpho9": true,
             "cpho9a": true,
             "dcpho036": true,
             "dcpho037": true,
@@ -814,76 +678,56 @@
             "dcpho039": true,
             "dcpho040": true,
             "dcpho041": true,
+            "dcpho_fear_number": true,
             "cpho10": true,
             "dcpho042": true,
             "dcpho043": true,
             "dcpho044": true,
             "dcpho045": true,
             "dcpho046": true,
-            "dcpho047a": "dcpho046 == 1",
-            "dcpho047b": "dcpho046 == 1",
-            "dcpho047c": "dcpho046 == 1",
-            "cpho11": true,
-            "cpho12": true,
+            "dcpho047a": true,
+            "dcpho047b": true,
+            "dcpho047c": true,
             "cpho13": true,
             "cpho14": true,
             "dcphp048": true,
-            "cpho15": true,
             "dcpho049": true,
             "dcpho050": true,
-            "dcpho051": "dcpho050 == 1",
-            "cpho16": true,
+            "dcpho051": true,
             "cpho17": true,
             "dcpho052": true,
             "dcpho053": true,
             "dcpho054": true,
             "dcpho055": true,
             "dcpho056": true,
-            "dcpho057a": "dcpho056 == 1",
-            "dcpho057b": "dcpho056 == 1",
-            "dcpho057c": "dcpho056 == 1",
-            "cpho18a": true,
-            "cpho18b": true,
+            "dcpho057a": true,
+            "dcpho057b": true,
+            "dcpho057c": true,
             "cpho18": true,
             "dcpho058": true,
-            "cpho19": true,
             "dcpho059": true,
             "dcpho060": true,
-            "dcpho061": "dcpho060 == 1",
-            "cpho20": true,
+            "dcpho061": true,
             "cpho21": true,
             "dcpho062": true,
             "dcpho063": true,
             "dcpho064": true,
             "dcpho065": true,
             "dcpho066": true,
-            "dcpho067a": "dcpho066 == 1",
-            "dcpho067b": "dcpho066 == 1",
-            "dcpho067c": "dcpho066 == 1",
-            "cpho22a": true,
-            "cpho22b": true,
+            "dcpho067a": true,
+            "dcpho067b": true,
+            "dcpho067c": true,
             "cpho22": true,
             "dcpho068": true,
-            "cpho23": true,
             "dcpho069": true,
             "dcpho070": true,
-            "dcpho071": "dcpho070 == 1",
-            "cpho24": true,
-            "cpho25": true,
+            "dcpho071": true,
             "cpho25a": true,
-            "dcpho072": true,
-            "dcpho073": true,
-            "cpho26": true,
             "dcpho074": true,
-            "dcpho075": "dcpho074 == 0",
-            "cpho27": true,
+            "dcpho075": true,
             "dcpho076": true,
-            "cpho27a": "dcpho076 == 1",
-            "dcpho077": "dcpho076 == 1",
-            "dcpho078": "dcpho076 == 1",
-            "dcpho079": "dcpho076 == 1",
+            "cpho27a": true,
             "dcpho080": true,
-            "cpho28": true,
             "dcpho081": true,
             "dcpho082": true,
             "cpho29a": true,

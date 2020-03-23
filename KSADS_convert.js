@@ -14,7 +14,7 @@ const branchName = 'master'
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 
 //3. add a description to your protocol
-let protocolDescription = "KSADS Interview v0.17"
+let protocolDescription = "KSADS Interview v0.18"
 
 //4. where are you hosting your images?
 let imagePath = 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'

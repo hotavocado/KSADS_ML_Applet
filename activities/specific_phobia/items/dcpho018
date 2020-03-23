@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho018",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "15. Going to the doctor or dentist?",
+    "question": "Have you ever felt very afraid of: \r\n\r\n 15) Going to the doctor or dentist?",
     "responseOptions": {
         "choices": [
             {

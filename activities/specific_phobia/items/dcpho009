@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho009",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "8. A roof?",
+    "question": "8) A roof?",
     "responseOptions": {
         "choices": [
             {

@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho020",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "17. Seeing blood from a cut or scrape?",
+    "question": "17) Seeing blood from a cut or scrape?",
     "responseOptions": {
         "choices": [
             {

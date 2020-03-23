@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho007",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "6. A really high building?",
+    "question": "\nHave you ever been really afraid of being high up or in a high place like: \r\n\r\n 6) A really high building?",
     "responseOptions": {
         "choices": [
             {

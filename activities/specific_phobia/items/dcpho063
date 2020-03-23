@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho063",
+    "preamble": "Worst Fear 3",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did facing (fear) almost always make you feel scared (e.g. feeling nervous inside, crying, throwing a tantrum or needing to be near your parents)?",
@@ -12,12 +16,17 @@
         "choices": [
             {
                 "schema:value": 0,
-                "schema:name": "No",
+                "schema:name": "Never",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 1,
-                "schema:name": "Yes",
+                "schema:name": "Sometimes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Almost always",
                 "@type": "schema:option"
             },
             {

@@ -4,9 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho047a",
+    "preamble": "Worst Fear 1",
     "ui": {
+        "allow": [
+            "dontKnow"
+        ],
         "inputType": "text"
     },
-    "question": "Example 1",
+    "question": "Example 1 (Things):",
     "schema:description": "EXAMPLE"
 }

@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho074",
+    "preamble": "Episodes: Offset",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Are you still afraid of [insert fear]?",

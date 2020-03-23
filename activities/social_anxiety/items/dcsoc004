@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc004",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "4. Being with a small group of people your own age, like at a small party or a small class at school?",
+    "question": "4) Being with a small group of people your own age, like at a small party or a small class at school?",
     "responseOptions": {
         "choices": [
             {

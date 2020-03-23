@@ -4,10 +4,14 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc008",
+    "preamble": "Performance Situations",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "8. Speaking in class when a teacher calls on you?",
+    "question": "Have you ever been very afraid or felt uncomfortable: \r\n\r\n 8) Speaking in class when a teacher calls on you?",
     "responseOptions": {
         "choices": [
             {

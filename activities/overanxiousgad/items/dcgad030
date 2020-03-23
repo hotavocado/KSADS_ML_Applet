@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcgad030",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Feel more grouchy, irritable, or bothered even by little things?",

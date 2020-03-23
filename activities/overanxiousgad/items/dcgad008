@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcgad008",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "When you were uncomfortable with a situation, did you ask a lot of questions of your parents to try to make yourself feel better?",

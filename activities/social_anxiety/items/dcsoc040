@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc040",
+    "preamble": "Episodes: Course",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Since you were (age of onset), was there ever a time when you were not afraid of (social situation)?",

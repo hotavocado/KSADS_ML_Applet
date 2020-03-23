@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc033",
+    "preamble": "Associated Conditions: Medical",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Was your fear related to being embarrassed by a physical problem like stuttering or acne or eating problems? ",
@@ -18,11 +22,6 @@
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "N/A",
                 "@type": "schema:option"
             },
             {

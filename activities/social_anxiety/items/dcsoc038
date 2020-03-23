@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc038",
+    "preamble": "Episodes: Offset",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Are you still afraid of (social situation listed)?",

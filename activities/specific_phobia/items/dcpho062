@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho062",
+    "preamble": "Worst Fear 3",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "When you knew you had to (or had to do) (fear), did you become very nervous, scared, upset?",
@@ -12,12 +16,17 @@
         "choices": [
             {
                 "schema:value": 0,
-                "schema:name": "No",
+                "schema:name": "Never",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 1,
-                "schema:name": "Yes",
+                "schema:name": "Sometimes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Almost always",
                 "@type": "schema:option"
             },
             {

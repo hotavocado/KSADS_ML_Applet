@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcgad018",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Was it hard for you to stop yourself from worrying about this/these thing(s)? <div style=\"color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Code yes if difficult to stop worrying about at least one of these things.)</div>",
+    "question": "Was it hard for you to stop yourself from worrying about this/these thing(s)? \r\n\r\n _INTERVIEWER: Code \"Yes\" if difficult to stop worrying about at least one of these things_",
     "responseOptions": {
         "choices": [
             {

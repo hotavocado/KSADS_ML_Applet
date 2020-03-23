@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcgad035",
+    "preamble": "Associated Conditions (Episode): Alcohol and Drugs",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you have these worries only when you were using alcohol or drugs?",

@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "csoc8a",
+    "preamble": "Social Fear Category",
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: List the worst social fear below.  Assist the participant in choosing a situation coded with some distress or avoidance. Record the number corresponding to the social situation.</div>"
+    "question": "_INTERVIEWER: List the worst social fear on the next screen. Assist the participant in choosing a situation coded with some distress or avoidance. Record the number corresponding to the social situation._ \r\n\r\n You said that you were very afraid or uncomfortable about (list social situations). Which one of these things upsets you the most? \r\n\r\n Refer to Participant Card 3: Social/Performance."
 }

@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "<div style=\"color: blue;width: 100%; background-color: #ffffdd;\">Earlier you said that you were very afraid of (list endorsed fears).  I'd like to ask you more about (that/those).</div>\n<div style=\"font-size: 14pt;text-decoration: underline;width: 100%; background-color: #ffffdd;\">SYMPTOMS</div>\n<div style=\"  color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER:  For each of the fears endorsed, ask about Frequency, Distress and Avoidance using the questions and response choices below. If fear is not current, ask about worst time.</div>\n<div style=\"color: purple; font-style: italic;display:block; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Refer to card/picture.</div>\n"
+    "question": "Earlier you said that you were very afraid of (list endorsed fears). I'd like to ask you more about (that/those).  \r\n\r\n _INTERVIEWER: For each of the fears endorsed, ask about Frequency, Distress and Avoidance using the questions and response choices below. If fear is not current, ask about worst time. \r\n\r\n Refer to Participant Card 2._"
 }

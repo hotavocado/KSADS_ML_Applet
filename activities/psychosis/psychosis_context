@@ -486,10 +486,6 @@
             "@id": "psychosis:dcpsy185",
             "@type": "@id"
         },
-        "cpsy71": {
-            "@id": "psychosis:cpsy71",
-            "@type": "@id"
-        },
         "dcpsy186": {
             "@id": "psychosis:dcpsy186",
             "@type": "@id"

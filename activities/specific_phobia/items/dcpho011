@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho011",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "10. Other situations involving high places or being high up? ",
+    "question": "10) Other situations involving high places or being high up? ",
     "responseOptions": {
         "choices": [
             {

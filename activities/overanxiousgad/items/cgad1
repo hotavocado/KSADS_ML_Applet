@@ -4,8 +4,58 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "cgad1",
-    "ui": {
-        "inputType": "markdown-message"
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "Being on time/keeping schedules",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Perfectionism/never making mistakes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Being on time/keeping schedules",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "Perfectionism/never making mistakes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "Health of self",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "Health of others",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "Family situations (divorce/finances/etc)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "Things going on in the world (war/terrorism/crime/floods/tornadoes/etc)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "Other",
+                "@type": "schema:option"
+            }
+        ]
     },
-    "question": "<div style=\"color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Code content of worries in category below.</div>"
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: Code content of worries in categories below._"
 }

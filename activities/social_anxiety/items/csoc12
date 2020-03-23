@@ -4,8 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "csoc12",
+    "preamble": "Distress/Impairment ",
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "<div style=\"font-size: 12pt;display:block; width: 100%; background-color: #ffffdd; \">DISTRESS </div>"
+    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary._"
 }

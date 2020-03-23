@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho026",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "22. Caves?",
+    "question": "22) Caves?",
     "responseOptions": {
         "choices": [
             {

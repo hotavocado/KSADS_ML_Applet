@@ -4,10 +4,14 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc001",
+    "preamble": "Social Situations",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "1. Meeting new people your own age?",
+    "question": "Have you ever been very afraid or felt uncomfortable: \r\n\r\n 1) Meeting new people your own age?",
     "responseOptions": {
         "choices": [
             {

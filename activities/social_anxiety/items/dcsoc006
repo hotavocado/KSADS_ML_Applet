@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc006",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "6. Talking on the telephone?",
+    "question": "6) Talking on the telephone?",
     "responseOptions": {
         "choices": [
             {

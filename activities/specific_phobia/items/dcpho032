@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho032",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "27. People in costume?",
+    "question": "27) People in costume?",
     "responseOptions": {
         "choices": [
             {

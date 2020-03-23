@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc015",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "You'd be the center of attention?",
@@ -18,11 +21,6 @@
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "N/A",
                 "@type": "schema:option"
             },
             {

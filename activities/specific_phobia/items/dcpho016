@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho016",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "14. Other situations involving water or weather?",
+    "question": "14) Other situations involving water or weather?",
     "responseOptions": {
         "choices": [
             {

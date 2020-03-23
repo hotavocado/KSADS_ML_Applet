@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "overanxiousgad": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/overanxiousgad/items/",
+        "gad_title": {
+            "@id": "overanxiousgad:gad_title",
+            "@type": "@id"
+        },
         "cgad0": {
             "@id": "overanxiousgad:cgad0",
             "@type": "@id"
@@ -46,34 +50,6 @@
             "@id": "overanxiousgad:cgad1",
             "@type": "@id"
         },
-        "dcgad010": {
-            "@id": "overanxiousgad:dcgad010",
-            "@type": "@id"
-        },
-        "dcgad011": {
-            "@id": "overanxiousgad:dcgad011",
-            "@type": "@id"
-        },
-        "dcgad012": {
-            "@id": "overanxiousgad:dcgad012",
-            "@type": "@id"
-        },
-        "dcgad013": {
-            "@id": "overanxiousgad:dcgad013",
-            "@type": "@id"
-        },
-        "dcgad014": {
-            "@id": "overanxiousgad:dcgad014",
-            "@type": "@id"
-        },
-        "dcgad015": {
-            "@id": "overanxiousgad:dcgad015",
-            "@type": "@id"
-        },
-        "dcgad016": {
-            "@id": "overanxiousgad:dcgad016",
-            "@type": "@id"
-        },
         "dcgad017": {
             "@id": "overanxiousgad:dcgad017",
             "@type": "@id"
@@ -100,10 +76,6 @@
         },
         "cgad2": {
             "@id": "overanxiousgad:cgad2",
-            "@type": "@id"
-        },
-        "cgad3": {
-            "@id": "overanxiousgad:cgad3",
             "@type": "@id"
         },
         "dcgad023": {
@@ -154,16 +126,8 @@
             "@id": "overanxiousgad:dcgad034",
             "@type": "@id"
         },
-        "cgad4": {
-            "@id": "overanxiousgad:cgad4",
-            "@type": "@id"
-        },
         "dcgad035": {
             "@id": "overanxiousgad:dcgad035",
-            "@type": "@id"
-        },
-        "cgad4a": {
-            "@id": "overanxiousgad:cgad4a",
             "@type": "@id"
         },
         "dcgad036": {
@@ -190,24 +154,12 @@
             "@id": "overanxiousgad:dcgad041",
             "@type": "@id"
         },
-        "cgad5": {
-            "@id": "overanxiousgad:cgad5",
-            "@type": "@id"
-        },
-        "cgad6": {
-            "@id": "overanxiousgad:cgad6",
-            "@type": "@id"
-        },
         "cgad7": {
             "@id": "overanxiousgad:cgad7",
             "@type": "@id"
         },
         "dcgad042": {
             "@id": "overanxiousgad:dcgad042",
-            "@type": "@id"
-        },
-        "cgad8": {
-            "@id": "overanxiousgad:cgad8",
             "@type": "@id"
         },
         "dcgad043": {
@@ -222,28 +174,8 @@
             "@id": "overanxiousgad:dcgad045",
             "@type": "@id"
         },
-        "cgad9": {
-            "@id": "overanxiousgad:cgad9",
-            "@type": "@id"
-        },
-        "cgad10": {
-            "@id": "overanxiousgad:cgad10",
-            "@type": "@id"
-        },
-        "cgad11": {
-            "@id": "overanxiousgad:cgad11",
-            "@type": "@id"
-        },
-        "dcgad046": {
-            "@id": "overanxiousgad:dcgad046",
-            "@type": "@id"
-        },
         "dcgad047": {
             "@id": "overanxiousgad:dcgad047",
-            "@type": "@id"
-        },
-        "cgad12": {
-            "@id": "overanxiousgad:cgad12",
             "@type": "@id"
         },
         "dcgad048": {
@@ -254,32 +186,12 @@
             "@id": "overanxiousgad:dcgad049",
             "@type": "@id"
         },
-        "cgad13": {
-            "@id": "overanxiousgad:cgad13",
-            "@type": "@id"
-        },
         "dcgad050": {
             "@id": "overanxiousgad:dcgad050",
             "@type": "@id"
         },
         "cgad14": {
             "@id": "overanxiousgad:cgad14",
-            "@type": "@id"
-        },
-        "dcgad051": {
-            "@id": "overanxiousgad:dcgad051",
-            "@type": "@id"
-        },
-        "dcgad052": {
-            "@id": "overanxiousgad:dcgad052",
-            "@type": "@id"
-        },
-        "dcgad053": {
-            "@id": "overanxiousgad:dcgad053",
-            "@type": "@id"
-        },
-        "cgad15": {
-            "@id": "overanxiousgad:cgad15",
             "@type": "@id"
         },
         "dcgad054": {

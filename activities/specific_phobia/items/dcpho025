@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho025",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "21. Tunnels?",
+    "question": "21) Tunnels?",
     "responseOptions": {
         "choices": [
             {

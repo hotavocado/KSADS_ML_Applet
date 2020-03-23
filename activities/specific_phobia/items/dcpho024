@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho024",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "20. Closets?",
+    "question": "20) Closets?",
     "responseOptions": {
         "choices": [
             {

@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho004",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "4. Bees?",
+    "question": "4) Bees?",
     "responseOptions": {
         "choices": [
             {

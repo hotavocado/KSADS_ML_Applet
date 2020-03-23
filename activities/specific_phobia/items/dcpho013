@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho013",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "11. Swimming pools, lakes, or ocean?",
+    "question": "Have you ever felt really afraid of water, situations involving water, or weather, like: \r\n\r\n 11) Swimming pools, lakes, or ocean?",
     "responseOptions": {
         "choices": [
             {

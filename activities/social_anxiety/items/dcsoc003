@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc003",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "3. Being with a large group of people your own age, like at a big party or in the lunchroom at school?",
+    "question": "3) Being with a large group of people your own age, like at a big party or in the lunchroom at school?",
     "responseOptions": {
         "choices": [
             {

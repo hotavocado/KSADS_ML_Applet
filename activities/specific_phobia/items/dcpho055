@@ -4,7 +4,11 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho055",
+    "preamble": "Worst Fear 2",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Was (fear) so upsetting that you tried to stay away from it?",
@@ -12,12 +16,17 @@
         "choices": [
             {
                 "schema:value": 0,
-                "schema:name": "No",
+                "schema:name": "Never",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 1,
-                "schema:name": "Yes",
+                "schema:name": "Sometimes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Almost always",
                 "@type": "schema:option"
             },
             {

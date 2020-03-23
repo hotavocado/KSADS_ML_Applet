@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho014",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "12. Storms?",
+    "question": "12) Storms?",
     "responseOptions": {
         "choices": [
             {

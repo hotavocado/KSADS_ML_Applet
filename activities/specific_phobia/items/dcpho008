@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho008",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "7. A high balcony?",
+    "question": "7) A high balcony?",
     "responseOptions": {
         "choices": [
             {

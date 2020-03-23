@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "csoc5",
+    "preamble": "Nature of Fear",
     "ui": {
         "inputType": "markdown-message"
     },

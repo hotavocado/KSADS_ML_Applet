@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho023",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "19. Elevators?",
+    "question": "Have you ever been really afraid of closed spaces like: \r\n\r\n 19) Elevators?",
     "responseOptions": {
         "choices": [
             {

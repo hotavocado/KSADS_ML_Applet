@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc011",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": " 11. Taking an important test or exam even though you studied enough?       ",
+    "question": "11) Taking an important test or exam even though you studied enough?       ",
     "responseOptions": {
         "choices": [
             {

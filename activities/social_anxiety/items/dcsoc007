@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc007",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "7. Talking with people your own age who you don't know very well?",
+    "question": "7) Talking with people your own age who you don't know very well?",
     "responseOptions": {
         "choices": [
             {

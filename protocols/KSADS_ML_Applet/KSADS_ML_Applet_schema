@@ -7,7 +7,7 @@
     "@id": "KSADS_ML_Applet_schema",
     "skos:prefLabel": "KSADS",
     "skos:altLabel": "KSADS_ML_Applet_schema",
-    "schema:description": "KSADS Interview v0.17",
+    "schema:description": "KSADS Interview v0.18",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",

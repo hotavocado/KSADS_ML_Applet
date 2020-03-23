@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "social_anx_title",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "## Social Anxiety"
+}

@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho015",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "13. Thunder or lightning?",
+    "question": "13) Thunder or lightning?",
     "responseOptions": {
         "choices": [
             {

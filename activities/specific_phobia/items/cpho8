@@ -5,7 +5,19 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "cpho8",
     "ui": {
-        "inputType": "markdown-message"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "<div style=\" color: red; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: If no to all, END Specific Phobia section.</div>"
+    "question": "_INTERVIEWER: The participant did not endorse any fears. End **Specific Phobia** Section._",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "End Section",
+                "@type": "schema:option"
+            }
+        ]
+    }
 }

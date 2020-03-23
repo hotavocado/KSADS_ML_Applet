@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc034",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Did you have this fear only when you had a serious physical problem/ illness?",
+    "question": "Did you have this fear only when you had a serious physical problem/illness?",
     "responseOptions": {
         "choices": [
             {
@@ -18,11 +21,6 @@
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "N/A",
                 "@type": "schema:option"
             },
             {

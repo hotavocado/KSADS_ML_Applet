@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc021",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Were you much more scared of (insert situation) than other kids/teenagers your age?",
+    "question": "When you were most afraid of (social situations):  \r\n\r\n Were you much more scared of (insert situation) than other kids/teenagers your age?",
     "responseOptions": {
         "choices": [
             {

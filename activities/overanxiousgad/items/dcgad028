@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcgad028",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Have trouble keeping your mind on things? <div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\"> (Probe: Were you so nervous you couldn't concentrate?)</div>",
+    "question": "Have trouble keeping your mind on things? \r\n\r\n _(Probe: Were you so nervous you couldn't concentrate?)_",
     "responseOptions": {
         "choices": [
             {

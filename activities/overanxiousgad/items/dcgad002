@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcgad002",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you worry a lot about little things you've done in the past? (For example, did you worry about how well you behaved or whether you said or did the right thing?)                                                               ",

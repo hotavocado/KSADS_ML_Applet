@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc054",
+    "preamble": "Impairment",
     "ui": {
         "inputType": "select"
     },
@@ -66,18 +67,8 @@
                 "@type": "schema:option"
             },
             {
-                "schema:value": 997,
-                "schema:name": "997",
-                "@type": "schema:option"
-            },
-            {
                 "schema:value": 998,
-                "schema:name": "998",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 999,
-                "schema:name": "999",
+                "schema:name": "Unknown ",
                 "@type": "schema:option"
             }
         ]

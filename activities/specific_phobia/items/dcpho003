@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho003",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "3. Spiders?",
+    "question": "3) Spiders?",
     "responseOptions": {
         "choices": [
             {

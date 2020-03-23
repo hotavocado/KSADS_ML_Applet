@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcgad001",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you worry a lot about things before they happened? (For example, did you worry about starting school in the fall, taking a test, or going to see a doctor?)",

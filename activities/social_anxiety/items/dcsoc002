@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc002",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "2. Talking to adults in authority, like teachers or coaches?",
+    "question": "2) Talking to adults in authority, like teachers or coaches?",
     "responseOptions": {
         "choices": [
             {

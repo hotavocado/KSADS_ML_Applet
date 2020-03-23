@@ -5,12 +5,16 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "overanxiousgad_schema",
-    "skos:prefLabel": "General Anxiety",
+    "skos:prefLabel": "Generalized Anxiety",
     "skos:altLabel": "overanxiousgad_schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
     "variableMap": [
+        {
+            "variableName": "gad_title",
+            "isAbout": "gad_title"
+        },
         {
             "variableName": "cgad0",
             "isAbout": "cgad0"
@@ -56,34 +60,6 @@
             "isAbout": "cgad1"
         },
         {
-            "variableName": "dcgad010",
-            "isAbout": "dcgad010"
-        },
-        {
-            "variableName": "dcgad011",
-            "isAbout": "dcgad011"
-        },
-        {
-            "variableName": "dcgad012",
-            "isAbout": "dcgad012"
-        },
-        {
-            "variableName": "dcgad013",
-            "isAbout": "dcgad013"
-        },
-        {
-            "variableName": "dcgad014",
-            "isAbout": "dcgad014"
-        },
-        {
-            "variableName": "dcgad015",
-            "isAbout": "dcgad015"
-        },
-        {
-            "variableName": "dcgad016",
-            "isAbout": "dcgad016"
-        },
-        {
             "variableName": "dcgad017",
             "isAbout": "dcgad017"
         },
@@ -110,10 +86,6 @@
         {
             "variableName": "cgad2",
             "isAbout": "cgad2"
-        },
-        {
-            "variableName": "cgad3",
-            "isAbout": "cgad3"
         },
         {
             "variableName": "dcgad023",
@@ -164,16 +136,8 @@
             "isAbout": "dcgad034"
         },
         {
-            "variableName": "cgad4",
-            "isAbout": "cgad4"
-        },
-        {
             "variableName": "dcgad035",
             "isAbout": "dcgad035"
-        },
-        {
-            "variableName": "cgad4a",
-            "isAbout": "cgad4a"
         },
         {
             "variableName": "dcgad036",
@@ -200,24 +164,12 @@
             "isAbout": "dcgad041"
         },
         {
-            "variableName": "cgad5",
-            "isAbout": "cgad5"
-        },
-        {
-            "variableName": "cgad6",
-            "isAbout": "cgad6"
-        },
-        {
             "variableName": "cgad7",
             "isAbout": "cgad7"
         },
         {
             "variableName": "dcgad042",
             "isAbout": "dcgad042"
-        },
-        {
-            "variableName": "cgad8",
-            "isAbout": "cgad8"
         },
         {
             "variableName": "dcgad043",
@@ -232,28 +184,8 @@
             "isAbout": "dcgad045"
         },
         {
-            "variableName": "cgad9",
-            "isAbout": "cgad9"
-        },
-        {
-            "variableName": "cgad10",
-            "isAbout": "cgad10"
-        },
-        {
-            "variableName": "cgad11",
-            "isAbout": "cgad11"
-        },
-        {
-            "variableName": "dcgad046",
-            "isAbout": "dcgad046"
-        },
-        {
             "variableName": "dcgad047",
             "isAbout": "dcgad047"
-        },
-        {
-            "variableName": "cgad12",
-            "isAbout": "cgad12"
         },
         {
             "variableName": "dcgad048",
@@ -264,32 +196,12 @@
             "isAbout": "dcgad049"
         },
         {
-            "variableName": "cgad13",
-            "isAbout": "cgad13"
-        },
-        {
             "variableName": "dcgad050",
             "isAbout": "dcgad050"
         },
         {
             "variableName": "cgad14",
             "isAbout": "cgad14"
-        },
-        {
-            "variableName": "dcgad051",
-            "isAbout": "dcgad051"
-        },
-        {
-            "variableName": "dcgad052",
-            "isAbout": "dcgad052"
-        },
-        {
-            "variableName": "dcgad053",
-            "isAbout": "dcgad053"
-        },
-        {
-            "variableName": "cgad15",
-            "isAbout": "cgad15"
         },
         {
             "variableName": "dcgad054",
@@ -402,6 +314,7 @@
     ],
     "ui": {
         "order": [
+            "gad_title",
             "cgad0",
             "dcgad001",
             "dcgad002",
@@ -413,13 +326,6 @@
             "dcgad008",
             "dcgad009",
             "cgad1",
-            "dcgad010",
-            "dcgad011",
-            "dcgad012",
-            "dcgad013",
-            "dcgad014",
-            "dcgad015",
-            "dcgad016",
             "dcgad017",
             "dcgad018",
             "dcgad019",
@@ -427,7 +333,6 @@
             "dcgad021",
             "dcgad022",
             "cgad2",
-            "cgad3",
             "dcgad023",
             "dcgad024",
             "dcgad025",
@@ -440,38 +345,23 @@
             "dcgad032",
             "dcgad033",
             "dcgad034",
-            "cgad4",
             "dcgad035",
-            "cgad4a",
             "dcgad036",
             "dcgad037",
             "dcgad038",
             "dcgad039",
             "dcgad040",
             "dcgad041",
-            "cgad5",
-            "cgad6",
             "cgad7",
             "dcgad042",
-            "cgad8",
             "dcgad043",
             "dcgad044",
             "dcgad045",
-            "cgad9",
-            "cgad10",
-            "cgad11",
-            "dcgad046",
             "dcgad047",
-            "cgad12",
             "dcgad048",
             "dcgad049",
-            "cgad13",
             "dcgad050",
             "cgad14",
-            "dcgad051",
-            "dcgad052",
-            "dcgad053",
-            "cgad15",
             "dcgad054",
             "dcgad055",
             "cgad17",
@@ -502,6 +392,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "gad_title": true,
             "cgad0": true,
             "dcgad001": true,
             "dcgad002": true,
@@ -513,21 +404,13 @@
             "dcgad008": true,
             "dcgad009": true,
             "cgad1": true,
-            "dcgad010": true,
-            "dcgad011": true,
-            "dcgad012": true,
-            "dcgad013": true,
-            "dcgad014": true,
-            "dcgad015": true,
-            "dcgad016": true,
-            "dcgad017": "dcgad016 == 1",
+            "dcgad017": true,
             "dcgad018": true,
             "dcgad019": true,
             "dcgad020": true,
             "dcgad021": true,
-            "dcgad022": "dcgad021 == 1",
+            "dcgad022": true,
             "cgad2": true,
-            "cgad3": true,
             "dcgad023": true,
             "dcgad024": true,
             "dcgad025": true,
@@ -539,39 +422,24 @@
             "dcgad031": true,
             "dcgad032": true,
             "dcgad033": true,
-            "dcgad034": "dcgad023 == 1 || dcgad024 == 1 || dcgad025 == 1 || dcgad026 == 1 || dcgad027 == 1 || dcgad028 == 1 || dcgad029 == 1 || dcgad030 == 1 || dcgad031 == 1 || dcgad032 == 1 || dcgad033 == 1 ",
-            "cgad4": true,
+            "dcgad034": true,
             "dcgad035": true,
-            "cgad4a": true,
             "dcgad036": true,
-            "dcgad037": "dcgad036 == 1",
+            "dcgad037": true,
             "dcgad038": true,
-            "dcgad039": "dcgad038 == 1",
-            "dcgad040": "dcgad038 == 1",
-            "dcgad041": "dcgad038 == 1",
-            "cgad5": true,
-            "cgad6": true,
+            "dcgad039": true,
+            "dcgad040": true,
+            "dcgad041": true,
             "cgad7": true,
             "dcgad042": true,
-            "cgad8": true,
             "dcgad043": true,
             "dcgad044": true,
-            "dcgad045": "dcgad044 == 1",
-            "cgad9": true,
-            "cgad10": true,
-            "cgad11": true,
-            "dcgad046": true,
+            "dcgad045": true,
             "dcgad047": true,
-            "cgad12": true,
             "dcgad048": true,
-            "dcgad049": "dcgad048 == 0",
-            "cgad13": true,
+            "dcgad049": true,
             "dcgad050": true,
-            "cgad14": "dcgad050 == 1",
-            "dcgad051": "dcgad050 == 1",
-            "dcgad052": "dcgad050 == 1",
-            "dcgad053": "dcgad050 == 1",
-            "cgad15": true,
+            "cgad14": true,
             "dcgad054": true,
             "dcgad055": true,
             "cgad17": true,

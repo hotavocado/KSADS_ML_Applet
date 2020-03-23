@@ -496,10 +496,6 @@
             "isAbout": "dcpsy185"
         },
         {
-            "variableName": "cpsy71",
-            "isAbout": "cpsy71"
-        },
-        {
             "variableName": "dcpsy186",
             "isAbout": "dcpsy186"
         },
@@ -799,7 +795,6 @@
             "dcpsy183",
             "dcpsy184",
             "dcpsy185",
-            "cpsy71",
             "dcpsy186",
             "dcpsy188",
             "dcpsy189",
@@ -968,7 +963,6 @@
             "dcpsy183": true,
             "dcpsy184": true,
             "dcpsy185": true,
-            "cpsy71": true,
             "dcpsy186": true,
             "dcpsy188": true,
             "dcpsy189": true,

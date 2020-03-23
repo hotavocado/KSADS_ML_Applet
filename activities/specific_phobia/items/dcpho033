@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho033",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "28. Being in the dark?",
+    "question": "28) Being in the dark?",
     "responseOptions": {
         "choices": [
             {

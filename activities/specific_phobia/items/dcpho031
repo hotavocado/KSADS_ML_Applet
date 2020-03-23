@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho031",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "26. Loud noises?",
+    "question": "Have you ever been very afraid of: 26) Loud noises?",
     "responseOptions": {
         "choices": [
             {

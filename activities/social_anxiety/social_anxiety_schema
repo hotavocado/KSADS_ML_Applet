@@ -12,20 +12,12 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "social_anx_title",
+            "isAbout": "social_anx_title"
+        },
+        {
             "variableName": "csoc0",
             "isAbout": "csoc0"
-        },
-        {
-            "variableName": "csoc1",
-            "isAbout": "csoc1"
-        },
-        {
-            "variableName": "csoc1a",
-            "isAbout": "csoc1a"
-        },
-        {
-            "variableName": "csoc1b",
-            "isAbout": "csoc1b"
         },
         {
             "variableName": "dcsoc001",
@@ -56,14 +48,6 @@
             "isAbout": "dcsoc007"
         },
         {
-            "variableName": "csoc2a",
-            "isAbout": "csoc2a"
-        },
-        {
-            "variableName": "csoc2b",
-            "isAbout": "csoc2b"
-        },
-        {
             "variableName": "dcsoc008",
             "isAbout": "dcsoc008"
         },
@@ -86,14 +70,6 @@
         {
             "variableName": "dcsoc013",
             "isAbout": "dcsoc013"
-        },
-        {
-            "variableName": "csoc3",
-            "isAbout": "csoc3"
-        },
-        {
-            "variableName": "csoc4",
-            "isAbout": "csoc4"
         },
         {
             "variableName": "csoc5",
@@ -120,20 +96,8 @@
             "isAbout": "dcsoc018"
         },
         {
-            "variableName": "csoc6",
-            "isAbout": "csoc6"
-        },
-        {
-            "variableName": "csoc7",
-            "isAbout": "csoc7"
-        },
-        {
             "variableName": "csoc8a",
             "isAbout": "csoc8a"
-        },
-        {
-            "variableName": "csoc8",
-            "isAbout": "csoc8"
         },
         {
             "variableName": "dcsoc020",
@@ -142,10 +106,6 @@
         {
             "variableName": "dcsoc020a",
             "isAbout": "dcsoc020a"
-        },
-        {
-            "variableName": "csoc9",
-            "isAbout": "csoc9"
         },
         {
             "variableName": "dcsoc021",
@@ -180,24 +140,12 @@
             "isAbout": "dcsoc026"
         },
         {
-            "variableName": "csoc10",
-            "isAbout": "csoc10"
-        },
-        {
-            "variableName": "csoc11",
-            "isAbout": "csoc11"
-        },
-        {
             "variableName": "csoc12",
             "isAbout": "csoc12"
         },
         {
             "variableName": "dcsoc027",
             "isAbout": "dcsoc027"
-        },
-        {
-            "variableName": "csoc13",
-            "isAbout": "csoc13"
         },
         {
             "variableName": "dcsoc028",
@@ -220,10 +168,6 @@
             "isAbout": "dcsoc032"
         },
         {
-            "variableName": "csoc14",
-            "isAbout": "csoc14"
-        },
-        {
             "variableName": "dcsoc033",
             "isAbout": "dcsoc033"
         },
@@ -236,28 +180,8 @@
             "isAbout": "dcsoc035"
         },
         {
-            "variableName": "csoc15",
-            "isAbout": "csoc15"
-        },
-        {
-            "variableName": "csoc16",
-            "isAbout": "csoc16"
-        },
-        {
             "variableName": "csoc17",
             "isAbout": "csoc17"
-        },
-        {
-            "variableName": "dcsoc036",
-            "isAbout": "dcsoc036"
-        },
-        {
-            "variableName": "dcsoc037",
-            "isAbout": "dcsoc037"
-        },
-        {
-            "variableName": "csoc18",
-            "isAbout": "csoc18"
         },
         {
             "variableName": "dcsoc038",
@@ -268,10 +192,6 @@
             "isAbout": "dcsoc039"
         },
         {
-            "variableName": "csoc19",
-            "isAbout": "csoc19"
-        },
-        {
             "variableName": "dcsoc040",
             "isAbout": "dcsoc040"
         },
@@ -280,36 +200,8 @@
             "isAbout": "csoc20"
         },
         {
-            "variableName": "dcsoc041",
-            "isAbout": "dcsoc041"
-        },
-        {
-            "variableName": "dcsoc042",
-            "isAbout": "dcsoc042"
-        },
-        {
-            "variableName": "dcsoc043",
-            "isAbout": "dcsoc043"
-        },
-        {
             "variableName": "dcsoc044",
             "isAbout": "dcsoc044"
-        },
-        {
-            "variableName": "csoc21",
-            "isAbout": "csoc21"
-        },
-        {
-            "variableName": "csoc22",
-            "isAbout": "csoc22"
-        },
-        {
-            "variableName": "csoc22a",
-            "isAbout": "csoc22a"
-        },
-        {
-            "variableName": "csoc23",
-            "isAbout": "csoc23"
         },
         {
             "variableName": "csoc22b",
@@ -322,10 +214,6 @@
         {
             "variableName": "dcsoc046",
             "isAbout": "dcsoc046"
-        },
-        {
-            "variableName": "csoc24",
-            "isAbout": "csoc24"
         },
         {
             "variableName": "dcsoc047",
@@ -360,24 +248,12 @@
             "isAbout": "dcsoc052"
         },
         {
-            "variableName": "csoc25",
-            "isAbout": "csoc25"
-        },
-        {
-            "variableName": "csoc26",
-            "isAbout": "csoc26"
-        },
-        {
             "variableName": "csoc27",
             "isAbout": "csoc27"
         },
         {
             "variableName": "dcsoc053",
             "isAbout": "dcsoc053"
-        },
-        {
-            "variableName": "csoc28",
-            "isAbout": "csoc28"
         },
         {
             "variableName": "dcsoc054",
@@ -400,10 +276,6 @@
             "isAbout": "dcsoc058"
         },
         {
-            "variableName": "csoc29",
-            "isAbout": "csoc29"
-        },
-        {
             "variableName": "dcsoc059",
             "isAbout": "dcsoc059"
         },
@@ -416,28 +288,8 @@
             "isAbout": "dcsoc061"
         },
         {
-            "variableName": "csoc30",
-            "isAbout": "csoc30"
-        },
-        {
-            "variableName": "csoc31",
-            "isAbout": "csoc31"
-        },
-        {
-            "variableName": "csoc32",
-            "isAbout": "csoc32"
-        },
-        {
-            "variableName": "dsoc062",
-            "isAbout": "dsoc062"
-        },
-        {
             "variableName": "dsoc063",
             "isAbout": "dsoc063"
-        },
-        {
-            "variableName": "csoc33",
-            "isAbout": "csoc33"
         },
         {
             "variableName": "dcsoc064",
@@ -448,28 +300,12 @@
             "isAbout": "dcsoc065"
         },
         {
-            "variableName": "csoc34",
-            "isAbout": "csoc34"
-        },
-        {
             "variableName": "dcsoc066",
             "isAbout": "dcsoc066"
         },
         {
             "variableName": "csoc35",
             "isAbout": "csoc35"
-        },
-        {
-            "variableName": "dcsoc067",
-            "isAbout": "dcsoc067"
-        },
-        {
-            "variableName": "dcsoc068",
-            "isAbout": "dcsoc068"
-        },
-        {
-            "variableName": "dcsoc069",
-            "isAbout": "dcsoc069"
         },
         {
             "variableName": "dcsoc070",
@@ -586,10 +422,8 @@
     ],
     "ui": {
         "order": [
+            "social_anx_title",
             "csoc0",
-            "csoc1",
-            "csoc1a",
-            "csoc1b",
             "dcsoc001",
             "dcsoc002",
             "dcsoc003",
@@ -597,29 +431,21 @@
             "dcsoc005",
             "dcsoc006",
             "dcsoc007",
-            "csoc2a",
-            "csoc2b",
             "dcsoc008",
             "dcsoc009",
             "dcsoc010",
             "dcsoc011",
             "dcsoc012",
             "dcsoc013",
-            "csoc3",
-            "csoc4",
             "csoc5",
             "dcsoc014",
             "dcsoc015",
             "dcsoc016",
             "dcsoc017",
             "dcsoc018",
-            "csoc6",
-            "csoc7",
             "csoc8a",
-            "csoc8",
             "dcsoc020",
             "dcsoc020a",
-            "csoc9",
             "dcsoc021",
             "dcsoc022",
             "dcsoc023",
@@ -628,43 +454,25 @@
             "dcsoc024c",
             "dcsoc025",
             "dcsoc026",
-            "csoc10",
-            "csoc11",
             "csoc12",
             "dcsoc027",
-            "csoc13",
             "dcsoc028",
             "dcsoc029",
             "dcsoc030",
             "dcsoc031",
             "dcsoc032",
-            "csoc14",
             "dcsoc033",
             "dcsoc034",
             "dcsoc035",
-            "csoc15",
-            "csoc16",
             "csoc17",
-            "dcsoc036",
-            "dcsoc037",
-            "csoc18",
             "dcsoc038",
             "dcsoc039",
-            "csoc19",
             "dcsoc040",
             "csoc20",
-            "dcsoc041",
-            "dcsoc042",
-            "dcsoc043",
             "dcsoc044",
-            "csoc21",
-            "csoc22",
-            "csoc22a",
-            "csoc23",
             "csoc22b",
             "dcsoc045",
             "dcsoc046",
-            "csoc24",
             "dcsoc047",
             "dcsoc048",
             "dcsoc049",
@@ -673,34 +481,21 @@
             "dcsoc050c",
             "dcsoc051",
             "dcsoc052",
-            "csoc25",
-            "csoc26",
             "csoc27",
             "dcsoc053",
-            "csoc28",
             "dcsoc054",
             "dcsoc055",
             "dcsoc056",
             "dcsoc057",
             "dcsoc058",
-            "csoc29",
             "dcsoc059",
             "dcsoc060",
             "dcsoc061",
-            "csoc30",
-            "csoc31",
-            "csoc32",
-            "dsoc062",
             "dsoc063",
-            "csoc33",
             "dcsoc064",
             "dcsoc065",
-            "csoc34",
             "dcsoc066",
             "csoc35",
-            "dcsoc067",
-            "dcsoc068",
-            "dcsoc069",
             "dcsoc070",
             "dcsoc071",
             "dcsoc072",
@@ -732,10 +527,8 @@
         ],
         "shuffle": false,
         "visibility": {
+            "social_anx_title": true,
             "csoc0": true,
-            "csoc1": true,
-            "csoc1a": true,
-            "csoc1b": true,
             "dcsoc001": true,
             "dcsoc002": true,
             "dcsoc003": true,
@@ -743,111 +536,72 @@
             "dcsoc005": true,
             "dcsoc006": true,
             "dcsoc007": true,
-            "csoc2a": true,
-            "csoc2b": true,
             "dcsoc008": true,
             "dcsoc009": true,
             "dcsoc010": true,
             "dcsoc011": true,
             "dcsoc012": true,
-            "dcsoc013": "dcsoc012 == 1",
-            "csoc3": "dcsoc001 == 0 && dcsoc002 == 0 && dcsoc003 == 0 && dcsoc004 == 0 && dcsoc005 == 0 && dcsoc006 == 0 && dcsoc007 == 0 && dcsoc008 == 0 && dcsoc009 == 0 && dcsoc010 == 0 && dcsoc011 == 0 && dcsoc012 == 0",
-            "csoc4": true,
+            "dcsoc013": true,
             "csoc5": true,
             "dcsoc014": true,
             "dcsoc015": true,
             "dcsoc016": true,
             "dcsoc017": true,
-            "dcsoc018": "dcsoc014 == 0 && dcsoc015 == 0 && dcsoc016 == 0 && dcsoc017 == 0",
-            "csoc6": "(dcsoc001 == 0 && dcsoc002 == 0 && dcsoc003 == 0 && dcsoc004 == 0 && dcsoc005 == 0 && dcsoc006 == 0 && dcsoc007 == 0) && (dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1)",
-            "csoc7": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc8a": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc8": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc020": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc020a": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc9": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc021": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc022": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc023": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc024a": "dcsoc023 == 1",
-            "dcsoc024b": "dcsoc023 == 1",
-            "dcsoc024c": "dcsoc023 == 1",
-            "dcsoc025": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc026": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc10": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc11": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc12": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc027": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc13": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc028": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc029": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc030": "dcsoc029 == 1",
-            "dcsoc031": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc032": "dcsoc031 == 1",
-            "csoc14": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc033": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc034": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc035": "dcsoc033 == 1 || dcsoc034 == 1",
-            "csoc15": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc16": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc17": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc036": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc037": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc18": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc038": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc039": "dcsoc038 == 0",
-            "csoc19": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "dcsoc040": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc20": "dcsoc040 == 1",
-            "dcsoc041": "dcsoc040 == 1",
-            "dcsoc042": "dcsoc040 == 1",
-            "dcsoc043": "dcsoc040 == 1",
-            "dcsoc044": "dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1",
-            "csoc21": "(dcsoc001 == 1 || dcsoc002 == 1 || dcsoc003 == 1 || dcsoc004 == 1 || dcsoc005 == 1 || dcsoc006 == 1 || dcsoc007 == 1)  && (dcsoc008 == 0 && dcsoc009 == 0 && dcsoc010 == 0 && dcsoc011 == 0 && dcsoc012 == 0)",
-            "csoc22": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc22a": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc23": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc22b": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc045": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc046": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc24": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc047": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc048": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc049": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc050a": "dcsoc049 == 1",
-            "dcsoc050b": "dcsoc049 == 1",
-            "dcsoc050c": "dcsoc049 == 1",
-            "dcsoc051": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc052": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc25": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc26": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc27": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc053": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc28": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc054": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc055": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc056": "dcsoc055 == 1",
-            "dcsoc057": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc058": "dcsoc057 == 1",
-            "csoc29": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc059": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc060": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc061": "dcsoc059 == 1 || dcsoc060 == 1",
-            "csoc30": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc31": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc32": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dsoc062": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dsoc063": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc33": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc064": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc065": "dcsoc064 == 0",
-            "csoc34": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "dcsoc066": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
-            "csoc35": "dcsoc066 == 1",
-            "dcsoc067": "dcsoc066 == 1",
-            "dcsoc068": "dcsoc066 == 1",
-            "dcsoc069": "dcsoc066 == 1",
-            "dcsoc070": "dcsoc008 == 1 || dcsoc009 == 1 || dcsoc010 == 1 || dcsoc011 == 1 || dcsoc012 == 1",
+            "dcsoc018": true,
+            "csoc8a": true,
+            "dcsoc020": true,
+            "dcsoc020a": true,
+            "dcsoc021": true,
+            "dcsoc022": true,
+            "dcsoc023": true,
+            "dcsoc024a": true,
+            "dcsoc024b": true,
+            "dcsoc024c": true,
+            "dcsoc025": true,
+            "dcsoc026": true,
+            "csoc12": true,
+            "dcsoc027": true,
+            "dcsoc028": true,
+            "dcsoc029": true,
+            "dcsoc030": true,
+            "dcsoc031": true,
+            "dcsoc032": true,
+            "dcsoc033": true,
+            "dcsoc034": true,
+            "dcsoc035": true,
+            "csoc17": true,
+            "dcsoc038": true,
+            "dcsoc039": true,
+            "dcsoc040": true,
+            "csoc20": true,
+            "dcsoc044": true,
+            "csoc22b": true,
+            "dcsoc045": true,
+            "dcsoc046": true,
+            "dcsoc047": true,
+            "dcsoc048": true,
+            "dcsoc049": true,
+            "dcsoc050a": true,
+            "dcsoc050b": true,
+            "dcsoc050c": true,
+            "dcsoc051": true,
+            "dcsoc052": true,
+            "csoc27": true,
+            "dcsoc053": true,
+            "dcsoc054": true,
+            "dcsoc055": true,
+            "dcsoc056": true,
+            "dcsoc057": true,
+            "dcsoc058": true,
+            "dcsoc059": true,
+            "dcsoc060": true,
+            "dcsoc061": true,
+            "dsoc063": true,
+            "dcsoc064": true,
+            "dcsoc065": true,
+            "dcsoc066": true,
+            "csoc35": true,
+            "dcsoc070": true,
             "dcsoc071": true,
             "dcsoc072": true,
             "csoc38": true,

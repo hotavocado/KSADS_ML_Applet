@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho030",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "25. Have you ever been really afraid of cars, buses, or other ways of traveling?",
+    "question": "25) Have you ever been really afraid of cars, buses, or other ways of traveling?",
     "responseOptions": {
         "choices": [
             {
