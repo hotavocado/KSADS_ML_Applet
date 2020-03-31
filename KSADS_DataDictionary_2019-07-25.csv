@@ -1437,7 +1437,7 @@ dcpho078,specific_phobia,,,,,text,N of Months,,MONTHS,number,,,,[dcpho076] = '1'
 dcpho079,specific_phobia,,,,,text,N of Years,,YEARS,number,,,,[dcpho076] = '1',[dcpho076] = '1',,RH,,,,
 dcpho080,specific_phobia,,,,,radio,Did you have this fear for at least 6 months (most of the school year)?,"0, No | 1, Yes | 9, Unknown",,,,,,,,,RH,,,,
 cpho28,specific_phobia,,,,,descriptive,"<div style=""font-size: 14pt;text-decoration: underline;width: 100%; background-color: #ffffdd;"">HELP-SEEKING TREATMENT (LIFETIME)</div>",,,,,,,,,,,,,,
-dcpho081,specific_phobia,,,,,radio,"Did anyone, like a teacher or relative, suggest that you get help for  any of these fears? ","0, No | 1, Yes | 9, Unknown",,,,,,,,,RH,,,,
+dcpho081,specific_phobia,,,,,radio,"Did anyone, like a teacher or relative, suggest that you get help for any of these fears? ","0, No | 1, Yes | 9, Unknown",,,,,,,,,RH,,,,
 dcpho082,specific_phobia,,,,,radio,"Did you ever go to see a doctor, nurse, social worker, psychologist, school counselor, minister/priest or other professional to get help for (list fears)?","0, No | 1, Yes | 9, Unknown",,,,,,,,,RH,,,,
 cpho29a,specific_phobia,,,,,descriptive,What kind of person/people did you get help from?,,,,,,,[dcpho082] = '1',[dcpho082] = '1',,,,,,
 cpho29,specific_phobia,,,,,descriptive,"<div style="" width: 100%;width: 100%; background-color: #E5D9F7;"">Participant Card 13 (Professional/Treatment)</div>",,,,,,,[dcpho082] = '1',[dcpho082] = '1',,,,,,

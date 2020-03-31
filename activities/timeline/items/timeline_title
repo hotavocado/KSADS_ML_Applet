@@ -4,5 +4,8 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "timeline_title",
+    "ui": {
+        "inputType": "markdown-message"
+    },
     "question": "## Timeline"
 }
