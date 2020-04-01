@@ -8,5 +8,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "I will now ask you about (your first fear listed): When you were most afraid of (your first fear):_\r\n\r\n _INTERVIEWER: Read responses never, sometimes, almost always after each question._"
+    "question": "I will now ask you about (your first fear listed): When you were most afraid of (your first fear): \r\n\r\n _INTERVIEWER: Read responses never, sometimes, almost always after each question._"
 }

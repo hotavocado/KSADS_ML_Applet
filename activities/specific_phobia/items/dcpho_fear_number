@@ -4,6 +4,9 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcpho_fear_number",
+    "ui": {
+        "inputType": "radio"
+    },
     "question": "_INTERVIEWER: How many fears did you list to assess?_",
     "responseOptions": {
         "choices": [

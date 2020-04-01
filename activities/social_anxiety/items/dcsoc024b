@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcsoc024b",
     "ui": {
+        "allow": [
+            "dontKnow"
+        ],
         "inputType": "text"
     },
     "question": "Example 2 (Things):",

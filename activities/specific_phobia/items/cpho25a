@@ -6,7 +6,7 @@
     "skos:altLabel": "cpho25a",
     "preamble": "Episodes: Onset",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "text"
     },
-    "question": "How old were you the **first time** you had these behaviors/feelings? (record age or \"always\")"
+    "question": "How old were you the **first time** you had this fear? (record age or \"always\")"
 }

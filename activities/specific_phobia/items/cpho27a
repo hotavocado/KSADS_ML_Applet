@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "cpho27a",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "text"
     },
     "question": "What was the longest period of time that (insert fear) did not bother you? \r\n\r\n _(N weeks, N months, N years)_"
 }

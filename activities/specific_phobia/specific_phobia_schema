@@ -108,10 +108,6 @@
             "isAbout": "dcpho022"
         },
         {
-            "variableName": "cpho6",
-            "isAbout": "cpho6"
-        },
-        {
             "variableName": "dcpho023",
             "isAbout": "dcpho023"
         },
@@ -240,10 +236,6 @@
             "isAbout": "cpho13"
         },
         {
-            "variableName": "cpho14",
-            "isAbout": "cpho14"
-        },
-        {
             "variableName": "dcphp048",
             "isAbout": "dcphp048"
         },
@@ -258,6 +250,30 @@
         {
             "variableName": "dcpho051",
             "isAbout": "dcpho051"
+        },
+        {
+            "variableName": "cpho25a",
+            "isAbout": "cpho25a"
+        },
+        {
+            "variableName": "dcpho074",
+            "isAbout": "dcpho074"
+        },
+        {
+            "variableName": "dcpho075",
+            "isAbout": "dcpho075"
+        },
+        {
+            "variableName": "dcpho076",
+            "isAbout": "dcpho076"
+        },
+        {
+            "variableName": "cpho27a",
+            "isAbout": "cpho27a"
+        },
+        {
+            "variableName": "dcpho080",
+            "isAbout": "dcpho080"
         },
         {
             "variableName": "cpho17",
@@ -316,6 +332,30 @@
             "isAbout": "dcpho061"
         },
         {
+            "variableName": "cpho25a_fear2",
+            "isAbout": "cpho25a_fear2"
+        },
+        {
+            "variableName": "dcpho074_fear2",
+            "isAbout": "dcpho074_fear2"
+        },
+        {
+            "variableName": "dcpho075_fear2",
+            "isAbout": "dcpho075_fear2"
+        },
+        {
+            "variableName": "dcpho076_fear2",
+            "isAbout": "dcpho076_fear2"
+        },
+        {
+            "variableName": "cpho27a_fear2",
+            "isAbout": "cpho27a_fear2"
+        },
+        {
+            "variableName": "dcpho080_fear2",
+            "isAbout": "dcpho080_fear2"
+        },
+        {
             "variableName": "cpho21",
             "isAbout": "cpho21"
         },
@@ -372,28 +412,28 @@
             "isAbout": "dcpho071"
         },
         {
-            "variableName": "cpho25a",
-            "isAbout": "cpho25a"
+            "variableName": "cpho25a_fear3",
+            "isAbout": "cpho25a_fear3"
         },
         {
-            "variableName": "dcpho074",
-            "isAbout": "dcpho074"
+            "variableName": "dcpho074_fear3",
+            "isAbout": "dcpho074_fear3"
         },
         {
-            "variableName": "dcpho075",
-            "isAbout": "dcpho075"
+            "variableName": "dcpho075_fear3",
+            "isAbout": "dcpho075_fear3"
         },
         {
-            "variableName": "dcpho076",
-            "isAbout": "dcpho076"
+            "variableName": "dcpho076_fear3",
+            "isAbout": "dcpho076_fear3"
         },
         {
-            "variableName": "cpho27a",
-            "isAbout": "cpho27a"
+            "variableName": "cpho27a_fear3",
+            "isAbout": "cpho27a_fear3"
         },
         {
-            "variableName": "dcpho080",
-            "isAbout": "dcpho080"
+            "variableName": "dcpho080_fear3",
+            "isAbout": "dcpho080_fear3"
         },
         {
             "variableName": "dcpho081",
@@ -530,7 +570,6 @@
             "dcpho020",
             "dcpho021",
             "dcpho022",
-            "cpho6",
             "dcpho023",
             "dcpho024",
             "dcpho025",
@@ -563,11 +602,16 @@
             "dcpho047b",
             "dcpho047c",
             "cpho13",
-            "cpho14",
             "dcphp048",
             "dcpho049",
             "dcpho050",
             "dcpho051",
+            "cpho25a",
+            "dcpho074",
+            "dcpho075",
+            "dcpho076",
+            "cpho27a",
+            "dcpho080",
             "cpho17",
             "dcpho052",
             "dcpho053",
@@ -582,6 +626,12 @@
             "dcpho059",
             "dcpho060",
             "dcpho061",
+            "cpho25a_fear2",
+            "dcpho074_fear2",
+            "dcpho075_fear2",
+            "dcpho076_fear2",
+            "cpho27a_fear2",
+            "dcpho080_fear2",
             "cpho21",
             "dcpho062",
             "dcpho063",
@@ -596,12 +646,12 @@
             "dcpho069",
             "dcpho070",
             "dcpho071",
-            "cpho25a",
-            "dcpho074",
-            "dcpho075",
-            "dcpho076",
-            "cpho27a",
-            "dcpho080",
+            "cpho25a_fear3",
+            "dcpho074_fear3",
+            "dcpho075_fear3",
+            "dcpho076_fear3",
+            "cpho27a_fear3",
+            "dcpho080_fear3",
             "dcpho081",
             "dcpho082",
             "cpho29a",
@@ -656,7 +706,6 @@
             "dcpho020": true,
             "dcpho021": true,
             "dcpho022": "dcpho021 == 1",
-            "cpho6": true,
             "dcpho023": true,
             "dcpho024": true,
             "dcpho025": true,
@@ -685,49 +734,60 @@
             "dcpho044": "cpho8 !== 1",
             "dcpho045": "cpho8 !== 1",
             "dcpho046": "cpho8 !== 1",
-            "dcpho047a": "dcpho046 == 1",
-            "dcpho047b": "dcpho046 == 1",
-            "dcpho047c": "dcpho046 == 1",
+            "dcpho047a": "dcpho046 > 0",
+            "dcpho047b": "dcpho046 > 0",
+            "dcpho047c": "dcpho046 > 0",
             "cpho13": "cpho8 !== 1",
-            "cpho14": "cpho8 !== 1",
             "dcphp048": "cpho8 !== 1",
             "dcpho049": "cpho8 !== 1",
             "dcpho050": "cpho8 !== 1",
             "dcpho051": "dcpho050 == 1",
-            "cpho17": "dcpho_fear_number > 1",
-            "dcpho052": "dcpho_fear_number > 1",
-            "dcpho053": "dcpho_fear_number > 1",
-            "dcpho054": "dcpho_fear_number > 1",
-            "dcpho055": "dcpho_fear_number > 1",
-            "dcpho056": "dcpho_fear_number > 1",
-            "dcpho057a": "dcpho056 == 1",
-            "dcpho057b": "dcpho056 == 1",
-            "dcpho057c": "dcpho056 == 1",
-            "cpho18": "dcpho_fear_number > 1",
-            "dcpho058": "dcpho_fear_number > 1",
-            "dcpho059": "dcpho_fear_number > 1",
-            "dcpho060": "dcpho_fear_number > 1",
-            "dcpho061": "dcpho060 == 1",
-            "cpho21": "dcpho_fear_number > 2",
-            "dcpho062": "dcpho_fear_number > 2",
-            "dcpho063": "dcpho_fear_number > 2",
-            "dcpho064": "dcpho_fear_number > 2",
-            "dcpho065": "dcpho_fear_number > 2",
-            "dcpho066": "dcpho_fear_number > 2",
-            "dcpho067a": "dcpho066 == 1",
-            "dcpho067b": "dcpho066 == 1",
-            "dcpho067c": "dcpho066 == 1",
-            "cpho22": "dcpho_fear_number > 2",
-            "dcpho068": "dcpho_fear_number > 2",
-            "dcpho069": "dcpho_fear_number > 2",
-            "dcpho070": "dcpho_fear_number > 2",
-            "dcpho071": "dcpho070 == 1",
             "cpho25a": "cpho8 !== 1",
             "dcpho074": "cpho8 !== 1",
             "dcpho075": "dcpho074 == 0",
             "dcpho076": "cpho8 !== 1",
             "cpho27a": "dcpho076 == 1",
             "dcpho080": "cpho8 !== 1",
+            "cpho17": "dcpho_fear_number > 1",
+            "dcpho052": "dcpho_fear_number > 1",
+            "dcpho053": "dcpho_fear_number > 1",
+            "dcpho054": "dcpho_fear_number > 1",
+            "dcpho055": "dcpho_fear_number > 1",
+            "dcpho056": "dcpho_fear_number > 1",
+            "dcpho057a": "dcpho046 > 0",
+            "dcpho057b": "dcpho046 > 0",
+            "dcpho057c": "dcpho046 > 0",
+            "cpho18": "dcpho_fear_number > 1",
+            "dcpho058": "dcpho_fear_number > 1",
+            "dcpho059": "dcpho_fear_number > 1",
+            "dcpho060": "dcpho_fear_number > 1",
+            "dcpho061": "dcpho060 == 1",
+            "cpho25a_fear2": "dcpho_fear_number > 1",
+            "dcpho074_fear2": "dcpho_fear_number > 1",
+            "dcpho075_fear2": "dcpho074_fear2 == 0",
+            "dcpho076_fear2": "dcpho_fear_number > 1",
+            "cpho27a_fear2": "dcpho076_fear2 == 1",
+            "dcpho080_fear2": "dcpho_fear_number > 1",
+            "cpho21": "dcpho_fear_number > 2",
+            "dcpho062": "dcpho_fear_number > 2",
+            "dcpho063": "dcpho_fear_number > 2",
+            "dcpho064": "dcpho_fear_number > 2",
+            "dcpho065": "dcpho_fear_number > 2",
+            "dcpho066": "dcpho_fear_number > 2",
+            "dcpho067a": "dcpho046 > 0",
+            "dcpho067b": "dcpho046 > 0",
+            "dcpho067c": "dcpho046 > 0",
+            "cpho22": "cpho8 !== 1",
+            "dcpho068": "cpho8 !== 1",
+            "dcpho069": "cpho8 !== 1",
+            "dcpho070": "dcpho_fear_number > 2",
+            "dcpho071": "dcpho070 == 1",
+            "cpho25a_fear3": "dcpho_fear_number > 2",
+            "dcpho074_fear3": "dcpho_fear_number > 2",
+            "dcpho075_fear3": "dcpho074_fear3 == 0",
+            "dcpho076_fear3": "dcpho_fear_number > 2",
+            "cpho27a_fear3": "dcpho076_fear3 == 1",
+            "dcpho080_fear3": "dcpho_fear_number > 2",
             "dcpho081": "cpho8 !== 1",
             "dcpho082": "cpho8 !== 1",
             "cpho29a": "dcpho082 == 1 ",

@@ -8,7 +8,7 @@
     "ui": {
         "inputType": "select"
     },
-    "question": "How much did your feelings/behaviors associated with this event upset or bother you?  ",
+    "question": "How much did having this fear upset or bother you?",
     "responseOptions": {
         "choices": [
             {

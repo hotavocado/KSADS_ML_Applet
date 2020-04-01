@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you have this fear only when you had a serious physical problem/ illness?",
+    "question": "Did you have this fear only when you had a serious physical problem/illness?",
     "responseOptions": {
         "choices": [
             {

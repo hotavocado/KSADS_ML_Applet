@@ -10,6 +10,6 @@
         ],
         "inputType": "text"
     },
-    "question": "Specify (Code 3):",
+    "question": "Code (Professional/Treatment 3):",
     "schema:description": "CODE RESPONSE"
 }

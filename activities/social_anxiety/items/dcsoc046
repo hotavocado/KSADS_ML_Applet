@@ -7,6 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Most distressing and avoided PERFORMANCE code:",
+    "question": "Code (performance situation):",
     "schema:description": "CODE RESPONSE"
 }

@@ -7,6 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Code)",
+    "question": "Code (Professional/Treatment):",
     "schema:description": "CODE RESPONSE"
 }

@@ -7,6 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Most distressing and avoided SOCIAL code:",
+    "question": "Code (social situation):",
     "schema:description": "CODE RESPONSE"
 }

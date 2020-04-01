@@ -98,10 +98,6 @@
             "@id": "specific_phobia:dcpho022",
             "@type": "@id"
         },
-        "cpho6": {
-            "@id": "specific_phobia:cpho6",
-            "@type": "@id"
-        },
         "dcpho023": {
             "@id": "specific_phobia:dcpho023",
             "@type": "@id"
@@ -230,10 +226,6 @@
             "@id": "specific_phobia:cpho13",
             "@type": "@id"
         },
-        "cpho14": {
-            "@id": "specific_phobia:cpho14",
-            "@type": "@id"
-        },
         "dcphp048": {
             "@id": "specific_phobia:dcphp048",
             "@type": "@id"
@@ -248,6 +240,30 @@
         },
         "dcpho051": {
             "@id": "specific_phobia:dcpho051",
+            "@type": "@id"
+        },
+        "cpho25a": {
+            "@id": "specific_phobia:cpho25a",
+            "@type": "@id"
+        },
+        "dcpho074": {
+            "@id": "specific_phobia:dcpho074",
+            "@type": "@id"
+        },
+        "dcpho075": {
+            "@id": "specific_phobia:dcpho075",
+            "@type": "@id"
+        },
+        "dcpho076": {
+            "@id": "specific_phobia:dcpho076",
+            "@type": "@id"
+        },
+        "cpho27a": {
+            "@id": "specific_phobia:cpho27a",
+            "@type": "@id"
+        },
+        "dcpho080": {
+            "@id": "specific_phobia:dcpho080",
             "@type": "@id"
         },
         "cpho17": {
@@ -306,6 +322,30 @@
             "@id": "specific_phobia:dcpho061",
             "@type": "@id"
         },
+        "cpho25a_fear2": {
+            "@id": "specific_phobia:cpho25a_fear2",
+            "@type": "@id"
+        },
+        "dcpho074_fear2": {
+            "@id": "specific_phobia:dcpho074_fear2",
+            "@type": "@id"
+        },
+        "dcpho075_fear2": {
+            "@id": "specific_phobia:dcpho075_fear2",
+            "@type": "@id"
+        },
+        "dcpho076_fear2": {
+            "@id": "specific_phobia:dcpho076_fear2",
+            "@type": "@id"
+        },
+        "cpho27a_fear2": {
+            "@id": "specific_phobia:cpho27a_fear2",
+            "@type": "@id"
+        },
+        "dcpho080_fear2": {
+            "@id": "specific_phobia:dcpho080_fear2",
+            "@type": "@id"
+        },
         "cpho21": {
             "@id": "specific_phobia:cpho21",
             "@type": "@id"
@@ -362,28 +402,28 @@
             "@id": "specific_phobia:dcpho071",
             "@type": "@id"
         },
-        "cpho25a": {
-            "@id": "specific_phobia:cpho25a",
+        "cpho25a_fear3": {
+            "@id": "specific_phobia:cpho25a_fear3",
             "@type": "@id"
         },
-        "dcpho074": {
-            "@id": "specific_phobia:dcpho074",
+        "dcpho074_fear3": {
+            "@id": "specific_phobia:dcpho074_fear3",
             "@type": "@id"
         },
-        "dcpho075": {
-            "@id": "specific_phobia:dcpho075",
+        "dcpho075_fear3": {
+            "@id": "specific_phobia:dcpho075_fear3",
             "@type": "@id"
         },
-        "dcpho076": {
-            "@id": "specific_phobia:dcpho076",
+        "dcpho076_fear3": {
+            "@id": "specific_phobia:dcpho076_fear3",
             "@type": "@id"
         },
-        "cpho27a": {
-            "@id": "specific_phobia:cpho27a",
+        "cpho27a_fear3": {
+            "@id": "specific_phobia:cpho27a_fear3",
             "@type": "@id"
         },
-        "dcpho080": {
-            "@id": "specific_phobia:dcpho080",
+        "dcpho080_fear3": {
+            "@id": "specific_phobia:dcpho080_fear3",
             "@type": "@id"
         },
         "dcpho081": {

@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "_INTERVIEWER: If multiple fears within category are endorsed, pick **worst** to assess. List up to **three** of these worst fears below. Record the corresponding number (code) from the list. \r\n\r\n Most distressing and avoided fear(s) (animals, heights, medical, etc):_"
+    "question": "_INTERVIEWER: If multiple fears within category are endorsed, pick **worst** to assess. List up to **three** of these worst fears below. Record the corresponding number (code) from the list._ \r\n\r\n Most distressing and avoided fear(s) (animals, heights, medical, etc):"
 }
