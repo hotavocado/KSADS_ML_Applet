@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcocd005",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What kind of thoughts, images or impulses have you had? \r\n\r\n _Interviewer: Not simply excessive worries about real life problems._"
+}

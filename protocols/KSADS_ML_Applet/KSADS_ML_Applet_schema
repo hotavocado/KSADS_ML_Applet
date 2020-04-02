@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.22",
+    "skos:prefLabel": "KSADS v0.23",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -63,6 +63,10 @@
         {
             "variableName": "agoraphobia",
             "isAbout": "agoraphobia"
+        },
+        {
+            "variableName": "obsessive_compulsive_disorder",
+            "isAbout": "obsessive_compulsive_disorder"
         }
     ],
     "ui": {
@@ -79,7 +83,8 @@
             "overanxiousgad",
             "separation_anxiety",
             "panic_disorder",
-            "agoraphobia"
+            "agoraphobia",
+            "obsessive_compulsive_disorder"
         ],
         "shuffle": false,
         "visibility": {
@@ -95,7 +100,8 @@
             "overanxiousgad": true,
             "separation_anxiety": true,
             "panic_disorder": true,
-            "agoraphobia": true
+            "agoraphobia": true,
+            "obsessive_compulsive_disorder": true
         }
     }
 }

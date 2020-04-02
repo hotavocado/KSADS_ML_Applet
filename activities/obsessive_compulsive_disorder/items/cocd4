@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cocd4",
+    "preamble": "Symptoms: Obsessions",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "_NTERVIEWER: Read grouped questions one at a time in a probing fashion then use responses to indicate the appropriate coded answer._"
+}

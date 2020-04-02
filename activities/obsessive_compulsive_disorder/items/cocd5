@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cocd5",
+    "preamble": "Genenral Probes: Compulsions",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Some people feel like they have to repeat things over and over again to get rid of the thoughts in their head. Now I'm going to ask you some questions about this.  \r\n\r\n _INTERVIEWER: Behavior is designed to neutralize/prevent discomfort or something dreaded from happening, but activity is either not appropriate or is excessive._"
+}

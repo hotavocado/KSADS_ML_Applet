@@ -53,6 +53,10 @@
         "agoraphobia": {
             "@id": "activity_path:agoraphobia/agoraphobia_schema",
             "@type": "@id"
+        },
+        "obsessive_compulsive_disorder": {
+            "@id": "activity_path:obsessive_compulsive_disorder/obsessive_compulsive_disorder_schema",
+            "@type": "@id"
         }
     }
 }

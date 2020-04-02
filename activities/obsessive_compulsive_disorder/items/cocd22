@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cocd22",
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "Out-patient (Going to see someone in an office)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "In-patient (Staying in a hospital)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Self Help",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "Other",
+                "@type": "schema:option"
+            }
+        ]
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "What kind of treatment(s) have you gotten? _(Check all that apply)_"
+}

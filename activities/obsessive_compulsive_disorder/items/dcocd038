@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcocd038",
+    "preamble": "Symptoms: Compulsions",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What did you imagine might happen if you didn't do (insert compulsion)? "
+}

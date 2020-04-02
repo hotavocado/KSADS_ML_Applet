@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cocd15a",
+    "preamble": "Episodes: Onset",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you the **first time** you had these  (insert obsessions/compulsions)? (record age or \"always\")"
+}

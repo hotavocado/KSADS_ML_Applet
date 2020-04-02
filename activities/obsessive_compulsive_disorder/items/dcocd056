@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcocd056",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many days of school did you miss? (lifetime)",
+    "schema:description": "DAYS"
+}

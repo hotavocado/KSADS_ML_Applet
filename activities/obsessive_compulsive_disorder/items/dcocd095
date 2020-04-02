@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcocd095",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "How much more difficult is it to throw away (or give away) toys and/or other stuff you collect than it is for other children your age?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "mild problem: occasionally (less than weekly) acquires items not needed or acquires a few unneeded items",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "moderate: regularly (several times weekly) acquires items not needed or acquires some unneeded items",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "severe: very often (daily) acquires items not needed or acquires large numbers of unneeded items",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

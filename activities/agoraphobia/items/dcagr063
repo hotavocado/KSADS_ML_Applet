@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever go to see a doctor, nurse, psychologist, social worker, school counselor, minister/priest or other professional to get help for list symptoms?",
+    "question": "Did you ever go to see a doctor, nurse, psychologist, social worker, school counselor, minister/priest or other professional to get help for( list symptoms)?",
     "responseOptions": {
         "choices": [
             {

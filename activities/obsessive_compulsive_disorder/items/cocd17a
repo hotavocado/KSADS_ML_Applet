@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cocd17a",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What was the longest period of time that you did not have (insert obsessions/compulsions)? \r\n\r\n _(N weeks, N months, N years)_"
+}

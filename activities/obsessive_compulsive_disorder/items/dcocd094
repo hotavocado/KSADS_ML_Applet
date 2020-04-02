@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcocd094",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "Because of the number of toys/stuff you collect or save, how difficult is it for you to use/play in _(if  under 12 years of age)_ your room, playroom, closet, or other room in your home?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "mild problem: occasionally (less than weekly) acquires items not needed or acquires a few unneeded items",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "moderate: regularly (several times weekly) acquires items not needed or acquires some unneeded items",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "severe: very often (daily) acquires items not needed or acquires large numbers of unneeded items",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}
