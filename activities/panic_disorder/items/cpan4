@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpan4",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What is the longest time after an attack that you worried it would happen again? (Probe: was it more than one month?) \r\n\r\n  _ (N days, N weeks)_"
+}

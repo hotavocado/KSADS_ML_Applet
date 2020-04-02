@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did anyone, like a teacher or family member, suggest that you get help for these fears? ",
+    "question": "Did anyone, like a teacher or family member, suggest that you get help for these (list symptoms)? ",
     "responseOptions": {
         "choices": [
             {

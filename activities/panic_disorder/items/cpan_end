@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpan_end",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "_INTERVIEWER: The participant did not endorse any fear/worries. End **Panic Disorder** Section._"
+}

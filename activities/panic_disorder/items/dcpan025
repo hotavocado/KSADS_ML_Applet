@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpan025",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Please describe the attack that awakened you.  Were you having a bad dream at the time? What woke you up? How were you feeling when you woke up?"
+}

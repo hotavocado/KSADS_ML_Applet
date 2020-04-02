@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpan068",
+    "ui": {
+        "allow": [
+            "dontKnow"
+        ],
+        "inputType": "text"
+    },
+    "question": "Specify (Professional/Treatment 2):",
+    "schema:description": "PROFESSIONAL/TREATMENT"
+}

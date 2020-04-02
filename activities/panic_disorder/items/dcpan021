@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpan021",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "For most of your attacks, how much time did it take to get from the beginning of the first feeling you told me about to most of the other feelings that you had? \r\n\r\n  _Probe: Was it really fast or did it take a long time? You may have to probe to see if child has concept of 10 minute duration._ \r\n\r\n _(N minutes, N hours)_ "
+}

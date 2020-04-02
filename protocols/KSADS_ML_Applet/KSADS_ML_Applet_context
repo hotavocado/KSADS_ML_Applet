@@ -41,6 +41,14 @@
         "overanxiousgad": {
             "@id": "activity_path:overanxiousgad/overanxiousgad_schema",
             "@type": "@id"
+        },
+        "separation_anxiety": {
+            "@id": "activity_path:separation_anxiety/separation_anxiety_schema",
+            "@type": "@id"
+        },
+        "panic_disorder": {
+            "@id": "activity_path:panic_disorder/panic_disorder_schema",
+            "@type": "@id"
         }
     }
 }

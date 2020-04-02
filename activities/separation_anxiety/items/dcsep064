@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsep064",
+    "ui": {
+        "allow": [
+            "dontKnow"
+        ],
+        "inputType": "text"
+    },
+    "question": "Specify (Medication 4):",
+    "schema:description": "MEDICATION"
+}

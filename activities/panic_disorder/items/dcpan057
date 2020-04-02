@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpan057",
+    "preamble": "Episodes/Course (Lifetime)",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many attacks like this have you had in your life?",
+    "schema:description": "ATTACKS"
+}

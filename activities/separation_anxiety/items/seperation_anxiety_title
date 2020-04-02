@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "seperation_anxiety_title",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "## Seperation Anxiety"
+}

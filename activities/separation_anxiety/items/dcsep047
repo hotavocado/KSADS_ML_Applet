@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsep047",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "_INTERVIEWER: If you listed multiple people, ask this question. If not, **Skip**:_ \r\n\r\n Who did you get help from the first time? \r\n\r\n Specify (Professional/Treatment):",
+    "schema:description": "PROFESSIONAL/TREATMENT"
+}

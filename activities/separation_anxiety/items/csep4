@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csep4",
+    "preamble": "Distress/Impairment",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary._"
+}

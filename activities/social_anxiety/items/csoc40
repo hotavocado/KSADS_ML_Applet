@@ -19,6 +19,11 @@
             },
             {
                 "schema:value": 3,
+                "schema:name": "Social Support Group",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
                 "schema:name": "Other",
                 "@type": "schema:option"
             }

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsep007",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What did you think might happen?"
+}

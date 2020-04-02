@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpan037",
+    "preamble": "Avoidance Behavior",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: You may have to probe for the right response in younger children._  \r\n\r\n (During the worst time) Did this/these attacks stop you from doing things or cause you to do things differently?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No Avoidance",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Mild (no avoidance",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/endurance with dread only.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Moderate (activities limited)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Severe (housebound)| 9",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/Unknown.png"
+            }
+        ]
+    }
+}

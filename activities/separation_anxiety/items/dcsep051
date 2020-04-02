@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcsep051",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "If no, how old were you the last time you got help?",
+    "schema:description": "AGE"
+}

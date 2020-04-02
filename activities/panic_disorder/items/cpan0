@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpan0",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Earlier you told me that you have had (an anxiety attack/anxiety attacks).  I'd like to ask you more about that/these."
+}

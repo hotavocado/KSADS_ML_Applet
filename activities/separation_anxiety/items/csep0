@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "csep0",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Earlier you told me that you worried about your parents or grown-ups who took care of you. I'd now like to ask you some more questions about that. "
+}

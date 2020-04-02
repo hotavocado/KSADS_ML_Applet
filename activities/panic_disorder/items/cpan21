@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpan21",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "What kind of person/people did you get help from? \r\n\r\n _INTERVIEWER: Refer to Participant Card 13 (Professional/Treatment), record and code responses on the following screens._"
+}

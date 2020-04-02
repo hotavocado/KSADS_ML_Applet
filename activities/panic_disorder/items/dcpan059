@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcpan059",
+    "preamble": "Episodes: Most Recent",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "_INTERVIEWER: If only one attack, record the same age from previous question._ \r\n\r\n How old were you the last time you had one of these attacks? ",
+    "schema:description": "AGE"
+}

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cpan3a",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "For how long after an attack would you worry that these feelings (list symptoms) would come back? \r\n\r\n _(N days, N weeks)_"
+}
