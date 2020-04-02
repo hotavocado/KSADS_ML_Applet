@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cagr19",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What was the longest period of time that (fear) did not bother you? _(N weeks, N months, N years)_"
+}

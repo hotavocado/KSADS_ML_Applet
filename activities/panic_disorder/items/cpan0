@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "cpan0",
+    "preamble": "Symptoms",
     "ui": {
         "inputType": "markdown-message"
     },

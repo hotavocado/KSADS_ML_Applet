@@ -49,6 +49,10 @@
         "panic_disorder": {
             "@id": "activity_path:panic_disorder/panic_disorder_schema",
             "@type": "@id"
+        },
+        "agoraphobia": {
+            "@id": "activity_path:agoraphobia/agoraphobia_schema",
+            "@type": "@id"
         }
     }
 }

@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "cmdd0",
+    "preamble": "Current Episode",
     "ui": {
         "inputType": "markdown-message"
     },

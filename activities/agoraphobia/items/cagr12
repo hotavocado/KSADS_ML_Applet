@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cagr12",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many days of school did you miss? (lifetime) \r\n\r\n _(N days, N weeks, N months)_"
+}

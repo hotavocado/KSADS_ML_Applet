@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "dcmdd001",
-    "preamble": "Current Episode",
     "ui": {
         "allow": [
             "autoAdvance"

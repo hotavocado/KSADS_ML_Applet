@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cagr0",
+    "preamble": "Symptoms",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Earlier you said that you have been very nervous or afraid of (list endorsed fears).  I'd now like to ask you more about (that/those)."
+}

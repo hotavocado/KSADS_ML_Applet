@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.21",
+    "skos:prefLabel": "KSADS v0.22",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -59,6 +59,10 @@
         {
             "variableName": "panic_disorder",
             "isAbout": "panic_disorder"
+        },
+        {
+            "variableName": "agoraphobia",
+            "isAbout": "agoraphobia"
         }
     ],
     "ui": {
@@ -74,7 +78,8 @@
             "social_anxiety",
             "overanxiousgad",
             "separation_anxiety",
-            "panic_disorder"
+            "panic_disorder",
+            "agoraphobia"
         ],
         "shuffle": false,
         "visibility": {
@@ -89,7 +94,8 @@
             "social_anxiety": true,
             "overanxiousgad": true,
             "separation_anxiety": true,
-            "panic_disorder": true
+            "panic_disorder": true,
+            "agoraphobia": true
         }
     }
 }

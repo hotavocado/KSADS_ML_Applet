@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "dcagr057",
+    "preamble": "Episodes: Most Recent",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you the **last time** you had this fear?",
+    "schema:description": "AGE"
+}

@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cagr16",
+    "preamble": "Episodes: Onset",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you the **first time** you had these fears? (record age or \"always\")"
+}
