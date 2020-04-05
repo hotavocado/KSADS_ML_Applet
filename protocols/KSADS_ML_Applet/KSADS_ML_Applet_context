@@ -57,6 +57,10 @@
         "obsessive_compulsive_disorder": {
             "@id": "activity_path:obsessive_compulsive_disorder/obsessive_compulsive_disorder_schema",
             "@type": "@id"
+        },
+        "attention_deficit_hyperactivity_disorder": {
+            "@id": "activity_path:attention_deficit_hyperactivity_disorder/attention_deficit_hyperactivity_disorder_schema",
+            "@type": "@id"
         }
     }
 }

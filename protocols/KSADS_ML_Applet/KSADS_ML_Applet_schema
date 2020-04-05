@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.23",
+    "skos:prefLabel": "KSADS v0.24",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -67,6 +67,10 @@
         {
             "variableName": "obsessive_compulsive_disorder",
             "isAbout": "obsessive_compulsive_disorder"
+        },
+        {
+            "variableName": "attention_deficit_hyperactivity_disorder",
+            "isAbout": "attention_deficit_hyperactivity_disorder"
         }
     ],
     "ui": {
@@ -84,7 +88,8 @@
             "separation_anxiety",
             "panic_disorder",
             "agoraphobia",
-            "obsessive_compulsive_disorder"
+            "obsessive_compulsive_disorder",
+            "attention_deficit_hyperactivity_disorder"
         ],
         "shuffle": false,
         "visibility": {
@@ -101,7 +106,8 @@
             "separation_anxiety": true,
             "panic_disorder": true,
             "agoraphobia": true,
-            "obsessive_compulsive_disorder": true
+            "obsessive_compulsive_disorder": true,
+            "attention_deficit_hyperactivity_disorder": true
         }
     }
 }

@@ -7,6 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Tobacco: Age when used the most",
+    "question": "Tobacco: Age when used the most: \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "schema:description": "AGE"
 }

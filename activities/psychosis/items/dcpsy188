@@ -11,7 +11,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Are you still having these behaviors/feelings **now**?",
+    "question": "Are you still having these behaviors/feelings **now**? ",
     "responseOptions": {
         "choices": [
             {

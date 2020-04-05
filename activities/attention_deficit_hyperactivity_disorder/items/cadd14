@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "cadd14",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "About how many years altogether (did you have/have you had) these difficulties?"
+}

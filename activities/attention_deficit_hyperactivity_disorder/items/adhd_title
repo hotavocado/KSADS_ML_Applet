@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adhd_title",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "## Attention Deficit Hyperactivity Disorder"
+}

@@ -8,6 +8,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How old were you the very first time in your life that you felt (sad, depressed/ grouchy, like nothing was fun)?",
+    "question": "How old were you the very first time in your life that you felt (sad, depressed/ grouchy, like nothing was fun)? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "schema:description": "AGE"
 }

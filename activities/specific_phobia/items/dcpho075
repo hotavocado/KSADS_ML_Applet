@@ -7,6 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How old were you the last time you had this fear?",
+    "question": "How old were you the last time you had this fear? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "schema:description": "AGE"
 }

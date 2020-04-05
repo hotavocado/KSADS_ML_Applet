@@ -1,0 +1,350 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "attention_deficit_hyperactivity_disorder": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/attention_deficit_hyperactivity_disorder/items/",
+        "adhd_title": {
+            "@id": "attention_deficit_hyperactivity_disorder:adhd_title",
+            "@type": "@id"
+        },
+        "cadd0": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd0",
+            "@type": "@id"
+        },
+        "dcadd001": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd001",
+            "@type": "@id"
+        },
+        "dcadd002": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd002",
+            "@type": "@id"
+        },
+        "dcadd003": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd003",
+            "@type": "@id"
+        },
+        "dcadd004": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd004",
+            "@type": "@id"
+        },
+        "dcadd005": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd005",
+            "@type": "@id"
+        },
+        "dcadd006": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd006",
+            "@type": "@id"
+        },
+        "dcadd007": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd007",
+            "@type": "@id"
+        },
+        "dcadd008": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd008",
+            "@type": "@id"
+        },
+        "dcadd009": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd009",
+            "@type": "@id"
+        },
+        "dcadd010": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd010",
+            "@type": "@id"
+        },
+        "dcadd011": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd011",
+            "@type": "@id"
+        },
+        "dcadd012": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd012",
+            "@type": "@id"
+        },
+        "dcadd013": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd013",
+            "@type": "@id"
+        },
+        "dcadd014": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd014",
+            "@type": "@id"
+        },
+        "dcadd015": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd015",
+            "@type": "@id"
+        },
+        "dcadd016": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd016",
+            "@type": "@id"
+        },
+        "dcadd017": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd017",
+            "@type": "@id"
+        },
+        "dcadd018": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd018",
+            "@type": "@id"
+        },
+        "dcadd019": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd019",
+            "@type": "@id"
+        },
+        "cadd13": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd13",
+            "@type": "@id"
+        },
+        "cadd14": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd14",
+            "@type": "@id"
+        },
+        "cadd15": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd15",
+            "@type": "@id"
+        },
+        "dcadd024": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd024",
+            "@type": "@id"
+        },
+        "cadd18": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd18",
+            "@type": "@id"
+        },
+        "dcadd026": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd026",
+            "@type": "@id"
+        },
+        "dcadd027": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd027",
+            "@type": "@id"
+        },
+        "dcadd028": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd028",
+            "@type": "@id"
+        },
+        "dcadd029": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd029",
+            "@type": "@id"
+        },
+        "dcadd030": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd030",
+            "@type": "@id"
+        },
+        "dcadd031": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd031",
+            "@type": "@id"
+        },
+        "dcadd032": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd032",
+            "@type": "@id"
+        },
+        "cadd25": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd25",
+            "@type": "@id"
+        },
+        "dcadd033": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd033",
+            "@type": "@id"
+        },
+        "dcadd034": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd034",
+            "@type": "@id"
+        },
+        "dcadd035": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd035",
+            "@type": "@id"
+        },
+        "dcadd036": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd036",
+            "@type": "@id"
+        },
+        "dcadd037": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd037",
+            "@type": "@id"
+        },
+        "dcadd038": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd038",
+            "@type": "@id"
+        },
+        "dcadd039": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd039",
+            "@type": "@id"
+        },
+        "dcadd040": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd040",
+            "@type": "@id"
+        },
+        "dcadd041": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd041",
+            "@type": "@id"
+        },
+        "cadd29": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd29",
+            "@type": "@id"
+        },
+        "cadd30": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd30",
+            "@type": "@id"
+        },
+        "cadd32a": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd32a",
+            "@type": "@id"
+        },
+        "dcadd048": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd048",
+            "@type": "@id"
+        },
+        "dcadd049": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd049",
+            "@type": "@id"
+        },
+        "dcadd050": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd050",
+            "@type": "@id"
+        },
+        "cadd34a": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd34a",
+            "@type": "@id"
+        },
+        "cadd36": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd36",
+            "@type": "@id"
+        },
+        "dcadd054": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd054",
+            "@type": "@id"
+        },
+        "dcadd055": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd055",
+            "@type": "@id"
+        },
+        "dcadd056": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd056",
+            "@type": "@id"
+        },
+        "dcadd057": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd057",
+            "@type": "@id"
+        },
+        "dcadd057a": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd057a",
+            "@type": "@id"
+        },
+        "dcadd058": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd058",
+            "@type": "@id"
+        },
+        "dcadd060": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd060",
+            "@type": "@id"
+        },
+        "dcadd061": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd061",
+            "@type": "@id"
+        },
+        "dcadd062": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd062",
+            "@type": "@id"
+        },
+        "dcadd063": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd063",
+            "@type": "@id"
+        },
+        "cadd41": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd41",
+            "@type": "@id"
+        },
+        "dcadd064": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd064",
+            "@type": "@id"
+        },
+        "dcadd065": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd065",
+            "@type": "@id"
+        },
+        "dcadd066": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd066",
+            "@type": "@id"
+        },
+        "dcadd067": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd067",
+            "@type": "@id"
+        },
+        "dcadd068": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd068",
+            "@type": "@id"
+        },
+        "dcadd069": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd069",
+            "@type": "@id"
+        },
+        "dcadd071": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd071",
+            "@type": "@id"
+        },
+        "dcadd072": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd072",
+            "@type": "@id"
+        },
+        "dcadd073": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd073",
+            "@type": "@id"
+        },
+        "dcadd074": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd074",
+            "@type": "@id"
+        },
+        "dcadd075": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd075",
+            "@type": "@id"
+        },
+        "dcadd076": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd076",
+            "@type": "@id"
+        },
+        "cadd43": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd43",
+            "@type": "@id"
+        },
+        "dcadd081": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd081",
+            "@type": "@id"
+        },
+        "dcadd082": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd082",
+            "@type": "@id"
+        },
+        "dcadd083": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd083",
+            "@type": "@id"
+        },
+        "dcadd084": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd084",
+            "@type": "@id"
+        },
+        "dcadd085": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd085",
+            "@type": "@id"
+        },
+        "dcadd086": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd086",
+            "@type": "@id"
+        },
+        "dcadd087": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd087",
+            "@type": "@id"
+        },
+        "dcadd088": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd088",
+            "@type": "@id"
+        },
+        "dcadd089": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd089",
+            "@type": "@id"
+        },
+        "dcadd090": {
+            "@id": "attention_deficit_hyperactivity_disorder:dcadd090",
+            "@type": "@id"
+        },
+        "cadd_end": {
+            "@id": "attention_deficit_hyperactivity_disorder:cadd_end",
+            "@type": "@id"
+        }
+    }
+}
