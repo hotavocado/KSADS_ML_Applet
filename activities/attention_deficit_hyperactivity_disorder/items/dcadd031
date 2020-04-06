@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd031",
     "preamble": "Interrupts Others",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you often interrupt people or abruptly join other people's conversations without being asked to do so?",

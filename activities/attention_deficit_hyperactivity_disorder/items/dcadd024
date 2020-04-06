@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd024",
     "preamble": "Runs or Climbs Excessively",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you often been very active even when you were not supposed to be - for example, climbing on things or running around - even after being asked to keep still?",

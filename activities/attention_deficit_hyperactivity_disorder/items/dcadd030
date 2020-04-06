@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd030",
     "preamble": "Blurts Out Answers",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you often blurt out answers to other people's questions even before they finished speaking?",

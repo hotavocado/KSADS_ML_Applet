@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "codd_end",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": " _INTERVIEWER: END of **Oppositional Defiant Disorder** section_"
+}

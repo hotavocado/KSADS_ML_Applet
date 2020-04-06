@@ -61,6 +61,14 @@
         "attention_deficit_hyperactivity_disorder": {
             "@id": "activity_path:attention_deficit_hyperactivity_disorder/attention_deficit_hyperactivity_disorder_schema",
             "@type": "@id"
+        },
+        "oppositional_defiant_disorder": {
+            "@id": "activity_path:oppositional_defiant_disorder/oppositional_defiant_disorder_schema",
+            "@type": "@id"
+        },
+        "conduct_disorder": {
+            "@id": "activity_path:conduct_disorder/conduct_disorder_schema",
+            "@type": "@id"
         }
     }
 }

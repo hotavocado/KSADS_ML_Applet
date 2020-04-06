@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd027",
     "preamble": "Fidgeting",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you often fidgeted with your hands or feet or wiggled in your seat?  Have you had a hard time sitting still? ",

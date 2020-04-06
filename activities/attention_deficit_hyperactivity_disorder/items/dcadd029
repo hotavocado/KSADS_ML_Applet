@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd029",
     "preamble": "Talks Excessively",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Were you often extremely talkative? (Did you talk more than other people your age?)",

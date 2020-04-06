@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd026",
     "preamble": "Difficulty Playing Quite",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you had trouble playing quietly or doing quiet activities, like reading or being read to, for more than a few minutes at a time?",

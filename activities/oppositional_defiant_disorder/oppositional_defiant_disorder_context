@@ -1,0 +1,250 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "oppositional_defiant_disorder": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/oppositional_defiant_disorder/items/",
+        "odd_title": {
+            "@id": "oppositional_defiant_disorder:odd_title",
+            "@type": "@id"
+        },
+        "codd0": {
+            "@id": "oppositional_defiant_disorder:codd0",
+            "@type": "@id"
+        },
+        "dcodd001": {
+            "@id": "oppositional_defiant_disorder:dcodd001",
+            "@type": "@id"
+        },
+        "dcodd002": {
+            "@id": "oppositional_defiant_disorder:dcodd002",
+            "@type": "@id"
+        },
+        "dcodd003": {
+            "@id": "oppositional_defiant_disorder:dcodd003",
+            "@type": "@id"
+        },
+        "dcodd004": {
+            "@id": "oppositional_defiant_disorder:dcodd004",
+            "@type": "@id"
+        },
+        "dcodd005": {
+            "@id": "oppositional_defiant_disorder:dcodd005",
+            "@type": "@id"
+        },
+        "dcodd006": {
+            "@id": "oppositional_defiant_disorder:dcodd006",
+            "@type": "@id"
+        },
+        "dcodd007": {
+            "@id": "oppositional_defiant_disorder:dcodd007",
+            "@type": "@id"
+        },
+        "dcodd008": {
+            "@id": "oppositional_defiant_disorder:dcodd008",
+            "@type": "@id"
+        },
+        "dcodd009": {
+            "@id": "oppositional_defiant_disorder:dcodd009",
+            "@type": "@id"
+        },
+        "dcodd010": {
+            "@id": "oppositional_defiant_disorder:dcodd010",
+            "@type": "@id"
+        },
+        "dcodd011": {
+            "@id": "oppositional_defiant_disorder:dcodd011",
+            "@type": "@id"
+        },
+        "dcodd012": {
+            "@id": "oppositional_defiant_disorder:dcodd012",
+            "@type": "@id"
+        },
+        "codd10": {
+            "@id": "oppositional_defiant_disorder:codd10",
+            "@type": "@id"
+        },
+        "dcodd013": {
+            "@id": "oppositional_defiant_disorder:dcodd013",
+            "@type": "@id"
+        },
+        "dcodd014": {
+            "@id": "oppositional_defiant_disorder:dcodd014",
+            "@type": "@id"
+        },
+        "dcodd015": {
+            "@id": "oppositional_defiant_disorder:dcodd015",
+            "@type": "@id"
+        },
+        "dcodd016": {
+            "@id": "oppositional_defiant_disorder:dcodd016",
+            "@type": "@id"
+        },
+        "dcodd017": {
+            "@id": "oppositional_defiant_disorder:dcodd017",
+            "@type": "@id"
+        },
+        "codd13": {
+            "@id": "oppositional_defiant_disorder:codd13",
+            "@type": "@id"
+        },
+        "dcodd018": {
+            "@id": "oppositional_defiant_disorder:dcodd018",
+            "@type": "@id"
+        },
+        "dcodd019": {
+            "@id": "oppositional_defiant_disorder:dcodd019",
+            "@type": "@id"
+        },
+        "dcodd020": {
+            "@id": "oppositional_defiant_disorder:dcodd020",
+            "@type": "@id"
+        },
+        "dcodd021": {
+            "@id": "oppositional_defiant_disorder:dcodd021",
+            "@type": "@id"
+        },
+        "dcodd022": {
+            "@id": "oppositional_defiant_disorder:dcodd022",
+            "@type": "@id"
+        },
+        "dcodd023": {
+            "@id": "oppositional_defiant_disorder:dcodd023",
+            "@type": "@id"
+        },
+        "dcodd024": {
+            "@id": "oppositional_defiant_disorder:dcodd024",
+            "@type": "@id"
+        },
+        "codd19": {
+            "@id": "oppositional_defiant_disorder:codd19",
+            "@type": "@id"
+        },
+        "dcodd027": {
+            "@id": "oppositional_defiant_disorder:dcodd027",
+            "@type": "@id"
+        },
+        "dcodd028": {
+            "@id": "oppositional_defiant_disorder:dcodd028",
+            "@type": "@id"
+        },
+        "dcodd029": {
+            "@id": "oppositional_defiant_disorder:dcodd029",
+            "@type": "@id"
+        },
+        "codd21a": {
+            "@id": "oppositional_defiant_disorder:codd21a",
+            "@type": "@id"
+        },
+        "dcodd033": {
+            "@id": "oppositional_defiant_disorder:dcodd033",
+            "@type": "@id"
+        },
+        "dcodd034": {
+            "@id": "oppositional_defiant_disorder:dcodd034",
+            "@type": "@id"
+        },
+        "dcodd035": {
+            "@id": "oppositional_defiant_disorder:dcodd035",
+            "@type": "@id"
+        },
+        "codd24": {
+            "@id": "oppositional_defiant_disorder:codd24",
+            "@type": "@id"
+        },
+        "dcodd036": {
+            "@id": "oppositional_defiant_disorder:dcodd036",
+            "@type": "@id"
+        },
+        "dcodd037": {
+            "@id": "oppositional_defiant_disorder:dcodd037",
+            "@type": "@id"
+        },
+        "dcodd038": {
+            "@id": "oppositional_defiant_disorder:dcodd038",
+            "@type": "@id"
+        },
+        "dcodd039": {
+            "@id": "oppositional_defiant_disorder:dcodd039",
+            "@type": "@id"
+        },
+        "dcodd040": {
+            "@id": "oppositional_defiant_disorder:dcodd040",
+            "@type": "@id"
+        },
+        "dcodd041": {
+            "@id": "oppositional_defiant_disorder:dcodd041",
+            "@type": "@id"
+        },
+        "dcodd043": {
+            "@id": "oppositional_defiant_disorder:dcodd043",
+            "@type": "@id"
+        },
+        "dcodd044": {
+            "@id": "oppositional_defiant_disorder:dcodd044",
+            "@type": "@id"
+        },
+        "dcodd045": {
+            "@id": "oppositional_defiant_disorder:dcodd045",
+            "@type": "@id"
+        },
+        "dcodd046": {
+            "@id": "oppositional_defiant_disorder:dcodd046",
+            "@type": "@id"
+        },
+        "dcodd047": {
+            "@id": "oppositional_defiant_disorder:dcodd047",
+            "@type": "@id"
+        },
+        "dcodd048": {
+            "@id": "oppositional_defiant_disorder:dcodd048",
+            "@type": "@id"
+        },
+        "codd26": {
+            "@id": "oppositional_defiant_disorder:codd26",
+            "@type": "@id"
+        },
+        "dcodd053": {
+            "@id": "oppositional_defiant_disorder:dcodd053",
+            "@type": "@id"
+        },
+        "dcodd054": {
+            "@id": "oppositional_defiant_disorder:dcodd054",
+            "@type": "@id"
+        },
+        "dcodd055": {
+            "@id": "oppositional_defiant_disorder:dcodd055",
+            "@type": "@id"
+        },
+        "dcodd056": {
+            "@id": "oppositional_defiant_disorder:dcodd056",
+            "@type": "@id"
+        },
+        "dcodd057": {
+            "@id": "oppositional_defiant_disorder:dcodd057",
+            "@type": "@id"
+        },
+        "dcodd058": {
+            "@id": "oppositional_defiant_disorder:dcodd058",
+            "@type": "@id"
+        },
+        "dcodd059": {
+            "@id": "oppositional_defiant_disorder:dcodd059",
+            "@type": "@id"
+        },
+        "dcodd060": {
+            "@id": "oppositional_defiant_disorder:dcodd060",
+            "@type": "@id"
+        },
+        "dcodd061": {
+            "@id": "oppositional_defiant_disorder:dcodd061",
+            "@type": "@id"
+        },
+        "dcodd062": {
+            "@id": "oppositional_defiant_disorder:dcodd062",
+            "@type": "@id"
+        },
+        "codd_end": {
+            "@id": "oppositional_defiant_disorder:codd_end",
+            "@type": "@id"
+        }
+    }
+}

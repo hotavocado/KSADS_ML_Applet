@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd028",
     "preamble": "Difficulty Staying Seated",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you often get up from your seat when you were not supposed to - like at dinner, at school, or religious services?",

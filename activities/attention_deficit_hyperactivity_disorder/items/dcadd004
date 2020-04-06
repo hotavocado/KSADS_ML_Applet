@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd004",
     "preamble": "Carelessness",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you often made careless mistakes in school work or other activities? ",

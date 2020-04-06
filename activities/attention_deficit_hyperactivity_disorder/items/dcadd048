@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd048",
     "preamble": "Episodes: Offset",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Do you still have any of these (list behaviors)?",

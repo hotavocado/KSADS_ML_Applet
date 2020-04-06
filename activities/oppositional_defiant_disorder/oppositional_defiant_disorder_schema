@@ -1,0 +1,388 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/oppositional_defiant_disorder/oppositional_defiant_disorder_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "oppositional_defiant_disorder_schema",
+    "skos:prefLabel": "Oppositional Defiant Disorder",
+    "skos:altLabel": "oppositional_defiant_disorder_schema",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "variableMap": [
+        {
+            "variableName": "odd_title",
+            "isAbout": "odd_title"
+        },
+        {
+            "variableName": "codd0",
+            "isAbout": "codd0"
+        },
+        {
+            "variableName": "dcodd001",
+            "isAbout": "dcodd001"
+        },
+        {
+            "variableName": "dcodd002",
+            "isAbout": "dcodd002"
+        },
+        {
+            "variableName": "dcodd003",
+            "isAbout": "dcodd003"
+        },
+        {
+            "variableName": "dcodd004",
+            "isAbout": "dcodd004"
+        },
+        {
+            "variableName": "dcodd005",
+            "isAbout": "dcodd005"
+        },
+        {
+            "variableName": "dcodd006",
+            "isAbout": "dcodd006"
+        },
+        {
+            "variableName": "dcodd007",
+            "isAbout": "dcodd007"
+        },
+        {
+            "variableName": "dcodd008",
+            "isAbout": "dcodd008"
+        },
+        {
+            "variableName": "dcodd009",
+            "isAbout": "dcodd009"
+        },
+        {
+            "variableName": "dcodd010",
+            "isAbout": "dcodd010"
+        },
+        {
+            "variableName": "dcodd011",
+            "isAbout": "dcodd011"
+        },
+        {
+            "variableName": "dcodd012",
+            "isAbout": "dcodd012"
+        },
+        {
+            "variableName": "codd10",
+            "isAbout": "codd10"
+        },
+        {
+            "variableName": "dcodd013",
+            "isAbout": "dcodd013"
+        },
+        {
+            "variableName": "dcodd014",
+            "isAbout": "dcodd014"
+        },
+        {
+            "variableName": "dcodd015",
+            "isAbout": "dcodd015"
+        },
+        {
+            "variableName": "dcodd016",
+            "isAbout": "dcodd016"
+        },
+        {
+            "variableName": "dcodd017",
+            "isAbout": "dcodd017"
+        },
+        {
+            "variableName": "codd13",
+            "isAbout": "codd13"
+        },
+        {
+            "variableName": "dcodd018",
+            "isAbout": "dcodd018"
+        },
+        {
+            "variableName": "dcodd019",
+            "isAbout": "dcodd019"
+        },
+        {
+            "variableName": "dcodd020",
+            "isAbout": "dcodd020"
+        },
+        {
+            "variableName": "dcodd021",
+            "isAbout": "dcodd021"
+        },
+        {
+            "variableName": "dcodd022",
+            "isAbout": "dcodd022"
+        },
+        {
+            "variableName": "dcodd023",
+            "isAbout": "dcodd023"
+        },
+        {
+            "variableName": "dcodd024",
+            "isAbout": "dcodd024"
+        },
+        {
+            "variableName": "codd19",
+            "isAbout": "codd19"
+        },
+        {
+            "variableName": "dcodd027",
+            "isAbout": "dcodd027"
+        },
+        {
+            "variableName": "dcodd028",
+            "isAbout": "dcodd028"
+        },
+        {
+            "variableName": "dcodd029",
+            "isAbout": "dcodd029"
+        },
+        {
+            "variableName": "codd21a",
+            "isAbout": "codd21a"
+        },
+        {
+            "variableName": "dcodd033",
+            "isAbout": "dcodd033"
+        },
+        {
+            "variableName": "dcodd034",
+            "isAbout": "dcodd034"
+        },
+        {
+            "variableName": "dcodd035",
+            "isAbout": "dcodd035"
+        },
+        {
+            "variableName": "codd24",
+            "isAbout": "codd24"
+        },
+        {
+            "variableName": "dcodd036",
+            "isAbout": "dcodd036"
+        },
+        {
+            "variableName": "dcodd037",
+            "isAbout": "dcodd037"
+        },
+        {
+            "variableName": "dcodd038",
+            "isAbout": "dcodd038"
+        },
+        {
+            "variableName": "dcodd039",
+            "isAbout": "dcodd039"
+        },
+        {
+            "variableName": "dcodd040",
+            "isAbout": "dcodd040"
+        },
+        {
+            "variableName": "dcodd041",
+            "isAbout": "dcodd041"
+        },
+        {
+            "variableName": "dcodd043",
+            "isAbout": "dcodd043"
+        },
+        {
+            "variableName": "dcodd044",
+            "isAbout": "dcodd044"
+        },
+        {
+            "variableName": "dcodd045",
+            "isAbout": "dcodd045"
+        },
+        {
+            "variableName": "dcodd046",
+            "isAbout": "dcodd046"
+        },
+        {
+            "variableName": "dcodd047",
+            "isAbout": "dcodd047"
+        },
+        {
+            "variableName": "dcodd048",
+            "isAbout": "dcodd048"
+        },
+        {
+            "variableName": "codd26",
+            "isAbout": "codd26"
+        },
+        {
+            "variableName": "dcodd053",
+            "isAbout": "dcodd053"
+        },
+        {
+            "variableName": "dcodd054",
+            "isAbout": "dcodd054"
+        },
+        {
+            "variableName": "dcodd055",
+            "isAbout": "dcodd055"
+        },
+        {
+            "variableName": "dcodd056",
+            "isAbout": "dcodd056"
+        },
+        {
+            "variableName": "dcodd057",
+            "isAbout": "dcodd057"
+        },
+        {
+            "variableName": "dcodd058",
+            "isAbout": "dcodd058"
+        },
+        {
+            "variableName": "dcodd059",
+            "isAbout": "dcodd059"
+        },
+        {
+            "variableName": "dcodd060",
+            "isAbout": "dcodd060"
+        },
+        {
+            "variableName": "dcodd061",
+            "isAbout": "dcodd061"
+        },
+        {
+            "variableName": "dcodd062",
+            "isAbout": "dcodd062"
+        },
+        {
+            "variableName": "codd_end",
+            "isAbout": "codd_end"
+        }
+    ],
+    "ui": {
+        "order": [
+            "odd_title",
+            "codd0",
+            "dcodd001",
+            "dcodd002",
+            "dcodd003",
+            "dcodd004",
+            "dcodd005",
+            "dcodd006",
+            "dcodd007",
+            "dcodd008",
+            "dcodd009",
+            "dcodd010",
+            "dcodd011",
+            "dcodd012",
+            "codd10",
+            "dcodd013",
+            "dcodd014",
+            "dcodd015",
+            "dcodd016",
+            "dcodd017",
+            "codd13",
+            "dcodd018",
+            "dcodd019",
+            "dcodd020",
+            "dcodd021",
+            "dcodd022",
+            "dcodd023",
+            "dcodd024",
+            "codd19",
+            "dcodd027",
+            "dcodd028",
+            "dcodd029",
+            "codd21a",
+            "dcodd033",
+            "dcodd034",
+            "dcodd035",
+            "codd24",
+            "dcodd036",
+            "dcodd037",
+            "dcodd038",
+            "dcodd039",
+            "dcodd040",
+            "dcodd041",
+            "dcodd043",
+            "dcodd044",
+            "dcodd045",
+            "dcodd046",
+            "dcodd047",
+            "dcodd048",
+            "codd26",
+            "dcodd053",
+            "dcodd054",
+            "dcodd055",
+            "dcodd056",
+            "dcodd057",
+            "dcodd058",
+            "dcodd059",
+            "dcodd060",
+            "dcodd061",
+            "dcodd062",
+            "codd_end"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "odd_title": true,
+            "codd0": true,
+            "dcodd001": true,
+            "dcodd002": true,
+            "dcodd003": true,
+            "dcodd004": true,
+            "dcodd005": true,
+            "dcodd006": true,
+            "dcodd007": true,
+            "dcodd008": true,
+            "dcodd009": true,
+            "dcodd010": true,
+            "dcodd011": true,
+            "dcodd012": true,
+            "codd10": "dcodd001 == 0 && dcodd002 == 0 && dcodd003 == 0 && dcodd004 == 0 && dcodd005 == 0 &&  dcodd006 == 0 && dcodd007 == 0 && dcodd008 == 0 && dcodd009 == 0 && dcodd010 == 0 && dcodd011 == 0 && dcodd012 == 0",
+            "dcodd013": "codd10 !== 1",
+            "dcodd014": "codd10 !== 1",
+            "dcodd015": "codd10 !== 1",
+            "dcodd016": "codd10 !== 1",
+            "dcodd017": "codd10 !== 1",
+            "codd13": "codd10 !== 1",
+            "dcodd018": "codd10 !== 1",
+            "dcodd019": "codd10 !== 1",
+            "dcodd020": "codd10 !== 1",
+            "dcodd021": "codd10 !== 1",
+            "dcodd022": "codd10 !== 1",
+            "dcodd023": "dcodd022 == 1",
+            "dcodd024": "codd10 !== 1",
+            "codd19": "codd10 !== 1",
+            "dcodd027": "codd10 !== 1",
+            "dcodd028": "dcodd027 == 0",
+            "dcodd029": "codd10 !== 1",
+            "codd21a": "dcodd029 == 1",
+            "dcodd033": "codd10 !== 1",
+            "dcodd034": "codd10 !== 1",
+            "dcodd035": "codd10 !== 1",
+            "codd24": "dcodd035 == 1",
+            "dcodd036": "dcodd035 == 1",
+            "dcodd037": "dcodd035 == 1",
+            "dcodd038": "dcodd035 == 1",
+            "dcodd039": "dcodd035 == 1",
+            "dcodd040": "dcodd035 == 1",
+            "dcodd041": "dcodd035 == 1",
+            "dcodd043": "dcodd035 == 1",
+            "dcodd044": "dcodd035 == 1",
+            "dcodd045": "dcodd035 == 1",
+            "dcodd046": "dcodd035 == 1",
+            "dcodd047": "dcodd046 == 0",
+            "dcodd048": "dcodd035 == 1",
+            "codd26": "dcodd035 == 1",
+            "dcodd053": "codd26 .includes(4)",
+            "dcodd054": "dcodd035 == 1",
+            "dcodd055": "dcodd054 == 1",
+            "dcodd056": "dcodd054 == 1",
+            "dcodd057": "dcodd054 == 1",
+            "dcodd058": "dcodd054 == 1",
+            "dcodd059": "dcodd054 == 1",
+            "dcodd060": "dcodd054 == 1",
+            "dcodd061": "dcodd054 == 1",
+            "dcodd062": "dcodd054 == 1",
+            "codd_end": true
+        }
+    }
+}

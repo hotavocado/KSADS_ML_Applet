@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd010",
     "preamble": "Difficulty Following Through on Tasks",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you often left chores, homework or other work unfinished even when you meant to get them done, and understood how to do them?",

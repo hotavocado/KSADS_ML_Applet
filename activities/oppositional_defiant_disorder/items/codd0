@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "codd0",
+    "preamble": "Symptoms",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Earlier you told me that you do things that might get you into trouble, like talking back to parents/teachers or losing your temper. I am now going to ask you some questions about that. "
+}

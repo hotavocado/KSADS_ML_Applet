@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd009",
     "preamble": "Difficulty Organizing Work/Activities",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you ever had trouble making plans, doing things that had to be done in a certain kind of order, or that had a lot of different steps?",

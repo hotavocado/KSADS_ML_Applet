@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd006",
     "preamble": "Does Not Listen",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have people often said that you did not seem to be listening when they spoke to you or that you were daydreaming? ",

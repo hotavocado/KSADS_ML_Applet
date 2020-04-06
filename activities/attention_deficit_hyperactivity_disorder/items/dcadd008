@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd008",
     "preamble": "Avoids/Dislikes Tasks Requiring Attention",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you often disliked, avoided, or put off doing things that required a lot of concentration like your school work, homework, or other tasks?",

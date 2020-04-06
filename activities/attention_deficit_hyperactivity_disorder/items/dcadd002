@@ -6,6 +6,9 @@
     "skos:altLabel": "dcadd002",
     "preamble": "Difficulty Sustaining Attention in Tasks",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Have you often had trouble paying attention or keeping your mind on your school work or other things that you were doing?",

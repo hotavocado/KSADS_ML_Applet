@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "dcadd012",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "_INTERVIEWER: If 'All my life' or 'As long as I can remember', or 'age unknown' to previous question Probe:_ \r\n\r\n Was it before you were seven?  Did you have these problems in kindergarten or first grade?  \r\n\r\n _Otherwise, code this question according to the age in the previous question._",
