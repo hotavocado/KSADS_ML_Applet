@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cmdd54",
+    "@id": "cmdd54",
     "preamble": "Return to Baseline",
     "ui": {
         "inputType": "markdown-message"

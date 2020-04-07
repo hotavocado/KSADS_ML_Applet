@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy001",
+    "@id": "dcpsy001",
     "preamble": "Auditory: Non Verbal Sounds",
     "ui": {
         "allow": [

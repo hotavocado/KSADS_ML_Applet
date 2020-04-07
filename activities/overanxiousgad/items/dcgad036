@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcgad036",
+    "@id": "dcgad036",
     "preamble": "Associated Conditions (Episode): Medical",
     "ui": {
         "allow": [

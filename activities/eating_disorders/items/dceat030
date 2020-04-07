@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dceat030",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What was your lowest weight at that time?",
+    "schema:description": "POUNDS"
+}

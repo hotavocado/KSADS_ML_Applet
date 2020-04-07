@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy113",
+    "@id": "dcpsy113",
     "preamble": "Other Bizarre Delusions",
     "ui": {
         "allow": [

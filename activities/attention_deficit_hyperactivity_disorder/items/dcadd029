@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd029",
+    "@id": "dcadd029",
     "preamble": "Talks Excessively",
     "ui": {
         "allow": [

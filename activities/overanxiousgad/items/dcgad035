@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcgad035",
+    "@id": "dcgad035",
     "preamble": "Associated Conditions (Episode): Alcohol and Drugs",
     "ui": {
         "allow": [

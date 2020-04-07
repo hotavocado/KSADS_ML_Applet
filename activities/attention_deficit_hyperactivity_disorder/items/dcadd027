@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd027",
+    "@id": "dcadd027",
     "preamble": "Fidgeting",
     "ui": {
         "allow": [

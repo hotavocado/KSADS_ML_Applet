@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cscr18",
+    "@id": "cscr18",
     "preamble": "Panic Disorder",
     "ui": {
         "inputType": "markdown-message"

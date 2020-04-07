@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "csui11",
+    "@id": "csui11",
     "preamble": "Self-Harm",
     "ui": {
         "inputType": "markdown-message"

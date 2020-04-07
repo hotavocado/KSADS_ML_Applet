@@ -4,7 +4,7 @@
 const protocolName = "KSADS_ML_Applet"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "KSADS v0.25"
+const protocolDisplayName = "KSADS v0.26"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -40,8 +40,7 @@ const mkdirp = require('mkdirp');
 const HTMLParser =  require ('node-html-parser');
 
 const schemaMap = {
-    "Identifier?": "@id",
-    "Variable / Field Name": "skos:altLabel",
+    "Variable / Field Name": "@id",
     "Item Display Name": "skos:prefLabel",
     "Field Note": "schema:description",
     "Section Header": "preamble", // todo: check this

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "screener_instructions1",
+    "@id": "screener_instructions1",
     "preamble": "Screening Probes",
     "ui": {
         "inputType": "markdown-message"

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cspy59",
+    "@id": "cspy59",
     "preamble": "Marked Impairment in Role Function",
     "ui": {
         "allow": [

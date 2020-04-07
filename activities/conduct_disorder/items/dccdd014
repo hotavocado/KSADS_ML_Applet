@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dccdd014",
+    "@id": "dccdd014",
     "preamble": "Has Broken into Someone Else's Property",
     "ui": {
         "allow": [

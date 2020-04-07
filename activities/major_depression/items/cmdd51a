@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cmdd51a",
+    "@id": "cmdd51a",
     "preamble": "Duration of Episodes",
     "ui": {
         "inputType": "text"

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cscr7",
+    "@id": "cscr7",
     "preamble": "Attention Deficit Hyperactivity Disorder (ADHD)",
     "ui": {
         "inputType": "markdown-message"

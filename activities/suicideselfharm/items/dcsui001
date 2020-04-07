@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcsui001",
+    "@id": "dcsui001",
     "preamble": "Suicide",
     "ui": {
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd010",
+    "@id": "dcadd010",
     "preamble": "Difficulty Following Through on Tasks",
     "ui": {
         "allow": [

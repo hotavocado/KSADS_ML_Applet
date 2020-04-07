@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcocd016",
+    "@id": "dcocd016",
     "preamble": "Attempts to suppress/neutralize",
     "ui": {
         "allow": [

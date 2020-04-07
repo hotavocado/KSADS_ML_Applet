@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dctlo020",
+    "@id": "dctlo020",
     "preamble": "Peers",
     "ui": {
         "inputType": "text"

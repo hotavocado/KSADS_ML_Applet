@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "csoc5",
+    "@id": "csoc5",
     "preamble": "Nature of Fear",
     "ui": {
         "inputType": "markdown-message"

@@ -3,6 +3,6 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "ocd_title",
+    "@id": "ocd_title",
     "question": "## Obsessive Compulsive Disorder"
 }

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpsy61",
+    "@id": "cpsy61",
     "preamble": "Marked Impairment in Personal Hygiene and Grooming",
     "ui": {
         "allow": [

@@ -69,6 +69,14 @@
         "conduct_disorder": {
             "@id": "activity_path:conduct_disorder/conduct_disorder_schema",
             "@type": "@id"
+        },
+        "eating_disorders": {
+            "@id": "activity_path:eating_disorders/eating_disorders_schema",
+            "@type": "@id"
+        },
+        "posttraumatic_stress_disorder": {
+            "@id": "activity_path:posttraumatic_stress_disorder/posttraumatic_stress_disorder_schema",
+            "@type": "@id"
         }
     }
 }

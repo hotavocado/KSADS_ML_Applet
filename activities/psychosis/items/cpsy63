@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpsy63",
+    "@id": "cpsy63",
     "preamble": "Digressive, Vague, Over-Elaborate, Circumstantial, Metaphorical, or Poverty of Speech",
     "ui": {
         "allow": [

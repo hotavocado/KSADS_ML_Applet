@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpho25a_fear3",
+    "@id": "cpho25a_fear3",
     "preamble": "Episodes: Onset",
     "ui": {
         "inputType": "text"

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cmdd55",
+    "@id": "cmdd55",
     "preamble": "Atypical Episodes",
     "ui": {
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dccdd028",
+    "@id": "dccdd028",
     "preamble": "Forced Someone into Sexual Activity",
     "ui": {
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd001",
+    "@id": "dcadd001",
     "preamble": "Loses Things",
     "ui": {
         "allow": [

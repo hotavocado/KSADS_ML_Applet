@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd016",
+    "@id": "dcmdd016",
     "preamble": "Sad Mood",
     "ui": {
         "allow": [

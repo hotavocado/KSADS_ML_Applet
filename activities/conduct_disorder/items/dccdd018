@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dccdd018",
+    "@id": "dccdd018",
     "preamble": "Deliberately Engaged in Fire Setting",
     "ui": {
         "allow": [

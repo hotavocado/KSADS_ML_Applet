@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpho067c",
+    "@id": "dcpho067c",
     "preamble": "Worst Fear 3",
     "ui": {
         "allow": [

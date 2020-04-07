@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd104",
+    "@id": "dcmdd104",
     "preamble": "Help Seeking Treatment",
     "ui": {
         "allow": [

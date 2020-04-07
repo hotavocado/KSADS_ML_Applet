@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcsep034",
+    "@id": "dcsep034",
     "preamble": "Episodes: Course",
     "ui": {
         "allow": [

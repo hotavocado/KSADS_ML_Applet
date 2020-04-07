@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd071",
+    "@id": "dcmdd071",
     "preamble": "Psychosis (Episode)",
     "ui": {
         "allow": [

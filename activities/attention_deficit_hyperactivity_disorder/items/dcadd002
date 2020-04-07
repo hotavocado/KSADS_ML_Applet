@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd002",
+    "@id": "dcadd002",
     "preamble": "Difficulty Sustaining Attention in Tasks",
     "ui": {
         "allow": [

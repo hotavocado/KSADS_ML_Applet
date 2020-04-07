@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcodd012",
+    "@id": "dcodd012",
     "preamble": "Swears or Uses Obscene Language",
     "ui": {
         "allow": [

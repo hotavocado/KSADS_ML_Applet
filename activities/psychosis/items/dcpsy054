@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy054",
+    "@id": "dcpsy054",
     "preamble": "Associated Conditions: Hallucinations",
     "ui": {
         "allow": [

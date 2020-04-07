@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy102",
+    "@id": "dcpsy102",
     "preamble": "Persecutory Delusions",
     "ui": {
         "allow": [

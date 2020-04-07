@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cman_end",
+    "@id": "cman_end",
     "ui": {
         "inputType": "markdown-message"
     },

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd154",
+    "@id": "dcmdd154",
     "preamble": "Seasonal Variation",
     "ui": {
         "allow": [

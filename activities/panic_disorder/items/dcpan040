@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpan040",
+    "@id": "dcpan040",
     "preamble": "Associated Conditions: Anxiety",
     "ui": {
         "allow": [

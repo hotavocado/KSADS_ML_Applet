@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cocd_end",
+    "@id": "cocd_end",
     "ui": {
         "inputType": "markdown-message"
     },

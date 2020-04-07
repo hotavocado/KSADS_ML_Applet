@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd032",
+    "@id": "dcadd032",
     "preamble": "Trouble Waiting for Turn",
     "ui": {
         "allow": [

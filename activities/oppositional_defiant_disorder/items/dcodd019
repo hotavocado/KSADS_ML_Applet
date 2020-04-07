@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcodd019",
+    "@id": "dcodd019",
     "preamble": "Impairment: Family",
     "ui": {
         "inputType": "select"

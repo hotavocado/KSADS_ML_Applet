@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "ccdd6",
+    "@id": "ccdd6",
     "preamble": "Often Lies",
     "ui": {
         "inputType": "markdown-message"

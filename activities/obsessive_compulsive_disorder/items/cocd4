@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cocd4",
+    "@id": "cocd4",
     "preamble": "Symptoms: Obsessions",
     "ui": {
         "inputType": "markdown-message"

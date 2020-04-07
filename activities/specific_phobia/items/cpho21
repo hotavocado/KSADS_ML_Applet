@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpho21",
+    "@id": "cpho21",
     "preamble": "Worst Fear 3",
     "ui": {
         "inputType": "markdown-message"

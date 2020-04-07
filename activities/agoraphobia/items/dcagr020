@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcagr020",
+    "@id": "dcagr020",
     "preamble": "Nature of Fear",
     "ui": {
         "allow": [

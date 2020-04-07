@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd024",
+    "@id": "dcadd024",
     "preamble": "Runs or Climbs Excessively",
     "ui": {
         "allow": [

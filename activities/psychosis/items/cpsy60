@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpsy60",
+    "@id": "cpsy60",
     "preamble": "Markedly Peculiar Behavior",
     "ui": {
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpan037",
+    "@id": "dcpan037",
     "preamble": "Avoidance Behavior",
     "ui": {
         "allow": [

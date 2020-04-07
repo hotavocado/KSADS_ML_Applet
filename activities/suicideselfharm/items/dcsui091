@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcsui091",
+    "@id": "dcsui091",
     "preamble": "Attempt 5",
     "responseOptions": {
         "multipleChoice": true,

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcman054",
+    "@id": "dcman054",
     "preamble": "Risk of Painful Consequences",
     "ui": {
         "allow": [

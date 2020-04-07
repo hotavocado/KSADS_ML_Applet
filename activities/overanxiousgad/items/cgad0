@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cgad0",
+    "@id": "cgad0",
     "preamble": "Content of Worry",
     "ui": {
         "inputType": "markdown-message"

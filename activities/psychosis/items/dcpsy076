@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy076",
+    "@id": "dcpsy076",
     "preamble": "Thought Reading",
     "ui": {
         "allow": [

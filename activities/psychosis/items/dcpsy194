@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy194",
+    "@id": "dcpsy194",
     "preamble": "Most Severe Episode",
     "ui": {
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy139",
+    "@id": "dcpsy139",
     "preamble": "Catatonia",
     "ui": {
         "allow": [

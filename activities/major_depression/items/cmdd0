@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cmdd0",
+    "@id": "cmdd0",
     "preamble": "Current Episode",
     "ui": {
         "inputType": "markdown-message"

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cmdd20",
+    "@id": "cmdd20",
     "preamble": "Mordbid Thoughts",
     "ui": {
         "inputType": "markdown-message"

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "screener_title",
+    "@id": "screener_title",
     "ui": {
         "inputType": "markdown-message"
     },

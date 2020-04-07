@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "timeline_title",
+    "@id": "timeline_title",
     "ui": {
         "inputType": "markdown-message"
     },

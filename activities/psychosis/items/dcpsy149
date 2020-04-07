@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy149",
+    "@id": "dcpsy149",
     "preamble": "Inappropriate or Flat Affect",
     "ui": {
         "allow": [

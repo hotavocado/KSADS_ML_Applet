@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcgad047",
+    "@id": "dcgad047",
     "preamble": "Episodes: Onset",
     "ui": {
         "inputType": "text"

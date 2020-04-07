@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cadd15",
+    "@id": "cadd15",
     "preamble": "General Probes: Hyperactivity/Impulsivity",
     "ui": {
         "inputType": "markdown-message"

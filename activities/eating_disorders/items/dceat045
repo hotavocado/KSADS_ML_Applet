@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dceat045",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many months (maxium) did you miss in a row?",
+    "schema:description": "MISSED CYCLES"
+}

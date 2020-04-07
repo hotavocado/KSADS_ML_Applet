@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy091",
+    "@id": "dcpsy091",
     "preamble": "Nilhilistic Delusions",
     "ui": {
         "allow": [

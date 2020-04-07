@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dccdd024",
+    "@id": "dccdd024",
     "preamble": "Often Initiates Physical Fights",
     "ui": {
         "allow": [

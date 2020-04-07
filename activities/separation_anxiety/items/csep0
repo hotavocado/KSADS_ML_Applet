@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "csep0",
+    "@id": "csep0",
     "preamble": "Symptoms",
     "ui": {
         "inputType": "markdown-message"

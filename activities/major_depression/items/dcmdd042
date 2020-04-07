@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd042",
+    "@id": "dcmdd042",
     "preamble": "Psychomotor Changes",
     "ui": {
         "allow": [

@@ -3,8 +3,8 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cocd0",
-    "preamble": "Genenral Probes: Obsessions",
+    "@id": "cocd0",
+    "preamble": "General Probes: Obsessions",
     "ui": {
         "inputType": "markdown-message"
     },

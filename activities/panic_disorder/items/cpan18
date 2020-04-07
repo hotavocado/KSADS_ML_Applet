@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpan18",
+    "@id": "cpan18",
     "preamble": "Episodes: Course",
     "ui": {
         "inputType": "text"

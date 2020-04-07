@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dctlo042",
+    "@id": "dctlo042",
     "preamble": "Parent about child",
     "ui": {
         "allow": [

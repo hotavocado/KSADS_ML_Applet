@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dceat048",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What was the medical disorder?  Specify:"
+}

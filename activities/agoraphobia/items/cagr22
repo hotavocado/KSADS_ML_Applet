@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cagr22",
+    "@id": "cagr22",
     "ui": {
         "inputType": "markdown-message"
     },

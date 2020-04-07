@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcscr145",
+    "@id": "dcscr145",
     "preamble": "Tobacco",
     "ui": {
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cagr9",
+    "@id": "cagr9",
     "preamble": "Distress/Impairment",
     "ui": {
         "inputType": "markdown-message"

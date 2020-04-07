@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "agoraphobia_title",
+    "@id": "agoraphobia_title",
     "ui": {
         "inputType": "markdown-message"
     },

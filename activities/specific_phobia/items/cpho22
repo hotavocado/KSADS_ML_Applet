@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpho22",
+    "@id": "cpho22",
     "preamble": "Distress/Impairment ",
     "ui": {
         "inputType": "markdown-message"

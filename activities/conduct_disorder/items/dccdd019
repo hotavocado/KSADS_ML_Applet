@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dccdd019",
+    "@id": "dccdd019",
     "preamble": "Physically Cruel to Animals",
     "ui": {
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpan8",
+    "@id": "cpan8",
     "preamble": "Alcohol and Drugs",
     "ui": {
         "allow": [

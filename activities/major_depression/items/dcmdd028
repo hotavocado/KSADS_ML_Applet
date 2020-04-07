@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd028",
+    "@id": "dcmdd028",
     "preamble": "Diurnal Variation",
     "ui": {
         "allow": [

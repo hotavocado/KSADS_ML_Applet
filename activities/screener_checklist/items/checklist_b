@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "checklist_b",
+    "@id": "checklist_b",
     "responseOptions": {
         "multipleChoice": true,
         "choices": [

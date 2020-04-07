@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcagr056",
+    "@id": "dcagr056",
     "preamble": "Episodes: Current",
     "ui": {
         "allow": [

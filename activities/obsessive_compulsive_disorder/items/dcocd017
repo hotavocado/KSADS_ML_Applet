@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcocd017",
+    "@id": "dcocd017",
     "preamble": "Person recognizes that the obsessions are the product of his/her own mind, not imposed from without",
     "ui": {
         "allow": [

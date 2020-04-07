@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd135",
+    "@id": "dcmdd135",
     "preamble": "First Lifetime Episode",
     "ui": {
         "inputType": "text"

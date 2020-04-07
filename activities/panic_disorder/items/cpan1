@@ -3,14 +3,14 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpan1",
+    "@id": "cpan1",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: The participant did not endorse any symtoms. End **Panic Disorder** Section._",
+    "question": "_INTERVIEWER: The participant did not endorse any symtoms. End **Panic Disorder** section._",
     "responseOptions": {
         "choices": [
             {

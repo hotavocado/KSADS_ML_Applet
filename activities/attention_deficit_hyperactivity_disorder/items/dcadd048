@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd048",
+    "@id": "dcadd048",
     "preamble": "Episodes: Offset",
     "ui": {
         "allow": [

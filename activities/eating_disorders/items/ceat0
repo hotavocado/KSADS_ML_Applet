@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "ceat0",
+    "preamble": "General Probes",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Earlier you told me some things about your eating habits and your weight. Now I would like to ask you some questions about that. "
+}

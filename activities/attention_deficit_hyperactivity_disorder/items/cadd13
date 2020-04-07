@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cadd13",
+    "@id": "cadd13",
     "ui": {
         "inputType": "text"
     },

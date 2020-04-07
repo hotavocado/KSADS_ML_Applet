@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy126",
+    "@id": "dcpsy126",
     "preamble": "Formal Thought Disorder",
     "ui": {
         "allow": [

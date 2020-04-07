@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcodd011",
+    "@id": "dcodd011",
     "preamble": "Spiteful/Vindictive",
     "ui": {
         "allow": [

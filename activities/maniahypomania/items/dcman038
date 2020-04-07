@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcman038",
+    "@id": "dcman038",
     "preamble": "Racing Thoughts/Flight of Ideas",
     "ui": {
         "allow": [

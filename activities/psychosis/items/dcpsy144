@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy144",
+    "@id": "dcpsy144",
     "preamble": "Grossly Bizarre Behavior",
     "ui": {
         "allow": [

@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.25",
+    "skos:prefLabel": "KSADS v0.26",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -79,6 +79,14 @@
         {
             "variableName": "conduct_disorder",
             "isAbout": "conduct_disorder"
+        },
+        {
+            "variableName": "eating_disorders",
+            "isAbout": "eating_disorders"
+        },
+        {
+            "variableName": "posttraumatic_stress_disorder",
+            "isAbout": "posttraumatic_stress_disorder"
         }
     ],
     "ui": {
@@ -99,7 +107,9 @@
             "obsessive_compulsive_disorder",
             "attention_deficit_hyperactivity_disorder",
             "oppositional_defiant_disorder",
-            "conduct_disorder"
+            "conduct_disorder",
+            "eating_disorders",
+            "posttraumatic_stress_disorder"
         ],
         "shuffle": false,
         "visibility": {
@@ -119,7 +129,9 @@
             "obsessive_compulsive_disorder": true,
             "attention_deficit_hyperactivity_disorder": true,
             "oppositional_defiant_disorder": true,
-            "conduct_disorder": true
+            "conduct_disorder": true,
+            "eating_disorders": true,
+            "posttraumatic_stress_disorder": true
         }
     }
 }

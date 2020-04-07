@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcptd048",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "_INTERVIEWER: Record duration of symptoms. If not clear, ask if it was more or less than one month._ \r\n\r\n _(N months, N years)_"
+}

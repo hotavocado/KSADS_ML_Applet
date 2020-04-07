@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cscr28",
+    "@id": "cscr28",
     "preamble": "Depression",
     "ui": {
         "inputType": "markdown-message"

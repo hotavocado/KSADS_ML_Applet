@@ -1,0 +1,322 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "posttraumatic_stress_disorder": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/activities/posttraumatic_stress_disorder/items/",
+        "ptsd_title": {
+            "@id": "posttraumatic_stress_disorder:ptsd_title",
+            "@type": "@id"
+        },
+        "cptd0": {
+            "@id": "posttraumatic_stress_disorder:cptd0",
+            "@type": "@id"
+        },
+        "cptd3": {
+            "@id": "posttraumatic_stress_disorder:cptd3",
+            "@type": "@id"
+        },
+        "dcptd001a": {
+            "@id": "posttraumatic_stress_disorder:dcptd001a",
+            "@type": "@id"
+        },
+        "dcptd001b": {
+            "@id": "posttraumatic_stress_disorder:dcptd001b",
+            "@type": "@id"
+        },
+        "dcptd001c": {
+            "@id": "posttraumatic_stress_disorder:dcptd001c",
+            "@type": "@id"
+        },
+        "dcptd001d": {
+            "@id": "posttraumatic_stress_disorder:dcptd001d",
+            "@type": "@id"
+        },
+        "dcptd001e": {
+            "@id": "posttraumatic_stress_disorder:dcptd001e",
+            "@type": "@id"
+        },
+        "dcptd002": {
+            "@id": "posttraumatic_stress_disorder:dcptd002",
+            "@type": "@id"
+        },
+        "dcptd003": {
+            "@id": "posttraumatic_stress_disorder:dcptd003",
+            "@type": "@id"
+        },
+        "dcptd004": {
+            "@id": "posttraumatic_stress_disorder:dcptd004",
+            "@type": "@id"
+        },
+        "dcptd005": {
+            "@id": "posttraumatic_stress_disorder:dcptd005",
+            "@type": "@id"
+        },
+        "dcptd006": {
+            "@id": "posttraumatic_stress_disorder:dcptd006",
+            "@type": "@id"
+        },
+        "dcptd007": {
+            "@id": "posttraumatic_stress_disorder:dcptd007",
+            "@type": "@id"
+        },
+        "dcptd008": {
+            "@id": "posttraumatic_stress_disorder:dcptd008",
+            "@type": "@id"
+        },
+        "dcptd009": {
+            "@id": "posttraumatic_stress_disorder:dcptd009",
+            "@type": "@id"
+        },
+        "dcptd010": {
+            "@id": "posttraumatic_stress_disorder:dcptd010",
+            "@type": "@id"
+        },
+        "dcptd011": {
+            "@id": "posttraumatic_stress_disorder:dcptd011",
+            "@type": "@id"
+        },
+        "dcptd012": {
+            "@id": "posttraumatic_stress_disorder:dcptd012",
+            "@type": "@id"
+        },
+        "dcptd013": {
+            "@id": "posttraumatic_stress_disorder:dcptd013",
+            "@type": "@id"
+        },
+        "dcptd014": {
+            "@id": "posttraumatic_stress_disorder:dcptd014",
+            "@type": "@id"
+        },
+        "dcptd015": {
+            "@id": "posttraumatic_stress_disorder:dcptd015",
+            "@type": "@id"
+        },
+        "dcptd016": {
+            "@id": "posttraumatic_stress_disorder:dcptd016",
+            "@type": "@id"
+        },
+        "dcptd017": {
+            "@id": "posttraumatic_stress_disorder:dcptd017",
+            "@type": "@id"
+        },
+        "dcptd018": {
+            "@id": "posttraumatic_stress_disorder:dcptd018",
+            "@type": "@id"
+        },
+        "dcptd019": {
+            "@id": "posttraumatic_stress_disorder:dcptd019",
+            "@type": "@id"
+        },
+        "dcptd020": {
+            "@id": "posttraumatic_stress_disorder:dcptd020",
+            "@type": "@id"
+        },
+        "dcptd021": {
+            "@id": "posttraumatic_stress_disorder:dcptd021",
+            "@type": "@id"
+        },
+        "dcptd022": {
+            "@id": "posttraumatic_stress_disorder:dcptd022",
+            "@type": "@id"
+        },
+        "dcptd023": {
+            "@id": "posttraumatic_stress_disorder:dcptd023",
+            "@type": "@id"
+        },
+        "dcptd024": {
+            "@id": "posttraumatic_stress_disorder:dcptd024",
+            "@type": "@id"
+        },
+        "cptd12": {
+            "@id": "posttraumatic_stress_disorder:cptd12",
+            "@type": "@id"
+        },
+        "dcptd025": {
+            "@id": "posttraumatic_stress_disorder:dcptd025",
+            "@type": "@id"
+        },
+        "cptd14": {
+            "@id": "posttraumatic_stress_disorder:cptd14",
+            "@type": "@id"
+        },
+        "dcptd026": {
+            "@id": "posttraumatic_stress_disorder:dcptd026",
+            "@type": "@id"
+        },
+        "dcptd027": {
+            "@id": "posttraumatic_stress_disorder:dcptd027",
+            "@type": "@id"
+        },
+        "dcptd028": {
+            "@id": "posttraumatic_stress_disorder:dcptd028",
+            "@type": "@id"
+        },
+        "dcptd029": {
+            "@id": "posttraumatic_stress_disorder:dcptd029",
+            "@type": "@id"
+        },
+        "dcptd030": {
+            "@id": "posttraumatic_stress_disorder:dcptd030",
+            "@type": "@id"
+        },
+        "dcptd031": {
+            "@id": "posttraumatic_stress_disorder:dcptd031",
+            "@type": "@id"
+        },
+        "dcptd032": {
+            "@id": "posttraumatic_stress_disorder:dcptd032",
+            "@type": "@id"
+        },
+        "dcptd035": {
+            "@id": "posttraumatic_stress_disorder:dcptd035",
+            "@type": "@id"
+        },
+        "dcptd039": {
+            "@id": "posttraumatic_stress_disorder:dcptd039",
+            "@type": "@id"
+        },
+        "dcptd040": {
+            "@id": "posttraumatic_stress_disorder:dcptd040",
+            "@type": "@id"
+        },
+        "dcptd044": {
+            "@id": "posttraumatic_stress_disorder:dcptd044",
+            "@type": "@id"
+        },
+        "dcptd048": {
+            "@id": "posttraumatic_stress_disorder:dcptd048",
+            "@type": "@id"
+        },
+        "cptd19": {
+            "@id": "posttraumatic_stress_disorder:cptd19",
+            "@type": "@id"
+        },
+        "cptd20": {
+            "@id": "posttraumatic_stress_disorder:cptd20",
+            "@type": "@id"
+        },
+        "dcptd051": {
+            "@id": "posttraumatic_stress_disorder:dcptd051",
+            "@type": "@id"
+        },
+        "dcptd052": {
+            "@id": "posttraumatic_stress_disorder:dcptd052",
+            "@type": "@id"
+        },
+        "dcptd053": {
+            "@id": "posttraumatic_stress_disorder:dcptd053",
+            "@type": "@id"
+        },
+        "dcptd054": {
+            "@id": "posttraumatic_stress_disorder:dcptd054",
+            "@type": "@id"
+        },
+        "dcptd055": {
+            "@id": "posttraumatic_stress_disorder:dcptd055",
+            "@type": "@id"
+        },
+        "dcptd056": {
+            "@id": "posttraumatic_stress_disorder:dcptd056",
+            "@type": "@id"
+        },
+        "cptd25": {
+            "@id": "posttraumatic_stress_disorder:cptd25",
+            "@type": "@id"
+        },
+        "dcptd057": {
+            "@id": "posttraumatic_stress_disorder:dcptd057",
+            "@type": "@id"
+        },
+        "dcptd058": {
+            "@id": "posttraumatic_stress_disorder:dcptd058",
+            "@type": "@id"
+        },
+        "dcptd059": {
+            "@id": "posttraumatic_stress_disorder:dcptd059",
+            "@type": "@id"
+        },
+        "dcptd060": {
+            "@id": "posttraumatic_stress_disorder:dcptd060",
+            "@type": "@id"
+        },
+        "dcptd061": {
+            "@id": "posttraumatic_stress_disorder:dcptd061",
+            "@type": "@id"
+        },
+        "dcptd062": {
+            "@id": "posttraumatic_stress_disorder:dcptd062",
+            "@type": "@id"
+        },
+        "dcptd064": {
+            "@id": "posttraumatic_stress_disorder:dcptd064",
+            "@type": "@id"
+        },
+        "dcptd065": {
+            "@id": "posttraumatic_stress_disorder:dcptd065",
+            "@type": "@id"
+        },
+        "dcptd066": {
+            "@id": "posttraumatic_stress_disorder:dcptd066",
+            "@type": "@id"
+        },
+        "dcptd067": {
+            "@id": "posttraumatic_stress_disorder:dcptd067",
+            "@type": "@id"
+        },
+        "dcptd068": {
+            "@id": "posttraumatic_stress_disorder:dcptd068",
+            "@type": "@id"
+        },
+        "dcptd069": {
+            "@id": "posttraumatic_stress_disorder:dcptd069",
+            "@type": "@id"
+        },
+        "cptd27": {
+            "@id": "posttraumatic_stress_disorder:cptd27",
+            "@type": "@id"
+        },
+        "dcptd073": {
+            "@id": "posttraumatic_stress_disorder:dcptd073",
+            "@type": "@id"
+        },
+        "dcptd074": {
+            "@id": "posttraumatic_stress_disorder:dcptd074",
+            "@type": "@id"
+        },
+        "dcptd075": {
+            "@id": "posttraumatic_stress_disorder:dcptd075",
+            "@type": "@id"
+        },
+        "dcptd076": {
+            "@id": "posttraumatic_stress_disorder:dcptd076",
+            "@type": "@id"
+        },
+        "dcptd077": {
+            "@id": "posttraumatic_stress_disorder:dcptd077",
+            "@type": "@id"
+        },
+        "dcptd078": {
+            "@id": "posttraumatic_stress_disorder:dcptd078",
+            "@type": "@id"
+        },
+        "dcptd079": {
+            "@id": "posttraumatic_stress_disorder:dcptd079",
+            "@type": "@id"
+        },
+        "dcptd080": {
+            "@id": "posttraumatic_stress_disorder:dcptd080",
+            "@type": "@id"
+        },
+        "dcptd081": {
+            "@id": "posttraumatic_stress_disorder:dcptd081",
+            "@type": "@id"
+        },
+        "dcptd082": {
+            "@id": "posttraumatic_stress_disorder:dcptd082",
+            "@type": "@id"
+        },
+        "cptd_end": {
+            "@id": "posttraumatic_stress_disorder:cptd_end",
+            "@type": "@id"
+        }
+    }
+}

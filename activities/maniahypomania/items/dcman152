@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcman152",
+    "@id": "dcman152",
     "preamble": "Number of Episodes",
     "ui": {
         "inputType": "text"

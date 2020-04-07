@@ -3,8 +3,8 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cocd5",
-    "preamble": "Genenral Probes: Compulsions",
+    "@id": "cocd5",
+    "preamble": "General Probes: Compulsions",
     "ui": {
         "inputType": "markdown-message"
     },

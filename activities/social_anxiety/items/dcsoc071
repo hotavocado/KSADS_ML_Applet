@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcsoc071",
+    "@id": "dcsoc071",
     "preamble": "Help-Seeking Treatment (Lifetime)",
     "ui": {
         "allow": [

@@ -3,6 +3,6 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "panic_disorder_title",
+    "@id": "panic_disorder_title",
     "question": "## Panic Disorder"
 }

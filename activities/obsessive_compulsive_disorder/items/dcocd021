@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcocd021",
+    "@id": "dcocd021",
     "preamble": "Time consumption",
     "ui": {
         "allow": [

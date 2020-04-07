@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpho075_fear2",
+    "@id": "dcpho075_fear2",
     "ui": {
         "inputType": "text"
     },

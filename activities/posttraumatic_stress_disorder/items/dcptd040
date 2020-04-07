@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcptd040",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "_INTERVIEWER: Record age of onset of symptoms using information from the previous questions._"
+}

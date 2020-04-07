@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd028",
+    "@id": "dcadd028",
     "preamble": "Difficulty Staying Seated",
     "ui": {
         "allow": [

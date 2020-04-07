@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcman024",
+    "@id": "dcman024",
     "preamble": "Increased Activity/Restlessness",
     "ui": {
         "allow": [

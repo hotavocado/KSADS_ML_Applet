@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcsep027",
+    "@id": "dcsep027",
     "preamble": "Distress",
     "ui": {
         "inputType": "select"

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcadd008",
+    "@id": "dcadd008",
     "preamble": "Avoids/Dislikes Tasks Requiring Attention",
     "ui": {
         "allow": [

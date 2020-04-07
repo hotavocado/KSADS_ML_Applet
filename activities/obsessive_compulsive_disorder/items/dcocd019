@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcocd019",
+    "@id": "dcocd019",
     "preamble": "Marked Distress",
     "ui": {
         "allow": [

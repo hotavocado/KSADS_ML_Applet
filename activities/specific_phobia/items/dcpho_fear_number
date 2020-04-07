@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpho_fear_number",
+    "@id": "dcpho_fear_number",
     "ui": {
         "inputType": "radio"
     },

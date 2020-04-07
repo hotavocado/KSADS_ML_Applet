@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy059",
+    "@id": "dcpsy059",
     "preamble": "Notes: Hallucinations",
     "ui": {
         "inputType": "text"

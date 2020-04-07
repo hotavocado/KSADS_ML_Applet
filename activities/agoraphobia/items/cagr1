@@ -3,14 +3,14 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cagr1",
+    "@id": "cagr1",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: The participant did not endorse any fears. End **Agoraphobia** Section._",
+    "question": "_INTERVIEWER: The participant did not endorse any fears. End **Agoraphobia** section._",
     "responseOptions": {
         "choices": [
             {

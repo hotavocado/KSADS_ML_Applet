@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcmdd069",
+    "@id": "dcmdd069",
     "preamble": "Symptom Frequency",
     "ui": {
         "allow": [

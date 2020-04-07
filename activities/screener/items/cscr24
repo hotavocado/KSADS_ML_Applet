@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cscr24",
+    "@id": "cscr24",
     "preamble": "Obsessive Compulsive Disorder",
     "ui": {
         "inputType": "markdown-message"

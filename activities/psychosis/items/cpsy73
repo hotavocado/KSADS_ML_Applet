@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cpsy73",
+    "@id": "cpsy73",
     "preamble": "Duration of Most Recent Episode",
     "ui": {
         "inputType": "text"

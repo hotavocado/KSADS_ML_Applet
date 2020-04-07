@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cagr16",
+    "@id": "cagr16",
     "preamble": "Episodes: Onset",
     "ui": {
         "inputType": "text"

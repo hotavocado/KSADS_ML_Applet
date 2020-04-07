@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcocd040",
+    "@id": "dcocd040",
     "preamble": "Recognizes that behavior is excessive/unreasonable (may not be present for children)",
     "ui": {
         "allow": [

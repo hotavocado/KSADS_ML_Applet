@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dccdd011",
+    "@id": "dccdd011",
     "preamble": "Often Truant from School",
     "ui": {
         "allow": [

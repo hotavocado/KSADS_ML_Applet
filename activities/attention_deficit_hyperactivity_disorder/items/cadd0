@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cadd0",
+    "@id": "cadd0",
     "preamble": "General Probes: Inattention",
     "ui": {
         "inputType": "markdown-message"

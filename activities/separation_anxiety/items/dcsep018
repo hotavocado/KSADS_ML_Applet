@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcsep018",
+    "@id": "dcsep018",
     "ui": {
         "allow": [
             "autoAdvance"

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcscr050",
+    "@id": "dcscr050",
     "preamble": "Panic Disorder Course",
     "ui": {
         "inputType": "text"

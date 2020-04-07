@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "dcpsy086",
+    "@id": "dcpsy086",
     "preamble": "Delusions of Grandiosity",
     "ui": {
         "allow": [

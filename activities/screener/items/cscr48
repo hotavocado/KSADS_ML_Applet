@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "cscr48",
+    "@id": "cscr48",
     "preamble": "Post Traumatic Stress Disorder",
     "ui": {
         "inputType": "markdown-message"

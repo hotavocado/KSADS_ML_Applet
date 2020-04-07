@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "mania_title",
+    "@id": "mania_title",
     "ui": {
         "inputType": "markdown-message"
     },
