@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "codd21a",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "text"
     },
     "question": "What was the longest period of time that you did not do (list behavior)? \r\n\r\n _(N weeks, N months, N years)_"
 }

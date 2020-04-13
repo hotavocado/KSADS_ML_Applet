@@ -48,10 +48,6 @@
             "isAbout": "dccdd007"
         },
         {
-            "variableName": "ccdd6",
-            "isAbout": "ccdd6"
-        },
-        {
             "variableName": "dccdd008",
             "isAbout": "dccdd008"
         },
@@ -351,7 +347,6 @@
             "dccdd005",
             "dccdd006",
             "dccdd007",
-            "ccdd6",
             "dccdd008",
             "dccdd009",
             "dccdd010",
@@ -436,7 +431,6 @@
             "dccdd005": "dccdd003 == 1",
             "dccdd006": true,
             "dccdd007": true,
-            "ccdd6": true,
             "dccdd008": true,
             "dccdd009": true,
             "dccdd010": true,

@@ -15,9 +15,13 @@
         "choices": [
             {
                 "schema:value": 0,
-                "schema:name": "No| 1",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/Yes.png"
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 9,

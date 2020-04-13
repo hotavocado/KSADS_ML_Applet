@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Because of the number of toys/stuff you collect or save, how difficult is it for you to use/play in _(if  under 12 years of age)_ your room, playroom, closet, or other room in your home?",
+    "question": "Because of the number of toys/stuff you collect or save, how difficult is it for you to use/_(\"play in\" if  under 12 years of age)_ your room, playroom, closet, or other room in your home?",
     "responseOptions": {
         "choices": [
             {

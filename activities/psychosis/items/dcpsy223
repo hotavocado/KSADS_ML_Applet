@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dcpsy223",
     "ui": {
+        "allow": [
+            "dontKnow"
+        ],
         "inputType": "text"
     },
     "question": "Code (Professional/Treatment):",

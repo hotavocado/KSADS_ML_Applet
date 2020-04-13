@@ -4,5 +4,8 @@
     ],
     "@type": "reproschema:Field",
     "@id": "panic_disorder_title",
+    "ui": {
+        "inputType": "markdown-message"
+    },
     "question": "## Panic Disorder"
 }

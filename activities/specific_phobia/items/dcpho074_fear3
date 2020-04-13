@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho074_fear3",
-    "preamble": "Episodes: Offset",
+    "preamble": "Worst Fear 3: Offset",
     "ui": {
         "allow": [
             "autoAdvance"

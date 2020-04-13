@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho074_fear2",
-    "preamble": "Episodes: Offset",
     "ui": {
         "allow": [
             "autoAdvance"

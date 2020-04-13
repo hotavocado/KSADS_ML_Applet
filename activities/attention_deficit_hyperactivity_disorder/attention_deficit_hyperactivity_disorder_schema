@@ -112,10 +112,6 @@
             "isAbout": "dcadd024"
         },
         {
-            "variableName": "cadd18",
-            "isAbout": "cadd18"
-        },
-        {
             "variableName": "dcadd026",
             "isAbout": "dcadd026"
         },
@@ -383,7 +379,6 @@
             "cadd14",
             "cadd15",
             "dcadd024",
-            "cadd18",
             "dcadd026",
             "dcadd027",
             "dcadd028",
@@ -472,7 +467,6 @@
             "cadd14": "dcadd019 == 0",
             "cadd15": true,
             "dcadd024": true,
-            "cadd18": true,
             "dcadd026": true,
             "dcadd027": true,
             "dcadd028": true,

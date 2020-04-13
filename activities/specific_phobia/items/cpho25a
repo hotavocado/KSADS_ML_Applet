@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpho25a",
-    "preamble": "Episodes: Onset",
+    "preamble": "Worst Fear 1: Onset",
     "ui": {
         "inputType": "text"
     },

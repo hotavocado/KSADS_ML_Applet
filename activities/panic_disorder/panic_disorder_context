@@ -242,10 +242,6 @@
             "@id": "panic_disorder:dcpan059",
             "@type": "@id"
         },
-        "cpan15": {
-            "@id": "panic_disorder:cpan15",
-            "@type": "@id"
-        },
         "cpan18": {
             "@id": "panic_disorder:cpan18",
             "@type": "@id"

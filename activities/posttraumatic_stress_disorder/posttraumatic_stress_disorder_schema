@@ -196,10 +196,6 @@
             "isAbout": "dcptd048"
         },
         {
-            "variableName": "cptd19",
-            "isAbout": "cptd19"
-        },
-        {
             "variableName": "cptd20",
             "isAbout": "cptd20"
         },
@@ -376,7 +372,6 @@
             "dcptd040",
             "dcptd044",
             "dcptd048",
-            "cptd19",
             "cptd20",
             "dcptd051",
             "dcptd052",
@@ -458,7 +453,6 @@
             "dcptd040": true,
             "dcptd044": true,
             "dcptd048": true,
-            "cptd19": true,
             "cptd20": true,
             "dcptd051": true,
             "dcptd052": true,

@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "ceat12",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "text"
     },
     "question": "How long did this (name compensatory behavior) period last? \r\n\r\n _(N days, N weeks, N months)_"
 }

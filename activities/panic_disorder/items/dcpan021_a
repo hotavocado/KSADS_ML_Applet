@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Was the reported duration **greater** than 10 minutes?",
+    "question": "_INTERVIEWER: Was the reported duration **greater** than 10 minutes?_",
     "responseOptions": {
         "choices": [
             {

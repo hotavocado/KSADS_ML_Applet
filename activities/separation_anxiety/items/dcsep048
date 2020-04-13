@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dcsep048",
     "ui": {
+        "allow": [
+            "dontKnow"
+        ],
         "inputType": "text"
     },
     "question": "Code (Professional/Treatment):",

@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho068",
-    "preamble": "Distress",
+    "preamble": "Worst Fear 3: Distress",
     "ui": {
         "inputType": "select"
     },

@@ -186,10 +186,6 @@
             "@id": "posttraumatic_stress_disorder:dcptd048",
             "@type": "@id"
         },
-        "cptd19": {
-            "@id": "posttraumatic_stress_disorder:cptd19",
-            "@type": "@id"
-        },
         "cptd20": {
             "@id": "posttraumatic_stress_disorder:cptd20",
             "@type": "@id"

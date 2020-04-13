@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho076_fear3",
-    "preamble": "Episodes: Course",
+    "preamble": "Worst Fear 3: Course",
     "ui": {
         "allow": [
             "autoAdvance"

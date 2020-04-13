@@ -38,10 +38,6 @@
             "@id": "conduct_disorder:dccdd007",
             "@type": "@id"
         },
-        "ccdd6": {
-            "@id": "conduct_disorder:ccdd6",
-            "@type": "@id"
-        },
         "dccdd008": {
             "@id": "conduct_disorder:dccdd008",
             "@type": "@id"

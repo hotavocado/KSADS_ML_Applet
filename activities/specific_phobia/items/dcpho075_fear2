@@ -4,6 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho075_fear2",
+    "preamble": "Worst Fear 2: Offset",
     "ui": {
         "inputType": "text"
     },

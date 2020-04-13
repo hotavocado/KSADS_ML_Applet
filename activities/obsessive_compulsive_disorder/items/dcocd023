@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Does participant meet criteria for obsessions? ",
+    "question": "_INTERVIEWER: Does participant meet criteria for obsessions? _",
     "responseOptions": {
         "choices": [
             {

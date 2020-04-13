@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd026",
-    "preamble": "Difficulty Playing Quite",
+    "preamble": "Difficulty Playing Quietly",
     "ui": {
         "allow": [
             "autoAdvance"
