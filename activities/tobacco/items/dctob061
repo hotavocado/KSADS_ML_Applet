@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dctob061",
+    "preamble": "Course: Quitting",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many different times did you ever try really hard to quit smoking?",
+    "schema:description": "TIMES"
+}

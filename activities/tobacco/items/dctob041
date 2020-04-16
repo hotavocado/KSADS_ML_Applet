@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dctob041",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many times did you try to cut down or quit?",
+    "schema:description": "TIMES"
+}

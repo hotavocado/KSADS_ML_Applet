@@ -1,0 +1,23 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "calc5",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: The participant never drank alcohol. End **Alcohol Abuse and Dependence**  Section. ",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "End Section",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

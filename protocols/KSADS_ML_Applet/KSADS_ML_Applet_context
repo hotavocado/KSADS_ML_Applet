@@ -77,6 +77,14 @@
         "posttraumatic_stress_disorder": {
             "@id": "activity_path:posttraumatic_stress_disorder/posttraumatic_stress_disorder_schema",
             "@type": "@id"
+        },
+        "tobacco": {
+            "@id": "activity_path:tobacco/tobacco_schema",
+            "@type": "@id"
+        },
+        "alcohol_abusedependence": {
+            "@id": "activity_path:alcohol_abusedependence/alcohol_abusedependence_schema",
+            "@type": "@id"
         }
     }
 }

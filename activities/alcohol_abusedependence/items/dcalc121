@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcalc121",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What did the professional(s) (doctors) say was the problem? (diagnoses given)? List:     "
+}

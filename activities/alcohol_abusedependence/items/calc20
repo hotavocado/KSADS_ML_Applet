@@ -1,0 +1,23 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "calc20",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "_INTERVIEWER: Participant did not endorse any abuse/dependence questions. End **Alcohol Abuse and Dependence** Section._",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "End Section",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

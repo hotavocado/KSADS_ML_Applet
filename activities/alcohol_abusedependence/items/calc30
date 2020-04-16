@@ -1,0 +1,27 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "calc30",
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "Out-patient (Going to an office to see someone or participating in group treatment not in a hospital)| 2",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/In-patient (Residential/hospital).png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Other",
+                "@type": "schema:option"
+            }
+        ]
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "What kind of treatment(s) have you gotten? _(Check all that apply)_"
+}

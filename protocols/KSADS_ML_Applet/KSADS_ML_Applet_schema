@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "KSADS_ML_Applet_schema",
-    "skos:prefLabel": "KSADS v0.27",
+    "skos:prefLabel": "KSADS v0.28",
     "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
@@ -87,6 +87,14 @@
         {
             "variableName": "posttraumatic_stress_disorder",
             "isAbout": "posttraumatic_stress_disorder"
+        },
+        {
+            "variableName": "tobacco",
+            "isAbout": "tobacco"
+        },
+        {
+            "variableName": "alcohol_abusedependence",
+            "isAbout": "alcohol_abusedependence"
         }
     ],
     "ui": {
@@ -109,7 +117,9 @@
             "oppositional_defiant_disorder",
             "conduct_disorder",
             "eating_disorders",
-            "posttraumatic_stress_disorder"
+            "posttraumatic_stress_disorder",
+            "tobacco",
+            "alcohol_abusedependence"
         ],
         "shuffle": false,
         "visibility": {
@@ -131,7 +141,9 @@
             "oppositional_defiant_disorder": true,
             "conduct_disorder": true,
             "eating_disorders": true,
-            "posttraumatic_stress_disorder": true
+            "posttraumatic_stress_disorder": true,
+            "tobacco": true,
+            "alcohol_abusedependence": true
         }
     }
 }

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dctob023",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What is the most number of cigars or pipes you ever smoked?"
+}

@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dctob057",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What month and year? \r\n\r\n  _(Record  the month and year in this format, 01/2000)_",
+    "schema:description": "MONTH"
+}

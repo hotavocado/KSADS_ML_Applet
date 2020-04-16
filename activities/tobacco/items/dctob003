@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dctob003",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you the very first time you ever used smokeless tobacco?  \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._"
+}

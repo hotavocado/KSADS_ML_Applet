@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dctob025",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "How many times did you ever use chewing tobacco?"
+}

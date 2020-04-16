@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcalc023",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How long ago did you stop drinking that much?"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "calc7",
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "With family",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "With friends",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Religious occasions",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "Alone",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "Other",
+                "@type": "schema:option"
+            }
+        ]
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": "In what context did you have your first drink? (Check all that apply)"
+}

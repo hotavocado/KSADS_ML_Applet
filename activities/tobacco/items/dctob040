@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dctob040",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you the first time? \r\n\r\n _(N weeks, N months, N years)_",
+    "schema:description": "AGE"
+}
