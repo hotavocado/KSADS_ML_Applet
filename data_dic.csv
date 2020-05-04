@@ -1873,7 +1873,7 @@ dctob018,tobacco,Tobacco,,,1,checkbox,What is the reason that you never smoked o
 dctob019,tobacco,Tobacco,,,,text,Specify (Other): ,,,,,,,[dctob018].includes(10),,,,,,,
 dctob021,tobacco,Tobacco,,,,text,What is the most number of cigarettes you ever smoked?,,,,,,,[dctob017] = '0',,,,,,,
 dctob023,tobacco,Tobacco,,,,text,What is the most number of cigars or pipes you ever smoked?,,,,,,,[dctob017] = '0',,,,,,,
-dctob025,tobacco,Tobacco,,,,radio,How many times did you ever use chewing tobacco?,,,,,,,[dctob017] = '0',,,,,,,
+dctob025,tobacco,Tobacco,,,,text,How many times did you ever use chewing tobacco?,,,,,,,[dctob017] = '0',,,,,,,
 ctob3,tobacco,Tobacco,,,,radio,"_INTERVIEWER: Participant never used tobacco weekly, END **Tobacco** Section._","1, End Section",,,,,,[dctob017] = '0',,,,,,,
 dctob027,tobacco,Tobacco,,,,text,"How old were you the very first time you smoked tobacco at least once a week?   \r\n\r\n _Code 998 if ""always"", 999 if ""unknown""._",,AGE,autocomplete,,,,[ctob3] != 1,,,,,,,
 ctob4,tobacco,Tobacco,,,,text,"For how long did you smoke this much? \r\n\r\n _(N weeks, N months, N years)_",,,,,,,[ctob3] != 1,,,,,,,

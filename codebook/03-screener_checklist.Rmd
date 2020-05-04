@@ -1,10 +1,10 @@
-# Headache {#headache_section}
+# Screener Checklist {#screener_checklist}
 
 ```{r, include=FALSE}
 
 #get names of all questions from this section and generate codebook item objects for each
 
-sectionQuestions <- unique(filter(dataDic, section == 'Headache')$`Variable / Field Name`)
+sectionQuestions <- unique(filter(dataDic, `Form Name` == 'screener_checklist')$`Variable / Field Name`)
 
 sectionContent <- lapply(sectionQuestions, function(itemName) knit_expand(file = 'templates/itemTemplate.Rmd'))
 

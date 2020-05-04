@@ -1,10 +1,10 @@
-# Morning and Sleep Behavior {#morning_section}
+# Agoraphobia {#agoraphobia_section}
 
 ```{r, include=FALSE}
 
 #get names of all questions from this section and generate codebook item objects for each
 
-sectionQuestions <- unique(filter(dataDic, section == 'Morning and Sleep Behavior')$`Variable / Field Name`)
+sectionQuestions <- unique(filter(dataDic, `Form Name` == 'agoraphobia')$`Variable / Field Name`)
 
 sectionContent <- lapply(sectionQuestions, function(itemName) knit_expand(file = 'templates/itemTemplate.Rmd'))
 

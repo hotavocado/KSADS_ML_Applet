@@ -1,10 +1,10 @@
-# Mood Circumplex and Physical States {#mood_section}
+# Eating Disorders {#eating_disorders_section}
 
 ```{r, include=FALSE}
 
 #get names of all questions from this section and generate codebook item objects for each
 
-sectionQuestions <- unique(filter(dataDic, section == 'Mood Circumplex and Physical States')$`Variable / Field Name`)
+sectionQuestions <- unique(filter(dataDic, `Form Name` == 'eating_disorders')$`Variable / Field Name`)
 
 sectionContent <- lapply(sectionQuestions, function(itemName) knit_expand(file = 'templates/itemTemplate.Rmd'))
 

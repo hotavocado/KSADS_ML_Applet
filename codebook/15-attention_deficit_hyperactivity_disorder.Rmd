@@ -1,10 +1,10 @@
-# Positive and Negative Thoughts {#thoughts_section}
+# Attention Deficit Hyperactivity Disorder  {#adhd_section}
 
 ```{r, include=FALSE}
 
 #get names of all questions from this section and generate codebook item objects for each
 
-sectionQuestions <- unique(filter(dataDic, section == 'Positive and Negative Thoughts')$`Variable / Field Name`)
+sectionQuestions <- unique(filter(dataDic, `Form Name` == 'attention_deficit_hyperactivity_disorder')$`Variable / Field Name`)
 
 sectionContent <- lapply(sectionQuestions, function(itemName) knit_expand(file = 'templates/itemTemplate.Rmd'))
 
@@ -12,4 +12,3 @@ sectionContent <- lapply(sectionQuestions, function(itemName) knit_expand(file =
 
 
 `r knit(text = unlist(sectionContent))`
-

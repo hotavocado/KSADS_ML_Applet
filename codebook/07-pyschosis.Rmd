@@ -1,10 +1,10 @@
-# Internet and Social Media (Morning) {#internetMn_section}
+# Psychosis {#activity_section}
 
 ```{r, include=FALSE}
 
 #get names of all questions from this section and generate codebook item objects for each
 
-sectionQuestions <- unique(filter(dataDic, section == 'Internet and Social Media (Morning)')$`Variable / Field Name`)
+sectionQuestions <- unique(filter(dataDic, `Form Name` == 'psychosis')$`Variable / Field Name`)
 
 sectionContent <- lapply(sectionQuestions, function(itemName) knit_expand(file = 'templates/itemTemplate.Rmd'))
 

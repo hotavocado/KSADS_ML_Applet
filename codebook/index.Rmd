@@ -6,7 +6,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a codebook that documents all of the items in the current version of the HBN EMA Applet for Mindlogger."
+description: "This is a codebook that documents all of the items in the current version of the NIMH KSADS applet for MindLogger."
 ---
 
 
@@ -23,13 +23,13 @@ library(formattable)
 #webshot::install_phantomjs()
 
 #where the data dictionary for the applet is hosted:
-dataPath <- getURL("https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/data_dic_new.csv")
+dataPath <- getURL("https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/data_dic.csv")
 
 dataDic <- read_csv(dataPath)
 
 #dataDic <- read_csv('/Users/mike.xiao/Documents/GitHub/HBN_EMA_NIMH2/data_dic_new.csv')
 
-
+imagePath = 'imagePath'
 
 
 
@@ -147,8 +147,9 @@ getInputType <- function (dataset, question_name) {
   
   multipleChoice <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[['multipleChoice']])
   
-  allInputType <- c('markdown-message', 'radio', 'slider', 'time', 'timeRange')
-  allInputText <- c('User Message/instructions', 'Single-select radio button', 'Slider bar', 'Time input', 'Time-range input')
+  allInputType <- c('markdown-message', 'radio', 'slider', 'time', 'timeRange', 'dropdown', 'date', 'notes', 'text', 'descriptive', 'checkbox')
+  
+  allInputText <- c('User Message/instructions', 'Single-select radio button', 'Slider bar', 'Time input', 'Time-range input', 'Dropdown select', 'Date picker', 'Text input', 'Text input', 'User Message/instructions', 'Multi-select checkbox')
   inputDic <- setNames(as.list(allInputText), allInputType)
   
   
@@ -211,9 +212,27 @@ parseResponse <- function(dataset, question_name) {
     
   }
   
-   else if (choiceType == 'markdown-message') {
+   else if (choiceType == 'date') {
     
-    return('**Responses**: _This item is text response_')
+    return('**Responses**: _Date via date picker widget_')
+    
+   }
+  
+  else if (choiceType == 'text') {
+    
+    return('**Responses**: _Free text entry_')
+    
+  }
+  
+  else if (choiceType == 'notes') {
+    
+    return('**Responses**: _Free text entry_')
+    
+  }
+  
+  else if (choiceType == 'descriptive') {
+    
+    return('**Responses**: _This item is a markdown message_')
     
   }
   
@@ -257,34 +276,26 @@ parseResponse <- function(dataset, question_name) {
 ```
 
 ---
-title: "`r paste0('Applet Codebook: HBN EMA for Mindlogger ', dataDic$version[[1]])`"
+title: "`r paste0('Applet Codebook: NIMH KSADS ', dataDic$version[[1]])`"
 ---
 
 
 
-# (PART) Protocol Intro {-}
+# (PART) About {-}
 
-# Intro To Protocol (IN PROGRESS) {#intro .unnumbered} 
+# About this applet {#intro .unnumbered} 
 
-## NIMH - EMA: Daily Assessments
+This applet was made based on the NIMH KSADS on Redcap. These sections are in currently in progress:
 
-This MindLogger applet collects daily information on your physical and mental health. 
-You will be asked a set of questions multiple times a day. We will record the information and share it with you and our researchers so we can look for patterns in the data.
++ Register Interview Child Psychiatric
++ Alcohol Abuse and Dependence
++ Drug Use
++ Caffeine
++ Interviewer Observation
++ GAF Scale
++ Interviewer Notes
 
-Answer these questions to the best of your ability. It is okay if you don't know the answers to some of them!
+The data dictionary used to generate this applet is [here](https://github.com/hotavocado/KSADS_ML_Applet/blob/master/data_dic.csv).
 
-### ☀️ Example topics for questions in the morning
-
-* 🛌 how many hours you have slept
-* 😴 whether or not you had nightmares or night terrors
-* 💊 if you took any sleep aids
-
-### 🌙 Example topics for questions during midday and in the evening
-
-* 😰 stress level
-* ⚡️  energy level
-* 🏥 overall health
-
-Thank you for your participation!
 
 *These questions were constructed as part of a collaboration between the National Institute of Mental Health and the MATTER Lab of the Child Mind Institute (https://matter.childmind.org).*
