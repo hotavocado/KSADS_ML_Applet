@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Applet Codebook: NIMH KSADS v0.28</title>
+  <title>Section 5 Mania/Hypomania | Applet Codebook: NIMH KSADS v0.28</title>
   <meta name="description" content="This is a codebook that documents all of the items in the current version of the NIMH KSADS applet for MindLogger." />
   <meta name="generator" content="bookdown 0.17 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Applet Codebook: NIMH KSADS v0.28" />
+  <meta property="og:title" content="Section 5 Mania/Hypomania | Applet Codebook: NIMH KSADS v0.28" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Applet Codebook: NIMH KSADS v0.28" />
+  <meta name="twitter:title" content="Section 5 Mania/Hypomania | Applet Codebook: NIMH KSADS v0.28" />
   
   <meta name="twitter:description" content="This is a codebook that documents all of the items in the current version of the NIMH KSADS applet for MindLogger." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="timeline-section.html"/>
+<link rel="prev" href="context-section.html"/>
+<link rel="next" href="suicide-section.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -1978,38 +1978,4418 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Applet Codebook: NIMH KSADS v0.28</h1>
-<p class="author"><em>Mike X.</em></p>
-<p class="date"><em>2020-05-03</em></p>
+<div id="mania_section" class="section level1">
+<h1><span class="header-section-number">Section 5</span> Mania/Hypomania</h1>
+<div id="mania_title" class="section level2">
+<h2><span class="header-section-number">5.1</span> mania_title</h2>
+<p><strong>Question</strong>: “## Mania/Hypomania”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
 </div>
-<div id="intro" class="section level1 unnumbered">
-<h1>About this applet</h1>
-<p>This applet was made based on the NIMH KSADS on Redcap. These sections are in currently in progress:</p>
-<ul>
-<li>Register Interview Child Psychiatric</li>
-<li>Tobacco</li>
-<li>Alcohol Abuse and Dependence</li>
-<li>Drug Use</li>
-<li>Caffeine</li>
-<li>Interviewer Observation</li>
-<li>GAF Scale</li>
-<li>Interviewer Notes</li>
-</ul>
-<p>The data dictionary used to generate this applet is <a href="https://github.com/hotavocado/KSADS_ML_Applet/blob/master/data_dic.csv">here</a>.</p>
-<p><em>These questions were constructed as part of a collaboration between the National Institute of Mental Health and the MATTER Lab of the Child Mind Institute (<a href="https://matter.childmind.org" class="uri">https://matter.childmind.org</a>).</em></p>
+<div id="cman0" class="section level2">
+<h2><span class="header-section-number">5.2</span> cman0</h2>
+<p><strong>Question</strong>: “Some young people have times when they are energetic, or cheerful, very different from how they usually feel. At these times, they may also feel more talkative, more active, sleep less and feel more restless.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcman001" class="section level2">
+<h2><span class="header-section-number">5.3</span> dcman001</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;So you said that you had a time when you’ve felt (more active, excited, energetic):</p>
+<p>Do you feel this way now?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman002" class="section level2">
+<h2><span class="header-section-number">5.4</span> dcman002</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How old were you the last time you felt this way?</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman001">dcman001</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman1" class="section level2">
+<h2><span class="header-section-number">5.5</span> cman1</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long did you feel this way?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman001">dcman001</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman2" class="section level2">
+<h2><span class="header-section-number">5.6</span> cman2</h2>
+<p><strong>Question</strong>: “How old were you when this ended?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman001">dcman001</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman3" class="section level2">
+<h2><span class="header-section-number">5.7</span> cman3</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long have you felt this way?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman001">dcman001</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman012" class="section level2">
+<h2><span class="header-section-number">5.8</span> dcman012</h2>
+<p><strong>Question</strong>: “Was there a time that was more intense or lasted longer than this time?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman013" class="section level2">
+<h2><span class="header-section-number">5.9</span> dcman013</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How old were you when you felt this way?</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman012">dcman012</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman4" class="section level2">
+<h2><span class="header-section-number">5.10</span> cman4</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long did you feel this way?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman012">dcman012</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman5" class="section level2">
+<h2><span class="header-section-number">5.11</span> cman5</h2>
+<p><strong>Question</strong>: “How old were you when this ended?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman012">dcman012</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman6" class="section level2">
+<h2><span class="header-section-number">5.12</span> cman6</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;<em>INTERVIEWER: Code the most intense episode.</em></p>
+<p>Now I would like to talk to you about that time.&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcman020" class="section level2">
+<h2><span class="header-section-number">5.13</span> dcman020</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;During this time, did you:</p>
+<p>Feel really, really happy or excited much more than usual?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman022" class="section level2">
+<h2><span class="header-section-number">5.14</span> dcman022</h2>
+<p><strong>Question</strong>: “Feel grouchy, cranky, or irritable? When the smallest things would make you really mad?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman023" class="section level2">
+<h2><span class="header-section-number">5.15</span> dcman023</h2>
+<p><strong>Question</strong>: “Get easily mad or annoyed?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman024" class="section level2">
+<h2><span class="header-section-number">5.16</span> dcman024</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;During this time:</p>
+<p>Did you get through your school work much more easily or faster than usual?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman025" class="section level2">
+<h2><span class="header-section-number">5.17</span> dcman025</h2>
+<p><strong>Question</strong>: “Did you spend much more time with your friends or were you going out more than usual?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman026" class="section level2">
+<h2><span class="header-section-number">5.18</span> dcman026</h2>
+<p><strong>Question</strong>: “Were you more involved with your family?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman027" class="section level2">
+<h2><span class="header-section-number">5.19</span> dcman027</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;<em>INTERVIEWER: Use discretion on whether to ask child this question.</em></p>
+<p>Were you interested in sex more than usual, or more sexually active?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman028" class="section level2">
+<h2><span class="header-section-number">5.20</span> dcman028</h2>
+<p><strong>Question</strong>: “Did you do more physical activities?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman029" class="section level2">
+<h2><span class="header-section-number">5.21</span> dcman029</h2>
+<p><strong>Question</strong>: “Were you really restless or did you have trouble sitting still?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman030" class="section level2">
+<h2><span class="header-section-number">5.22</span> dcman030</h2>
+<p><strong>Question</strong>: “How many hours of sleep do you usually get per night?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman031" class="section level2">
+<h2><span class="header-section-number">5.23</span> dcman031</h2>
+<p><strong>Question</strong>: “During this time, how many hours, on average, do you sleep per night?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman13" class="section level2">
+<h2><span class="header-section-number">5.24</span> cman13</h2>
+<p><strong>Question</strong>: “Was this fewer hours than normal?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman032" class="section level2">
+<h2><span class="header-section-number">5.25</span> dcman032</h2>
+<p><strong>Question</strong>: “Did you feel rested even though you slept less than usual?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#cman13">cman13</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman033" class="section level2">
+<h2><span class="header-section-number">5.26</span> dcman033</h2>
+<p><strong>Question</strong>: “Were you able to do more activities than usual with the same amount of sleep?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#cman13">cman13</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman034" class="section level2">
+<h2><span class="header-section-number">5.27</span> dcman034</h2>
+<p><strong>Question</strong>: “Did you talk more than usual?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman035" class="section level2">
+<h2><span class="header-section-number">5.28</span> dcman035</h2>
+<p><strong>Question</strong>: “Did you feel you just couldn’t stop talking?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman036" class="section level2">
+<h2><span class="header-section-number">5.29</span> dcman036</h2>
+<p><strong>Question</strong>: “Did you talk faster than usual?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman037" class="section level2">
+<h2><span class="header-section-number">5.30</span> dcman037</h2>
+<p><strong>Question</strong>: “Did people have trouble understanding you or try to get you to talk slower?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman038" class="section level2">
+<h2><span class="header-section-number">5.31</span> dcman038</h2>
+<p><strong>Question</strong>: “Did your thoughts go faster than usual?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman039" class="section level2">
+<h2><span class="header-section-number">5.32</span> dcman039</h2>
+<p><strong>Question</strong>: “So fast it was hard to keep up with them?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman038">dcman038</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman040" class="section level2">
+<h2><span class="header-section-number">5.33</span> dcman040</h2>
+<p><strong>Question</strong>: “Did they race through your head?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman038">dcman038</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman041" class="section level2">
+<h2><span class="header-section-number">5.34</span> dcman041</h2>
+<p><strong>Question</strong>: “Did they make sense to you?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman038">dcman038</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman042" class="section level2">
+<h2><span class="header-section-number">5.35</span> dcman042</h2>
+<p><strong>Question</strong>: “Did they make sense to other people?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman038">dcman038</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman043" class="section level2">
+<h2><span class="header-section-number">5.36</span> dcman043</h2>
+<p><strong>Question</strong>: “Did other people have trouble following what you were saying?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman044" class="section level2">
+<h2><span class="header-section-number">5.37</span> dcman044</h2>
+<p><strong>Question</strong>: “Did you have too many thoughts jumping through your mind?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman045" class="section level2">
+<h2><span class="header-section-number">5.38</span> dcman045</h2>
+<p><strong>Question</strong>: “Did you have problems concentrating, or get distracted very easily?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman046" class="section level2">
+<h2><span class="header-section-number">5.39</span> dcman046</h2>
+<p><strong>Question</strong>: “Did you keep noticing things that you would’ve normally ignored?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman047" class="section level2">
+<h2><span class="header-section-number">5.40</span> dcman047</h2>
+<p><strong>Question</strong>: “Did you have trouble keeping your mind on things?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman048" class="section level2">
+<h2><span class="header-section-number">5.41</span> dcman048</h2>
+<p><strong>Question</strong>: “Did it interfere with schoolwork or reading?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman049" class="section level2">
+<h2><span class="header-section-number">5.42</span> dcman049</h2>
+<p><strong>Question</strong>: “Was this so much of a problem that other people noticed?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dman050" class="section level2">
+<h2><span class="header-section-number">5.43</span> dman050</h2>
+<p><strong>Question</strong>: “Did you feel more confident in yourself than usual?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dman051" class="section level2">
+<h2><span class="header-section-number">5.44</span> dman051</h2>
+<p><strong>Question</strong>: “Did you feel like you could do anything?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dman052" class="section level2">
+<h2><span class="header-section-number">5.45</span> dman052</h2>
+<p><strong>Question</strong>: “Did you feel you were a very important person?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dman053" class="section level2">
+<h2><span class="header-section-number">5.46</span> dman053</h2>
+<p><strong>Question</strong>: “Did you feel like you had abilities that made you more special, smarter, or better than other people?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman054" class="section level2">
+<h2><span class="header-section-number">5.47</span> dcman054</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Did you do things that you usually wouldn’t do, or did you do things that you later wished you hadn’t done? For example, did you:</p>
+<p>Spend or borrow a lot of money?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman055" class="section level2">
+<h2><span class="header-section-number">5.48</span> dcman055</h2>
+<p><strong>Question</strong>: “Do things that could get you into trouble?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman056" class="section level2">
+<h2><span class="header-section-number">5.49</span> dcman056</h2>
+<p><strong>Question</strong>: “Describe”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman055">dcman055</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman057" class="section level2">
+<h2><span class="header-section-number">5.50</span> dcman057</h2>
+<p><strong>Question</strong>: “Do things from which you might get hurt?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman058" class="section level2">
+<h2><span class="header-section-number">5.51</span> dcman058</h2>
+<p><strong>Question</strong>: “Describe”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman057">dcman057</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman059" class="section level2">
+<h2><span class="header-section-number">5.52</span> dcman059</h2>
+<p><strong>Question</strong>: “Make a lot of telephone calls or call people at strange hours?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman060" class="section level2">
+<h2><span class="header-section-number">5.53</span> dcman060</h2>
+<p><strong>Question</strong>: “Anything else?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman061" class="section level2">
+<h2><span class="header-section-number">5.54</span> dcman061</h2>
+<p><strong>Question</strong>: “Describe”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman060">dcman060</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman062" class="section level2">
+<h2><span class="header-section-number">5.55</span> dcman062</h2>
+<p><strong>Question</strong>: “You just told me that when you felt (more active) that you also had (list symptoms). How often did you have these things?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Most days
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+About half of the days
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Less than half the days
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Don’t know
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman063" class="section level2">
+<h2><span class="header-section-number">5.56</span> dcman063</h2>
+<p><strong>Question</strong>: “On the days you had these things, how much of the day did you have them?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+All of the day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Most of the day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Half of the day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+Only a little part of the day
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cman22" class="section level2">
+<h2><span class="header-section-number">5.57</span> cman22</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;During this period, did you also feel/have? (As I list these other symptoms, please recall if you have ever had any of them at the same time.)</p>
+<p><em>INTERVIEWER: Refer to Participant Card 7 (Course Pattern) </em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcman064" class="section level2">
+<h2><span class="header-section-number">5.58</span> dcman064</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;During this period, did you also feel/have:</p>
+<p>Depressed/Sad mood?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman065" class="section level2">
+<h2><span class="header-section-number">5.59</span> dcman065</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman066" class="section level2">
+<h2><span class="header-section-number">5.60</span> dcman066</h2>
+<p><strong>Question</strong>: “Loss of interest or pleasure?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman067" class="section level2">
+<h2><span class="header-section-number">5.61</span> dcman067</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman066">dcman066</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman068" class="section level2">
+<h2><span class="header-section-number">5.62</span> dcman068</h2>
+<p><strong>Question</strong>: “Changes in sleep?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman069" class="section level2">
+<h2><span class="header-section-number">5.63</span> dcman069</h2>
+<p><strong>Question</strong>: “Did you sleep more or less?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman068">dcman068</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Decreased
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Increased
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman070" class="section level2">
+<h2><span class="header-section-number">5.64</span> dcman070</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman068">dcman068</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman071" class="section level2">
+<h2><span class="header-section-number">5.65</span> dcman071</h2>
+<p><strong>Question</strong>: “Changes in eating?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman072" class="section level2">
+<h2><span class="header-section-number">5.66</span> dcman072</h2>
+<p><strong>Question</strong>: “Did you eat more or less?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman071">dcman071</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Decreased
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Increased
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman073" class="section level2">
+<h2><span class="header-section-number">5.67</span> dcman073</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman071">dcman071</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman074" class="section level2">
+<h2><span class="header-section-number">5.68</span> dcman074</h2>
+<p><strong>Question</strong>: “Changes in motor activity or movement?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman075" class="section level2">
+<h2><span class="header-section-number">5.69</span> dcman075</h2>
+<p><strong>Question</strong>: “Did you move more or less?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman074">dcman074</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Decreased
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Increased
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman076" class="section level2">
+<h2><span class="header-section-number">5.70</span> dcman076</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman074">dcman074</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman077" class="section level2">
+<h2><span class="header-section-number">5.71</span> dcman077</h2>
+<p><strong>Question</strong>: “Changes in energy?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman078" class="section level2">
+<h2><span class="header-section-number">5.72</span> dcman078</h2>
+<p><strong>Question</strong>: “Did you have more or less energy?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman077">dcman077</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Decreased
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Increased
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman079" class="section level2">
+<h2><span class="header-section-number">5.73</span> dcman079</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman077">dcman077</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman080" class="section level2">
+<h2><span class="header-section-number">5.74</span> dcman080</h2>
+<p><strong>Question</strong>: “Changes in concentration?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman081" class="section level2">
+<h2><span class="header-section-number">5.75</span> dcman081</h2>
+<p><strong>Question</strong>: “Did you concentrate more or less?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman080">dcman080</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Decreased
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Increased
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman082" class="section level2">
+<h2><span class="header-section-number">5.76</span> dcman082</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman064">dcman064</a> = ‘1’ and <a href="mania-section.html#dcman066">dcman066</a> = ‘1’ and <a href="mania-section.html#dcman080">dcman080</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman083" class="section level2">
+<h2><span class="header-section-number">5.77</span> dcman083</h2>
+<p><strong>Question</strong>: “Did you also feel guilt?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman084" class="section level2">
+<h2><span class="header-section-number">5.78</span> dcman084</h2>
+<p><strong>Question</strong>: “How long did this last? (N of Days)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman083">dcman083</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman085" class="section level2">
+<h2><span class="header-section-number">5.79</span> dcman085</h2>
+<p><strong>Question</strong>: “Did you think that someone was trying to harm you?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman086" class="section level2">
+<h2><span class="header-section-number">5.80</span> dcman086</h2>
+<p><strong>Question</strong>: “Did you think that you had powers or abilities that others did not have?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman087" class="section level2">
+<h2><span class="header-section-number">5.81</span> dcman087</h2>
+<p><strong>Question</strong>: “Did you think that you had a special mission?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman088" class="section level2">
+<h2><span class="header-section-number">5.82</span> dcman088</h2>
+<p><strong>Question</strong>: “Did you believe things that other people didn’t think were true?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman089" class="section level2">
+<h2><span class="header-section-number">5.83</span> dcman089</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: Based on clinical judgment, were these
+<strong>real delusions</strong>? If they were, record examples in the next screens.</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman090a" class="section level2">
+<h2><span class="header-section-number">5.84</span> dcman090a</h2>
+<p><strong>Question</strong>: “Delusion Example 1:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman089">dcman089</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman090b" class="section level2">
+<h2><span class="header-section-number">5.85</span> dcman090b</h2>
+<p><strong>Question</strong>: “Delusion Example 2:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman089">dcman089</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman090c" class="section level2">
+<h2><span class="header-section-number">5.86</span> dcman090c</h2>
+<p><strong>Question</strong>: “Delusion Example 3:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman089">dcman089</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman090d" class="section level2">
+<h2><span class="header-section-number">5.87</span> dcman090d</h2>
+<p><strong>Question</strong>: “Delusion Example 4:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman089">dcman089</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman091" class="section level2">
+<h2><span class="header-section-number">5.88</span> dcman091</h2>
+<p><strong>Question</strong>: “Did you start thinking these things before, after, or at the same time that you started feeling (too active/happy/excited/grouchy /energetic)?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman089">dcman089</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Before
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+During
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+After
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Don’t know
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman092" class="section level2">
+<h2><span class="header-section-number">5.89</span> dcman092</h2>
+<p><strong>Question</strong>: “Did you think this was true, even when you stopped feeling (too happy/excited/grouchy/energetic)?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman089">dcman089</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cman37" class="section level2">
+<h2><span class="header-section-number">5.90</span> cman37</h2>
+<p><strong>Question</strong>: “For how long did you think this was true? (N of Days, N of Weeks)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman089">dcman089</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman095" class="section level2">
+<h2><span class="header-section-number">5.91</span> dcman095</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;During this time, did you see or hear things that other people could not see or hear?</p>
+<p><em>PROBE: Like voices talking to you or noises, or visions?</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman096" class="section level2">
+<h2><span class="header-section-number">5.92</span> dcman096</h2>
+<p><strong>Question</strong>: “Did you experience funny or unusual smells, tastes, or sensations in your body?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman097" class="section level2">
+<h2><span class="header-section-number">5.93</span> dcman097</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: Based on clinical judgment, were these <strong>real hallucinations</strong>? If they were, record examples in the next screens.</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman098a" class="section level2">
+<h2><span class="header-section-number">5.94</span> dcman098a</h2>
+<p><strong>Question</strong>: “Hallucination Example 1:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman097">dcman097</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman098b" class="section level2">
+<h2><span class="header-section-number">5.95</span> dcman098b</h2>
+<p><strong>Question</strong>: “Hallucination Example 2:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman097">dcman097</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman098c" class="section level2">
+<h2><span class="header-section-number">5.96</span> dcman098c</h2>
+<p><strong>Question</strong>: “Hallucination Example 3:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman097">dcman097</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman098d" class="section level2">
+<h2><span class="header-section-number">5.97</span> dcman098d</h2>
+<p><strong>Question</strong>: “Hallucination Example 4:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman097">dcman097</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman099" class="section level2">
+<h2><span class="header-section-number">5.98</span> dcman099</h2>
+<p><strong>Question</strong>: “Did these <em>(list endorsed hallucinations)</em> start before, after or at the same time that you started feeling (too happy/excited/grouchy/energetic)?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman097">dcman097</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Before
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+During
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+After
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Don’t know
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman100" class="section level2">
+<h2><span class="header-section-number">5.99</span> dcman100</h2>
+<p><strong>Question</strong>: “Did they stay even when you stopped feeling (too happy/excited/grouchy/energetic)?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman097">dcman097</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cman40" class="section level2">
+<h2><span class="header-section-number">5.100</span> cman40</h2>
+<p><strong>Question</strong>: “For how long did you have them? (N Days, N weeks)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman097">dcman097</a> = ‘1’</p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcman103" class="section level2">
+<h2><span class="header-section-number">5.101</span> dcman103</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: If respondent had any psychotic symptoms, was the content <strong>consistent</strong> with manic themes such as inflated worth, power, knowledge, identity or special relationship with a deity or famous person?</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+N/A
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cman42" class="section level2">
+<h2><span class="header-section-number">5.102</span> cman42</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: Associated condition questions apply <strong>ONLY</strong> to episode being coded.</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcman104" class="section level2">
+<h2><span class="header-section-number">5.103</span> dcman104</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;When you were feeling (too happy/excited/grouchy/energetic):</p>
+<p>Did you have a serious physical problem or illness?</p>
+<p><em>Probe: Did the physical problem or illness start before you started feeling (too happy/excited/grouchy/energetic) or after?</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman105" class="section level2">
+<h2><span class="header-section-number">5.104</span> dcman105</h2>
+<p><strong>Question</strong>: “Specify (Physical problem or illness):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman104">dcman104</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman106" class="section level2">
+<h2><span class="header-section-number">5.105</span> dcman106</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;
+Were you taking any medicines that your doctor told you to take? Did you take any over the counter medications?</p>
+<p><em>PROBE: Did you start to feel (too happy/excited/grouchy/energetic) before taking the medicine or after? </em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman107" class="section level2">
+<h2><span class="header-section-number">5.106</span> dcman107</h2>
+<p><strong>Question</strong>: “Specify (Medication 1):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman106">dcman106</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman108" class="section level2">
+<h2><span class="header-section-number">5.107</span> dcman108</h2>
+<p><strong>Question</strong>: “Specify (Medication 2):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman106">dcman106</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman109" class="section level2">
+<h2><span class="header-section-number">5.108</span> dcman109</h2>
+<p><strong>Question</strong>: “Specify (Medication 3):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman106">dcman106</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman110" class="section level2">
+<h2><span class="header-section-number">5.109</span> dcman110</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Were you using alcohol often or drugs or both during this time?</p>
+<p><em>PROBE: Did you start feeling this way before using alcohol/drugs or after or did you increase the quantity after you had these feelings?</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Multi-select checkbox</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+Neither
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Alcohol
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Drugs
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Don’t know
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman111" class="section level2">
+<h2><span class="header-section-number">5.110</span> dcman111</h2>
+<p><strong>Question</strong>: “Specify (Alcohol and/or drug and quantity 1)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman110">dcman110</a>.includes(1) or <a href="mania-section.html#dcman100">dcman100</a>.includes(2)</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman112" class="section level2">
+<h2><span class="header-section-number">5.111</span> dcman112</h2>
+<p><strong>Question</strong>: “Specify (Alcohol and/or drug and quantity 2)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman110">dcman110</a>.includes(1) or <a href="mania-section.html#dcman100">dcman100</a>.includes(2)</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman113" class="section level2">
+<h2><span class="header-section-number">5.112</span> dcman113</h2>
+<p><strong>Question</strong>: “Specify (Alcohol and/or drug and quantity 3)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman110">dcman110</a>.includes(1) or <a href="mania-section.html#dcman100">dcman100</a>.includes(2)</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman43b" class="section level2">
+<h2><span class="header-section-number">5.113</span> cman43b</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;I want to know how your feeling (too happy/excited/grouchy/energetic) and other symptoms caused problems for you. Please look at the scale: Participant Card 8, Distress/Impaiment</p>
+<p><em>INTERVIEWER: Remind child how to use scale, if necessary, and assess areas most pertinent to the disorder; e.g. family, school, peers.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcman114" class="section level2">
+<h2><span class="header-section-number">5.114</span> dcman114</h2>
+<p><strong>Question</strong>: “How much did your feeling (too happy/excited/grouchy/energetic) and (list other symptoms) upset or bother you?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Dropdown select</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+6
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+7
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+9
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+10
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+998
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman115" class="section level2">
+<h2><span class="header-section-number">5.115</span> dcman115</h2>
+<p><strong>Question</strong>: “How much did the feeling (to happy/excited/grouchy/energetic) you told me about cause problems for you at home, at school, or with your family or friends?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Dropdown select</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+6
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+7
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+9
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+10
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+998
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman116" class="section level2">
+<h2><span class="header-section-number">5.116</span> dcman116</h2>
+<p><strong>Question</strong>: “Did you stay home from school because of the way you were feeling?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman117" class="section level2">
+<h2><span class="header-section-number">5.117</span> dcman117</h2>
+<p><strong>Question</strong>: “How many days of school did you miss? (episode)”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman116">dcman116</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman118" class="section level2">
+<h2><span class="header-section-number">5.118</span> dcman118</h2>
+<p><strong>Question</strong>: “Did anyone, like a teacher or family member, suggest that you get help for (list behaviors/feelings)?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman119" class="section level2">
+<h2><span class="header-section-number">5.119</span> dcman119</h2>
+<p><strong>Question</strong>: “Did you ever go to see a doctor, nurse, psychologist, social worker, school counselor, minister/priest or other professional to get help for (list behaviors/feelings)?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cman49" class="section level2">
+<h2><span class="header-section-number">5.120</span> cman49</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;What kind of person/people did you get help from?</p>
+<p><em>INTERVIEWER: Refer to Participant Card 13 (Professional/Treatment), record and code responses on the following screens.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcman120" class="section level2">
+<h2><span class="header-section-number">5.121</span> dcman120</h2>
+<p><strong>Question</strong>: “Specify (Professional/Treatment 1):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman121" class="section level2">
+<h2><span class="header-section-number">5.122</span> dcman121</h2>
+<p><strong>Question</strong>: “Code (Professional/Treatment 1):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman122" class="section level2">
+<h2><span class="header-section-number">5.123</span> dcman122</h2>
+<p><strong>Question</strong>: “Specify (Professional/Treatment 2):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman123" class="section level2">
+<h2><span class="header-section-number">5.124</span> dcman123</h2>
+<p><strong>Question</strong>: “Code (Professional/Treatment 2):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman124" class="section level2">
+<h2><span class="header-section-number">5.125</span> dcman124</h2>
+<p><strong>Question</strong>: “Specify (Professional/Treatment 3):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman125" class="section level2">
+<h2><span class="header-section-number">5.126</span> dcman125</h2>
+<p><strong>Question</strong>: “Code (Professional/Treatment 3):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman127" class="section level2">
+<h2><span class="header-section-number">5.127</span> dcman127</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;<em>INTERVIEWER: If you listed multiple people, ask this question. If not, <strong>Skip</strong>:</em></p>
+<p>Who did you get help from the first time?</p>
+<p>Specify (Professional/Treatment):&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman128" class="section level2">
+<h2><span class="header-section-number">5.128</span> dcman128</h2>
+<p><strong>Question</strong>: “Code (Professional/Treatment):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman129" class="section level2">
+<h2><span class="header-section-number">5.129</span> dcman129</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How old were you the first time you got help?</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman130" class="section level2">
+<h2><span class="header-section-number">5.130</span> dcman130</h2>
+<p><strong>Question</strong>: “Are you getting help now?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman131" class="section level2">
+<h2><span class="header-section-number">5.131</span> dcman131</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;If no, how old were you the last time you got help?</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman130">dcman130</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman132" class="section level2">
+<h2><span class="header-section-number">5.132</span> dcman132</h2>
+<p><strong>Question</strong>: “What did the professional say that you had (diagnoses given)? List:”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman50" class="section level2">
+<h2><span class="header-section-number">5.133</span> cman50</h2>
+<p><strong>Question</strong>: “What kind of treatment(s) have you gotten? <em>(Check all that apply)</em>”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Multi-select checkbox</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Out-patient (Going to see someone in an office)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+In-patient (Staying in a hospital)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Other
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman136" class="section level2">
+<h2><span class="header-section-number">5.134</span> dcman136</h2>
+<p><strong>Question</strong>: “Specify (Other treatment):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#cman50">cman50</a>.includes(3)</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman137" class="section level2">
+<h2><span class="header-section-number">5.135</span> dcman137</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Were you on medications?</p>
+<p><em>INTERVIEWER: Refer to Participant Card 9 (Medications), record and code responses in the following screens.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman119">dcman119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman138" class="section level2">
+<h2><span class="header-section-number">5.136</span> dcman138</h2>
+<p><strong>Question</strong>: “Specify (Medication 1):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman139" class="section level2">
+<h2><span class="header-section-number">5.137</span> dcman139</h2>
+<p><strong>Question</strong>: “Code (Medication 1):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman140" class="section level2">
+<h2><span class="header-section-number">5.138</span> dcman140</h2>
+<p><strong>Question</strong>: “Specify (Medication 2):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman141" class="section level2">
+<h2><span class="header-section-number">5.139</span> dcman141</h2>
+<p><strong>Question</strong>: “Code (Medication 2):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman142" class="section level2">
+<h2><span class="header-section-number">5.140</span> dcman142</h2>
+<p><strong>Question</strong>: “Specify (Medication 3):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman143" class="section level2">
+<h2><span class="header-section-number">5.141</span> dcman143</h2>
+<p><strong>Question</strong>: “Code (Medication 3):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman144" class="section level2">
+<h2><span class="header-section-number">5.142</span> dcman144</h2>
+<p><strong>Question</strong>: “Specify (Medication 4):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman145" class="section level2">
+<h2><span class="header-section-number">5.143</span> dcman145</h2>
+<p><strong>Question</strong>: “Code (Medication 4):”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman137">dcman137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman146" class="section level2">
+<h2><span class="header-section-number">5.144</span> dcman146</h2>
+<p><strong>Question</strong>: “Have there been other times when you felt (list symptoms)?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman147" class="section level2">
+<h2><span class="header-section-number">5.145</span> dcman147</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How old were you when this happened for the very first time?</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman57" class="section level2">
+<h2><span class="header-section-number">5.146</span> cman57</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long did it last then?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman152" class="section level2">
+<h2><span class="header-section-number">5.147</span> dcman152</h2>
+<p><strong>Question</strong>: “How many times have you felt this way in your lifetime?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman59" class="section level2">
+<h2><span class="header-section-number">5.148</span> cman59</h2>
+<p><strong>Question</strong>: “What is the most number of episodes you’ve had in one year?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman59a" class="section level2">
+<h2><span class="header-section-number">5.149</span> cman59a</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long on average did each of these episodes typically last during that year?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman61" class="section level2">
+<h2><span class="header-section-number">5.150</span> cman61</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long was the longest episode?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman62" class="section level2">
+<h2><span class="header-section-number">5.151</span> cman62</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long was the shortest episode?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cman63" class="section level2">
+<h2><span class="header-section-number">5.152</span> cman63</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How long does a typical episode last?</p>
+<p><em>(N days, N weeks, N months)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcman173" class="section level2">
+<h2><span class="header-section-number">5.153</span> dcman173</h2>
+<p><strong>Question</strong>: “Would you say that you have felt this (list participant’s endorsed symptoms) more often than not during your lifetime?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcman174" class="section level2">
+<h2><span class="header-section-number">5.154</span> dcman174</h2>
+<p><strong>Question</strong>: “Did the periods of these feelings tend to begin in any particular season?”</p>
+<p><strong>Visibility</strong>: <a href="mania-section.html#dcman146">dcman146</a> =‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No pattern
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Winter
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Spring
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Summer
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+Fall
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cman_end" class="section level2">
+<h2><span class="header-section-number">5.155</span> cman_end</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: END of <strong>Mania/Hypomania</strong> section</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
 
 </div>
-
-
-
+</div>
             </section>
 
           </div>
         </div>
       </div>
-
-<a href="timeline-section.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="context-section.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="suicide-section.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

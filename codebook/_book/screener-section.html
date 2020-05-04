@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Applet Codebook: NIMH KSADS v0.28</title>
+  <title>Section 2 Screener | Applet Codebook: NIMH KSADS v0.28</title>
   <meta name="description" content="This is a codebook that documents all of the items in the current version of the NIMH KSADS applet for MindLogger." />
   <meta name="generator" content="bookdown 0.17 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Applet Codebook: NIMH KSADS v0.28" />
+  <meta property="og:title" content="Section 2 Screener | Applet Codebook: NIMH KSADS v0.28" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Applet Codebook: NIMH KSADS v0.28" />
+  <meta name="twitter:title" content="Section 2 Screener | Applet Codebook: NIMH KSADS v0.28" />
   
   <meta name="twitter:description" content="This is a codebook that documents all of the items in the current version of the NIMH KSADS applet for MindLogger." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="timeline-section.html"/>
+<link rel="prev" href="timeline-section.html"/>
+<link rel="next" href="screener-checklist.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -1978,38 +1978,5521 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Applet Codebook: NIMH KSADS v0.28</h1>
-<p class="author"><em>Mike X.</em></p>
-<p class="date"><em>2020-05-03</em></p>
+<div id="screener_section" class="section level1">
+<h1><span class="header-section-number">Section 2</span> Screener</h1>
+<div id="screener_title" class="section level2">
+<h2><span class="header-section-number">2.1</span> screener_title</h2>
+<p><strong>Question</strong>: “## Screener”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
 </div>
-<div id="intro" class="section level1 unnumbered">
-<h1>About this applet</h1>
-<p>This applet was made based on the NIMH KSADS on Redcap. These sections are in currently in progress:</p>
-<ul>
-<li>Register Interview Child Psychiatric</li>
-<li>Tobacco</li>
-<li>Alcohol Abuse and Dependence</li>
-<li>Drug Use</li>
-<li>Caffeine</li>
-<li>Interviewer Observation</li>
-<li>GAF Scale</li>
-<li>Interviewer Notes</li>
-</ul>
-<p>The data dictionary used to generate this applet is <a href="https://github.com/hotavocado/KSADS_ML_Applet/blob/master/data_dic.csv">here</a>.</p>
-<p><em>These questions were constructed as part of a collaboration between the National Institute of Mental Health and the MATTER Lab of the Child Mind Institute (<a href="https://matter.childmind.org" class="uri">https://matter.childmind.org</a>).</em></p>
+<div id="cscr0" class="section level2">
+<h2><span class="header-section-number">2.2</span> cscr0</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: Use timeline to date treatment, symptoms, etc.</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr005" class="section level2">
+<h2><span class="header-section-number">2.3</span> dcscr005</h2>
+<p><strong>Question</strong>: “Have you ever talked to a counselor, psychologist, social worker, psychiatrist or some other professional about your feelings or problems with your mood or behaviors? Or are you currently taking medication because of your emotions and/or behaviors?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr006" class="section level2">
+<h2><span class="header-section-number">2.4</span> dcscr006</h2>
+<p><strong>Question</strong>: “Who was it and why did you speak to them?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr005">dcscr005</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr007" class="section level2">
+<h2><span class="header-section-number">2.5</span> dcscr007</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How many separate times did you go to see someone?</p>
+<p><em>INTERVIEWER: Clarify that these are distinct periods of outpatient services, not individual appointments.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr005">dcscr005</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr008" class="section level2">
+<h2><span class="header-section-number">2.6</span> dcscr008</h2>
+<p><strong>Question</strong>: “How long did you see someone in total?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr005">dcscr005</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Less than 6 months
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+6 months to 2 years
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Over 2 years
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr009" class="section level2">
+<h2><span class="header-section-number">2.7</span> dcscr009</h2>
+<p><strong>Question</strong>: “About how many talk sessions did you have in total?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr005">dcscr005</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr010" class="section level2">
+<h2><span class="header-section-number">2.8</span> dcscr010</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Have you ever had to go to a hospital and stay overnight because of problems with your mood, feelings, or how you were acting?</p>
+<p><em>INTERVIEWER: Refer to Table of Hospitalizations in the Medical History section.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr005">dcscr005</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr011" class="section level2">
+<h2><span class="header-section-number">2.9</span> dcscr011</h2>
+<p><strong>Question</strong>: “When and what happened that lead to you going to the hospital?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr010">dcscr010</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr012" class="section level2">
+<h2><span class="header-section-number">2.10</span> dcscr012</h2>
+<p><strong>Question</strong>: “Have you or anyone else (like your friends, parents, or teachers) ever thought you needed help because of problems with your mood, feelings, or how you were acting?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr005">dcscr005</a> = ‘0’ or <a href="screener-section.html#dcscr010">dcscr010</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr013" class="section level2">
+<h2><span class="header-section-number">2.11</span> dcscr013</h2>
+<p><strong>Question</strong>: “If so, who and what did they say?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr012">dcscr012</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="screener_instructions1" class="section level2">
+<h2><span class="header-section-number">2.12</span> screener_instructions1</h2>
+<p><strong>Question</strong>: “I’m now going to ask you some more questions about your feelings, behavior and mood.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="cscr4" class="section level2">
+<h2><span class="header-section-number">2.13</span> cscr4</h2>
+<p><strong>Question</strong>: “Some young people worry a lot. They may often feel nervous, anxious or unable to relax. They may have times when they worry a lot more than usual.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr014" class="section level2">
+<h2><span class="header-section-number">2.14</span> dcscr014</h2>
+<p><strong>Question</strong>: “Have you ever been a worrier?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr015" class="section level2">
+<h2><span class="header-section-number">2.15</span> dcscr015</h2>
+<p><strong>Question</strong>: “Did you worry a lot more than most children your age?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr016" class="section level2">
+<h2><span class="header-section-number">2.16</span> dcscr016</h2>
+<p><strong>Question</strong>: “Has there ever been a time when you felt nervous or scared a lot of the time?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr017" class="section level2">
+<h2><span class="header-section-number">2.17</span> dcscr017</h2>
+<p><strong>Question</strong>: “Has anyone said that you are a worrier or that you worry too much?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr015">dcscr015</a> = ‘1’ or <a href="screener-section.html#dcscr016">dcscr016</a> = ‘1’ or <a href="screener-section.html#dcscr014">dcscr014</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr018" class="section level2">
+<h2><span class="header-section-number">2.18</span> dcscr018</h2>
+<p><strong>Question</strong>: “Who said that you were a worrier?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr015">dcscr015</a> = ‘1’ or <a href="screener-section.html#dcscr016">dcscr016</a> = ‘1’ or <a href="screener-section.html#dcscr014">dcscr014</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr019" class="section level2">
+<h2><span class="header-section-number">2.19</span> dcscr019</h2>
+<p><strong>Question</strong>: “Why did he/she say that you were a worrier?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr015">dcscr015</a> = ‘1’ or <a href="screener-section.html#dcscr016">dcscr016</a> = ‘1’ or <a href="screener-section.html#dcscr014">dcscr014</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cscr5" class="section level2">
+<h2><span class="header-section-number">2.20</span> cscr5</h2>
+<p><strong>Question</strong>: “Some young people worry a lot about being away from their parents or the grown-up who takes care of them.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr020" class="section level2">
+<h2><span class="header-section-number">2.21</span> dcscr020</h2>
+<p><strong>Question</strong>: “Since you were 5 years old, has there ever been a time when you had a lot of worries about your (attachment figures) and were very upset when you were away from him/her?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr021" class="section level2">
+<h2><span class="header-section-number">2.22</span> dcscr021</h2>
+<p><strong>Question</strong>: “Did you worry about this more than most children your age?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr020">dcscr020</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr022" class="section level2">
+<h2><span class="header-section-number">2.23</span> dcscr022</h2>
+<p><strong>Question</strong>: “Has there ever been a time when you wanted to stay home from school or not go to other places without your (attachment figures)?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr6" class="section level2">
+<h2><span class="header-section-number">2.24</span> cscr6</h2>
+<p><strong>Question</strong>: &quot;</p>
+<p><em>INTERVIEWER: For disruptive behavior disorders (ADHD, ODD, CD), complete the diagnostic section if any of the probes are endorsed.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="cscr7" class="section level2">
+<h2><span class="header-section-number">2.25</span> cscr7</h2>
+<p><strong>Question</strong>: “Some children have trouble paying attention and following instructions. They may be distracted easily and forget what they are supposed to do. These children often have difficulty staying still, are always on the go and often interrupt people.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr023" class="section level2">
+<h2><span class="header-section-number">2.26</span> dcscr023</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Did you often:</p>
+<p>Have trouble paying attention or keeping your mind on your school work, chores, or other activities that you were doing?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr024" class="section level2">
+<h2><span class="header-section-number">2.27</span> dcscr024</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Did you often:</p>
+<p>Have problems following instructions and often fail to finish school, work, or other things you meant to get done?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr025" class="section level2">
+<h2><span class="header-section-number">2.28</span> dcscr025</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Did you often:</p>
+<p>Have difficulty sitting still for more than a few minutes at a time?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr026" class="section level2">
+<h2><span class="header-section-number">2.29</span> dcscr026</h2>
+<p><strong>Question</strong>: “Did a teacher ever talk to your parents about problems paying attention or sitting still?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr9" class="section level2">
+<h2><span class="header-section-number">2.30</span> cscr9</h2>
+<p><strong>Question</strong>: “Some children and adolescents do things that can get them into trouble with adults, like getting angry, arguing or talking back to adults, refusing to do what adults ask them to do, annoying people on purpose, or being touchy, grouchy, or irritable.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr027" class="section level2">
+<h2><span class="header-section-number">2.31</span> dcscr027</h2>
+<p><strong>Question</strong>: “Was there a time when you did things that got you into trouble with adults such as losing your temper, arguing with or talking back to adults, or being grouchy or irritable with them?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr028" class="section level2">
+<h2><span class="header-section-number">2.32</span> dcscr028</h2>
+<p><strong>Question</strong>: “Was there a time when you got into trouble with adults for refusing to do what they told you to do?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr029" class="section level2">
+<h2><span class="header-section-number">2.33</span> dcscr029</h2>
+<p><strong>Question</strong>: “Did you often annoy other people on purpose?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr030" class="section level2">
+<h2><span class="header-section-number">2.34</span> dcscr030</h2>
+<p><strong>Question</strong>: “Did you ever get into trouble for getting even with other people by doing things to hurt them, telling lies about them, or messing up their things?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr10" class="section level2">
+<h2><span class="header-section-number">2.35</span> cscr10</h2>
+<p><strong>Question</strong>: “Some young people do other things that may get them into trouble with adults like breaking rules or getting into trouble with the police or other authorities if they get caught. They may lie a lot, steal, skip school, smoke or drink.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr031" class="section level2">
+<h2><span class="header-section-number">2.36</span> dcscr031</h2>
+<p><strong>Question</strong>: “Was there ever a time when you did things that got you into trouble with adults like lying, stealing or breaking rules?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr032" class="section level2">
+<h2><span class="header-section-number">2.37</span> dcscr032</h2>
+<p><strong>Question</strong>: “Did you ever skip school, stay out at night later than you were supposed to, or run away from home overnight?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr033" class="section level2">
+<h2><span class="header-section-number">2.38</span> dcscr033</h2>
+<p><strong>Question</strong>: “Did you ever set fires, break into cars, or destroy someone else’s property on purpose?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr034" class="section level2">
+<h2><span class="header-section-number">2.39</span> dcscr034</h2>
+<p><strong>Question</strong>: “Do you have a probation officer or have you ever been on probation?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr035" class="section level2">
+<h2><span class="header-section-number">2.40</span> dcscr035</h2>
+<p><strong>Question</strong>: “If yes, what happened?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr034">dcscr034</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cscr11" class="section level2">
+<h2><span class="header-section-number">2.41</span> cscr11</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Some people have fears of things, like spiders, heights, elevators, dogs, blood, or shots. When they are faced with the thing that they fear, they become very frightened and upset even though there is no real danger. They may go out of their way to stay away from the thing that they fear.</p>
+<p><em>INTERVIEWER: Read the card to ages 7-12 or for those children with learning/reading problems: Participant Card 2 (Fears)</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr036" class="section level2">
+<h2><span class="header-section-number">2.42</span> dcscr036</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Have you ever been very nervous or afraid of:</p>
+<p>Animals or bugs, like dogs, snakes, or spiders?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr037" class="section level2">
+<h2><span class="header-section-number">2.43</span> dcscr037</h2>
+<p><strong>Question</strong>: “Being in really high places, like a roof or tall building?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr038" class="section level2">
+<h2><span class="header-section-number">2.44</span> dcscr038</h2>
+<p><strong>Question</strong>: “Water or situations involving water, such as a swimming pool, lake, or ocean?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr039" class="section level2">
+<h2><span class="header-section-number">2.45</span> dcscr039</h2>
+<p><strong>Question</strong>: “Storms, thunder, or lightning?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr040" class="section level2">
+<h2><span class="header-section-number">2.46</span> dcscr040</h2>
+<p><strong>Question</strong>: “Doctors, needles, or blood?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr041" class="section level2">
+<h2><span class="header-section-number">2.47</span> dcscr041</h2>
+<p><strong>Question</strong>: “Closed spaces, like elevators or closets?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr042" class="section level2">
+<h2><span class="header-section-number">2.48</span> dcscr042</h2>
+<p><strong>Question</strong>: “Flying or airplanes?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr043" class="section level2">
+<h2><span class="header-section-number">2.49</span> dcscr043</h2>
+<p><strong>Question</strong>: “Other?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr15" class="section level2">
+<h2><span class="header-section-number">2.50</span> cscr15</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Most people feel uncomfortable when they have to speak in front of people, meet new people, or when they are in situations in which they may say or do something embarrassing. Some people become so uncomfortable in these situations that they either stay away from them or become very upset, even though they know that it doesn’t make sense.</p>
+<p><em>INTERVIEWER: refer to at Participant Card 3 (Social/Performance)</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr044" class="section level2">
+<h2><span class="header-section-number">2.51</span> dcscr044</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Was there ever a time in your life:</p>
+<p>When you felt very afraid or really, really shy with people, like meeting new people, going to parties, or eating or drinking in front of others?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr045" class="section level2">
+<h2><span class="header-section-number">2.52</span> dcscr045</h2>
+<p><strong>Question</strong>: “When you felt very afraid or uncomfortable when you had to do something in front of a group of people, like speaking in class?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr18" class="section level2">
+<h2><span class="header-section-number">2.53</span> cscr18</h2>
+<p><strong>Question</strong>: “Some people have what we call”panic or anxiety attacks“. In these kinds of attacks, people become very scared, even though there is nothing around to frighten them. Sometimes, they feel they can’t breathe or their heart beats fast. The attacks come on very quickly and then go away.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr046" class="section level2">
+<h2><span class="header-section-number">2.54</span> dcscr046</h2>
+<p><strong>Question</strong>: “Have you ever had an attack like this?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr047" class="section level2">
+<h2><span class="header-section-number">2.55</span> dcscr047</h2>
+<p><strong>Question</strong>: “Describe:”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr046">dcscr046</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr048" class="section level2">
+<h2><span class="header-section-number">2.56</span> dcscr048</h2>
+<p><strong>Question</strong>: “Has there ever been a time when all of a sudden you felt very, very scared or uncomfortable and your chest hurt, you couldn’t catch your breath, your heart beat very fast, or you felt very shaky?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr046">dcscr046</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr049" class="section level2">
+<h2><span class="header-section-number">2.57</span> dcscr049</h2>
+<p><strong>Question</strong>: “Has there ever been a time when all of a sudden, you felt that something terrible was going to happen, that you were going crazy, or going to die?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr046">dcscr046</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr050" class="section level2">
+<h2><span class="header-section-number">2.58</span> dcscr050</h2>
+<p><strong>Question</strong>: “How many of these attacks have you had?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr046">dcscr046</a> = ‘1’ or <a href="screener-section.html#dcscr048">dcscr048</a> = ‘1’ or <a href="screener-section.html#dcscr049">dcscr049</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cscr21" class="section level2">
+<h2><span class="header-section-number">2.59</span> cscr21</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: Read the card to ages 7-12 or for those children with learning/reading problems: Participant Card 4 (Other fears)</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr051" class="section level2">
+<h2><span class="header-section-number">2.60</span> dcscr051</h2>
+<p><strong>Question</strong>: “Have you ever been very nervous or afraid of being in crowds, going to public places, traveling by yourself, traveling away from home, or using public transportation like a bus or the metro?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr052" class="section level2">
+<h2><span class="header-section-number">2.61</span> dcscr052</h2>
+<p><strong>Question</strong>: “Have you been afraid about (insert situation) because you were worried about having a scary/strange feeling in your body or other body problem(s)?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr051">dcscr051</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr053" class="section level2">
+<h2><span class="header-section-number">2.62</span> dcscr053</h2>
+<p><strong>Question</strong>: “Have you been afraid of being in places because you were worried that you might get trapped, couldn’t escape, would be embarrassed to escape or couldn’t get help?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr051">dcscr051</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr23" class="section level2">
+<h2><span class="header-section-number">2.63</span> cscr23</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: Since the participant replied &quot;no&quot; to the previous two questions, do not complete the <strong>Agoraphobia</strong> section; consider other phobias.</em>”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr052">dcscr052</a> = ‘0’ and <a href="screener-section.html#dcscr053">dcscr053</a> = ‘0’</p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="cscr24" class="section level2">
+<h2><span class="header-section-number">2.64</span> cscr24</h2>
+<p><strong>Question</strong>: “Some people have unpleasant thoughts or feelings to do things that keep coming back over and over again and they can’t get them out of their head. These thoughts sometimes make these people feel like they have to do things over and over again (like washing their hands, counting, or checking things).”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr054" class="section level2">
+<h2><span class="header-section-number">2.65</span> dcscr054</h2>
+<p><strong>Question</strong>: “Have you ever been bothered by thoughts that don’t make sense to you, that come over and over again and won’t go away?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr055" class="section level2">
+<h2><span class="header-section-number">2.66</span> dcscr055</h2>
+<p><strong>Question</strong>: “Did these thoughts continue to bother you no matter how hard you tried to get rid of them or ignore them?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr054">dcscr054</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr056" class="section level2">
+<h2><span class="header-section-number">2.67</span> dcscr056</h2>
+<p><strong>Question</strong>: “Have you ever had to do something over and over again like washing your hands, or re-arranging or touching things in a certain way that would have made you feel really nervous if you couldn’t do it?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr057" class="section level2">
+<h2><span class="header-section-number">2.68</span> dcscr057</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Have you ever saved up so many things that people complain or they got in the way?</p>
+<p><em>INTERVIEWER: Clarify that this is NOT parents complaining that child needs to clean room/tidy up.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr058" class="section level2">
+<h2><span class="header-section-number">2.69</span> dcscr058</h2>
+<p><strong>Question</strong>: “Please explain:”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr057">dcscr057</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr059" class="section level2">
+<h2><span class="header-section-number">2.70</span> dcscr059</h2>
+<p><strong>Question</strong>: “Do you feel the need to do things just right (like they have to be perfect)?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr25" class="section level2">
+<h2><span class="header-section-number">2.71</span> cscr25</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;What is the longest period that you have had these thoughts or behaviors?</p>
+<p><em>(N weeks, N months, N years)</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr054">dcscr054</a> = ‘1’ or <a href="screener-section.html#dcscr056">dcscr056</a> = ‘1’ or <a href="screener-section.html#dcscr057">dcscr057</a> = ‘1’ or <a href="screener-section.html#dcscr059">dcscr059</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr064" class="section level2">
+<h2><span class="header-section-number">2.72</span> dcscr064</h2>
+<p><strong>Question</strong>: “Did they prevent you from doing things you normally would do?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr054">dcscr054</a> = ‘1’ or <a href="screener-section.html#dcscr056">dcscr056</a> = ‘1’ or <a href="screener-section.html#dcscr057">dcscr057</a> = ‘1’ or <a href="screener-section.html#dcscr059">dcscr059</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr065" class="section level2">
+<h2><span class="header-section-number">2.73</span> dcscr065</h2>
+<p><strong>Question</strong>: “Did having these thoughts or behaviors bother you a lot?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr054">dcscr054</a> = ‘1’ or <a href="screener-section.html#dcscr056">dcscr056</a> = ‘1’ or <a href="screener-section.html#dcscr057">dcscr057</a> = ‘1’ or <a href="screener-section.html#dcscr059">dcscr059</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr066" class="section level2">
+<h2><span class="header-section-number">2.74</span> dcscr066</h2>
+<p><strong>Question</strong>: “Was there ever a time when you felt really fat or heavy, but other people said that you were too thin?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr067" class="section level2">
+<h2><span class="header-section-number">2.75</span> dcscr067</h2>
+<p><strong>Question</strong>: “At that time, did you lose a lot of weight on purpose (like you were trying to do so)?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr066">dcscr066</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr068" class="section level2">
+<h2><span class="header-section-number">2.76</span> dcscr068</h2>
+<p><strong>Question</strong>: “Has there been a time when your eating was out of control - you’d eat a large amount of food in a short period of time and could not stop yourself?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr069" class="section level2">
+<h2><span class="header-section-number">2.77</span> dcscr069</h2>
+<p><strong>Question</strong>: “At that time, did you ever do anything to stop yourself from gaining weight like taking pills or making yourself throw up?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr068">dcscr068</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr27" class="section level2">
+<h2><span class="header-section-number">2.78</span> cscr27</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: Since the participant endorsed one of the previous probes, complete the entire <strong>Eating</strong> section</em>”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr066">dcscr066</a> = ‘1’ or <a href="screener-section.html#dcscr068">dcscr068</a> = ‘1’</p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="cscr28" class="section level2">
+<h2><span class="header-section-number">2.79</span> cscr28</h2>
+<p><strong>Question</strong>: “Some people have times when they feel sad, depressed, irritable or moody. They no longer enjoy the things they used to do; they may feel tired and have less energy than usual. These changes are much different from their usual selves.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr070" class="section level2">
+<h2><span class="header-section-number">2.80</span> dcscr070</h2>
+<p><strong>Question</strong>: “Has there ever been a time when you felt sad or depressed most of the time?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr071" class="section level2">
+<h2><span class="header-section-number">2.81</span> dcscr071</h2>
+<p><strong>Question</strong>: “Has there ever been a time when you cried a lot, or felt like crying?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr072" class="section level2">
+<h2><span class="header-section-number">2.82</span> dcscr072</h2>
+<p><strong>Question</strong>: “Was this different from how you usually are?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr070">dcscr070</a> = ‘1’ or <a href="screener-section.html#dcscr071">dcscr071</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr29" class="section level2">
+<h2><span class="header-section-number">2.83</span> cscr29</h2>
+<p><strong>Question</strong>: &quot;
+<em>INTERVIEWER: Sometimes a child will initially give a negative answer; if current sadness/depressed affect/state is evident, ask about current mood.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr073" class="section level2">
+<h2><span class="header-section-number">2.84</span> dcscr073</h2>
+<p><strong>Question</strong>: “Has there ever been a time when you felt grouchy, irritable or in a bad mood most of the time; even little things would make you mad?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr074" class="section level2">
+<h2><span class="header-section-number">2.85</span> dcscr074</h2>
+<p><strong>Question</strong>: “Was this different from how you usually are?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr073">dcscr073</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr075" class="section level2">
+<h2><span class="header-section-number">2.86</span> dcscr075</h2>
+<p><strong>Question</strong>: “Has there ever been a time when nothing was fun for you and you just weren’t interested in anything?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr076" class="section level2">
+<h2><span class="header-section-number">2.87</span> dcscr076</h2>
+<p><strong>Question</strong>: “Was this different from how you usually are?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr075">dcscr075</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr077" class="section level2">
+<h2><span class="header-section-number">2.88</span> dcscr077</h2>
+<p><strong>Question</strong>: “Did other people say that you seemed (more sad, more grouchy, or like you weren’t having as much fun as usual)?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+N/A
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr30" class="section level2">
+<h2><span class="header-section-number">2.89</span> cscr30</h2>
+<p><strong>Question</strong>: “Some people have periods when they feel much more active, energetic, and talkative. They may think more quickly. They talk a lot. They may be fidgety or unable to sit still and they sometimes do things that are unusual for them, like spending too much money.”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr078" class="section level2">
+<h2><span class="header-section-number">2.90</span> dcscr078</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Increased Motor Activity:</p>
+<p>Have there been times when you were much more active than usual, had problems sitting still, or needed to move around a lot?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr079" class="section level2">
+<h2><span class="header-section-number">2.91</span> dcscr079</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Increased Energy:</p>
+<p>Has there ever been a time when you felt so full of energy that you couldn’t stop doing things and you didn’t get tired?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr080" class="section level2">
+<h2><span class="header-section-number">2.92</span> dcscr080</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Has there ever been a time when you felt like you hardly needed sleep?</p>
+<p><em>INTERVIEWER: Do NOT include isolated events, like a slumber party.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr081" class="section level2">
+<h2><span class="header-section-number">2.93</span> dcscr081</h2>
+<p><strong>Question</strong>: “Have there been times when you kept talking a lot, or had so many ideas in your head that you could hardly keep track of them?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr082" class="section level2">
+<h2><span class="header-section-number">2.94</span> dcscr082</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Elevated Mood:</p>
+<p>Have you ever had a time when you felt much more happy or excited than you usually do; when there was nothing special going on?</p>
+<p><em>INTERVIEWER: NOT mild elation.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr083" class="section level2">
+<h2><span class="header-section-number">2.95</span> dcscr083</h2>
+<p><strong>Question</strong>: “Have you ever had a time when you felt like you could do almost anything?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr084" class="section level2">
+<h2><span class="header-section-number">2.96</span> dcscr084</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Irritable Mood:</p>
+<p>Has there ever been a time when you felt unusually grouchy, cranky, or irritable; when the smallest things would make you really mad?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr085" class="section level2">
+<h2><span class="header-section-number">2.97</span> dcscr085</h2>
+<p><strong>Question</strong>: “Did other people, like parents or teachers, notice this change or worry about you?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr078">dcscr078</a> = ‘1’ or <a href="screener-section.html#dcscr079">dcscr079</a> = ‘1’ or <a href="screener-section.html#dcscr080">dcscr080</a> = ‘1’ or <a href="screener-section.html#dcscr081">dcscr081</a> = ‘1’ or <a href="screener-section.html#dcscr082">dcscr082</a> = ‘1’ or <a href="screener-section.html#dcscr083">dcscr083</a> = ‘1’ or <a href="screener-section.html#dcscr084">dcscr084</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr086" class="section level2">
+<h2><span class="header-section-number">2.98</span> dcscr086</h2>
+<p><strong>Question</strong>: “Was this different from how you usually are?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr078">dcscr078</a> = ‘1’ or <a href="screener-section.html#dcscr079">dcscr079</a> = ‘1’ or <a href="screener-section.html#dcscr080">dcscr080</a> = ‘1’ or <a href="screener-section.html#dcscr081">dcscr081</a> = ‘1’ or <a href="screener-section.html#dcscr082">dcscr082</a> = ‘1’ or <a href="screener-section.html#dcscr083">dcscr083</a> = ‘1’ or <a href="screener-section.html#dcscr084">dcscr084</a> = ‘1’ or <a href="screener-section.html#dcscr085">dcscr085</a> = ‘1’ or <a href="screener-section.html#dcscr085">dcscr085</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr087" class="section level2">
+<h2><span class="header-section-number">2.99</span> dcscr087</h2>
+<p><strong>Question</strong>: “If yes, During that time/those times, how often did you feel that way?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr086">dcscr086</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Almost every day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+About half of the days
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Less than half the days
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr088" class="section level2">
+<h2><span class="header-section-number">2.100</span> dcscr088</h2>
+<p><strong>Question</strong>: “If yes, On the days you felt this way, how much of the day did it last?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr086">dcscr086</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+All of the day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Most of the day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Half of the day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+Only a small part of the day
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr089" class="section level2">
+<h2><span class="header-section-number">2.101</span> dcscr089</h2>
+<p><strong>Question</strong>: “How many times a year?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr086">dcscr086</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cscr37" class="section level2">
+<h2><span class="header-section-number">2.102</span> cscr37</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Now I am going to ask you some questions about things that happen to people during stressful times.</p>
+<p><em>INTERVIEWER: When asking psychosis questions, ask child/parent to give examples.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr090" class="section level2">
+<h2><span class="header-section-number">2.103</span> dcscr090</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Hallucinations:</p>
+<p>Have you ever heard voices when no one was there?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr091" class="section level2">
+<h2><span class="header-section-number">2.104</span> dcscr091</h2>
+<p><strong>Question</strong>: “Have you ever seen things that other people couldn’t see?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr092" class="section level2">
+<h2><span class="header-section-number">2.105</span> dcscr092</h2>
+<p><strong>Question</strong>: “Have you ever seen visions?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr093" class="section level2">
+<h2><span class="header-section-number">2.106</span> dcscr093</h2>
+<p><strong>Question</strong>: “Have you ever heard things other people couldn’t hear?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr094" class="section level2">
+<h2><span class="header-section-number">2.107</span> dcscr094</h2>
+<p><strong>Question</strong>: “Has there ever been anything unusual about the way things smelled or felt or looked?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr095a" class="section level2">
+<h2><span class="header-section-number">2.108</span> dcscr095a</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;<em>INTERVIEWER: List examples</em></p>
+<p>Example 1&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr090">dcscr090</a> = ‘1’ or <a href="screener-section.html#dcscr091">dcscr091</a> = ‘1’ or <a href="screener-section.html#dcscr092">dcscr092</a> = ‘1’ or <a href="screener-section.html#dcscr093">dcscr093</a> = ‘1’ or <a href="screener-section.html#dcscr094">dcscr094</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr095b" class="section level2">
+<h2><span class="header-section-number">2.109</span> dcscr095b</h2>
+<p><strong>Question</strong>: “Example 2”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr090">dcscr090</a> = ‘1’ or <a href="screener-section.html#dcscr091">dcscr091</a> = ‘1’ or <a href="screener-section.html#dcscr092">dcscr092</a> = ‘1’ or <a href="screener-section.html#dcscr093">dcscr093</a> = ‘1’ or <a href="screener-section.html#dcscr094">dcscr094</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr095c" class="section level2">
+<h2><span class="header-section-number">2.110</span> dcscr095c</h2>
+<p><strong>Question</strong>: “Example 3”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr090">dcscr090</a> = ‘1’ or <a href="screener-section.html#dcscr091">dcscr091</a> = ‘1’ or <a href="screener-section.html#dcscr092">dcscr092</a> = ‘1’ or <a href="screener-section.html#dcscr093">dcscr093</a> = ‘1’ or <a href="screener-section.html#dcscr094">dcscr094</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr095d" class="section level2">
+<h2><span class="header-section-number">2.111</span> dcscr095d</h2>
+<p><strong>Question</strong>: “Example 4”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr090">dcscr090</a> = ‘1’ or <a href="screener-section.html#dcscr091">dcscr091</a> = ‘1’ or <a href="screener-section.html#dcscr092">dcscr092</a> = ‘1’ or <a href="screener-section.html#dcscr093">dcscr093</a> = ‘1’ or <a href="screener-section.html#dcscr094">dcscr094</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr096" class="section level2">
+<h2><span class="header-section-number">2.112</span> dcscr096</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;<em>INTERVIEWER: If any hallucination questions endorsed, ask next question ONLY to parent.</em></p>
+<p>Is this something that is considered unusual for the child?&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr090">dcscr090</a> = ‘1’ or <a href="screener-section.html#dcscr091">dcscr091</a> = ‘1’ or <a href="screener-section.html#dcscr092">dcscr092</a> = ‘1’ or <a href="screener-section.html#dcscr093">dcscr093</a> = ‘1’ or <a href="screener-section.html#dcscr094">dcscr094</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr097" class="section level2">
+<h2><span class="header-section-number">2.113</span> dcscr097</h2>
+<p><strong>Question</strong>: “What is it?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr096">dcscr096</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr098" class="section level2">
+<h2><span class="header-section-number">2.114</span> dcscr098</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Delusions:</p>
+<p>Have you ever had your imagination play tricks on you?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr099" class="section level2">
+<h2><span class="header-section-number">2.115</span> dcscr099</h2>
+<p><strong>Question</strong>: “Have you ever believed in things that most other people or your parents don’t believe in? What?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr100" class="section level2">
+<h2><span class="header-section-number">2.116</span> dcscr100</h2>
+<p><strong>Question</strong>: “Have you ever believed in things and later found out they weren’t true, like people being out to get you, or talking about you behind your back, or controlling what you do or think?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr101" class="section level2">
+<h2><span class="header-section-number">2.117</span> dcscr101</h2>
+<p><strong>Question</strong>: “Were you sure of that at the time or did you think it just might be so?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr102a" class="section level2">
+<h2><span class="header-section-number">2.118</span> dcscr102a</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;<em>INTERVIEWER: List examples</em></p>
+<p>Example 1&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr098">dcscr098</a> = ‘1’ or <a href="screener-section.html#dcscr099">dcscr099</a> = ‘1’ or <a href="screener-section.html#dcscr100">dcscr100</a> = ‘1’ or <a href="screener-section.html#dcscr101">dcscr101</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr102b" class="section level2">
+<h2><span class="header-section-number">2.119</span> dcscr102b</h2>
+<p><strong>Question</strong>: “Example 2”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr098">dcscr098</a> = ‘1’ or <a href="screener-section.html#dcscr099">dcscr099</a> = ‘1’ or <a href="screener-section.html#dcscr100">dcscr100</a> = ‘1’ or <a href="screener-section.html#dcscr101">dcscr101</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr102c" class="section level2">
+<h2><span class="header-section-number">2.120</span> dcscr102c</h2>
+<p><strong>Question</strong>: “Example 3”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr098">dcscr098</a> = ‘1’ or <a href="screener-section.html#dcscr099">dcscr099</a> = ‘1’ or <a href="screener-section.html#dcscr100">dcscr100</a> = ‘1’ or <a href="screener-section.html#dcscr101">dcscr101</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr102d" class="section level2">
+<h2><span class="header-section-number">2.121</span> dcscr102d</h2>
+<p><strong>Question</strong>: “Example 4”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr098">dcscr098</a> = ‘1’ or <a href="screener-section.html#dcscr099">dcscr099</a> = ‘1’ or <a href="screener-section.html#dcscr100">dcscr100</a> = ‘1’ or <a href="screener-section.html#dcscr101">dcscr101</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr103" class="section level2">
+<h2><span class="header-section-number">2.122</span> dcscr103</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Have you ever had a time when you became so angry you could not control your temper and ended up hitting someone or breaking things?</p>
+<p><em>INTERVIEWER: Use clinical judgement here to rate positively. The item broken should be something of value like a car window or punching holes in the wall, not minor things like breaking a pencil.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr104" class="section level2">
+<h2><span class="header-section-number">2.123</span> dcscr104</h2>
+<p><strong>Question</strong>: “If yes, what did you do?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr103">dcscr103</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr105" class="section level2">
+<h2><span class="header-section-number">2.124</span> dcscr105</h2>
+<p><strong>Question</strong>: “How many times has this happened?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr103">dcscr103</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr106" class="section level2">
+<h2><span class="header-section-number">2.125</span> dcscr106</h2>
+<p><strong>Question</strong>: “What set it off?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr103">dcscr103</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cscr44" class="section level2">
+<h2><span class="header-section-number">2.126</span> cscr44</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;<em>FOR INTERVIEWER:</em></p>
+<p><em>Was the reaction grossly out of proportion to the precipitating event?</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr103">dcscr103</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr107" class="section level2">
+<h2><span class="header-section-number">2.127</span> dcscr107</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;How old were you when this happened the most?</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr103">dcscr103</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr108" class="section level2">
+<h2><span class="header-section-number">2.128</span> dcscr108</h2>
+<p><strong>Question</strong>: “Have you ever thought a lot about death or dying?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr109" class="section level2">
+<h2><span class="header-section-number">2.129</span> dcscr109</h2>
+<p><strong>Question</strong>: “Have you ever thought about killing yourself?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cscr47" class="section level2">
+<h2><span class="header-section-number">2.130</span> cscr47</h2>
+<p><strong>Question</strong>: “<em><strong>INTERVIEWER: If yes to either suicide probe, SKIP to suicide section and assess current risk level.</strong></em>”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr108">dcscr108</a> = ‘1’ or <a href="screener-section.html#dcscr109">dcscr109</a> = ‘1’</p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="cscr48" class="section level2">
+<h2><span class="header-section-number">2.131</span> cscr48</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Now I’m going to ask you about upsetting things that sometimes happen to children or teenagers.</p>
+<p><em>INTERVIEWER: Refer to Participant Card 5 (Stressful Experiences)</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
+</div>
+<div id="dcscr110" class="section level2">
+<h2><span class="header-section-number">2.132</span> dcscr110</h2>
+<p><strong>Question</strong>: “Have you ever been in a flood or a tornado or an earthquake or hurricane or some other natural disaster where you thought you were going to die or be seriously hurt?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr111" class="section level2">
+<h2><span class="header-section-number">2.133</span> dcscr111</h2>
+<p><strong>Question</strong>: “Have you ever been in a situation where you thought you or someone close to you was going to be killed or be hurt very badly? (e.g. family violence)”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr112" class="section level2">
+<h2><span class="header-section-number">2.134</span> dcscr112</h2>
+<p><strong>Question</strong>: “Have you ever been attacked by somebody or badly beaten?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr113" class="section level2">
+<h2><span class="header-section-number">2.135</span> dcscr113</h2>
+<p><strong>Question</strong>: “Have you ever been very upset by someone forcing you to do something sexual that you really didn’t want to do?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr114" class="section level2">
+<h2><span class="header-section-number">2.136</span> dcscr114</h2>
+<p><strong>Question</strong>: “Have you ever been attacked sexually or raped?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr113">dcscr113</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr115" class="section level2">
+<h2><span class="header-section-number">2.137</span> dcscr115</h2>
+<p><strong>Question</strong>: “Have you ever been threatened with a weapon?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr116" class="section level2">
+<h2><span class="header-section-number">2.138</span> dcscr116</h2>
+<p><strong>Question</strong>: “Have you ever been in a bad accident?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr117" class="section level2">
+<h2><span class="header-section-number">2.139</span> dcscr117</h2>
+<p><strong>Question</strong>: “Other than television or at the movies, have you ever seen or heard somebody get killed or get hurt very badly or die?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr118" class="section level2">
+<h2><span class="header-section-number">2.140</span> dcscr118</h2>
+<p><strong>Question</strong>: “Have you ever been very upset by seeing a dead body or by seeing pictures of the dead body of somebody you knew well?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr119" class="section level2">
+<h2><span class="header-section-number">2.141</span> dcscr119</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Have you ever used:</p>
+<p>Tobacco- like cigarettes or chewing tobacco?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr120" class="section level2">
+<h2><span class="header-section-number">2.142</span> dcscr120</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Tobacco: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr119">dcscr119</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr121" class="section level2">
+<h2><span class="header-section-number">2.143</span> dcscr121</h2>
+<p><strong>Question</strong>: “Caffeine- like coffee, tea, or soda?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr122" class="section level2">
+<h2><span class="header-section-number">2.144</span> dcscr122</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Caffeine: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr121">dcscr121</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr123" class="section level2">
+<h2><span class="header-section-number">2.145</span> dcscr123</h2>
+<p><strong>Question</strong>: “Alcohol- lilke beer, wine, or liquor?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr124" class="section level2">
+<h2><span class="header-section-number">2.146</span> dcscr124</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Alcohol: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr123">dcscr123</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr125" class="section level2">
+<h2><span class="header-section-number">2.147</span> dcscr125</h2>
+<p><strong>Question</strong>: “Cannabis- like marijuana?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr126" class="section level2">
+<h2><span class="header-section-number">2.148</span> dcscr126</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Cannabis: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr125">dcscr125</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr127" class="section level2">
+<h2><span class="header-section-number">2.149</span> dcscr127</h2>
+<p><strong>Question</strong>: “Inhalants- like sniffing glue or paint?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr128" class="section level2">
+<h2><span class="header-section-number">2.150</span> dcscr128</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Inhalants: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr127">dcscr127</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr129" class="section level2">
+<h2><span class="header-section-number">2.151</span> dcscr129</h2>
+<p><strong>Question</strong>: “LSD/Hallucinogens- like mushrooms or acid?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr130" class="section level2">
+<h2><span class="header-section-number">2.152</span> dcscr130</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;LSD/Hallucinogens: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr129">dcscr129</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr131" class="section level2">
+<h2><span class="header-section-number">2.153</span> dcscr131</h2>
+<p><strong>Question</strong>: “Stimulants- like diet pills to get high, ecstasy, crystal meth?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr132" class="section level2">
+<h2><span class="header-section-number">2.154</span> dcscr132</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Stimulants: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr131">dcscr131</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr133" class="section level2">
+<h2><span class="header-section-number">2.155</span> dcscr133</h2>
+<p><strong>Question</strong>: “Cocaine- crack, powder, crank?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr134" class="section level2">
+<h2><span class="header-section-number">2.156</span> dcscr134</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Cocaine: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr133">dcscr133</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr135" class="section level2">
+<h2><span class="header-section-number">2.157</span> dcscr135</h2>
+<p><strong>Question</strong>: “Sedatives- like”downers&quot; (valium)?&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr136" class="section level2">
+<h2><span class="header-section-number">2.158</span> dcscr136</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Sedatives: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr135">dcscr135</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr137" class="section level2">
+<h2><span class="header-section-number">2.159</span> dcscr137</h2>
+<p><strong>Question</strong>: “Opiates- like heroin, oxycontin, percocet?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr138" class="section level2">
+<h2><span class="header-section-number">2.160</span> dcscr138</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Opiates: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr137">dcscr137</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr139" class="section level2">
+<h2><span class="header-section-number">2.161</span> dcscr139</h2>
+<p><strong>Question</strong>: “Steroids- to help improve your performance at sports or to get bigger?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr140" class="section level2">
+<h2><span class="header-section-number">2.162</span> dcscr140</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Steroids: Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr139">dcscr139</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr141" class="section level2">
+<h2><span class="header-section-number">2.163</span> dcscr141</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Have you ever taken more perscription medicine or over the counter medicine than you were supposed to, or used someone else’s prescription medicine to get high?</p>
+<p><em>INTERVIEWER: If yes, get name of substance and code under appropriate section.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr142" class="section level2">
+<h2><span class="header-section-number">2.164</span> dcscr142</h2>
+<p><strong>Question</strong>: “Name of substance:”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr141">dcscr141</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr142a" class="section level2">
+<h2><span class="header-section-number">2.165</span> dcscr142a</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr141">dcscr141</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr143" class="section level2">
+<h2><span class="header-section-number">2.166</span> dcscr143</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Have you ever felt like you got hooked on presciption or over the counter medicine?</p>
+<p><em>INTERVIEWER: If yes, get name of substance and code under appropriate section.</em>&quot;</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr144" class="section level2">
+<h2><span class="header-section-number">2.167</span> dcscr144</h2>
+<p><strong>Question</strong>: “Name of substance:”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr143">dcscr143</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr144a" class="section level2">
+<h2><span class="header-section-number">2.168</span> dcscr144a</h2>
+<p><strong>Question</strong>:</p>
+<p>&quot;Age when used the most:</p>
+<p><em>Code 998 if “always”, 999 if “unknown”.</em>&quot;</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr143">dcscr143</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr145" class="section level2">
+<h2><span class="header-section-number">2.169</span> dcscr145</h2>
+<p><strong>Question</strong>: “Have you ever smoked a cigarette, cigar, pipe or other tobacco product, even a single puff?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr146" class="section level2">
+<h2><span class="header-section-number">2.170</span> dcscr146</h2>
+<p><strong>Question</strong>: “What is the reason(s) that you never smoked or used tobacco?”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr145">dcscr145</a> = ‘0’</p>
+<p><strong>Item Type</strong>: Multi-select checkbox</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Never had opportunity
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+Never interested
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+Didn’t like smell
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+Exposure to smoke from parents or other family members
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+Concern about health risks
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+Religious or cultural beliefs
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+Parents told child not to smoke
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+Not legal
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+Other
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr148" class="section level2">
+<h2><span class="header-section-number">2.171</span> dcscr148</h2>
+<p><strong>Question</strong>: “What is the reason(s) that you never smoked or used tobacco? Other 1”</p>
+<p><strong>Visibility</strong>: dcscr146.includes(10)</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr149" class="section level2">
+<h2><span class="header-section-number">2.172</span> dcscr149</h2>
+<p><strong>Question</strong>: “What is the reason(s) that you never smoked or used tobacco? Other 2”</p>
+<p><strong>Visibility</strong>: dcscr146.includes(10)</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="dcscr150" class="section level2">
+<h2><span class="header-section-number">2.173</span> dcscr150</h2>
+<p><strong>Question</strong>: “Was there ever a time when you or someone else thought you needed help or treatment for any problems we haven’t discussed?”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: Single-select radio button</p>
+<strong>Responses</strong>:
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:left;">
+Value
+</th>
+<th style="text-align:left;">
+Label
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+No
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Unknown
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dcscr151" class="section level2">
+<h2><span class="header-section-number">2.174</span> dcscr151</h2>
+<p><strong>Question</strong>: “Describe:”</p>
+<p><strong>Visibility</strong>: <a href="screener-section.html#dcscr150">dcscr150</a> = ‘1’</p>
+<p><strong>Item Type</strong>: Text input</p>
+<p><strong>Responses</strong>: <em>Free text entry</em></p>
+</div>
+<div id="cscr_end" class="section level2">
+<h2><span class="header-section-number">2.175</span> cscr_end</h2>
+<p><strong>Question</strong>: “<em>INTERVIEWER: END of <strong>Screener</strong> section.</em>”</p>
+<p><strong>Visibility</strong>: <em>Always</em></p>
+<p><strong>Item Type</strong>: User Message/instructions</p>
+<p><strong>Responses</strong>: <em>This item is a markdown message</em></p>
 
 </div>
-
-
-
+</div>
             </section>
 
           </div>
         </div>
       </div>
-
-<a href="timeline-section.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="timeline-section.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="screener-checklist.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

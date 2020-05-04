@@ -288,6 +288,7 @@ title: "`r paste0('Applet Codebook: NIMH KSADS ', dataDic$version[[1]])`"
 This applet was made based on the NIMH KSADS on Redcap. These sections are in currently in progress:
 
 + Register Interview Child Psychiatric
++ Tobacco 
 + Alcohol Abuse and Dependence
 + Drug Use
 + Caffeine
