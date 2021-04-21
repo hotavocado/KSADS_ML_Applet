@@ -40,7 +40,8 @@
                 "schema:name": "six or more",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "schema:description": "TIMES"
 }

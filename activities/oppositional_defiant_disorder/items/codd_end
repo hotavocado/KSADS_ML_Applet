@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "codd_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": " _INTERVIEWER: END of **Oppositional Defiant Disorder** section_"
+    "question": " _INTERVIEWER: END of **Oppositional Defiant Disorder** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

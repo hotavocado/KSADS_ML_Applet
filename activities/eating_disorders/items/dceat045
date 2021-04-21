@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many months (maxium) did you miss in a row?",
-    "schema:description": "MISSED CYCLES"
+    "schema:description": "MISSED CYCLES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

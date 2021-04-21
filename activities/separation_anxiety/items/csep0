@@ -6,7 +6,10 @@
     "@id": "csep0",
     "preamble": "Symptoms",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Earlier you told me that you worried about your parents or grown-ups who took care of you. I'd now like to ask you some more questions about that. "
+    "question": "Earlier you told me that you worried about your parents or grown-ups who took care of you. I'd now like to ask you some more questions about that. ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

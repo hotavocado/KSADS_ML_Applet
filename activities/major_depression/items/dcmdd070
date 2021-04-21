@@ -33,6 +33,7 @@
                 "schema:name": "Only a little part of the day",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

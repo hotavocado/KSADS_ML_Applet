@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "checklist_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of  **Screener Checklist** section._"
+    "question": "_INTERVIEWER: END of  **Screener Checklist** section._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

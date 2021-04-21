@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What do you enjoy most? (e.g. hobbies, sports, clubs, etc.)"
+    "question": "What do you enjoy most? (e.g. hobbies, sports, clubs, etc.)",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

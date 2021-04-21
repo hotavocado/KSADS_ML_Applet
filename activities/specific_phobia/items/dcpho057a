@@ -12,5 +12,8 @@
         "inputType": "text"
     },
     "question": "Example 1 (Things):",
-    "schema:description": "EXAMPLE"
+    "schema:description": "EXAMPLE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

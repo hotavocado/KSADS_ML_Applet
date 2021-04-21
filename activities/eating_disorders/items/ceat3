@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "On average, how often per week or month did you have eating binges?  \r\n\r\n _(N times per week, month)_"
+    "question": "On average, how often per week or month did you have eating binges?  \r\n\r\n _(N times per week, month)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

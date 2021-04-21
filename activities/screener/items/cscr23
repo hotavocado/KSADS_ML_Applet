@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cscr23",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: Since the participant replied \\\"no\\\" to the previous two questions, do not complete the **Agoraphobia** section; consider other phobias._"
+    "question": "_INTERVIEWER: Since the participant replied \\\"no\\\" to the previous two questions, do not complete the **Agoraphobia** section; consider other phobias._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

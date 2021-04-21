@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cman40",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "For how long did you have them?  (N Days, N weeks)"
+    "question": "For how long did you have them?  (N Days, N weeks)",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

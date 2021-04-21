@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What is the most number of cigarettes you ever smoked?"
+    "question": "What is the most number of cigarettes you ever smoked?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

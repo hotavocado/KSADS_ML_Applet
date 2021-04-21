@@ -6,7 +6,10 @@
     "@id": "cscr24",
     "preamble": "Obsessive Compulsive Disorder",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Some people have unpleasant thoughts or feelings to do things that keep coming back over and over again and they can't get them out of their head. These thoughts sometimes make these people feel like they have to do things over and over again (like washing their hands, counting, or checking things). "
+    "question": "Some people have unpleasant thoughts or feelings to do things that keep coming back over and over again and they can't get them out of their head. These thoughts sometimes make these people feel like they have to do things over and over again (like washing their hands, counting, or checking things). ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

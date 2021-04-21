@@ -39,6 +39,7 @@
                 "schema:name": "Unknown",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

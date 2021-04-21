@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How long ago did you stop drinking that much?"
+    "question": "How long ago did you stop drinking that much?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

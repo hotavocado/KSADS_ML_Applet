@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cscr47",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_**INTERVIEWER: If yes to either suicide probe, SKIP to suicide section and assess current risk level.**_"
+    "question": "_**INTERVIEWER: If yes to either suicide probe, SKIP to suicide section and assess current risk level.**_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

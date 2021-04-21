@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "About how many talk sessions did you have in total?",
-    "schema:description": "NUMBER"
+    "schema:description": "NUMBER",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

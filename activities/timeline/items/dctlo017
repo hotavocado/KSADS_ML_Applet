@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Changing schools (grade school to junior high to high school to moves)\n"
+    "question": "Changing schools (grade school to junior high to high school to moves)\n",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

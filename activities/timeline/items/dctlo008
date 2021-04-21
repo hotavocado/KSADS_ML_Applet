@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "So, how old are you?",
-    "schema:description": "AGE"
+    "schema:description": "AGE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

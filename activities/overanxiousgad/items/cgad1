@@ -28,31 +28,32 @@
                 "@type": "schema:option"
             },
             {
-                "schema:value": 4,
+                "schema:value": 5,
                 "schema:name": "Health of self",
                 "@type": "schema:option"
             },
             {
-                "schema:value": 5,
+                "schema:value": 6,
                 "schema:name": "Health of others",
                 "@type": "schema:option"
             },
             {
-                "schema:value": 6,
+                "schema:value": 7,
                 "schema:name": "Family situations (divorce/finances/etc)",
                 "@type": "schema:option"
             },
             {
-                "schema:value": 7,
+                "schema:value": 8,
                 "schema:name": "Things going on in the world (war/terrorism/crime/floods/tornadoes/etc)",
                 "@type": "schema:option"
             },
             {
-                "schema:value": 8,
+                "schema:value": 9,
                 "schema:name": "Other",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "ui": {
         "inputType": "radio"

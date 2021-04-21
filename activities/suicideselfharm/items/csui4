@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "csui4",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Now I am going to ask you some things about that time/each of these times: "
+    "question": "Now I am going to ask you some things about that time/each of these times: ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

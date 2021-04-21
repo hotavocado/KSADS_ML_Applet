@@ -70,7 +70,8 @@
                 "schema:name": "Unknown ",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "schema:description": "CODE RESPONSE"
 }

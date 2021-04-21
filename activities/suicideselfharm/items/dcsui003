@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Please tell me about this (context, situation, triggers, etc):"
+    "question": "Please tell me about this (context, situation, triggers, etc):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

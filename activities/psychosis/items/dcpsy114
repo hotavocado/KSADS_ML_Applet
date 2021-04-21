@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Other bizzare delusions):"
+    "question": "Specify (Other bizzare delusions):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

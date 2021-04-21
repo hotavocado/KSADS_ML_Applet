@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What did the professional(s) (doctors) say was the problem? (diagnoses given)? List:     "
+    "question": "What did the professional(s) (doctors) say was the problem? (diagnoses given)? List:     ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

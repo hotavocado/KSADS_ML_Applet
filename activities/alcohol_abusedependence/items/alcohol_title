@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "alcohol_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Alcohol Abuse and Dependence"
+    "question": "## Alcohol Abuse and Dependence",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

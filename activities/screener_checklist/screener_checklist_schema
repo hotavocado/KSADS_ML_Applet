@@ -6,35 +6,32 @@
     "@type": "reproschema:Activity",
     "@id": "screener_checklist_schema",
     "skos:prefLabel": "Screener Checklist",
-    "skos:altLabel": "screener_checklist_schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "checklist_title",
-            "isAbout": "checklist_title"
-        },
-        {
-            "variableName": "checklist_b",
-            "isAbout": "checklist_b"
-        },
-        {
-            "variableName": "checklist_end",
-            "isAbout": "checklist_end"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "checklist_title",
+                "isAbout": "checklist_title",
+                "isVis": true
+            },
+            {
+                "variableName": "checklist_b",
+                "isAbout": "checklist_b",
+                "isVis": true
+            },
+            {
+                "variableName": "checklist_end",
+                "isAbout": "checklist_end",
+                "isVis": true
+            }
+        ],
         "order": [
             "checklist_title",
             "checklist_b",
             "checklist_end"
         ],
-        "shuffle": false,
-        "visibility": {
-            "checklist_title": true,
-            "checklist_b": true,
-            "checklist_end": true
-        }
+        "shuffle": false
     }
 }

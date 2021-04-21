@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many times did you try to cut down or quit?",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

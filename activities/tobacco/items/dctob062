@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many of these times have you gone without smoking for 3 months or longer?",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

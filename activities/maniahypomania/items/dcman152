@@ -9,5 +9,8 @@
         "inputType": "text"
     },
     "question": "How many times have you felt this way in your lifetime?",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

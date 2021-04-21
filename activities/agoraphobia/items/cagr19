@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What was the longest period of time that (fear) did not bother you? \r\n\r\n _(N weeks, N months, N years)_"
+    "question": "What was the longest period of time that (fear) did not bother you? \r\n\r\n _(N weeks, N months, N years)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

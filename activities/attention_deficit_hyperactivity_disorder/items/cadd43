@@ -27,7 +27,8 @@
                 "schema:name": "Other",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "ui": {
         "inputType": "radio"

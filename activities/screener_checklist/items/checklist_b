@@ -107,7 +107,8 @@
                 "schema:name": "Drug/Substance",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "ui": {
         "inputType": "radio"

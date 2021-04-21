@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many times did you skip school?",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

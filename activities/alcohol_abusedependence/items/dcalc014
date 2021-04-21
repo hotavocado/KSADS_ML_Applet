@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "On the days that you drank, on average, how many drinks did you usually have? (In 24 hours)",
-    "schema:description": "NUMBER OF DRINKS"
+    "schema:description": "NUMBER OF DRINKS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

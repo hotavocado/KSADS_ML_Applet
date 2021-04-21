@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "Code (social situation):",
-    "schema:description": "CODE RESPONSE"
+    "schema:description": "CODE RESPONSE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

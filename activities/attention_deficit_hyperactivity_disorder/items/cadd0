@@ -6,7 +6,10 @@
     "@id": "cadd0",
     "preamble": "General Probes: Inattention",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Everyone has times when they have trouble concentrating or keeping their mind on what they are doing.  The next questions are about whether you have had more difficulty than most people with concentration or attention. "
+    "question": "Everyone has times when they have trouble concentrating or keeping their mind on what they are doing.  The next questions are about whether you have had more difficulty than most people with concentration or attention. ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

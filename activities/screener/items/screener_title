@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "screener_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Screener"
+    "question": "## Screener",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

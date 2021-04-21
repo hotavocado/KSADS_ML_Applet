@@ -6,7 +6,10 @@
     "@id": "cscr28",
     "preamble": "Depression",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Some people have times when they feel sad, depressed, irritable or moody. They no longer enjoy the things they used to do; they may feel tired and have less energy than usual.  These changes are much different from their usual selves."
+    "question": "Some people have times when they feel sad, depressed, irritable or moody. They no longer enjoy the things they used to do; they may feel tired and have less energy than usual.  These changes are much different from their usual selves.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

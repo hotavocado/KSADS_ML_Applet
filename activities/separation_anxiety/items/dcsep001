@@ -33,6 +33,7 @@
                 "schema:name": "Other Adult",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

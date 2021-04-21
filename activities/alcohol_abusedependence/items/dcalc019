@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How long ago did you stop drinking that often? \r\n\r\n _INTERVIEWER: Code the number of months or best approximation since last time._"
+    "question": "How long ago did you stop drinking that often? \r\n\r\n _INTERVIEWER: Code the number of months or best approximation since last time._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

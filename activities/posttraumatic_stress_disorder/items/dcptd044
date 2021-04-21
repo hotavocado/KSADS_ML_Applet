@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "When was the **last time** you had feelings/behaviors related to this event? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._"
+    "question": "When was the **last time** you had feelings/behaviors related to this event? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

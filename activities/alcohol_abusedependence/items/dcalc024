@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "Code duration of episode in months.",
-    "schema:description": "MONTHS"
+    "schema:description": "MONTHS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

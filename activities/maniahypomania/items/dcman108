@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "Specify (Medication 2):",
-    "schema:description": "MEDICATION"
+    "schema:description": "MEDICATION",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

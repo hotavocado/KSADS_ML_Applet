@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "When did the event occur? \r\n\r\n _(Record  the month and year in this format, 01/2000)_"
+    "question": "When did the event occur? \r\n\r\n _(Record  the month and year in this format, 01/2000)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

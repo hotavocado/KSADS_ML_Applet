@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "For how long did you think this was true? (N of Days, N of Weeks)"
+    "question": "For how long did you think this was true? (N of Days, N of Weeks)",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

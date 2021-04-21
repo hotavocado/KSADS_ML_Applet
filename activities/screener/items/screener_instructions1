@@ -6,7 +6,10 @@
     "@id": "screener_instructions1",
     "preamble": "Screening Probes",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "I'm now going to ask you some more questions about your feelings, behavior and mood."
+    "question": "I'm now going to ask you some more questions about your feelings, behavior and mood.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

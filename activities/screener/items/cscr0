@@ -6,7 +6,10 @@
     "@id": "cscr0",
     "preamble": "Treatment",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: Use timeline to date treatment, symptoms, etc._"
+    "question": "_INTERVIEWER: Use timeline to date treatment, symptoms, etc._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "conduct_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Conduct Disorder"
+    "question": "## Conduct Disorder",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

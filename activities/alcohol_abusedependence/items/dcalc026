@@ -38,6 +38,7 @@
                 "schema:name": "More than ten times",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

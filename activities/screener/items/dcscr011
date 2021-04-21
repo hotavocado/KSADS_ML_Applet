@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "When and what happened that lead to you going to the hospital?"
+    "question": "When and what happened that lead to you going to the hospital?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -6,7 +6,10 @@
     "@id": "cpan0",
     "preamble": "Symptoms",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Earlier you told me that you have had (an anxiety attack/anxiety attacks).  I'd like to ask you more about that/these."
+    "question": "Earlier you told me that you have had (an anxiety attack/anxiety attacks).  I'd like to ask you more about that/these.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

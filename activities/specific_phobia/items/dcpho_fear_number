@@ -25,6 +25,7 @@
                 "schema:name": "Three",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

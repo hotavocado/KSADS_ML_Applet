@@ -6,341 +6,422 @@
     "@type": "reproschema:Activity",
     "@id": "eating_disorders_schema",
     "skos:prefLabel": "Eating Disorders",
-    "skos:altLabel": "eating_disorders_schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "eating_title",
-            "isAbout": "eating_title"
-        },
-        {
-            "variableName": "ceat0",
-            "isAbout": "ceat0"
-        },
-        {
-            "variableName": "dceat001",
-            "isAbout": "dceat001"
-        },
-        {
-            "variableName": "dceat002",
-            "isAbout": "dceat002"
-        },
-        {
-            "variableName": "ceat3",
-            "isAbout": "ceat3"
-        },
-        {
-            "variableName": "ceat4",
-            "isAbout": "ceat4"
-        },
-        {
-            "variableName": "dceat008",
-            "isAbout": "dceat008"
-        },
-        {
-            "variableName": "dceat009",
-            "isAbout": "dceat009"
-        },
-        {
-            "variableName": "dceat010",
-            "isAbout": "dceat010"
-        },
-        {
-            "variableName": "dceat011",
-            "isAbout": "dceat011"
-        },
-        {
-            "variableName": "dceat012",
-            "isAbout": "dceat012"
-        },
-        {
-            "variableName": "dceat013",
-            "isAbout": "dceat013"
-        },
-        {
-            "variableName": "dceat014",
-            "isAbout": "dceat014"
-        },
-        {
-            "variableName": "dceat015",
-            "isAbout": "dceat015"
-        },
-        {
-            "variableName": "dceat016",
-            "isAbout": "dceat016"
-        },
-        {
-            "variableName": "dceat017",
-            "isAbout": "dceat017"
-        },
-        {
-            "variableName": "dceat018",
-            "isAbout": "dceat018"
-        },
-        {
-            "variableName": "dceat019",
-            "isAbout": "dceat019"
-        },
-        {
-            "variableName": "dceat020",
-            "isAbout": "dceat020"
-        },
-        {
-            "variableName": "ceat11",
-            "isAbout": "ceat11"
-        },
-        {
-            "variableName": "ceat12",
-            "isAbout": "ceat12"
-        },
-        {
-            "variableName": "dceat026",
-            "isAbout": "dceat026"
-        },
-        {
-            "variableName": "dceat027",
-            "isAbout": "dceat027"
-        },
-        {
-            "variableName": "dceat028",
-            "isAbout": "dceat028"
-        },
-        {
-            "variableName": "dceat029",
-            "isAbout": "dceat029"
-        },
-        {
-            "variableName": "dceat030",
-            "isAbout": "dceat030"
-        },
-        {
-            "variableName": "ceat17",
-            "isAbout": "ceat17"
-        },
-        {
-            "variableName": "dceat033",
-            "isAbout": "dceat033"
-        },
-        {
-            "variableName": "dceat036",
-            "isAbout": "dceat036"
-        },
-        {
-            "variableName": "dceat037",
-            "isAbout": "dceat037"
-        },
-        {
-            "variableName": "dceat038",
-            "isAbout": "dceat038"
-        },
-        {
-            "variableName": "dceat039",
-            "isAbout": "dceat039"
-        },
-        {
-            "variableName": "dceat040",
-            "isAbout": "dceat040"
-        },
-        {
-            "variableName": "dceat041",
-            "isAbout": "dceat041"
-        },
-        {
-            "variableName": "ceat23a",
-            "isAbout": "ceat23a"
-        },
-        {
-            "variableName": "dceat042",
-            "isAbout": "dceat042"
-        },
-        {
-            "variableName": "dceat043",
-            "isAbout": "dceat043"
-        },
-        {
-            "variableName": "dceat044",
-            "isAbout": "dceat044"
-        },
-        {
-            "variableName": "dceat045",
-            "isAbout": "dceat045"
-        },
-        {
-            "variableName": "dceat046",
-            "isAbout": "dceat046"
-        },
-        {
-            "variableName": "dceat047",
-            "isAbout": "dceat047"
-        },
-        {
-            "variableName": "dceat048",
-            "isAbout": "dceat048"
-        },
-        {
-            "variableName": "dceat049",
-            "isAbout": "dceat049"
-        },
-        {
-            "variableName": "dceat050",
-            "isAbout": "dceat050"
-        },
-        {
-            "variableName": "ceat29",
-            "isAbout": "ceat29"
-        },
-        {
-            "variableName": "dceat053",
-            "isAbout": "dceat053"
-        },
-        {
-            "variableName": "dceat054",
-            "isAbout": "dceat054"
-        },
-        {
-            "variableName": "dceat055",
-            "isAbout": "dceat055"
-        },
-        {
-            "variableName": "ceat32",
-            "isAbout": "ceat32"
-        },
-        {
-            "variableName": "ceat33",
-            "isAbout": "ceat33"
-        },
-        {
-            "variableName": "ceat35",
-            "isAbout": "ceat35"
-        },
-        {
-            "variableName": "dceat059",
-            "isAbout": "dceat059"
-        },
-        {
-            "variableName": "dceat060",
-            "isAbout": "dceat060"
-        },
-        {
-            "variableName": "dceat061",
-            "isAbout": "dceat061"
-        },
-        {
-            "variableName": "dceat062",
-            "isAbout": "dceat062"
-        },
-        {
-            "variableName": "dceat063",
-            "isAbout": "dceat063"
-        },
-        {
-            "variableName": "dceat064",
-            "isAbout": "dceat064"
-        },
-        {
-            "variableName": "ceat37a",
-            "isAbout": "ceat37a"
-        },
-        {
-            "variableName": "dceat065",
-            "isAbout": "dceat065"
-        },
-        {
-            "variableName": "dceat066",
-            "isAbout": "dceat066"
-        },
-        {
-            "variableName": "dceat067",
-            "isAbout": "dceat067"
-        },
-        {
-            "variableName": "dceat068",
-            "isAbout": "dceat068"
-        },
-        {
-            "variableName": "dceat069",
-            "isAbout": "dceat069"
-        },
-        {
-            "variableName": "dceat070",
-            "isAbout": "dceat070"
-        },
-        {
-            "variableName": "dceat072",
-            "isAbout": "dceat072"
-        },
-        {
-            "variableName": "dceat073",
-            "isAbout": "dceat073"
-        },
-        {
-            "variableName": "dceat074",
-            "isAbout": "dceat074"
-        },
-        {
-            "variableName": "dceat075",
-            "isAbout": "dceat075"
-        },
-        {
-            "variableName": "dceat076",
-            "isAbout": "dceat076"
-        },
-        {
-            "variableName": "dceat077",
-            "isAbout": "dceat077"
-        },
-        {
-            "variableName": "ceat39",
-            "isAbout": "ceat39"
-        },
-        {
-            "variableName": "dceat081",
-            "isAbout": "dceat081"
-        },
-        {
-            "variableName": "dceat082",
-            "isAbout": "dceat082"
-        },
-        {
-            "variableName": "dceat083",
-            "isAbout": "dceat083"
-        },
-        {
-            "variableName": "dceat084",
-            "isAbout": "dceat084"
-        },
-        {
-            "variableName": "dceat085",
-            "isAbout": "dceat085"
-        },
-        {
-            "variableName": "dceat086",
-            "isAbout": "dceat086"
-        },
-        {
-            "variableName": "dceat087",
-            "isAbout": "dceat087"
-        },
-        {
-            "variableName": "dceat088",
-            "isAbout": "dceat088"
-        },
-        {
-            "variableName": "dceat089",
-            "isAbout": "dceat089"
-        },
-        {
-            "variableName": "dceat090",
-            "isAbout": "dceat090"
-        },
-        {
-            "variableName": "ceat_end",
-            "isAbout": "ceat_end"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "eating_title",
+                "isAbout": "eating_title",
+                "isVis": true
+            },
+            {
+                "variableName": "ceat0",
+                "isAbout": "ceat0",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat001",
+                "isAbout": "dceat001",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat002",
+                "isAbout": "dceat002",
+                "isVis": "dceat001 == '1'"
+            },
+            {
+                "variableName": "ceat3",
+                "isAbout": "ceat3",
+                "isVis": "dceat001 == '1'"
+            },
+            {
+                "variableName": "ceat4",
+                "isAbout": "ceat4",
+                "isVis": "dceat001 == '1'"
+            },
+            {
+                "variableName": "dceat008",
+                "isAbout": "dceat008",
+                "isVis": "dceat001 == '1'"
+            },
+            {
+                "variableName": "dceat009",
+                "isAbout": "dceat009",
+                "isVis": "dceat001 == '1'"
+            },
+            {
+                "variableName": "dceat010",
+                "isAbout": "dceat010",
+                "isVis": "dceat009 == '0'"
+            },
+            {
+                "variableName": "dceat011",
+                "isAbout": "dceat011",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat012",
+                "isAbout": "dceat012",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat013",
+                "isAbout": "dceat013",
+                "isVis": "dceat012 == '1'"
+            },
+            {
+                "variableName": "dceat014",
+                "isAbout": "dceat014",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat015",
+                "isAbout": "dceat015",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat016",
+                "isAbout": "dceat016",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat017",
+                "isAbout": "dceat017",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat018",
+                "isAbout": "dceat018",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat019",
+                "isAbout": "dceat019",
+                "isVis": "dceat018 == '1'"
+            },
+            {
+                "variableName": "dceat020",
+                "isAbout": "dceat020",
+                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1' "
+            },
+            {
+                "variableName": "ceat11",
+                "isAbout": "ceat11",
+                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1' "
+            },
+            {
+                "variableName": "ceat12",
+                "isAbout": "ceat12",
+                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1' "
+            },
+            {
+                "variableName": "dceat026",
+                "isAbout": "dceat026",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat027",
+                "isAbout": "dceat027",
+                "isVis": true
+            },
+            {
+                "variableName": "dceat028",
+                "isAbout": "dceat028",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat029",
+                "isAbout": "dceat029",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat030",
+                "isAbout": "dceat030",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "ceat17",
+                "isAbout": "ceat17",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat033",
+                "isAbout": "dceat033",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat036",
+                "isAbout": "dceat036",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat037",
+                "isAbout": "dceat037",
+                "isVis": "dceat036 == '1' && dceat001 == '1'"
+            },
+            {
+                "variableName": "dceat038",
+                "isAbout": "dceat038",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat039",
+                "isAbout": "dceat039",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat040",
+                "isAbout": "dceat040",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat041",
+                "isAbout": "dceat041",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "ceat23a",
+                "isAbout": "ceat23a",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat042",
+                "isAbout": "dceat042",
+                "isVis": "ceat23a == '1'"
+            },
+            {
+                "variableName": "dceat043",
+                "isAbout": "dceat043",
+                "isVis": "dceat042 == '1'"
+            },
+            {
+                "variableName": "dceat044",
+                "isAbout": "dceat044",
+                "isVis": "dceat042 == '1'"
+            },
+            {
+                "variableName": "dceat045",
+                "isAbout": "dceat045",
+                "isVis": "dceat042 == '1'"
+            },
+            {
+                "variableName": "dceat046",
+                "isAbout": "dceat046",
+                "isVis": "dceat042 == '1'"
+            },
+            {
+                "variableName": "dceat047",
+                "isAbout": "dceat047",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat048",
+                "isAbout": "dceat048",
+                "isVis": "dceat047 == '1'"
+            },
+            {
+                "variableName": "dceat049",
+                "isAbout": "dceat049",
+                "isVis": "dceat047 == '1'"
+            },
+            {
+                "variableName": "dceat050",
+                "isAbout": "dceat050",
+                "isVis": "dceat049 == '1'"
+            },
+            {
+                "variableName": "ceat29",
+                "isAbout": "ceat29",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat053",
+                "isAbout": "dceat053",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "dceat054",
+                "isAbout": "dceat054",
+                "isVis": "dceat053 == '0'"
+            },
+            {
+                "variableName": "dceat055",
+                "isAbout": "dceat055",
+                "isVis": "dceat027 == '1'"
+            },
+            {
+                "variableName": "ceat32",
+                "isAbout": "ceat32",
+                "isVis": "dceat055 == '1'"
+            },
+            {
+                "variableName": "ceat33",
+                "isAbout": "ceat33",
+                "isVis": "dceat001 == 0 &&  dceat011 == 0 && dceat012 == 0 && dceat014 == 0 && dceat015 == 0 && dceat016 == 0 && dceat017 == 0 && dceat018 == 0 && dceat026 == 0 && dceat027 == 0"
+            },
+            {
+                "variableName": "ceat35",
+                "isAbout": "ceat35",
+                "isVis": "ceat33 !== 1"
+            },
+            {
+                "variableName": "dceat059",
+                "isAbout": "dceat059",
+                "isVis": "ceat33 !== 1"
+            },
+            {
+                "variableName": "dceat060",
+                "isAbout": "dceat060",
+                "isVis": "ceat33 !== 1"
+            },
+            {
+                "variableName": "dceat061",
+                "isAbout": "dceat061",
+                "isVis": "ceat33 !== 1"
+            },
+            {
+                "variableName": "dceat062",
+                "isAbout": "dceat062",
+                "isVis": "dceat061 == '1' "
+            },
+            {
+                "variableName": "dceat063",
+                "isAbout": "dceat063",
+                "isVis": "ceat33 !== 1"
+            },
+            {
+                "variableName": "dceat064",
+                "isAbout": "dceat064",
+                "isVis": "ceat33 !== 1"
+            },
+            {
+                "variableName": "ceat37a",
+                "isAbout": "ceat37a",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat065",
+                "isAbout": "dceat065",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat066",
+                "isAbout": "dceat066",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat067",
+                "isAbout": "dceat067",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat068",
+                "isAbout": "dceat068",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat069",
+                "isAbout": "dceat069",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat070",
+                "isAbout": "dceat070",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat072",
+                "isAbout": "dceat072",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat073",
+                "isAbout": "dceat073",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat074",
+                "isAbout": "dceat074",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat075",
+                "isAbout": "dceat075",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat076",
+                "isAbout": "dceat076",
+                "isVis": "dceat075 == '0'"
+            },
+            {
+                "variableName": "dceat077",
+                "isAbout": "dceat077",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "ceat39",
+                "isAbout": "ceat39",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat081",
+                "isAbout": "dceat081",
+                "isVis": "ceat39.includes(3)"
+            },
+            {
+                "variableName": "dceat082",
+                "isAbout": "dceat082",
+                "isVis": "dceat064 == '1'"
+            },
+            {
+                "variableName": "dceat083",
+                "isAbout": "dceat083",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "dceat084",
+                "isAbout": "dceat084",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "dceat085",
+                "isAbout": "dceat085",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "dceat086",
+                "isAbout": "dceat086",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "dceat087",
+                "isAbout": "dceat087",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "dceat088",
+                "isAbout": "dceat088",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "dceat089",
+                "isAbout": "dceat089",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "dceat090",
+                "isAbout": "dceat090",
+                "isVis": "dceat082 == '1'"
+            },
+            {
+                "variableName": "ceat_end",
+                "isAbout": "ceat_end",
+                "isVis": true
+            }
+        ],
         "order": [
             "eating_title",
             "ceat0",
@@ -425,90 +506,6 @@
             "dceat090",
             "ceat_end"
         ],
-        "shuffle": false,
-        "visibility": {
-            "eating_title": true,
-            "ceat0": true,
-            "dceat001": true,
-            "dceat002": "dceat001 == 1",
-            "ceat3": "dceat001 == 1",
-            "ceat4": "dceat001 == 1",
-            "dceat008": "dceat001 == 1",
-            "dceat009": "dceat001 == 1",
-            "dceat010": "dceat009 == 0",
-            "dceat011": true,
-            "dceat012": true,
-            "dceat013": "dceat012 == 1",
-            "dceat014": true,
-            "dceat015": true,
-            "dceat016": true,
-            "dceat017": true,
-            "dceat018": true,
-            "dceat019": "dceat018 == 1",
-            "dceat020": "dceat011 == 1 || dceat012 == 1 || dceat014 == 1 || dceat015 == 1 || dceat016 == 1 || dceat017 == 1 ||  dceat018 == 1 ",
-            "ceat11": "dceat011 == 1 || dceat012 == 1 || dceat014 == 1 || dceat015 == 1 || dceat016 == 1 || dceat017 == 1 ||  dceat018 == 1 ",
-            "ceat12": "dceat011 == 1 || dceat012 == 1 || dceat014 == 1 || dceat015 == 1 || dceat016 == 1 || dceat017 == 1 ||  dceat018 == 1 ",
-            "dceat026": true,
-            "dceat027": true,
-            "dceat028": "dceat027 == 1",
-            "dceat029": "dceat027 == 1",
-            "dceat030": "dceat027 == 1",
-            "ceat17": "dceat027 == 1",
-            "dceat033": "dceat027 == 1",
-            "dceat036": "dceat027 == 1",
-            "dceat037": "dceat036 == 1 && dceat001 == 1",
-            "dceat038": "dceat027 == 1",
-            "dceat039": "dceat027 == 1",
-            "dceat040": "dceat027 == 1",
-            "dceat041": "dceat027 == 1",
-            "ceat23a": "dceat027 == 1",
-            "dceat042": "ceat23a == 1",
-            "dceat043": "dceat042 == 1",
-            "dceat044": "dceat042 == 1",
-            "dceat045": "dceat042 == 1",
-            "dceat046": "dceat042 == 1",
-            "dceat047": "dceat027 == 1",
-            "dceat048": "dceat047 == 1",
-            "dceat049": "dceat047 == 1",
-            "dceat050": "dceat049 == 1",
-            "ceat29": "dceat027 == 1",
-            "dceat053": "dceat027 == 1",
-            "dceat054": "dceat053 == 0",
-            "dceat055": "dceat027 == 1",
-            "ceat32": "dceat055 == 1",
-            "ceat33": "dceat001 == 0 &&  dceat011 == 0 && dceat012 == 0 && dceat014 == 0 && dceat015 == 0 && dceat016 == 0 && dceat017 == 0 && dceat018 == 0 && dceat026 == 0 && dceat027 == 0",
-            "ceat35": "ceat33 !== 1",
-            "dceat059": "ceat33 !== 1",
-            "dceat060": "ceat33 !== 1",
-            "dceat061": "ceat33 !== 1",
-            "dceat062": "dceat061 == 1 ",
-            "dceat063": "ceat33 !== 1",
-            "dceat064": "ceat33 !== 1",
-            "ceat37a": "dceat064 == 1",
-            "dceat065": "dceat064 == 1",
-            "dceat066": "dceat064 == 1",
-            "dceat067": "dceat064 == 1",
-            "dceat068": "dceat064 == 1",
-            "dceat069": "dceat064 == 1",
-            "dceat070": "dceat064 == 1",
-            "dceat072": "dceat064 == 1",
-            "dceat073": "dceat064 == 1",
-            "dceat074": "dceat064 == 1",
-            "dceat075": "dceat064 == 1",
-            "dceat076": "dceat075 == 0",
-            "dceat077": "dceat064 == 1",
-            "ceat39": "dceat064 == 1",
-            "dceat081": "ceat39.includes(3)",
-            "dceat082": "dceat064 == 1",
-            "dceat083": "dceat082 == 1",
-            "dceat084": "dceat082 == 1",
-            "dceat085": "dceat082 == 1",
-            "dceat086": "dceat082 == 1",
-            "dceat087": "dceat082 == 1",
-            "dceat088": "dceat082 == 1",
-            "dceat089": "dceat082 == 1",
-            "dceat090": "dceat082 == 1",
-            "ceat_end": true
-        }
+        "shuffle": false
     }
 }

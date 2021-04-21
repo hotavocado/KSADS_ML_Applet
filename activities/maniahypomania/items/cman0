@@ -6,7 +6,10 @@
     "@id": "cman0",
     "preamble": "Current/Most Recent Episode",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Some young people have times when they are energetic, or cheerful, very different from how they usually feel.  At these times, they may also feel more talkative, more active, sleep less and feel more restless."
+    "question": "Some young people have times when they are energetic, or cheerful, very different from how they usually feel.  At these times, they may also feel more talkative, more active, sleep less and feel more restless.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

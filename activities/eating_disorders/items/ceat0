@@ -6,7 +6,10 @@
     "@id": "ceat0",
     "preamble": "General Probes",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Earlier you told me some things about your eating habits and your weight. Now I would like to ask you some questions about that. "
+    "question": "Earlier you told me some things about your eating habits and your weight. Now I would like to ask you some questions about that. ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

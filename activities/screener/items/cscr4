@@ -6,7 +6,10 @@
     "@id": "cscr4",
     "preamble": "Overanxious/Generalized Anxiety Disorder",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Some young people worry a lot. They may often feel nervous, anxious or unable to relax.  They may have times when they worry a lot more than usual."
+    "question": "Some young people worry a lot. They may often feel nervous, anxious or unable to relax.  They may have times when they worry a lot more than usual.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

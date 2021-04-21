@@ -11,5 +11,8 @@
         "inputType": "text"
     },
     "question": "Code (Medication 2):",
-    "schema:description": "CODE RESPONSE"
+    "schema:description": "CODE RESPONSE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Other context):"
+    "question": "Specify (Other context):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

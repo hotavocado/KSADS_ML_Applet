@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "INTERVIEWER: _If child/parent endorsed treatment of any kind, identify the primary reason for treatment (ADHD, MDD, etc.) and code at the end of the appropriate section._"
+    "question": "INTERVIEWER: _If child/parent endorsed treatment of any kind, identify the primary reason for treatment (ADHD, MDD, etc.) and code at the end of the appropriate section._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

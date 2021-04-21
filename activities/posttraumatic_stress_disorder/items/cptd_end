@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cptd_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": " _INTERVIEWER: END of **Post Traumatic Stress Disorder** section_"
+    "question": " _INTERVIEWER: END of **Post Traumatic Stress Disorder** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

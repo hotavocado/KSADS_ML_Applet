@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "_INTERVIEWER: Record duration of symptoms. If not clear, ask if it was more or less than one month._ \r\n\r\n _(N months, N years)_"
+    "question": "_INTERVIEWER: Record duration of symptoms. If not clear, ask if it was more or less than one month._ \r\n\r\n _(N months, N years)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

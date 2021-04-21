@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "mania_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Mania/Hypomania"
+    "question": "## Mania/Hypomania",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "checklist_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Screener Checklist"
+    "question": "## Screener Checklist",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

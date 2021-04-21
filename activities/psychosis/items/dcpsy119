@@ -9,5 +9,8 @@
         "inputType": "text"
     },
     "question": "_INTERVIEWER: Estimate total duration of the period when delusions occurred (can be intermittent over this time):_ \r\n\r\n _(N days, N weeks)_",
-    "schema:description": "WEEKS"
+    "schema:description": "WEEKS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

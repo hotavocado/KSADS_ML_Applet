@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cpsy_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of **Psychosis** section_"
+    "question": "_INTERVIEWER: END of **Psychosis** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

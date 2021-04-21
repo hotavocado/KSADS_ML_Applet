@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "If yes, what did you do?"
+    "question": "If yes, what did you do?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

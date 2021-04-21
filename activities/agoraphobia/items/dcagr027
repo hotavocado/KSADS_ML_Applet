@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "_INTERVIEWER: List the worst situation below, refer to Participant Card 4: Other Fears._ \r\n\r\n Most distressing and avoided situation:"
+    "question": "_INTERVIEWER: List the worst situation below, refer to Participant Card 4: Other Fears._ \r\n\r\n Most distressing and avoided situation:",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

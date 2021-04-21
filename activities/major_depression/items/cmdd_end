@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cmdd_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of  **Major Depression** section._"
+    "question": "_INTERVIEWER: END of  **Major Depression** section._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

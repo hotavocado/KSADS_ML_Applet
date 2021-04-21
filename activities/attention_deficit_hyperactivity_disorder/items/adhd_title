@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "adhd_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Attention Deficit Hyperactivity Disorder"
+    "question": "## Attention Deficit Hyperactivity Disorder",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

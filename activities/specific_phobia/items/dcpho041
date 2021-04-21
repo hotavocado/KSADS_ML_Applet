@@ -11,5 +11,8 @@
         "inputType": "text"
     },
     "question": "Fear 3 (Code)",
-    "schema:description": "CODE RESPONSE"
+    "schema:description": "CODE RESPONSE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

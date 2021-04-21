@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "tobacco_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Tobacco"
+    "question": "## Tobacco",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

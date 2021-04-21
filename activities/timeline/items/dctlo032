@@ -33,6 +33,7 @@
                 "schema:name": "Failing",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

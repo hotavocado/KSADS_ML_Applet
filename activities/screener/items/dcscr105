@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many times has this happened?",
-    "schema:description": "NUMBER OF TIMES"
+    "schema:description": "NUMBER OF TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

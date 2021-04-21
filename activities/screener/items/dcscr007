@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many separate times did you go to see someone? \r\n\r\n _INTERVIEWER: Clarify that these are distinct periods of outpatient services, not individual appointments._",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

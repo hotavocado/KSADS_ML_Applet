@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "How are you doing in school? What subjects do you have? What kind of grades do you get? \r\n\r\n _INTERVIEWER: Please rate academic subjects on the following scale. List any additional academic subjects and review ratings._"
+    "question": "How are you doing in school? What subjects do you have? What kind of grades do you get? \r\n\r\n _INTERVIEWER: Please rate academic subjects on the following scale. List any additional academic subjects and review ratings._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

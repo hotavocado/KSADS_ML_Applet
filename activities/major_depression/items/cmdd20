@@ -6,7 +6,10 @@
     "@id": "cmdd20",
     "preamble": "Mordbid Thoughts",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Sometimes kids who feel sad, down, or angry think about death or even wish they were dead.  "
+    "question": "Sometimes kids who feel sad, down, or angry think about death or even wish they were dead.  ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

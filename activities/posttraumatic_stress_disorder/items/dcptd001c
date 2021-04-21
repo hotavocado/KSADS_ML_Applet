@@ -10,5 +10,8 @@
         ],
         "inputType": "text"
     },
-    "question": "Event 3"
+    "question": "Event 3",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

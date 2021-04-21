@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Please describe (physically ill):"
+    "question": "Please describe (physically ill):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

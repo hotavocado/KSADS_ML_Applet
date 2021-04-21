@@ -43,6 +43,7 @@
                 "schema:name": "5-7 days a week",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

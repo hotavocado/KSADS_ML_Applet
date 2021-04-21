@@ -115,7 +115,8 @@
                 "schema:name": "999",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "schema:description": "GRADE"
 }

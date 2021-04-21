@@ -11,5 +11,8 @@
         "inputType": "text"
     },
     "question": "Specify (Medication 1):",
-    "schema:description": "MEDICATION"
+    "schema:description": "MEDICATION",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

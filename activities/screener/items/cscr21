@@ -6,7 +6,10 @@
     "@id": "cscr21",
     "preamble": "Agoraphobia",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: Read the card to ages 7-12 or for those children with learning/reading problems: Participant Card 4 (Other fears)_"
+    "question": "_INTERVIEWER: Read the card to ages 7-12 or for those children with learning/reading problems: Participant Card 4 (Other fears)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

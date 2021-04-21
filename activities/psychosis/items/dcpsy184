@@ -33,6 +33,7 @@
                 "schema:name": "Always",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

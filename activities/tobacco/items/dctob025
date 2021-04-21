@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "dctob025",
     "ui": {
-        "inputType": "radio"
+        "inputType": "text"
     },
-    "question": "How many times did you ever use chewing tobacco?"
+    "question": "How many times did you ever use chewing tobacco?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

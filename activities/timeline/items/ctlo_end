@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "_INTERVIEWER: END of  **Timeline** section._"
+    "question": "_INTERVIEWER: END of  **Timeline** section._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

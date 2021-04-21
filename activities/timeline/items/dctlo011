@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Who did you live with there?  (mother, father, siblings, extended family, other)"
+    "question": "Who did you live with there?  (mother, father, siblings, extended family, other)",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

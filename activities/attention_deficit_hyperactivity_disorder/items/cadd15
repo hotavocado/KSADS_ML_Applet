@@ -6,7 +6,10 @@
     "@id": "cadd15",
     "preamble": "General Probes: Hyperactivity/Impulsivity",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Everyone has times when they are very active.  I would now like to ask you whether you ever had times when you had a lot more trouble than most people with being very restless, fidgety, or impatient. "
+    "question": "Everyone has times when they are very active.  I would now like to ask you whether you ever had times when you had a lot more trouble than most people with being very restless, fidgety, or impatient. ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

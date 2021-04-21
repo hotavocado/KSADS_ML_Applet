@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What did you imagine might happen if you didn't do (insert compulsion)? "
+    "question": "What did you imagine might happen if you didn't do (insert compulsion)? ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

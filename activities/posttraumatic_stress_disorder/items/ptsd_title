@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "ptsd_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Post Traumatic Stress Disorder"
+    "question": "## Post Traumatic Stress Disorder",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

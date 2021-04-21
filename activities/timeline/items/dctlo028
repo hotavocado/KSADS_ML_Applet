@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "Date at beginning of school year (Year)",
-    "schema:description": "YEAR"
+    "schema:description": "YEAR",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

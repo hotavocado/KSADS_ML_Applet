@@ -10,5 +10,8 @@
         ],
         "inputType": "text"
     },
-    "question": "Specify (Alcohol and/or drug and quantity 1)"
+    "question": "Specify (Alcohol and/or drug and quantity 1)",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "ctob13",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "What was the longest period of time you have ever gone without smoking? \r\n\r\n _(N days, N weeks, N months)_"
+    "question": "What was the longest period of time you have ever gone without smoking? \r\n\r\n _(N days, N weeks, N months)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Other situation involving water/weather)"
+    "question": "Specify (Other situation involving water/weather)",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

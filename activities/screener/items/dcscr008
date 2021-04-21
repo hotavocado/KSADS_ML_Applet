@@ -28,6 +28,7 @@
                 "schema:name": "Over 2 years",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

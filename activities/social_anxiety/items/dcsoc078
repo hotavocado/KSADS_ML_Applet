@@ -11,5 +11,8 @@
         "inputType": "text"
     },
     "question": "Code (Professional/Treatment 3):",
-    "schema:description": "CODE RESPONSE"
+    "schema:description": "CODE RESPONSE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

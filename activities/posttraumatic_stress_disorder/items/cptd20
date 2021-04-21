@@ -6,7 +6,10 @@
     "@id": "cptd20",
     "preamble": "Distress/Impairment",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary._"
+    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

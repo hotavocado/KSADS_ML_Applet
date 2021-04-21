@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "calc_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": " _INTERVIEWER: END of **Alcohol Abuse and Dependence** section_"
+    "question": " _INTERVIEWER: END of **Alcohol Abuse and Dependence** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

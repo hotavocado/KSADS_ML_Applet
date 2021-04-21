@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many times?",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

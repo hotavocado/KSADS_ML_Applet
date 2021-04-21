@@ -33,6 +33,7 @@
                 "schema:name": "N/A",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

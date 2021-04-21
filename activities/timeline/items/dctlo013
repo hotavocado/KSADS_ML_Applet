@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Parental marriage/separation/divorce"
+    "question": "Parental marriage/separation/divorce",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

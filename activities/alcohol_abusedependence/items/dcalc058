@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many times have you tried to cut down and stop and found that you could not?",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

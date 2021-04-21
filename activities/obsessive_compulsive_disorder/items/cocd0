@@ -6,7 +6,10 @@
     "@id": "cocd0",
     "preamble": "General Probes: Obsessions",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Earlier I asked you about thoughts or ideas that come into your head over and over again. I would like to ask you more about (that/those) now. Recurrent and persistent ideas, thoughts, impulses (initially experienced as intrusive and senseless)."
+    "question": "Earlier I asked you about thoughts or ideas that come into your head over and over again. I would like to ask you more about (that/those) now. Recurrent and persistent ideas, thoughts, impulses (initially experienced as intrusive and senseless).",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

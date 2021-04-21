@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "agoraphobia_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Agoraphobia"
+    "question": "## Agoraphobia",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

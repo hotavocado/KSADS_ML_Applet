@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How long do the (sad, depression, grouchy, like nothing was fun) feelings **usually** last?  \r\n\r\n _(N days, N weeks, N months)_"
+    "question": "How long do the (sad, depression, grouchy, like nothing was fun) feelings **usually** last?  \r\n\r\n _(N days, N weeks, N months)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

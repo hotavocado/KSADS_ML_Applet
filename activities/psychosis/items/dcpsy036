@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Please describe (Other verbal hallucinations):"
+    "question": "Please describe (Other verbal hallucinations):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

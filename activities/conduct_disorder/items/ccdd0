@@ -6,7 +6,10 @@
     "@id": "ccdd0",
     "preamble": "Symptoms",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Earlier you told me you might do things that may get you into trouble with adults like breaking rules or getting into trouble with the police or other authorities. I am now going to ask you some questions about this. "
+    "question": "Earlier you told me you might do things that may get you into trouble with adults like breaking rules or getting into trouble with the police or other authorities. I am now going to ask you some questions about this. ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

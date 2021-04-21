@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "About how tall were you at that time? \r\n\r\n _(Record feet and inches in this format: 5' 10)_"
+    "question": "About how tall were you at that time? \r\n\r\n _(Record feet and inches in this format: 5' 10)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

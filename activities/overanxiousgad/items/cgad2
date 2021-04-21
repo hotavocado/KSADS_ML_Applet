@@ -6,7 +6,10 @@
     "@id": "cgad2",
     "preamble": "Symptoms",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "I just asked you about different worries that you have. Now I will ask you if you get any physical feelings in your body when you worry."
+    "question": "I just asked you about different worries that you have. Now I will ask you if you get any physical feelings in your body when you worry.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

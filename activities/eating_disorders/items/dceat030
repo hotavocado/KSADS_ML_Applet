@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "What was your lowest weight at that time?",
-    "schema:description": "POUNDS"
+    "schema:description": "POUNDS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

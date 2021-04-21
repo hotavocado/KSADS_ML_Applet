@@ -6,7 +6,10 @@
     "@id": "csoc5",
     "preamble": "Nature of Fear",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "When you were in these situations (list specific examples from above), were you afraid or uncomfortable because:"
+    "question": "When you were in these situations (list specific examples from above), were you afraid or uncomfortable because:",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

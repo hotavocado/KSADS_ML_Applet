@@ -10,5 +10,8 @@
         ],
         "inputType": "text"
     },
-    "question": "Example 3 (Things):"
+    "question": "Example 3 (Things):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

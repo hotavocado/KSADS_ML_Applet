@@ -9,5 +9,8 @@
         "inputType": "text"
     },
     "question": "How many hours of sleep do you usually get per night?",
-    "schema:description": "HOURS"
+    "schema:description": "HOURS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

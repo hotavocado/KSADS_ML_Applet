@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "csui2",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: **If these thoughts are current,  report to clinician**._"
+    "question": "_INTERVIEWER: **If these thoughts are current,  report to clinician**._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

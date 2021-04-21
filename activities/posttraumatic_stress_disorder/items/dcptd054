@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "If yes, how  many days of school did you miss? (lifetime)",
-    "schema:description": "DAYS"
+    "schema:description": "DAYS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

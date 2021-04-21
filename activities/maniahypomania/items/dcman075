@@ -23,6 +23,7 @@
                 "schema:name": "Increased",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

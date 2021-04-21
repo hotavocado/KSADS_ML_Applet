@@ -11,5 +11,8 @@
         "inputType": "text"
     },
     "question": "Hallucinations Example 4:",
-    "schema:description": "EXAMPLE"
+    "schema:description": "EXAMPLE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

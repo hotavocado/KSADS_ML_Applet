@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "Name of substance:",
-    "schema:description": "SUBSTANCE"
+    "schema:description": "SUBSTANCE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

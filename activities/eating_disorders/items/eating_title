@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "eating_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Eating Disorders"
+    "question": "## Eating Disorders",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

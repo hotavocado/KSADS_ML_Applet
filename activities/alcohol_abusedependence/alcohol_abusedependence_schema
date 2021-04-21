@@ -6,565 +6,702 @@
     "@type": "reproschema:Activity",
     "@id": "alcohol_abusedependence_schema",
     "skos:prefLabel": "Alcohol Abuse and Dependence",
-    "skos:altLabel": "alcohol_abusedependence_schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "alcohol_title",
-            "isAbout": "alcohol_title"
-        },
-        {
-            "variableName": "calc0",
-            "isAbout": "calc0"
-        },
-        {
-            "variableName": "calc2",
-            "isAbout": "calc2"
-        },
-        {
-            "variableName": "calc3",
-            "isAbout": "calc3"
-        },
-        {
-            "variableName": "dcalc001",
-            "isAbout": "dcalc001"
-        },
-        {
-            "variableName": "calc5",
-            "isAbout": "calc5"
-        },
-        {
-            "variableName": "dcalc002",
-            "isAbout": "dcalc002"
-        },
-        {
-            "variableName": "calc6",
-            "isAbout": "calc6"
-        },
-        {
-            "variableName": "dcalc003",
-            "isAbout": "dcalc003"
-        },
-        {
-            "variableName": "calc7",
-            "isAbout": "calc7"
-        },
-        {
-            "variableName": "dcalc009",
-            "isAbout": "dcalc009"
-        },
-        {
-            "variableName": "dcalc010",
-            "isAbout": "dcalc010"
-        },
-        {
-            "variableName": "dcalc011",
-            "isAbout": "dcalc011"
-        },
-        {
-            "variableName": "dcalc012",
-            "isAbout": "dcalc012"
-        },
-        {
-            "variableName": "dcalc013",
-            "isAbout": "dcalc013"
-        },
-        {
-            "variableName": "dcalc014",
-            "isAbout": "dcalc014"
-        },
-        {
-            "variableName": "dcalc015",
-            "isAbout": "dcalc015"
-        },
-        {
-            "variableName": "dcalc016",
-            "isAbout": "dcalc016"
-        },
-        {
-            "variableName": "dcalc017",
-            "isAbout": "dcalc017"
-        },
-        {
-            "variableName": "dcalc018",
-            "isAbout": "dcalc018"
-        },
-        {
-            "variableName": "dcalc019",
-            "isAbout": "dcalc019"
-        },
-        {
-            "variableName": "dcalc021",
-            "isAbout": "dcalc021"
-        },
-        {
-            "variableName": "dcalc022",
-            "isAbout": "dcalc022"
-        },
-        {
-            "variableName": "dcalc023",
-            "isAbout": "dcalc023"
-        },
-        {
-            "variableName": "dcalc024",
-            "isAbout": "dcalc024"
-        },
-        {
-            "variableName": "dcalc025",
-            "isAbout": "dcalc025"
-        },
-        {
-            "variableName": "dcalc026",
-            "isAbout": "dcalc026"
-        },
-        {
-            "variableName": "dcalc027",
-            "isAbout": "dcalc027"
-        },
-        {
-            "variableName": "dcalc027a",
-            "isAbout": "dcalc027a"
-        },
-        {
-            "variableName": "dcalc028",
-            "isAbout": "dcalc028"
-        },
-        {
-            "variableName": "dcalc028a",
-            "isAbout": "dcalc028a"
-        },
-        {
-            "variableName": "dcalc029",
-            "isAbout": "dcalc029"
-        },
-        {
-            "variableName": "dcalc029a",
-            "isAbout": "dcalc029a"
-        },
-        {
-            "variableName": "dcalc030",
-            "isAbout": "dcalc030"
-        },
-        {
-            "variableName": "dcalc030a",
-            "isAbout": "dcalc030a"
-        },
-        {
-            "variableName": "dcalc031",
-            "isAbout": "dcalc031"
-        },
-        {
-            "variableName": "dcalc031a",
-            "isAbout": "dcalc031a"
-        },
-        {
-            "variableName": "dcalc032",
-            "isAbout": "dcalc032"
-        },
-        {
-            "variableName": "dcalc032a",
-            "isAbout": "dcalc032a"
-        },
-        {
-            "variableName": "dcalc034",
-            "isAbout": "dcalc034"
-        },
-        {
-            "variableName": "dcalc035",
-            "isAbout": "dcalc035"
-        },
-        {
-            "variableName": "dcalc036",
-            "isAbout": "dcalc036"
-        },
-        {
-            "variableName": "dcalc037",
-            "isAbout": "dcalc037"
-        },
-        {
-            "variableName": "dcalc038",
-            "isAbout": "dcalc038"
-        },
-        {
-            "variableName": "dcalc039",
-            "isAbout": "dcalc039"
-        },
-        {
-            "variableName": "dcalc040",
-            "isAbout": "dcalc040"
-        },
-        {
-            "variableName": "dcalc041",
-            "isAbout": "dcalc041"
-        },
-        {
-            "variableName": "dcalc042",
-            "isAbout": "dcalc042"
-        },
-        {
-            "variableName": "dcalc043",
-            "isAbout": "dcalc043"
-        },
-        {
-            "variableName": "dcalc044",
-            "isAbout": "dcalc044"
-        },
-        {
-            "variableName": "dcalc045",
-            "isAbout": "dcalc045"
-        },
-        {
-            "variableName": "dcalc046",
-            "isAbout": "dcalc046"
-        },
-        {
-            "variableName": "dcalc047",
-            "isAbout": "dcalc047"
-        },
-        {
-            "variableName": "dcalc048",
-            "isAbout": "dcalc048"
-        },
-        {
-            "variableName": "dcalc052",
-            "isAbout": "dcalc052"
-        },
-        {
-            "variableName": "dcalc053",
-            "isAbout": "dcalc053"
-        },
-        {
-            "variableName": "dcalc054",
-            "isAbout": "dcalc054"
-        },
-        {
-            "variableName": "dcalc055",
-            "isAbout": "dcalc055"
-        },
-        {
-            "variableName": "dcalc056",
-            "isAbout": "dcalc056"
-        },
-        {
-            "variableName": "dcalc057",
-            "isAbout": "dcalc057"
-        },
-        {
-            "variableName": "dcalc058",
-            "isAbout": "dcalc058"
-        },
-        {
-            "variableName": "dcalc059",
-            "isAbout": "dcalc059"
-        },
-        {
-            "variableName": "dcalc060",
-            "isAbout": "dcalc060"
-        },
-        {
-            "variableName": "dcalc061",
-            "isAbout": "dcalc061"
-        },
-        {
-            "variableName": "dcalc062",
-            "isAbout": "dcalc062"
-        },
-        {
-            "variableName": "dcalc063",
-            "isAbout": "dcalc063"
-        },
-        {
-            "variableName": "dcalc064",
-            "isAbout": "dcalc064"
-        },
-        {
-            "variableName": "dcalc065",
-            "isAbout": "dcalc065"
-        },
-        {
-            "variableName": "dcalc066",
-            "isAbout": "dcalc066"
-        },
-        {
-            "variableName": "dcalc067",
-            "isAbout": "dcalc067"
-        },
-        {
-            "variableName": "dcalc068",
-            "isAbout": "dcalc068"
-        },
-        {
-            "variableName": "dcalc069",
-            "isAbout": "dcalc069"
-        },
-        {
-            "variableName": "dcalc070",
-            "isAbout": "dcalc070"
-        },
-        {
-            "variableName": "dcalc071",
-            "isAbout": "dcalc071"
-        },
-        {
-            "variableName": "dcalc072",
-            "isAbout": "dcalc072"
-        },
-        {
-            "variableName": "dcalc073",
-            "isAbout": "dcalc073"
-        },
-        {
-            "variableName": "dcalc074",
-            "isAbout": "dcalc074"
-        },
-        {
-            "variableName": "dcalc075",
-            "isAbout": "dcalc075"
-        },
-        {
-            "variableName": "dcalc076",
-            "isAbout": "dcalc076"
-        },
-        {
-            "variableName": "dcalc077",
-            "isAbout": "dcalc077"
-        },
-        {
-            "variableName": "dcacl078",
-            "isAbout": "dcacl078"
-        },
-        {
-            "variableName": "dcalc079",
-            "isAbout": "dcalc079"
-        },
-        {
-            "variableName": "dcalc080",
-            "isAbout": "dcalc080"
-        },
-        {
-            "variableName": "dcalc081",
-            "isAbout": "dcalc081"
-        },
-        {
-            "variableName": "dcalc082",
-            "isAbout": "dcalc082"
-        },
-        {
-            "variableName": "dcalc083",
-            "isAbout": "dcalc083"
-        },
-        {
-            "variableName": "dcalc084",
-            "isAbout": "dcalc084"
-        },
-        {
-            "variableName": "dcalc085",
-            "isAbout": "dcalc085"
-        },
-        {
-            "variableName": "dcalc086",
-            "isAbout": "dcalc086"
-        },
-        {
-            "variableName": "dcalc087",
-            "isAbout": "dcalc087"
-        },
-        {
-            "variableName": "dcalc088",
-            "isAbout": "dcalc088"
-        },
-        {
-            "variableName": "dcalc089",
-            "isAbout": "dcalc089"
-        },
-        {
-            "variableName": "dcalc090",
-            "isAbout": "dcalc090"
-        },
-        {
-            "variableName": "dcalc091",
-            "isAbout": "dcalc091"
-        },
-        {
-            "variableName": "dcalc092",
-            "isAbout": "dcalc092"
-        },
-        {
-            "variableName": "dcalc093",
-            "isAbout": "dcalc093"
-        },
-        {
-            "variableName": "dcalc094",
-            "isAbout": "dcalc094"
-        },
-        {
-            "variableName": "dcalc095",
-            "isAbout": "dcalc095"
-        },
-        {
-            "variableName": "dcalc096",
-            "isAbout": "dcalc096"
-        },
-        {
-            "variableName": "dcalc097",
-            "isAbout": "dcalc097"
-        },
-        {
-            "variableName": "dcalc098",
-            "isAbout": "dcalc098"
-        },
-        {
-            "variableName": "dcalc099",
-            "isAbout": "dcalc099"
-        },
-        {
-            "variableName": "calc20",
-            "isAbout": "calc20"
-        },
-        {
-            "variableName": "dcalc100",
-            "isAbout": "dcalc100"
-        },
-        {
-            "variableName": "dcalc101",
-            "isAbout": "dcalc101"
-        },
-        {
-            "variableName": "dcalc102",
-            "isAbout": "dcalc102"
-        },
-        {
-            "variableName": "dcalc103",
-            "isAbout": "dcalc103"
-        },
-        {
-            "variableName": "calc26",
-            "isAbout": "calc26"
-        },
-        {
-            "variableName": "dcalc104",
-            "isAbout": "dcalc104"
-        },
-        {
-            "variableName": "dcalc105",
-            "isAbout": "dcalc105"
-        },
-        {
-            "variableName": "dcalc106",
-            "isAbout": "dcalc106"
-        },
-        {
-            "variableName": "dcalc107",
-            "isAbout": "dcalc107"
-        },
-        {
-            "variableName": "dcalc108",
-            "isAbout": "dcalc108"
-        },
-        {
-            "variableName": "calc29a",
-            "isAbout": "calc29a"
-        },
-        {
-            "variableName": "dcalc109",
-            "isAbout": "dcalc109"
-        },
-        {
-            "variableName": "dcalc110",
-            "isAbout": "dcalc110"
-        },
-        {
-            "variableName": "dcalc111",
-            "isAbout": "dcalc111"
-        },
-        {
-            "variableName": "dcalc112",
-            "isAbout": "dcalc112"
-        },
-        {
-            "variableName": "dcalc113",
-            "isAbout": "dcalc113"
-        },
-        {
-            "variableName": "dcalc114",
-            "isAbout": "dcalc114"
-        },
-        {
-            "variableName": "dcalc116",
-            "isAbout": "dcalc116"
-        },
-        {
-            "variableName": "dcalc117",
-            "isAbout": "dcalc117"
-        },
-        {
-            "variableName": "dcalc118",
-            "isAbout": "dcalc118"
-        },
-        {
-            "variableName": "dcalc119",
-            "isAbout": "dcalc119"
-        },
-        {
-            "variableName": "dcalc120",
-            "isAbout": "dcalc120"
-        },
-        {
-            "variableName": "dcalc121",
-            "isAbout": "dcalc121"
-        },
-        {
-            "variableName": "calc30",
-            "isAbout": "calc30"
-        },
-        {
-            "variableName": "dcalc125",
-            "isAbout": "dcalc125"
-        },
-        {
-            "variableName": "dcalc126",
-            "isAbout": "dcalc126"
-        },
-        {
-            "variableName": "dcalc128",
-            "isAbout": "dcalc128"
-        },
-        {
-            "variableName": "dcalc129",
-            "isAbout": "dcalc129"
-        },
-        {
-            "variableName": "dcalc130",
-            "isAbout": "dcalc130"
-        },
-        {
-            "variableName": "dcalc131",
-            "isAbout": "dcalc131"
-        },
-        {
-            "variableName": "dcalc132",
-            "isAbout": "dcalc132"
-        },
-        {
-            "variableName": "dcalc133",
-            "isAbout": "dcalc133"
-        },
-        {
-            "variableName": "dcalc134",
-            "isAbout": "dcalc134"
-        },
-        {
-            "variableName": "dcalc135",
-            "isAbout": "dcalc135"
-        },
-        {
-            "variableName": "calc_end",
-            "isAbout": "calc_end"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "alcohol_title",
+                "isAbout": "alcohol_title",
+                "isVis": true
+            },
+            {
+                "variableName": "calc0",
+                "isAbout": "calc0",
+                "isVis": true
+            },
+            {
+                "variableName": "calc2",
+                "isAbout": "calc2",
+                "isVis": true
+            },
+            {
+                "variableName": "calc3",
+                "isAbout": "calc3",
+                "isVis": "calc2 == 0 "
+            },
+            {
+                "variableName": "dcalc001",
+                "isAbout": "dcalc001",
+                "isVis": "calc2 !== 1"
+            },
+            {
+                "variableName": "calc5",
+                "isAbout": "calc5",
+                "isVis": "dcalc001 == '0'"
+            },
+            {
+                "variableName": "dcalc002",
+                "isAbout": "dcalc002",
+                "isVis": "calc2 !== 1 || calc5 !== 1  "
+            },
+            {
+                "variableName": "calc6",
+                "isAbout": "calc6",
+                "isVis": "dcalc002 == '0'"
+            },
+            {
+                "variableName": "dcalc003",
+                "isAbout": "dcalc003",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "calc7",
+                "isAbout": "calc7",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc009",
+                "isAbout": "dcalc009",
+                "isVis": "calc7 .includes(5)"
+            },
+            {
+                "variableName": "dcalc010",
+                "isAbout": "dcalc010",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc011",
+                "isAbout": "dcalc011",
+                "isVis": "dcalc010 == '1'"
+            },
+            {
+                "variableName": "dcalc012",
+                "isAbout": "dcalc012",
+                "isVis": "dcalc010 == '1'"
+            },
+            {
+                "variableName": "dcalc013",
+                "isAbout": "dcalc013",
+                "isVis": "dcalc012 == '6'"
+            },
+            {
+                "variableName": "dcalc014",
+                "isAbout": "dcalc014",
+                "isVis": "dcalc010 == '1'"
+            },
+            {
+                "variableName": "dcalc015",
+                "isAbout": "dcalc015",
+                "isVis": "dcalc010 == '1'"
+            },
+            {
+                "variableName": "dcalc016",
+                "isAbout": "dcalc016",
+                "isVis": "dcalc010 == '1'"
+            },
+            {
+                "variableName": "dcalc017",
+                "isAbout": "dcalc017",
+                "isVis": "dcalc010 == '1'"
+            },
+            {
+                "variableName": "dcalc018",
+                "isAbout": "dcalc018",
+                "isVis": "dcalc017 == '1'"
+            },
+            {
+                "variableName": "dcalc019",
+                "isAbout": "dcalc019",
+                "isVis": "dcalc010 == '1'"
+            },
+            {
+                "variableName": "dcalc021",
+                "isAbout": "dcalc021",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc022",
+                "isAbout": "dcalc022",
+                "isVis": "dcalc021 == '1'"
+            },
+            {
+                "variableName": "dcalc023",
+                "isAbout": "dcalc023",
+                "isVis": "dcalc021 == '1'"
+            },
+            {
+                "variableName": "dcalc024",
+                "isAbout": "dcalc024",
+                "isVis": "dcalc021 == '1'"
+            },
+            {
+                "variableName": "dcalc025",
+                "isAbout": "dcalc025",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc026",
+                "isAbout": "dcalc026",
+                "isVis": "dcalc025 == '1'"
+            },
+            {
+                "variableName": "dcalc027",
+                "isAbout": "dcalc027",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc027a",
+                "isAbout": "dcalc027a",
+                "isVis": "dcalc027 == 1"
+            },
+            {
+                "variableName": "dcalc028",
+                "isAbout": "dcalc028",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc028a",
+                "isAbout": "dcalc028a",
+                "isVis": "dcalc028 == 1"
+            },
+            {
+                "variableName": "dcalc029",
+                "isAbout": "dcalc029",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc029a",
+                "isAbout": "dcalc029a",
+                "isVis": "dcalc029 == 1"
+            },
+            {
+                "variableName": "dcalc030",
+                "isAbout": "dcalc030",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc030a",
+                "isAbout": "dcalc030a",
+                "isVis": "dcalc030 == 1"
+            },
+            {
+                "variableName": "dcalc031",
+                "isAbout": "dcalc031",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc031a",
+                "isAbout": "dcalc031a",
+                "isVis": "dcalc031 == 1"
+            },
+            {
+                "variableName": "dcalc032",
+                "isAbout": "dcalc032",
+                "isVis": "dcalc027 == '1' || dcalc028 == '1' || dcalc029 == '1' || dcalc030 == '1' || dcalc031 == '1'"
+            },
+            {
+                "variableName": "dcalc032a",
+                "isAbout": "dcalc032a",
+                "isVis": "dcalc032 == 1"
+            },
+            {
+                "variableName": "dcalc034",
+                "isAbout": "dcalc034",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc035",
+                "isAbout": "dcalc035",
+                "isVis": "dcalc034 == '1'"
+            },
+            {
+                "variableName": "dcalc036",
+                "isAbout": "dcalc036",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc037",
+                "isAbout": "dcalc037",
+                "isVis": "dcalc036 == '1'"
+            },
+            {
+                "variableName": "dcalc038",
+                "isAbout": "dcalc038",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc039",
+                "isAbout": "dcalc039",
+                "isVis": "dcalc038 == '1'"
+            },
+            {
+                "variableName": "dcalc040",
+                "isAbout": "dcalc040",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc041",
+                "isAbout": "dcalc041",
+                "isVis": "dcalc040 == '1'"
+            },
+            {
+                "variableName": "dcalc042",
+                "isAbout": "dcalc042",
+                "isVis": "dcalc040 == '1'"
+            },
+            {
+                "variableName": "dcalc043",
+                "isAbout": "dcalc043",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc044",
+                "isAbout": "dcalc044",
+                "isVis": "dcalc043 == '1'"
+            },
+            {
+                "variableName": "dcalc045",
+                "isAbout": "dcalc045",
+                "isVis": "dcalc043 == '1'"
+            },
+            {
+                "variableName": "dcalc046",
+                "isAbout": "dcalc046",
+                "isVis": "dcalc043 == '1'"
+            },
+            {
+                "variableName": "dcalc047",
+                "isAbout": "dcalc047",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1"
+            },
+            {
+                "variableName": "dcalc048",
+                "isAbout": "dcalc048",
+                "isVis": "dcalc011 > 3 && dcalc018 < 4 && dcalc022 < 3 && dcalc025 == 0 && dcalc027 == 0 && dcalc028 == 0 && dcalc029 == 0 && dcalc030 == 0 && dcalc031 == 0 && dcalc032 == 0 && dcalc034 == 0 && dcalc036 == 0 && dcalc038 == 0 && dcalc040 == 0 && dcalc043 == 0 && dcalc047 == 0"
+            },
+            {
+                "variableName": "dcalc052",
+                "isAbout": "dcalc052",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc053",
+                "isAbout": "dcalc053",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc054",
+                "isAbout": "dcalc054",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc055",
+                "isAbout": "dcalc055",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc056",
+                "isAbout": "dcalc056",
+                "isVis": "dcalc055 == '1'"
+            },
+            {
+                "variableName": "dcalc057",
+                "isAbout": "dcalc057",
+                "isVis": "dcalc055 == '1'"
+            },
+            {
+                "variableName": "dcalc058",
+                "isAbout": "dcalc058",
+                "isVis": "dcalc055 == '1'"
+            },
+            {
+                "variableName": "dcalc059",
+                "isAbout": "dcalc059",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc060",
+                "isAbout": "dcalc060",
+                "isVis": "dcalc059 == '1'"
+            },
+            {
+                "variableName": "dcalc061",
+                "isAbout": "dcalc061",
+                "isVis": "dcalc059 == '1'"
+            },
+            {
+                "variableName": "dcalc062",
+                "isAbout": "dcalc062",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc063",
+                "isAbout": "dcalc063",
+                "isVis": "dcalc062 == '1'"
+            },
+            {
+                "variableName": "dcalc064",
+                "isAbout": "dcalc064",
+                "isVis": "dcalc062 == '1'"
+            },
+            {
+                "variableName": "dcalc065",
+                "isAbout": "dcalc065",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc066",
+                "isAbout": "dcalc066",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc067",
+                "isAbout": "dcalc067",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc068",
+                "isAbout": "dcalc068",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc069",
+                "isAbout": "dcalc069",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc070",
+                "isAbout": "dcalc070",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc071",
+                "isAbout": "dcalc071",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc072",
+                "isAbout": "dcalc072",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc073",
+                "isAbout": "dcalc073",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc074",
+                "isAbout": "dcalc074",
+                "isVis": "dcalc073 == '1'"
+            },
+            {
+                "variableName": "dcalc075",
+                "isAbout": "dcalc075",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc076",
+                "isAbout": "dcalc076",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc077",
+                "isAbout": "dcalc077",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcacl078",
+                "isAbout": "dcacl078",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc079",
+                "isAbout": "dcalc079",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc080",
+                "isAbout": "dcalc080",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc081",
+                "isAbout": "dcalc081",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc082",
+                "isAbout": "dcalc082",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc083",
+                "isAbout": "dcalc083",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc084",
+                "isAbout": "dcalc084",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc085",
+                "isAbout": "dcalc085",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc086",
+                "isAbout": "dcalc086",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc087",
+                "isAbout": "dcalc087",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc088",
+                "isAbout": "dcalc088",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc089",
+                "isAbout": "dcalc089",
+                "isVis": "dcalc077 == '1'"
+            },
+            {
+                "variableName": "dcalc090",
+                "isAbout": "dcalc090",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1"
+            },
+            {
+                "variableName": "dcalc091",
+                "isAbout": "dcalc091",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc092",
+                "isAbout": "dcalc092",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc093",
+                "isAbout": "dcalc093",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc094",
+                "isAbout": "dcalc094",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc095",
+                "isAbout": "dcalc095",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc096",
+                "isAbout": "dcalc096",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc097",
+                "isAbout": "dcalc097",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc098",
+                "isAbout": "dcalc098",
+                "isVis": "dcalc090 == '1'"
+            },
+            {
+                "variableName": "dcalc099",
+                "isAbout": "dcalc099",
+                "isVis": "dcalc098 == '1'"
+            },
+            {
+                "variableName": "calc20",
+                "isAbout": "calc20",
+                "isVis": "dcalc027 == '0' && dcalc028 == '0' && dcalc029 == '0' && dcalc030 == '0'  && dcalc031 == '0' && dcalc034 == '0' && dcalc036 == '0' && dcalc038 == '0' && dcalc040 == '0' && dcalc043 == '0' && dcalc047 == '0' && dcalc052 == '0' && dcalc053 == '0' && dcalc054 == '0' && dcalc055 == '0' && dcalc059 == '0' && dcalc062 == '0' && dcalc065 == '0' && dcalc066 == '0' && dcalc067 == '0' && dcalc068 == '0' && dcalc069 == '0' && dcalc070 == '0' && dcalc071 == '0' && dcalc072 == '0' && dcalc073 == '0' && dcalc075 == '0' && dcalc076 == '0' && dcalc077 == '0' && dcalc090 == '0'"
+            },
+            {
+                "variableName": "dcalc100",
+                "isAbout": "dcalc100",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc101",
+                "isAbout": "dcalc101",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc102",
+                "isAbout": "dcalc102",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc103",
+                "isAbout": "dcalc103",
+                "isVis": "dcalc102 == '1'"
+            },
+            {
+                "variableName": "calc26",
+                "isAbout": "calc26",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc104",
+                "isAbout": "dcalc104",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc105",
+                "isAbout": "dcalc105",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc106",
+                "isAbout": "dcalc106",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc107",
+                "isAbout": "dcalc107",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "dcalc108",
+                "isAbout": "dcalc108",
+                "isVis": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1"
+            },
+            {
+                "variableName": "calc29a",
+                "isAbout": "calc29a",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc109",
+                "isAbout": "dcalc109",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc110",
+                "isAbout": "dcalc110",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc111",
+                "isAbout": "dcalc111",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc112",
+                "isAbout": "dcalc112",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc113",
+                "isAbout": "dcalc113",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc114",
+                "isAbout": "dcalc114",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc116",
+                "isAbout": "dcalc116",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc117",
+                "isAbout": "dcalc117",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc118",
+                "isAbout": "dcalc118",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc119",
+                "isAbout": "dcalc119",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc120",
+                "isAbout": "dcalc120",
+                "isVis": "dcalc119 == '0'"
+            },
+            {
+                "variableName": "dcalc121",
+                "isAbout": "dcalc121",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "calc30",
+                "isAbout": "calc30",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc125",
+                "isAbout": "dcalc125",
+                "isVis": "calc30 .includes(3)"
+            },
+            {
+                "variableName": "dcalc126",
+                "isAbout": "dcalc126",
+                "isVis": "dcalc108 == '1'"
+            },
+            {
+                "variableName": "dcalc128",
+                "isAbout": "dcalc128",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "dcalc129",
+                "isAbout": "dcalc129",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "dcalc130",
+                "isAbout": "dcalc130",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "dcalc131",
+                "isAbout": "dcalc131",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "dcalc132",
+                "isAbout": "dcalc132",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "dcalc133",
+                "isAbout": "dcalc133",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "dcalc134",
+                "isAbout": "dcalc134",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "dcalc135",
+                "isAbout": "dcalc135",
+                "isVis": "dcalc126 == '1'"
+            },
+            {
+                "variableName": "calc_end",
+                "isAbout": "calc_end",
+                "isVis": true
+            }
+        ],
         "order": [
             "alcohol_title",
             "calc0",
@@ -705,146 +842,6 @@
             "dcalc135",
             "calc_end"
         ],
-        "shuffle": false,
-        "visibility": {
-            "alcohol_title": true,
-            "calc0": true,
-            "calc2": true,
-            "calc3": "calc2 == 0 ",
-            "dcalc001": "calc2 !== 1",
-            "calc5": "dcalc001 == 0",
-            "dcalc002": "calc2 !== 1 || calc5 !== 1  ",
-            "calc6": "dcalc002 == 0",
-            "dcalc003": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "calc7": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc009": "calc7 .includes(5)",
-            "dcalc010": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc011": "dcalc010 == 1",
-            "dcalc012": "dcalc010 == 1",
-            "dcalc013": "dcalc012 == 6",
-            "dcalc014": "dcalc010 == 1",
-            "dcalc015": "dcalc010 == 1",
-            "dcalc016": "dcalc010 == 1",
-            "dcalc017": "dcalc010 == 1",
-            "dcalc018": "dcalc017 == 1",
-            "dcalc019": "dcalc010 == 1",
-            "dcalc021": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc022": "dcalc021 == 1",
-            "dcalc023": "dcalc021 == 1",
-            "dcalc024": "dcalc021 == 1",
-            "dcalc025": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc026": "dcalc025 == 1",
-            "dcalc027": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc027a": "dcalc027 == 1",
-            "dcalc028": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc028a": "dcalc028 == 1",
-            "dcalc029": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc029a": "dcalc029 == 1",
-            "dcalc030": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc030a": "dcalc030 == 1",
-            "dcalc031": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc031a": "dcalc031 == 1",
-            "dcalc032": "dcalc027 == 1 || dcalc028 == 1 || dcalc029 == 1 || dcalc030 == 1 || dcalc031 == 1",
-            "dcalc032a": "dcalc032 == 1",
-            "dcalc034": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc035": "dcalc034 == 1",
-            "dcalc036": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc037": "dcalc036 == 1",
-            "dcalc038": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc039": "dcalc038 == 1",
-            "dcalc040": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc041": "dcalc040 == 1",
-            "dcalc042": "dcalc040 == 1",
-            "dcalc043": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc044": "dcalc043 == 1",
-            "dcalc045": "dcalc043 == 1",
-            "dcalc046": "dcalc043 == 1",
-            "dcalc047": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1",
-            "dcalc048": "dcalc011 > 3 && dcalc018 < 4 && dcalc022 < 3 && dcalc025 == 0 && dcalc027 == 0 && dcalc028 == 0 && dcalc029 == 0 && dcalc030 == 0 && dcalc031 == 0 && dcalc032 == 0 && dcalc034 == 0 && dcalc036 == 0 && dcalc038 == 0 && dcalc040 == 0 && dcalc043 == 0 && dcalc047 == 0",
-            "dcalc052": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc053": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc054": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc055": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc056": "dcalc055 == 1",
-            "dcalc057": "dcalc055 == 1",
-            "dcalc058": "dcalc055 == 1",
-            "dcalc059": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc060": "dcalc059 == 1",
-            "dcalc061": "dcalc059 == 1",
-            "dcalc062": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc063": "dcalc062 == 1",
-            "dcalc064": "dcalc062 == 1",
-            "dcalc065": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc066": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc067": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc068": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc069": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc070": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc071": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc072": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc073": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc074": "dcalc073 == 1",
-            "dcalc075": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc076": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc077": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcacl078": "dcalc077 == 1",
-            "dcalc079": "dcalc077 == 1",
-            "dcalc080": "dcalc077 == 1",
-            "dcalc081": "dcalc077 == 1",
-            "dcalc082": "dcalc077 == 1",
-            "dcalc083": "dcalc077 == 1",
-            "dcalc084": "dcalc077 == 1",
-            "dcalc085": "dcalc077 == 1",
-            "dcalc086": "dcalc077 == 1",
-            "dcalc087": "dcalc077 == 1",
-            "dcalc088": "dcalc077 == 1",
-            "dcalc089": "dcalc077 == 1",
-            "dcalc090": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1",
-            "dcalc091": "dcalc090 == 1",
-            "dcalc092": "dcalc090 == 1",
-            "dcalc093": "dcalc090 == 1",
-            "dcalc094": "dcalc090 == 1",
-            "dcalc095": "dcalc090 == 1",
-            "dcalc096": "dcalc090 == 1",
-            "dcalc097": "dcalc090 == 1",
-            "dcalc098": "dcalc090 == 1",
-            "dcalc099": "dcalc098 == 1",
-            "calc20": "dcalc027 == 0 && dcalc028 == 0 && dcalc029 == 0 && dcalc030 == 0  && dcalc031 == 0 && dcalc034 == 0 && dcalc036 == 0 && dcalc038 == 0 && dcalc040 == 0 && dcalc043 == 0 && dcalc047 == 0 && dcalc052 == 0 && dcalc053 == 0 && dcalc054 == 0 && dcalc055 == 0 && dcalc059 == 0 && dcalc062 == 0 && dcalc065 == 0 && dcalc066 == 0 && dcalc067 == 0 && dcalc068 == 0 && dcalc069 == 0 && dcalc070 == 0 && dcalc071 == 0 && dcalc072 == 0 && dcalc073 == 0 && dcalc075 == 0 && dcalc076 == 0 && dcalc077 == 0 && dcalc090 == 0",
-            "dcalc100": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc101": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc102": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc103": "dcalc102 == 1",
-            "calc26": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc104": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc105": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc106": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc107": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "dcalc108": "calc2 !== 1 || calc5 !== 1 || calc6 !== 1 || dcalc048 !== 1 || calc20 !== 1",
-            "calc29a": "dcalc108 == 1",
-            "dcalc109": "dcalc108 == 1",
-            "dcalc110": "dcalc108 == 1",
-            "dcalc111": "dcalc108 == 1",
-            "dcalc112": "dcalc108 == 1",
-            "dcalc113": "dcalc108 == 1",
-            "dcalc114": "dcalc108 == 1",
-            "dcalc116": "dcalc108 == 1",
-            "dcalc117": "dcalc108 == 1",
-            "dcalc118": "dcalc108 == 1",
-            "dcalc119": "dcalc108 == 1",
-            "dcalc120": "dcalc119 == 0",
-            "dcalc121": "dcalc108 == 1",
-            "calc30": "dcalc108 == 1",
-            "dcalc125": "calc30 .includes(3)",
-            "dcalc126": "dcalc108 == 1",
-            "dcalc128": "dcalc126 == 1",
-            "dcalc129": "dcalc126 == 1",
-            "dcalc130": "dcalc126 == 1",
-            "dcalc131": "dcalc126 == 1",
-            "dcalc132": "dcalc126 == 1",
-            "dcalc133": "dcalc126 == 1",
-            "dcalc134": "dcalc126 == 1",
-            "dcalc135": "dcalc126 == 1",
-            "calc_end": true
-        }
+        "shuffle": false
     }
 }

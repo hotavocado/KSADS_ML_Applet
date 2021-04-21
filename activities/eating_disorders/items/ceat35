@@ -6,7 +6,10 @@
     "@id": "ceat35",
     "preamble": "Distress/Impairment",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Access for Anorexia or Bulimia or Both if applicable. Remind child how to use scale, if necessary._"
+    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Access for Anorexia or Bulimia or Both if applicable. Remind child how to use scale, if necessary._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -11,5 +11,8 @@
         "inputType": "text"
     },
     "question": "Fear 3",
-    "schema:description": "FEAR"
+    "schema:description": "FEAR",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

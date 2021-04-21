@@ -15,6 +15,7 @@
                 "schema:name": "End Section",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

@@ -6,7 +6,10 @@
     "@id": "cmdd28",
     "preamble": "Associated Conditions (Episode)",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: Associated condition questions apply **ONLY** to episode being coded._"
+    "question": "_INTERVIEWER: Associated condition questions apply **ONLY** to episode being coded._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

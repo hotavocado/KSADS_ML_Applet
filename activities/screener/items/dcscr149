@@ -10,5 +10,8 @@
         ],
         "inputType": "text"
     },
-    "question": "What is the reason(s) that you never smoked or used tobacco? Other 2"
+    "question": "What is the reason(s) that you never smoked or used tobacco? Other 2",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

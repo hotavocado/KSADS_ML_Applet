@@ -9,5 +9,8 @@
         "inputType": "text"
     },
     "question": "How many different times did you ever try really hard to quit smoking?",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

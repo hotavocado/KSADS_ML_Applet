@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cpan_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: The participant did not endorse any fear/worries. End **Panic Disorder** Section._"
+    "question": "_INTERVIEWER: The participant did not endorse any fear/worries. End **Panic Disorder** Section._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

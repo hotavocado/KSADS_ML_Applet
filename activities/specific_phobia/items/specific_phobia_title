@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "specific_phobia_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Specific Phobia"
+    "question": "## Specific Phobia",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

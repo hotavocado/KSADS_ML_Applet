@@ -43,6 +43,7 @@
                 "schema:name": "Other",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

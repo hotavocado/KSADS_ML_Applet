@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "When did your last school year begin? When did it end? When did summer break begin?  "
+    "question": "When did your last school year begin? When did it end? When did summer break begin?  ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

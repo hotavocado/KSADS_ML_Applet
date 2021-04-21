@@ -6,257 +6,317 @@
     "@type": "reproschema:Activity",
     "@id": "oppositional_defiant_disorder_schema",
     "skos:prefLabel": "Oppositional Defiant Disorder",
-    "skos:altLabel": "oppositional_defiant_disorder_schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "odd_title",
-            "isAbout": "odd_title"
-        },
-        {
-            "variableName": "codd0",
-            "isAbout": "codd0"
-        },
-        {
-            "variableName": "dcodd001",
-            "isAbout": "dcodd001"
-        },
-        {
-            "variableName": "dcodd002",
-            "isAbout": "dcodd002"
-        },
-        {
-            "variableName": "dcodd003",
-            "isAbout": "dcodd003"
-        },
-        {
-            "variableName": "dcodd004",
-            "isAbout": "dcodd004"
-        },
-        {
-            "variableName": "dcodd005",
-            "isAbout": "dcodd005"
-        },
-        {
-            "variableName": "dcodd006",
-            "isAbout": "dcodd006"
-        },
-        {
-            "variableName": "dcodd007",
-            "isAbout": "dcodd007"
-        },
-        {
-            "variableName": "dcodd008",
-            "isAbout": "dcodd008"
-        },
-        {
-            "variableName": "dcodd009",
-            "isAbout": "dcodd009"
-        },
-        {
-            "variableName": "dcodd010",
-            "isAbout": "dcodd010"
-        },
-        {
-            "variableName": "dcodd011",
-            "isAbout": "dcodd011"
-        },
-        {
-            "variableName": "dcodd012",
-            "isAbout": "dcodd012"
-        },
-        {
-            "variableName": "codd10",
-            "isAbout": "codd10"
-        },
-        {
-            "variableName": "dcodd013",
-            "isAbout": "dcodd013"
-        },
-        {
-            "variableName": "dcodd014",
-            "isAbout": "dcodd014"
-        },
-        {
-            "variableName": "dcodd015",
-            "isAbout": "dcodd015"
-        },
-        {
-            "variableName": "dcodd016",
-            "isAbout": "dcodd016"
-        },
-        {
-            "variableName": "dcodd017",
-            "isAbout": "dcodd017"
-        },
-        {
-            "variableName": "codd13",
-            "isAbout": "codd13"
-        },
-        {
-            "variableName": "dcodd018",
-            "isAbout": "dcodd018"
-        },
-        {
-            "variableName": "dcodd019",
-            "isAbout": "dcodd019"
-        },
-        {
-            "variableName": "dcodd020",
-            "isAbout": "dcodd020"
-        },
-        {
-            "variableName": "dcodd021",
-            "isAbout": "dcodd021"
-        },
-        {
-            "variableName": "dcodd022",
-            "isAbout": "dcodd022"
-        },
-        {
-            "variableName": "dcodd023",
-            "isAbout": "dcodd023"
-        },
-        {
-            "variableName": "dcodd024",
-            "isAbout": "dcodd024"
-        },
-        {
-            "variableName": "codd19",
-            "isAbout": "codd19"
-        },
-        {
-            "variableName": "dcodd027",
-            "isAbout": "dcodd027"
-        },
-        {
-            "variableName": "dcodd028",
-            "isAbout": "dcodd028"
-        },
-        {
-            "variableName": "dcodd029",
-            "isAbout": "dcodd029"
-        },
-        {
-            "variableName": "codd21a",
-            "isAbout": "codd21a"
-        },
-        {
-            "variableName": "dcodd033",
-            "isAbout": "dcodd033"
-        },
-        {
-            "variableName": "dcodd034",
-            "isAbout": "dcodd034"
-        },
-        {
-            "variableName": "dcodd035",
-            "isAbout": "dcodd035"
-        },
-        {
-            "variableName": "codd24",
-            "isAbout": "codd24"
-        },
-        {
-            "variableName": "dcodd036",
-            "isAbout": "dcodd036"
-        },
-        {
-            "variableName": "dcodd037",
-            "isAbout": "dcodd037"
-        },
-        {
-            "variableName": "dcodd038",
-            "isAbout": "dcodd038"
-        },
-        {
-            "variableName": "dcodd039",
-            "isAbout": "dcodd039"
-        },
-        {
-            "variableName": "dcodd040",
-            "isAbout": "dcodd040"
-        },
-        {
-            "variableName": "dcodd041",
-            "isAbout": "dcodd041"
-        },
-        {
-            "variableName": "dcodd043",
-            "isAbout": "dcodd043"
-        },
-        {
-            "variableName": "dcodd044",
-            "isAbout": "dcodd044"
-        },
-        {
-            "variableName": "dcodd045",
-            "isAbout": "dcodd045"
-        },
-        {
-            "variableName": "dcodd046",
-            "isAbout": "dcodd046"
-        },
-        {
-            "variableName": "dcodd047",
-            "isAbout": "dcodd047"
-        },
-        {
-            "variableName": "dcodd048",
-            "isAbout": "dcodd048"
-        },
-        {
-            "variableName": "codd26",
-            "isAbout": "codd26"
-        },
-        {
-            "variableName": "dcodd053",
-            "isAbout": "dcodd053"
-        },
-        {
-            "variableName": "dcodd054",
-            "isAbout": "dcodd054"
-        },
-        {
-            "variableName": "dcodd055",
-            "isAbout": "dcodd055"
-        },
-        {
-            "variableName": "dcodd056",
-            "isAbout": "dcodd056"
-        },
-        {
-            "variableName": "dcodd057",
-            "isAbout": "dcodd057"
-        },
-        {
-            "variableName": "dcodd058",
-            "isAbout": "dcodd058"
-        },
-        {
-            "variableName": "dcodd059",
-            "isAbout": "dcodd059"
-        },
-        {
-            "variableName": "dcodd060",
-            "isAbout": "dcodd060"
-        },
-        {
-            "variableName": "dcodd061",
-            "isAbout": "dcodd061"
-        },
-        {
-            "variableName": "dcodd062",
-            "isAbout": "dcodd062"
-        },
-        {
-            "variableName": "codd_end",
-            "isAbout": "codd_end"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "odd_title",
+                "isAbout": "odd_title",
+                "isVis": true
+            },
+            {
+                "variableName": "codd0",
+                "isAbout": "codd0",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd001",
+                "isAbout": "dcodd001",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd002",
+                "isAbout": "dcodd002",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd003",
+                "isAbout": "dcodd003",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd004",
+                "isAbout": "dcodd004",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd005",
+                "isAbout": "dcodd005",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd006",
+                "isAbout": "dcodd006",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd007",
+                "isAbout": "dcodd007",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd008",
+                "isAbout": "dcodd008",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd009",
+                "isAbout": "dcodd009",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd010",
+                "isAbout": "dcodd010",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd011",
+                "isAbout": "dcodd011",
+                "isVis": true
+            },
+            {
+                "variableName": "dcodd012",
+                "isAbout": "dcodd012",
+                "isVis": true
+            },
+            {
+                "variableName": "codd10",
+                "isAbout": "codd10",
+                "isVis": "dcodd001 == '0' && dcodd002 == '0' && dcodd003 == '0' && dcodd004 == '0' && dcodd005 == '0' &&  dcodd006 == '0' && dcodd007 == '0' && dcodd008 == '0' && dcodd009 == '0' && dcodd010 == '0' && dcodd011 == '0' && dcodd012 == '0'"
+            },
+            {
+                "variableName": "dcodd013",
+                "isAbout": "dcodd013",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd014",
+                "isAbout": "dcodd014",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd015",
+                "isAbout": "dcodd015",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd016",
+                "isAbout": "dcodd016",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd017",
+                "isAbout": "dcodd017",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "codd13",
+                "isAbout": "codd13",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd018",
+                "isAbout": "dcodd018",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd019",
+                "isAbout": "dcodd019",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd020",
+                "isAbout": "dcodd020",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd021",
+                "isAbout": "dcodd021",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd022",
+                "isAbout": "dcodd022",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd023",
+                "isAbout": "dcodd023",
+                "isVis": "dcodd022 == '1'"
+            },
+            {
+                "variableName": "dcodd024",
+                "isAbout": "dcodd024",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "codd19",
+                "isAbout": "codd19",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd027",
+                "isAbout": "dcodd027",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd028",
+                "isAbout": "dcodd028",
+                "isVis": "dcodd027 == '0'"
+            },
+            {
+                "variableName": "dcodd029",
+                "isAbout": "dcodd029",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "codd21a",
+                "isAbout": "codd21a",
+                "isVis": "dcodd029 == '1'"
+            },
+            {
+                "variableName": "dcodd033",
+                "isAbout": "dcodd033",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd034",
+                "isAbout": "dcodd034",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "dcodd035",
+                "isAbout": "dcodd035",
+                "isVis": "codd10 !== 1"
+            },
+            {
+                "variableName": "codd24",
+                "isAbout": "codd24",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd036",
+                "isAbout": "dcodd036",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd037",
+                "isAbout": "dcodd037",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd038",
+                "isAbout": "dcodd038",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd039",
+                "isAbout": "dcodd039",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd040",
+                "isAbout": "dcodd040",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd041",
+                "isAbout": "dcodd041",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd043",
+                "isAbout": "dcodd043",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd044",
+                "isAbout": "dcodd044",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd045",
+                "isAbout": "dcodd045",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd046",
+                "isAbout": "dcodd046",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd047",
+                "isAbout": "dcodd047",
+                "isVis": "dcodd046 == '0'"
+            },
+            {
+                "variableName": "dcodd048",
+                "isAbout": "dcodd048",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "codd26",
+                "isAbout": "codd26",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd053",
+                "isAbout": "dcodd053",
+                "isVis": "codd26 .includes(4)"
+            },
+            {
+                "variableName": "dcodd054",
+                "isAbout": "dcodd054",
+                "isVis": "dcodd035 == '1'"
+            },
+            {
+                "variableName": "dcodd055",
+                "isAbout": "dcodd055",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "dcodd056",
+                "isAbout": "dcodd056",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "dcodd057",
+                "isAbout": "dcodd057",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "dcodd058",
+                "isAbout": "dcodd058",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "dcodd059",
+                "isAbout": "dcodd059",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "dcodd060",
+                "isAbout": "dcodd060",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "dcodd061",
+                "isAbout": "dcodd061",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "dcodd062",
+                "isAbout": "dcodd062",
+                "isVis": "dcodd054 == '1'"
+            },
+            {
+                "variableName": "codd_end",
+                "isAbout": "codd_end",
+                "isVis": true
+            }
+        ],
         "order": [
             "odd_title",
             "codd0",
@@ -320,69 +380,6 @@
             "dcodd062",
             "codd_end"
         ],
-        "shuffle": false,
-        "visibility": {
-            "odd_title": true,
-            "codd0": true,
-            "dcodd001": true,
-            "dcodd002": true,
-            "dcodd003": true,
-            "dcodd004": true,
-            "dcodd005": true,
-            "dcodd006": true,
-            "dcodd007": true,
-            "dcodd008": true,
-            "dcodd009": true,
-            "dcodd010": true,
-            "dcodd011": true,
-            "dcodd012": true,
-            "codd10": "dcodd001 == 0 && dcodd002 == 0 && dcodd003 == 0 && dcodd004 == 0 && dcodd005 == 0 &&  dcodd006 == 0 && dcodd007 == 0 && dcodd008 == 0 && dcodd009 == 0 && dcodd010 == 0 && dcodd011 == 0 && dcodd012 == 0",
-            "dcodd013": "codd10 !== 1",
-            "dcodd014": "codd10 !== 1",
-            "dcodd015": "codd10 !== 1",
-            "dcodd016": "codd10 !== 1",
-            "dcodd017": "codd10 !== 1",
-            "codd13": "codd10 !== 1",
-            "dcodd018": "codd10 !== 1",
-            "dcodd019": "codd10 !== 1",
-            "dcodd020": "codd10 !== 1",
-            "dcodd021": "codd10 !== 1",
-            "dcodd022": "codd10 !== 1",
-            "dcodd023": "dcodd022 == 1",
-            "dcodd024": "codd10 !== 1",
-            "codd19": "codd10 !== 1",
-            "dcodd027": "codd10 !== 1",
-            "dcodd028": "dcodd027 == 0",
-            "dcodd029": "codd10 !== 1",
-            "codd21a": "dcodd029 == 1",
-            "dcodd033": "codd10 !== 1",
-            "dcodd034": "codd10 !== 1",
-            "dcodd035": "codd10 !== 1",
-            "codd24": "dcodd035 == 1",
-            "dcodd036": "dcodd035 == 1",
-            "dcodd037": "dcodd035 == 1",
-            "dcodd038": "dcodd035 == 1",
-            "dcodd039": "dcodd035 == 1",
-            "dcodd040": "dcodd035 == 1",
-            "dcodd041": "dcodd035 == 1",
-            "dcodd043": "dcodd035 == 1",
-            "dcodd044": "dcodd035 == 1",
-            "dcodd045": "dcodd035 == 1",
-            "dcodd046": "dcodd035 == 1",
-            "dcodd047": "dcodd046 == 0",
-            "dcodd048": "dcodd035 == 1",
-            "codd26": "dcodd035 == 1",
-            "dcodd053": "codd26 .includes(4)",
-            "dcodd054": "dcodd035 == 1",
-            "dcodd055": "dcodd054 == 1",
-            "dcodd056": "dcodd054 == 1",
-            "dcodd057": "dcodd054 == 1",
-            "dcodd058": "dcodd054 == 1",
-            "dcodd059": "dcodd054 == 1",
-            "dcodd060": "dcodd054 == 1",
-            "dcodd061": "dcodd054 == 1",
-            "dcodd062": "dcodd054 == 1",
-            "codd_end": true
-        }
+        "shuffle": false
     }
 }

@@ -6,7 +6,10 @@
     "@id": "cscr9",
     "preamble": "Oppositional Defiant Disorder (ODD)",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Some children and adolescents do things that can get them into trouble with adults, like getting angry, arguing or talking back to adults, refusing to do what adults ask them to do, annoying people on purpose, or being touchy, grouchy, or irritable."
+    "question": "Some children and adolescents do things that can get them into trouble with adults, like getting angry, arguing or talking back to adults, refusing to do what adults ask them to do, annoying people on purpose, or being touchy, grouchy, or irritable.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

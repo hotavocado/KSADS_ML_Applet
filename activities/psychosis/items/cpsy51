@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How long did this last? \r\n\r\n _(N minutes, N hours, N days, N weeks)_"
+    "question": "How long did this last? \r\n\r\n _(N minutes, N hours, N days, N weeks)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

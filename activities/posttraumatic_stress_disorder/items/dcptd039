@@ -43,6 +43,7 @@
                 "schema:name": "Don't know",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

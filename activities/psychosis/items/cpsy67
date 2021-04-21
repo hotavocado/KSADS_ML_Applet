@@ -6,7 +6,10 @@
     "@id": "cpsy67",
     "preamble": "Associated Conditions",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: Probe to find out if the above psychotic symptoms were associated with any of the following:_"
+    "question": "_INTERVIEWER: Probe to find out if the above psychotic symptoms were associated with any of the following:_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What is the most number of episodes you've had in one year?"
+    "question": "What is the most number of episodes you've had in one year?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

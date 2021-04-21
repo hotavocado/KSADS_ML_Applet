@@ -9,5 +9,8 @@
         "inputType": "text"
     },
     "question": "How many different times have you felt/acted this way? \r\n\r\n _INTERVIEWER: Different episodes should be seperated by at least 2 months)_",
-    "schema:description": "TIMES"
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

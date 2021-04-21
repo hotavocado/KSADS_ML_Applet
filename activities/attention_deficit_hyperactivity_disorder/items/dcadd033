@@ -12,13 +12,37 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1| 2",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2.png"
+                "schema:name": "1",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3| 4",
+                "schema:name": "3",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "4",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "5",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "6",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "7",
                 "@type": "schema:option"
             },
             {
@@ -91,7 +115,8 @@
                 "schema:name": "999",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "schema:description": "AGE"
 }

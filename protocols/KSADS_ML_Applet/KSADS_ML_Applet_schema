@@ -3,101 +3,121 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
         "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/protocols/KSADS_ML_Applet/KSADS_ML_Applet_context"
     ],
-    "@type": "reproschema:ActivitySet",
+    "@type": "reproschema:Protocol",
     "@id": "KSADS_ML_Applet_schema",
     "skos:prefLabel": "KSADS v0.28",
-    "skos:altLabel": "KSADS_ML_Applet_schema",
     "schema:description": "KSADS Interview",
-    "schema:about": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/README.md",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_Applet/master/protocols/KSADS_ML_Applet/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "variableMap": [
-        {
-            "variableName": "timeline",
-            "isAbout": "timeline"
-        },
-        {
-            "variableName": "screener",
-            "isAbout": "screener"
-        },
-        {
-            "variableName": "screener_checklist",
-            "isAbout": "screener_checklist"
-        },
-        {
-            "variableName": "major_depression",
-            "isAbout": "major_depression"
-        },
-        {
-            "variableName": "maniahypomania",
-            "isAbout": "maniahypomania"
-        },
-        {
-            "variableName": "suicideselfharm",
-            "isAbout": "suicideselfharm"
-        },
-        {
-            "variableName": "psychosis",
-            "isAbout": "psychosis"
-        },
-        {
-            "variableName": "specific_phobia",
-            "isAbout": "specific_phobia"
-        },
-        {
-            "variableName": "social_anxiety",
-            "isAbout": "social_anxiety"
-        },
-        {
-            "variableName": "overanxiousgad",
-            "isAbout": "overanxiousgad"
-        },
-        {
-            "variableName": "separation_anxiety",
-            "isAbout": "separation_anxiety"
-        },
-        {
-            "variableName": "panic_disorder",
-            "isAbout": "panic_disorder"
-        },
-        {
-            "variableName": "agoraphobia",
-            "isAbout": "agoraphobia"
-        },
-        {
-            "variableName": "obsessive_compulsive_disorder",
-            "isAbout": "obsessive_compulsive_disorder"
-        },
-        {
-            "variableName": "attention_deficit_hyperactivity_disorder",
-            "isAbout": "attention_deficit_hyperactivity_disorder"
-        },
-        {
-            "variableName": "oppositional_defiant_disorder",
-            "isAbout": "oppositional_defiant_disorder"
-        },
-        {
-            "variableName": "conduct_disorder",
-            "isAbout": "conduct_disorder"
-        },
-        {
-            "variableName": "eating_disorders",
-            "isAbout": "eating_disorders"
-        },
-        {
-            "variableName": "posttraumatic_stress_disorder",
-            "isAbout": "posttraumatic_stress_disorder"
-        },
-        {
-            "variableName": "tobacco",
-            "isAbout": "tobacco"
-        },
-        {
-            "variableName": "alcohol_abusedependence",
-            "isAbout": "alcohol_abusedependence"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "timeline",
+                "isAbout": "timeline",
+                "isVis": true
+            },
+            {
+                "variableName": "screener",
+                "isAbout": "screener",
+                "isVis": true
+            },
+            {
+                "variableName": "screener_checklist",
+                "isAbout": "screener_checklist",
+                "isVis": true
+            },
+            {
+                "variableName": "major_depression",
+                "isAbout": "major_depression",
+                "isVis": true
+            },
+            {
+                "variableName": "maniahypomania",
+                "isAbout": "maniahypomania",
+                "isVis": true
+            },
+            {
+                "variableName": "suicideselfharm",
+                "isAbout": "suicideselfharm",
+                "isVis": true
+            },
+            {
+                "variableName": "psychosis",
+                "isAbout": "psychosis",
+                "isVis": true
+            },
+            {
+                "variableName": "specific_phobia",
+                "isAbout": "specific_phobia",
+                "isVis": true
+            },
+            {
+                "variableName": "social_anxiety",
+                "isAbout": "social_anxiety",
+                "isVis": true
+            },
+            {
+                "variableName": "overanxiousgad",
+                "isAbout": "overanxiousgad",
+                "isVis": true
+            },
+            {
+                "variableName": "separation_anxiety",
+                "isAbout": "separation_anxiety",
+                "isVis": true
+            },
+            {
+                "variableName": "panic_disorder",
+                "isAbout": "panic_disorder",
+                "isVis": true
+            },
+            {
+                "variableName": "agoraphobia",
+                "isAbout": "agoraphobia",
+                "isVis": true
+            },
+            {
+                "variableName": "obsessive_compulsive_disorder",
+                "isAbout": "obsessive_compulsive_disorder",
+                "isVis": true
+            },
+            {
+                "variableName": "attention_deficit_hyperactivity_disorder",
+                "isAbout": "attention_deficit_hyperactivity_disorder",
+                "isVis": true
+            },
+            {
+                "variableName": "oppositional_defiant_disorder",
+                "isAbout": "oppositional_defiant_disorder",
+                "isVis": true
+            },
+            {
+                "variableName": "conduct_disorder",
+                "isAbout": "conduct_disorder",
+                "isVis": true
+            },
+            {
+                "variableName": "eating_disorders",
+                "isAbout": "eating_disorders",
+                "isVis": true
+            },
+            {
+                "variableName": "posttraumatic_stress_disorder",
+                "isAbout": "posttraumatic_stress_disorder",
+                "isVis": true
+            },
+            {
+                "variableName": "tobacco",
+                "isAbout": "tobacco",
+                "isVis": true
+            },
+            {
+                "variableName": "alcohol_abusedependence",
+                "isAbout": "alcohol_abusedependence",
+                "isVis": true
+            }
+        ],
         "order": [
             "timeline",
             "screener",
@@ -121,29 +141,6 @@
             "tobacco",
             "alcohol_abusedependence"
         ],
-        "shuffle": false,
-        "visibility": {
-            "timeline": true,
-            "screener": true,
-            "screener_checklist": true,
-            "major_depression": true,
-            "maniahypomania": true,
-            "suicideselfharm": true,
-            "psychosis": true,
-            "specific_phobia": true,
-            "social_anxiety": true,
-            "overanxiousgad": true,
-            "separation_anxiety": true,
-            "panic_disorder": true,
-            "agoraphobia": true,
-            "obsessive_compulsive_disorder": true,
-            "attention_deficit_hyperactivity_disorder": true,
-            "oppositional_defiant_disorder": true,
-            "conduct_disorder": true,
-            "eating_disorders": true,
-            "posttraumatic_stress_disorder": true,
-            "tobacco": true,
-            "alcohol_abusedependence": true
-        }
+        "shuffle": false
     }
 }

@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cscr_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of  **Screener** section._"
+    "question": "_INTERVIEWER: END of  **Screener** section._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

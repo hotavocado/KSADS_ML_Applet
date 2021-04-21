@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cagr_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of **Agoraphobia** section_"
+    "question": "_INTERVIEWER: END of **Agoraphobia** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

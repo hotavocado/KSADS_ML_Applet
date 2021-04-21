@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How old were you the first time? \r\n\r\n _(N weeks, N months, N years)_",
-    "schema:description": "AGE"
+    "schema:description": "AGE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

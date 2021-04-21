@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Do you (your child) have an Individualized Educational Plan (IEP)? If yes, what is the reason? Learning and/or emotional problems? Describe:\n"
+    "question": "Do you (your child) have an Individualized Educational Plan (IEP)? If yes, what is the reason? Learning and/or emotional problems? Describe:\n",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

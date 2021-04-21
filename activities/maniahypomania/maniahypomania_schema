@@ -6,633 +6,787 @@
     "@type": "reproschema:Activity",
     "@id": "maniahypomania_schema",
     "skos:prefLabel": "Mania/Hypomania",
-    "skos:altLabel": "maniahypomania_schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "mania_title",
-            "isAbout": "mania_title"
-        },
-        {
-            "variableName": "cman0",
-            "isAbout": "cman0"
-        },
-        {
-            "variableName": "dcman001",
-            "isAbout": "dcman001"
-        },
-        {
-            "variableName": "dcman002",
-            "isAbout": "dcman002"
-        },
-        {
-            "variableName": "cman1",
-            "isAbout": "cman1"
-        },
-        {
-            "variableName": "cman2",
-            "isAbout": "cman2"
-        },
-        {
-            "variableName": "cman3",
-            "isAbout": "cman3"
-        },
-        {
-            "variableName": "dcman012",
-            "isAbout": "dcman012"
-        },
-        {
-            "variableName": "dcman013",
-            "isAbout": "dcman013"
-        },
-        {
-            "variableName": "cman4",
-            "isAbout": "cman4"
-        },
-        {
-            "variableName": "cman5",
-            "isAbout": "cman5"
-        },
-        {
-            "variableName": "cman6",
-            "isAbout": "cman6"
-        },
-        {
-            "variableName": "dcman020",
-            "isAbout": "dcman020"
-        },
-        {
-            "variableName": "dcman022",
-            "isAbout": "dcman022"
-        },
-        {
-            "variableName": "dcman023",
-            "isAbout": "dcman023"
-        },
-        {
-            "variableName": "dcman024",
-            "isAbout": "dcman024"
-        },
-        {
-            "variableName": "dcman025",
-            "isAbout": "dcman025"
-        },
-        {
-            "variableName": "dcman026",
-            "isAbout": "dcman026"
-        },
-        {
-            "variableName": "dcman027",
-            "isAbout": "dcman027"
-        },
-        {
-            "variableName": "dcman028",
-            "isAbout": "dcman028"
-        },
-        {
-            "variableName": "dcman029",
-            "isAbout": "dcman029"
-        },
-        {
-            "variableName": "dcman030",
-            "isAbout": "dcman030"
-        },
-        {
-            "variableName": "dcman031",
-            "isAbout": "dcman031"
-        },
-        {
-            "variableName": "cman13",
-            "isAbout": "cman13"
-        },
-        {
-            "variableName": "dcman032",
-            "isAbout": "dcman032"
-        },
-        {
-            "variableName": "dcman033",
-            "isAbout": "dcman033"
-        },
-        {
-            "variableName": "dcman034",
-            "isAbout": "dcman034"
-        },
-        {
-            "variableName": "dcman035",
-            "isAbout": "dcman035"
-        },
-        {
-            "variableName": "dcman036",
-            "isAbout": "dcman036"
-        },
-        {
-            "variableName": "dcman037",
-            "isAbout": "dcman037"
-        },
-        {
-            "variableName": "dcman038",
-            "isAbout": "dcman038"
-        },
-        {
-            "variableName": "dcman039",
-            "isAbout": "dcman039"
-        },
-        {
-            "variableName": "dcman040",
-            "isAbout": "dcman040"
-        },
-        {
-            "variableName": "dcman041",
-            "isAbout": "dcman041"
-        },
-        {
-            "variableName": "dcman042",
-            "isAbout": "dcman042"
-        },
-        {
-            "variableName": "dcman043",
-            "isAbout": "dcman043"
-        },
-        {
-            "variableName": "dcman044",
-            "isAbout": "dcman044"
-        },
-        {
-            "variableName": "dcman045",
-            "isAbout": "dcman045"
-        },
-        {
-            "variableName": "dcman046",
-            "isAbout": "dcman046"
-        },
-        {
-            "variableName": "dcman047",
-            "isAbout": "dcman047"
-        },
-        {
-            "variableName": "dcman048",
-            "isAbout": "dcman048"
-        },
-        {
-            "variableName": "dcman049",
-            "isAbout": "dcman049"
-        },
-        {
-            "variableName": "dman050",
-            "isAbout": "dman050"
-        },
-        {
-            "variableName": "dman051",
-            "isAbout": "dman051"
-        },
-        {
-            "variableName": "dman052",
-            "isAbout": "dman052"
-        },
-        {
-            "variableName": "dman053",
-            "isAbout": "dman053"
-        },
-        {
-            "variableName": "dcman054",
-            "isAbout": "dcman054"
-        },
-        {
-            "variableName": "dcman055",
-            "isAbout": "dcman055"
-        },
-        {
-            "variableName": "dcman056",
-            "isAbout": "dcman056"
-        },
-        {
-            "variableName": "dcman057",
-            "isAbout": "dcman057"
-        },
-        {
-            "variableName": "dcman058",
-            "isAbout": "dcman058"
-        },
-        {
-            "variableName": "dcman059",
-            "isAbout": "dcman059"
-        },
-        {
-            "variableName": "dcman060",
-            "isAbout": "dcman060"
-        },
-        {
-            "variableName": "dcman061",
-            "isAbout": "dcman061"
-        },
-        {
-            "variableName": "dcman062",
-            "isAbout": "dcman062"
-        },
-        {
-            "variableName": "dcman063",
-            "isAbout": "dcman063"
-        },
-        {
-            "variableName": "cman22",
-            "isAbout": "cman22"
-        },
-        {
-            "variableName": "dcman064",
-            "isAbout": "dcman064"
-        },
-        {
-            "variableName": "dcman065",
-            "isAbout": "dcman065"
-        },
-        {
-            "variableName": "dcman066",
-            "isAbout": "dcman066"
-        },
-        {
-            "variableName": "dcman067",
-            "isAbout": "dcman067"
-        },
-        {
-            "variableName": "dcman068",
-            "isAbout": "dcman068"
-        },
-        {
-            "variableName": "dcman069",
-            "isAbout": "dcman069"
-        },
-        {
-            "variableName": "dcman070",
-            "isAbout": "dcman070"
-        },
-        {
-            "variableName": "dcman071",
-            "isAbout": "dcman071"
-        },
-        {
-            "variableName": "dcman072",
-            "isAbout": "dcman072"
-        },
-        {
-            "variableName": "dcman073",
-            "isAbout": "dcman073"
-        },
-        {
-            "variableName": "dcman074",
-            "isAbout": "dcman074"
-        },
-        {
-            "variableName": "dcman075",
-            "isAbout": "dcman075"
-        },
-        {
-            "variableName": "dcman076",
-            "isAbout": "dcman076"
-        },
-        {
-            "variableName": "dcman077",
-            "isAbout": "dcman077"
-        },
-        {
-            "variableName": "dcman078",
-            "isAbout": "dcman078"
-        },
-        {
-            "variableName": "dcman079",
-            "isAbout": "dcman079"
-        },
-        {
-            "variableName": "dcman080",
-            "isAbout": "dcman080"
-        },
-        {
-            "variableName": "dcman081",
-            "isAbout": "dcman081"
-        },
-        {
-            "variableName": "dcman082",
-            "isAbout": "dcman082"
-        },
-        {
-            "variableName": "dcman083",
-            "isAbout": "dcman083"
-        },
-        {
-            "variableName": "dcman084",
-            "isAbout": "dcman084"
-        },
-        {
-            "variableName": "dcman085",
-            "isAbout": "dcman085"
-        },
-        {
-            "variableName": "dcman086",
-            "isAbout": "dcman086"
-        },
-        {
-            "variableName": "dcman087",
-            "isAbout": "dcman087"
-        },
-        {
-            "variableName": "dcman088",
-            "isAbout": "dcman088"
-        },
-        {
-            "variableName": "dcman089",
-            "isAbout": "dcman089"
-        },
-        {
-            "variableName": "dcman090a",
-            "isAbout": "dcman090a"
-        },
-        {
-            "variableName": "dcman090b",
-            "isAbout": "dcman090b"
-        },
-        {
-            "variableName": "dcman090c",
-            "isAbout": "dcman090c"
-        },
-        {
-            "variableName": "dcman090d",
-            "isAbout": "dcman090d"
-        },
-        {
-            "variableName": "dcman091",
-            "isAbout": "dcman091"
-        },
-        {
-            "variableName": "dcman092",
-            "isAbout": "dcman092"
-        },
-        {
-            "variableName": "cman37",
-            "isAbout": "cman37"
-        },
-        {
-            "variableName": "dcman095",
-            "isAbout": "dcman095"
-        },
-        {
-            "variableName": "dcman096",
-            "isAbout": "dcman096"
-        },
-        {
-            "variableName": "dcman097",
-            "isAbout": "dcman097"
-        },
-        {
-            "variableName": "dcman098a",
-            "isAbout": "dcman098a"
-        },
-        {
-            "variableName": "dcman098b",
-            "isAbout": "dcman098b"
-        },
-        {
-            "variableName": "dcman098c",
-            "isAbout": "dcman098c"
-        },
-        {
-            "variableName": "dcman098d",
-            "isAbout": "dcman098d"
-        },
-        {
-            "variableName": "dcman099",
-            "isAbout": "dcman099"
-        },
-        {
-            "variableName": "dcman100",
-            "isAbout": "dcman100"
-        },
-        {
-            "variableName": "cman40",
-            "isAbout": "cman40"
-        },
-        {
-            "variableName": "dcman103",
-            "isAbout": "dcman103"
-        },
-        {
-            "variableName": "cman42",
-            "isAbout": "cman42"
-        },
-        {
-            "variableName": "dcman104",
-            "isAbout": "dcman104"
-        },
-        {
-            "variableName": "dcman105",
-            "isAbout": "dcman105"
-        },
-        {
-            "variableName": "dcman106",
-            "isAbout": "dcman106"
-        },
-        {
-            "variableName": "dcman107",
-            "isAbout": "dcman107"
-        },
-        {
-            "variableName": "dcman108",
-            "isAbout": "dcman108"
-        },
-        {
-            "variableName": "dcman109",
-            "isAbout": "dcman109"
-        },
-        {
-            "variableName": "dcman110",
-            "isAbout": "dcman110"
-        },
-        {
-            "variableName": "dcman111",
-            "isAbout": "dcman111"
-        },
-        {
-            "variableName": "dcman112",
-            "isAbout": "dcman112"
-        },
-        {
-            "variableName": "dcman113",
-            "isAbout": "dcman113"
-        },
-        {
-            "variableName": "cman43b",
-            "isAbout": "cman43b"
-        },
-        {
-            "variableName": "dcman114",
-            "isAbout": "dcman114"
-        },
-        {
-            "variableName": "dcman115",
-            "isAbout": "dcman115"
-        },
-        {
-            "variableName": "dcman116",
-            "isAbout": "dcman116"
-        },
-        {
-            "variableName": "dcman117",
-            "isAbout": "dcman117"
-        },
-        {
-            "variableName": "dcman118",
-            "isAbout": "dcman118"
-        },
-        {
-            "variableName": "dcman119",
-            "isAbout": "dcman119"
-        },
-        {
-            "variableName": "cman49",
-            "isAbout": "cman49"
-        },
-        {
-            "variableName": "dcman120",
-            "isAbout": "dcman120"
-        },
-        {
-            "variableName": "dcman121",
-            "isAbout": "dcman121"
-        },
-        {
-            "variableName": "dcman122",
-            "isAbout": "dcman122"
-        },
-        {
-            "variableName": "dcman123",
-            "isAbout": "dcman123"
-        },
-        {
-            "variableName": "dcman124",
-            "isAbout": "dcman124"
-        },
-        {
-            "variableName": "dcman125",
-            "isAbout": "dcman125"
-        },
-        {
-            "variableName": "dcman127",
-            "isAbout": "dcman127"
-        },
-        {
-            "variableName": "dcman128",
-            "isAbout": "dcman128"
-        },
-        {
-            "variableName": "dcman129",
-            "isAbout": "dcman129"
-        },
-        {
-            "variableName": "dcman130",
-            "isAbout": "dcman130"
-        },
-        {
-            "variableName": "dcman131",
-            "isAbout": "dcman131"
-        },
-        {
-            "variableName": "dcman132",
-            "isAbout": "dcman132"
-        },
-        {
-            "variableName": "cman50",
-            "isAbout": "cman50"
-        },
-        {
-            "variableName": "dcman136",
-            "isAbout": "dcman136"
-        },
-        {
-            "variableName": "dcman137",
-            "isAbout": "dcman137"
-        },
-        {
-            "variableName": "dcman138",
-            "isAbout": "dcman138"
-        },
-        {
-            "variableName": "dcman139",
-            "isAbout": "dcman139"
-        },
-        {
-            "variableName": "dcman140",
-            "isAbout": "dcman140"
-        },
-        {
-            "variableName": "dcman141",
-            "isAbout": "dcman141"
-        },
-        {
-            "variableName": "dcman142",
-            "isAbout": "dcman142"
-        },
-        {
-            "variableName": "dcman143",
-            "isAbout": "dcman143"
-        },
-        {
-            "variableName": "dcman144",
-            "isAbout": "dcman144"
-        },
-        {
-            "variableName": "dcman145",
-            "isAbout": "dcman145"
-        },
-        {
-            "variableName": "dcman146",
-            "isAbout": "dcman146"
-        },
-        {
-            "variableName": "dcman147",
-            "isAbout": "dcman147"
-        },
-        {
-            "variableName": "cman57",
-            "isAbout": "cman57"
-        },
-        {
-            "variableName": "dcman152",
-            "isAbout": "dcman152"
-        },
-        {
-            "variableName": "cman59",
-            "isAbout": "cman59"
-        },
-        {
-            "variableName": "cman59a",
-            "isAbout": "cman59a"
-        },
-        {
-            "variableName": "cman61",
-            "isAbout": "cman61"
-        },
-        {
-            "variableName": "cman62",
-            "isAbout": "cman62"
-        },
-        {
-            "variableName": "cman63",
-            "isAbout": "cman63"
-        },
-        {
-            "variableName": "dcman173",
-            "isAbout": "dcman173"
-        },
-        {
-            "variableName": "dcman174",
-            "isAbout": "dcman174"
-        },
-        {
-            "variableName": "cman_end",
-            "isAbout": "cman_end"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "mania_title",
+                "isAbout": "mania_title",
+                "isVis": true
+            },
+            {
+                "variableName": "cman0",
+                "isAbout": "cman0",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman001",
+                "isAbout": "dcman001",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman002",
+                "isAbout": "dcman002",
+                "isVis": "dcman001 == '0'"
+            },
+            {
+                "variableName": "cman1",
+                "isAbout": "cman1",
+                "isVis": "dcman001 == '0'"
+            },
+            {
+                "variableName": "cman2",
+                "isAbout": "cman2",
+                "isVis": "dcman001 == '0'"
+            },
+            {
+                "variableName": "cman3",
+                "isAbout": "cman3",
+                "isVis": "dcman001 == '1'"
+            },
+            {
+                "variableName": "dcman012",
+                "isAbout": "dcman012",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman013",
+                "isAbout": "dcman013",
+                "isVis": "dcman012 == '1'"
+            },
+            {
+                "variableName": "cman4",
+                "isAbout": "cman4",
+                "isVis": "dcman012 == '1'"
+            },
+            {
+                "variableName": "cman5",
+                "isAbout": "cman5",
+                "isVis": "dcman012 == '1'"
+            },
+            {
+                "variableName": "cman6",
+                "isAbout": "cman6",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman020",
+                "isAbout": "dcman020",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman022",
+                "isAbout": "dcman022",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman023",
+                "isAbout": "dcman023",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman024",
+                "isAbout": "dcman024",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman025",
+                "isAbout": "dcman025",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman026",
+                "isAbout": "dcman026",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman027",
+                "isAbout": "dcman027",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman028",
+                "isAbout": "dcman028",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman029",
+                "isAbout": "dcman029",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman030",
+                "isAbout": "dcman030",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman031",
+                "isAbout": "dcman031",
+                "isVis": true
+            },
+            {
+                "variableName": "cman13",
+                "isAbout": "cman13",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman032",
+                "isAbout": "dcman032",
+                "isVis": "cman13 == '1'"
+            },
+            {
+                "variableName": "dcman033",
+                "isAbout": "dcman033",
+                "isVis": "cman13 == '0'"
+            },
+            {
+                "variableName": "dcman034",
+                "isAbout": "dcman034",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman035",
+                "isAbout": "dcman035",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman036",
+                "isAbout": "dcman036",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman037",
+                "isAbout": "dcman037",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman038",
+                "isAbout": "dcman038",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman039",
+                "isAbout": "dcman039",
+                "isVis": "dcman038 == '1'"
+            },
+            {
+                "variableName": "dcman040",
+                "isAbout": "dcman040",
+                "isVis": "dcman038 == '1'"
+            },
+            {
+                "variableName": "dcman041",
+                "isAbout": "dcman041",
+                "isVis": "dcman038 == '1'"
+            },
+            {
+                "variableName": "dcman042",
+                "isAbout": "dcman042",
+                "isVis": "dcman038 == '1'"
+            },
+            {
+                "variableName": "dcman043",
+                "isAbout": "dcman043",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman044",
+                "isAbout": "dcman044",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman045",
+                "isAbout": "dcman045",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman046",
+                "isAbout": "dcman046",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman047",
+                "isAbout": "dcman047",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman048",
+                "isAbout": "dcman048",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman049",
+                "isAbout": "dcman049",
+                "isVis": true
+            },
+            {
+                "variableName": "dman050",
+                "isAbout": "dman050",
+                "isVis": true
+            },
+            {
+                "variableName": "dman051",
+                "isAbout": "dman051",
+                "isVis": true
+            },
+            {
+                "variableName": "dman052",
+                "isAbout": "dman052",
+                "isVis": true
+            },
+            {
+                "variableName": "dman053",
+                "isAbout": "dman053",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman054",
+                "isAbout": "dcman054",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman055",
+                "isAbout": "dcman055",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman056",
+                "isAbout": "dcman056",
+                "isVis": "dcman055 == '1'"
+            },
+            {
+                "variableName": "dcman057",
+                "isAbout": "dcman057",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman058",
+                "isAbout": "dcman058",
+                "isVis": "dcman057 == '1'"
+            },
+            {
+                "variableName": "dcman059",
+                "isAbout": "dcman059",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman060",
+                "isAbout": "dcman060",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman061",
+                "isAbout": "dcman061",
+                "isVis": "dcman060 == '1'"
+            },
+            {
+                "variableName": "dcman062",
+                "isAbout": "dcman062",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman063",
+                "isAbout": "dcman063",
+                "isVis": true
+            },
+            {
+                "variableName": "cman22",
+                "isAbout": "cman22",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman064",
+                "isAbout": "dcman064",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman065",
+                "isAbout": "dcman065",
+                "isVis": "dcman064 == '1'"
+            },
+            {
+                "variableName": "dcman066",
+                "isAbout": "dcman066",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman067",
+                "isAbout": "dcman067",
+                "isVis": "dcman066 == '1'"
+            },
+            {
+                "variableName": "dcman068",
+                "isAbout": "dcman068",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman069",
+                "isAbout": "dcman069",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman068 == '1'"
+            },
+            {
+                "variableName": "dcman070",
+                "isAbout": "dcman070",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman068 == '1'"
+            },
+            {
+                "variableName": "dcman071",
+                "isAbout": "dcman071",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman072",
+                "isAbout": "dcman072",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman071 == '1'"
+            },
+            {
+                "variableName": "dcman073",
+                "isAbout": "dcman073",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman071 == '1'"
+            },
+            {
+                "variableName": "dcman074",
+                "isAbout": "dcman074",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman075",
+                "isAbout": "dcman075",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman074 == '1'"
+            },
+            {
+                "variableName": "dcman076",
+                "isAbout": "dcman076",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman074 == '1'"
+            },
+            {
+                "variableName": "dcman077",
+                "isAbout": "dcman077",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman078",
+                "isAbout": "dcman078",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman077 == '1'"
+            },
+            {
+                "variableName": "dcman079",
+                "isAbout": "dcman079",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman077 == '1'"
+            },
+            {
+                "variableName": "dcman080",
+                "isAbout": "dcman080",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman081",
+                "isAbout": "dcman081",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman080 == '1'"
+            },
+            {
+                "variableName": "dcman082",
+                "isAbout": "dcman082",
+                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman080 == '1'"
+            },
+            {
+                "variableName": "dcman083",
+                "isAbout": "dcman083",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman084",
+                "isAbout": "dcman084",
+                "isVis": "dcman083 == '1'"
+            },
+            {
+                "variableName": "dcman085",
+                "isAbout": "dcman085",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman086",
+                "isAbout": "dcman086",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman087",
+                "isAbout": "dcman087",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman088",
+                "isAbout": "dcman088",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman089",
+                "isAbout": "dcman089",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman090a",
+                "isAbout": "dcman090a",
+                "isVis": "dcman089 == '1'"
+            },
+            {
+                "variableName": "dcman090b",
+                "isAbout": "dcman090b",
+                "isVis": "dcman089 == '1'"
+            },
+            {
+                "variableName": "dcman090c",
+                "isAbout": "dcman090c",
+                "isVis": "dcman089 == '1'"
+            },
+            {
+                "variableName": "dcman090d",
+                "isAbout": "dcman090d",
+                "isVis": "dcman089 == '1'"
+            },
+            {
+                "variableName": "dcman091",
+                "isAbout": "dcman091",
+                "isVis": "dcman089 == '1'"
+            },
+            {
+                "variableName": "dcman092",
+                "isAbout": "dcman092",
+                "isVis": "dcman089 == '1'"
+            },
+            {
+                "variableName": "cman37",
+                "isAbout": "cman37",
+                "isVis": "dcman089 == '1'"
+            },
+            {
+                "variableName": "dcman095",
+                "isAbout": "dcman095",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman096",
+                "isAbout": "dcman096",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman097",
+                "isAbout": "dcman097",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman098a",
+                "isAbout": "dcman098a",
+                "isVis": "dcman097 == '1'"
+            },
+            {
+                "variableName": "dcman098b",
+                "isAbout": "dcman098b",
+                "isVis": "dcman097 == '1'"
+            },
+            {
+                "variableName": "dcman098c",
+                "isAbout": "dcman098c",
+                "isVis": "dcman097 == '1'"
+            },
+            {
+                "variableName": "dcman098d",
+                "isAbout": "dcman098d",
+                "isVis": "dcman097 == '1'"
+            },
+            {
+                "variableName": "dcman099",
+                "isAbout": "dcman099",
+                "isVis": "dcman097 == '1'"
+            },
+            {
+                "variableName": "dcman100",
+                "isAbout": "dcman100",
+                "isVis": "dcman097 == '1'"
+            },
+            {
+                "variableName": "cman40",
+                "isAbout": "cman40",
+                "isVis": "dcman097 == '1'"
+            },
+            {
+                "variableName": "dcman103",
+                "isAbout": "dcman103",
+                "isVis": true
+            },
+            {
+                "variableName": "cman42",
+                "isAbout": "cman42",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman104",
+                "isAbout": "dcman104",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman105",
+                "isAbout": "dcman105",
+                "isVis": "dcman104 == '1'"
+            },
+            {
+                "variableName": "dcman106",
+                "isAbout": "dcman106",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman107",
+                "isAbout": "dcman107",
+                "isVis": "dcman106 == '1'"
+            },
+            {
+                "variableName": "dcman108",
+                "isAbout": "dcman108",
+                "isVis": "dcman106 == '1'"
+            },
+            {
+                "variableName": "dcman109",
+                "isAbout": "dcman109",
+                "isVis": "dcman106 == '1'"
+            },
+            {
+                "variableName": "dcman110",
+                "isAbout": "dcman110",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman111",
+                "isAbout": "dcman111",
+                "isVis": "dcman110.includes(1) || dcman100.includes(2)"
+            },
+            {
+                "variableName": "dcman112",
+                "isAbout": "dcman112",
+                "isVis": "dcman110.includes(1) || dcman100.includes(2)"
+            },
+            {
+                "variableName": "dcman113",
+                "isAbout": "dcman113",
+                "isVis": "dcman110.includes(1) || dcman100.includes(2)"
+            },
+            {
+                "variableName": "cman43b",
+                "isAbout": "cman43b",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman114",
+                "isAbout": "dcman114",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman115",
+                "isAbout": "dcman115",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman116",
+                "isAbout": "dcman116",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman117",
+                "isAbout": "dcman117",
+                "isVis": "dcman116 == '1' "
+            },
+            {
+                "variableName": "dcman118",
+                "isAbout": "dcman118",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman119",
+                "isAbout": "dcman119",
+                "isVis": true
+            },
+            {
+                "variableName": "cman49",
+                "isAbout": "cman49",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman120",
+                "isAbout": "dcman120",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman121",
+                "isAbout": "dcman121",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman122",
+                "isAbout": "dcman122",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman123",
+                "isAbout": "dcman123",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman124",
+                "isAbout": "dcman124",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman125",
+                "isAbout": "dcman125",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman127",
+                "isAbout": "dcman127",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman128",
+                "isAbout": "dcman128",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman129",
+                "isAbout": "dcman129",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman130",
+                "isAbout": "dcman130",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman131",
+                "isAbout": "dcman131",
+                "isVis": "dcman130 == '0'"
+            },
+            {
+                "variableName": "dcman132",
+                "isAbout": "dcman132",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "cman50",
+                "isAbout": "cman50",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman136",
+                "isAbout": "dcman136",
+                "isVis": "cman50.includes(3)"
+            },
+            {
+                "variableName": "dcman137",
+                "isAbout": "dcman137",
+                "isVis": "dcman119 == '1' "
+            },
+            {
+                "variableName": "dcman138",
+                "isAbout": "dcman138",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman139",
+                "isAbout": "dcman139",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman140",
+                "isAbout": "dcman140",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman141",
+                "isAbout": "dcman141",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman142",
+                "isAbout": "dcman142",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman143",
+                "isAbout": "dcman143",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman144",
+                "isAbout": "dcman144",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman145",
+                "isAbout": "dcman145",
+                "isVis": "dcman137 == '1' "
+            },
+            {
+                "variableName": "dcman146",
+                "isAbout": "dcman146",
+                "isVis": true
+            },
+            {
+                "variableName": "dcman147",
+                "isAbout": "dcman147",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "cman57",
+                "isAbout": "cman57",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "dcman152",
+                "isAbout": "dcman152",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "cman59",
+                "isAbout": "cman59",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "cman59a",
+                "isAbout": "cman59a",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "cman61",
+                "isAbout": "cman61",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "cman62",
+                "isAbout": "cman62",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "cman63",
+                "isAbout": "cman63",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "dcman173",
+                "isAbout": "dcman173",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "dcman174",
+                "isAbout": "dcman174",
+                "isVis": "dcman146 =='1'"
+            },
+            {
+                "variableName": "cman_end",
+                "isAbout": "cman_end",
+                "isVis": true
+            }
+        ],
         "order": [
             "mania_title",
             "cman0",
@@ -790,163 +944,6 @@
             "dcman174",
             "cman_end"
         ],
-        "shuffle": false,
-        "visibility": {
-            "mania_title": true,
-            "cman0": true,
-            "dcman001": true,
-            "dcman002": "dcman001 == 0",
-            "cman1": "dcman001 == 0",
-            "cman2": "dcman001 == 0",
-            "cman3": "dcman001 == 1",
-            "dcman012": true,
-            "dcman013": "dcman012 == 1",
-            "cman4": "dcman012 == 1",
-            "cman5": "dcman012 == 1",
-            "cman6": true,
-            "dcman020": true,
-            "dcman022": true,
-            "dcman023": true,
-            "dcman024": true,
-            "dcman025": true,
-            "dcman026": true,
-            "dcman027": true,
-            "dcman028": true,
-            "dcman029": true,
-            "dcman030": true,
-            "dcman031": true,
-            "cman13": true,
-            "dcman032": "cman13 == 1",
-            "dcman033": "cman13 == 0",
-            "dcman034": true,
-            "dcman035": true,
-            "dcman036": true,
-            "dcman037": true,
-            "dcman038": true,
-            "dcman039": "dcman038 == 1",
-            "dcman040": "dcman038 == 1",
-            "dcman041": "dcman038 == 1",
-            "dcman042": "dcman038 == 1",
-            "dcman043": true,
-            "dcman044": true,
-            "dcman045": true,
-            "dcman046": true,
-            "dcman047": true,
-            "dcman048": true,
-            "dcman049": true,
-            "dman050": true,
-            "dman051": true,
-            "dman052": true,
-            "dman053": true,
-            "dcman054": true,
-            "dcman055": true,
-            "dcman056": "dcman055 == 1",
-            "dcman057": true,
-            "dcman058": "dcman057 == 1",
-            "dcman059": true,
-            "dcman060": true,
-            "dcman061": "dcman060 == 1",
-            "dcman062": true,
-            "dcman063": true,
-            "cman22": true,
-            "dcman064": true,
-            "dcman065": "dcman064 == 1",
-            "dcman066": true,
-            "dcman067": "dcman066 == 1",
-            "dcman068": true,
-            "dcman069": "dcman064 == 1 && dcman066 == 1 && dcman068 == 1",
-            "dcman070": "dcman064 == 1 && dcman066 == 1 && dcman068 == 1",
-            "dcman071": true,
-            "dcman072": "dcman064 == 1 && dcman066 == 1 && dcman071 == 1",
-            "dcman073": "dcman064 == 1 && dcman066 == 1 && dcman071 == 1",
-            "dcman074": true,
-            "dcman075": "dcman064 == 1 && dcman066 == 1 && dcman074 == 1",
-            "dcman076": "dcman064 == 1 && dcman066 == 1 && dcman074 == 1",
-            "dcman077": true,
-            "dcman078": "dcman064 == 1 && dcman066 == 1 && dcman077 == 1",
-            "dcman079": "dcman064 == 1 && dcman066 == 1 && dcman077 == 1",
-            "dcman080": true,
-            "dcman081": "dcman064 == 1 && dcman066 == 1 && dcman080 == 1",
-            "dcman082": "dcman064 == 1 && dcman066 == 1 && dcman080 == 1",
-            "dcman083": true,
-            "dcman084": "dcman083 == 1",
-            "dcman085": true,
-            "dcman086": true,
-            "dcman087": true,
-            "dcman088": true,
-            "dcman089": true,
-            "dcman090a": "dcman089 == 1",
-            "dcman090b": "dcman089 == 1",
-            "dcman090c": "dcman089 == 1",
-            "dcman090d": "dcman089 == 1",
-            "dcman091": "dcman089 == 1",
-            "dcman092": "dcman089 == 1",
-            "cman37": "dcman089 == 1",
-            "dcman095": true,
-            "dcman096": true,
-            "dcman097": true,
-            "dcman098a": "dcman097 == 1",
-            "dcman098b": "dcman097 == 1",
-            "dcman098c": "dcman097 == 1",
-            "dcman098d": "dcman097 == 1",
-            "dcman099": "dcman097 == 1",
-            "dcman100": "dcman097 == 1",
-            "cman40": "dcman097 == 1",
-            "dcman103": true,
-            "cman42": true,
-            "dcman104": true,
-            "dcman105": "dcman104 == 1",
-            "dcman106": true,
-            "dcman107": "dcman106 == 1",
-            "dcman108": "dcman106 == 1",
-            "dcman109": "dcman106 == 1",
-            "dcman110": true,
-            "dcman111": "dcman110.includes(1) || dcman100.includes(2)",
-            "dcman112": "dcman110.includes(1) || dcman100.includes(2)",
-            "dcman113": "dcman110.includes(1) || dcman100.includes(2)",
-            "cman43b": true,
-            "dcman114": true,
-            "dcman115": true,
-            "dcman116": true,
-            "dcman117": "dcman116 == 1 ",
-            "dcman118": true,
-            "dcman119": true,
-            "cman49": "dcman119 == 1 ",
-            "dcman120": "dcman119 == 1 ",
-            "dcman121": "dcman119 == 1 ",
-            "dcman122": "dcman119 == 1 ",
-            "dcman123": "dcman119 == 1 ",
-            "dcman124": "dcman119 == 1 ",
-            "dcman125": "dcman119 == 1 ",
-            "dcman127": "dcman119 == 1 ",
-            "dcman128": "dcman119 == 1 ",
-            "dcman129": "dcman119 == 1 ",
-            "dcman130": "dcman119 == 1 ",
-            "dcman131": "dcman130 == 0",
-            "dcman132": "dcman119 == 1 ",
-            "cman50": "dcman119 == 1 ",
-            "dcman136": "cman50.includes(3)",
-            "dcman137": "dcman119 == 1 ",
-            "dcman138": "dcman137 == 1 ",
-            "dcman139": "dcman137 == 1 ",
-            "dcman140": "dcman137 == 1 ",
-            "dcman141": "dcman137 == 1 ",
-            "dcman142": "dcman137 == 1 ",
-            "dcman143": "dcman137 == 1 ",
-            "dcman144": "dcman137 == 1 ",
-            "dcman145": "dcman137 == 1 ",
-            "dcman146": true,
-            "dcman147": "dcman146 ==1",
-            "cman57": "dcman146 ==1",
-            "dcman152": "dcman146 ==1",
-            "cman59": "dcman146 ==1",
-            "cman59a": "dcman146 ==1",
-            "cman61": "dcman146 ==1",
-            "cman62": "dcman146 ==1",
-            "cman63": "dcman146 ==1",
-            "dcman173": "dcman146 ==1",
-            "dcman174": "dcman146 ==1",
-            "cman_end": true
-        }
+        "shuffle": false
     }
 }

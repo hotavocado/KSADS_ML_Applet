@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Who said that you were a worrier?"
+    "question": "Who said that you were a worrier?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How many hours earlier?",
-    "schema:description": "HOURS"
+    "schema:description": "HOURS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

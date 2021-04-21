@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "The next questions refer to the current school year (when on summer break refer to the past school year)."
+    "question": "The next questions refer to the current school year (when on summer break refer to the past school year).",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

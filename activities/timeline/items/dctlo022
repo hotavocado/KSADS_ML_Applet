@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Do you have friends in other places (e.g. neighborhoods and/or clubs)?"
+    "question": "Do you have friends in other places (e.g. neighborhoods and/or clubs)?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

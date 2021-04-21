@@ -6,7 +6,10 @@
     "@id": "cscr48",
     "preamble": "Post Traumatic Stress Disorder",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Now I'm going to ask you about upsetting things that sometimes happen to children or teenagers. \r\n\r\n _INTERVIEWER: Refer to Participant Card 5 (Stressful Experiences)_"
+    "question": "Now I'm going to ask you about upsetting things that sometimes happen to children or teenagers. \r\n\r\n _INTERVIEWER: Refer to Participant Card 5 (Stressful Experiences)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

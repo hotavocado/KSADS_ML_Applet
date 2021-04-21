@@ -34,6 +34,7 @@
                 "schema:name": "No information",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

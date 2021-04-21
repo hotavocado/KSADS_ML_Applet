@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "cman_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of **Mania/Hypomania** section_"
+    "question": "_INTERVIEWER: END of **Mania/Hypomania** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

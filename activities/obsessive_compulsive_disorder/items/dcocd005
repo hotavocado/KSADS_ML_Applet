@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What kind of thoughts, images or impulses have you had? \r\n\r\n _Interviewer: Not simply excessive worries about real life problems._"
+    "question": "What kind of thoughts, images or impulses have you had? \r\n\r\n _Interviewer: Not simply excessive worries about real life problems._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

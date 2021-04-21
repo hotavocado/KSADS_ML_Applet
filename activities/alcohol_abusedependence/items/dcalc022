@@ -53,6 +53,7 @@
                 "schema:name": "More than 9 drinks",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

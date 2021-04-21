@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Do you have friends in school? "
+    "question": "Do you have friends in school? ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

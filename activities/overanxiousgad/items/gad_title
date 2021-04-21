@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "gad_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Generalized Anxiety Disorder"
+    "question": "## Generalized Anxiety Disorder",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -6,7 +6,10 @@
     "@id": "cmdd54",
     "preamble": "Return to Baseline",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "\nI would now like to talk about the time **in between** the periods when you felt (sad, grouchy, like nothing was fun)."
+    "question": "\nI would now like to talk about the time **in between** the periods when you felt (sad, grouchy, like nothing was fun).",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

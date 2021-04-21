@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "_INTERVIEWER: Estimate total duration of the period when hallucinations occurred (can be intermittent over this time): _ \r\n\r\n _(N days, N weeks)_"
+    "question": "_INTERVIEWER: Estimate total duration of the period when hallucinations occurred (can be intermittent over this time): _ \r\n\r\n _(N days, N weeks)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

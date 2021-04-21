@@ -23,6 +23,7 @@
                 "schema:name": "Yes",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

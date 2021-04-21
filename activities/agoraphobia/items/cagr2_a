@@ -23,6 +23,7 @@
                 "schema:name": "Continue",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

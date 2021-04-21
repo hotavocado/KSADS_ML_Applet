@@ -11,5 +11,8 @@
         "inputType": "text"
     },
     "question": "Other subject 2 (list here)",
-    "schema:description": "OTHER SUBJECT 2"
+    "schema:description": "OTHER SUBJECT 2",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

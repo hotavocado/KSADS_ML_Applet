@@ -6,7 +6,10 @@
     "@id": "cscr5",
     "preamble": "Seperation Anxiety",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Some young people worry a lot about being away from their parents or the grown-up who takes care of them. "
+    "question": "Some young people worry a lot about being away from their parents or the grown-up who takes care of them. ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "How long have you been drinking this amount?",
-    "schema:description": "MONTHS"
+    "schema:description": "MONTHS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

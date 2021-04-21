@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Do you have problems making/keeping friends?"
+    "question": "Do you have problems making/keeping friends?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

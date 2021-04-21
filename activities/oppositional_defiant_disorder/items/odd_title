@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "odd_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## Oppositional Defiant Disorder"
+    "question": "## Oppositional Defiant Disorder",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "psychosis_title",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "## PYSCHOSIS "
+    "question": "## Pyschosis ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

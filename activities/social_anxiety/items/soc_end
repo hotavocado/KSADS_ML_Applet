@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "soc_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of **Social Anxiety** section_"
+    "question": "_INTERVIEWER: END of **Social Anxiety** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

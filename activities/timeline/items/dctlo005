@@ -8,5 +8,8 @@
     "ui": {
         "inputType": "date"
     },
-    "question": "What is your birthday?"
+    "question": "What is your birthday?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

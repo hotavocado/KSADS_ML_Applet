@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "dcsui122",
     "ui": {
-        "inputType": "notes+G:G"
+        "inputType": "text"
     },
-    "question": "Describe (Other):"
+    "question": "Describe (Other):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

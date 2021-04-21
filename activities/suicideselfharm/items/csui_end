@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "csui_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of **Suicide/Self-Harm** section._"
+    "question": "_INTERVIEWER: END of **Suicide/Self-Harm** section._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

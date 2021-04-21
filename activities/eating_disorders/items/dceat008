@@ -9,5 +9,8 @@
         "inputType": "text"
     },
     "question": "How old were you the **first time** you did these (list behaviors)? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
-    "schema:description": "ONSET AGE"
+    "schema:description": "ONSET AGE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

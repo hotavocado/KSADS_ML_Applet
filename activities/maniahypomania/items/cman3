@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How long have you felt this way?  \r\n\r\n _(N days, N weeks, N months)_"
+    "question": "How long have you felt this way?  \r\n\r\n _(N days, N weeks, N months)_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

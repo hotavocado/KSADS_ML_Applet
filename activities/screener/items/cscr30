@@ -6,7 +6,10 @@
     "@id": "cscr30",
     "preamble": "Mania/Hypomania",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "Some people have periods when they feel much more active, energetic, and talkative.  They may think more quickly.  They talk a lot.  They may be fidgety or unable to sit still and they sometimes do things that are unusual for them, like spending too much money. "
+    "question": "Some people have periods when they feel much more active, energetic, and talkative.  They may think more quickly.  They talk a lot.  They may be fidgety or unable to sit still and they sometimes do things that are unusual for them, like spending too much money. ",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

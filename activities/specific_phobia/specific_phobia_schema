@@ -6,545 +6,677 @@
     "@type": "reproschema:Activity",
     "@id": "specific_phobia_schema",
     "skos:prefLabel": "Specific Phobia",
-    "skos:altLabel": "specific_phobia_schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "specific_phobia_title",
-            "isAbout": "specific_phobia_title"
-        },
-        {
-            "variableName": "cpho0",
-            "isAbout": "cpho0"
-        },
-        {
-            "variableName": "dcpho001",
-            "isAbout": "dcpho001"
-        },
-        {
-            "variableName": "dcpho002",
-            "isAbout": "dcpho002"
-        },
-        {
-            "variableName": "dcpho003",
-            "isAbout": "dcpho003"
-        },
-        {
-            "variableName": "dcpho004",
-            "isAbout": "dcpho004"
-        },
-        {
-            "variableName": "dcpho005",
-            "isAbout": "dcpho005"
-        },
-        {
-            "variableName": "dcpho006",
-            "isAbout": "dcpho006"
-        },
-        {
-            "variableName": "dcpho007",
-            "isAbout": "dcpho007"
-        },
-        {
-            "variableName": "dcpho008",
-            "isAbout": "dcpho008"
-        },
-        {
-            "variableName": "dcpho009",
-            "isAbout": "dcpho009"
-        },
-        {
-            "variableName": "dcpho010",
-            "isAbout": "dcpho010"
-        },
-        {
-            "variableName": "dcpho011",
-            "isAbout": "dcpho011"
-        },
-        {
-            "variableName": "dcpho012",
-            "isAbout": "dcpho012"
-        },
-        {
-            "variableName": "dcpho013",
-            "isAbout": "dcpho013"
-        },
-        {
-            "variableName": "dcpho014",
-            "isAbout": "dcpho014"
-        },
-        {
-            "variableName": "dcpho015",
-            "isAbout": "dcpho015"
-        },
-        {
-            "variableName": "dcpho016",
-            "isAbout": "dcpho016"
-        },
-        {
-            "variableName": "dcpho017",
-            "isAbout": "dcpho017"
-        },
-        {
-            "variableName": "dcpho018",
-            "isAbout": "dcpho018"
-        },
-        {
-            "variableName": "dcpho019",
-            "isAbout": "dcpho019"
-        },
-        {
-            "variableName": "dcpho020",
-            "isAbout": "dcpho020"
-        },
-        {
-            "variableName": "dcpho021",
-            "isAbout": "dcpho021"
-        },
-        {
-            "variableName": "dcpho022",
-            "isAbout": "dcpho022"
-        },
-        {
-            "variableName": "dcpho023",
-            "isAbout": "dcpho023"
-        },
-        {
-            "variableName": "dcpho024",
-            "isAbout": "dcpho024"
-        },
-        {
-            "variableName": "dcpho025",
-            "isAbout": "dcpho025"
-        },
-        {
-            "variableName": "dcpho026",
-            "isAbout": "dcpho026"
-        },
-        {
-            "variableName": "dcpho027",
-            "isAbout": "dcpho027"
-        },
-        {
-            "variableName": "dcpho028",
-            "isAbout": "dcpho028"
-        },
-        {
-            "variableName": "dcpho029",
-            "isAbout": "dcpho029"
-        },
-        {
-            "variableName": "dcpho030",
-            "isAbout": "dcpho030"
-        },
-        {
-            "variableName": "dcpho031",
-            "isAbout": "dcpho031"
-        },
-        {
-            "variableName": "dcpho032",
-            "isAbout": "dcpho032"
-        },
-        {
-            "variableName": "dcpho033",
-            "isAbout": "dcpho033"
-        },
-        {
-            "variableName": "dcpho034",
-            "isAbout": "dcpho034"
-        },
-        {
-            "variableName": "dcpho035",
-            "isAbout": "dcpho035"
-        },
-        {
-            "variableName": "cpho8",
-            "isAbout": "cpho8"
-        },
-        {
-            "variableName": "cpho9a",
-            "isAbout": "cpho9a"
-        },
-        {
-            "variableName": "dcpho036",
-            "isAbout": "dcpho036"
-        },
-        {
-            "variableName": "dcpho037",
-            "isAbout": "dcpho037"
-        },
-        {
-            "variableName": "dcpho038",
-            "isAbout": "dcpho038"
-        },
-        {
-            "variableName": "dcpho039",
-            "isAbout": "dcpho039"
-        },
-        {
-            "variableName": "dcpho040",
-            "isAbout": "dcpho040"
-        },
-        {
-            "variableName": "dcpho041",
-            "isAbout": "dcpho041"
-        },
-        {
-            "variableName": "dcpho_fear_number",
-            "isAbout": "dcpho_fear_number"
-        },
-        {
-            "variableName": "cpho10",
-            "isAbout": "cpho10"
-        },
-        {
-            "variableName": "dcpho042",
-            "isAbout": "dcpho042"
-        },
-        {
-            "variableName": "dcpho043",
-            "isAbout": "dcpho043"
-        },
-        {
-            "variableName": "dcpho044",
-            "isAbout": "dcpho044"
-        },
-        {
-            "variableName": "dcpho045",
-            "isAbout": "dcpho045"
-        },
-        {
-            "variableName": "dcpho046",
-            "isAbout": "dcpho046"
-        },
-        {
-            "variableName": "dcpho047a",
-            "isAbout": "dcpho047a"
-        },
-        {
-            "variableName": "dcpho047b",
-            "isAbout": "dcpho047b"
-        },
-        {
-            "variableName": "dcpho047c",
-            "isAbout": "dcpho047c"
-        },
-        {
-            "variableName": "cpho13",
-            "isAbout": "cpho13"
-        },
-        {
-            "variableName": "dcphp048",
-            "isAbout": "dcphp048"
-        },
-        {
-            "variableName": "dcpho049",
-            "isAbout": "dcpho049"
-        },
-        {
-            "variableName": "dcpho050",
-            "isAbout": "dcpho050"
-        },
-        {
-            "variableName": "dcpho051",
-            "isAbout": "dcpho051"
-        },
-        {
-            "variableName": "cpho25a",
-            "isAbout": "cpho25a"
-        },
-        {
-            "variableName": "dcpho074",
-            "isAbout": "dcpho074"
-        },
-        {
-            "variableName": "dcpho075",
-            "isAbout": "dcpho075"
-        },
-        {
-            "variableName": "dcpho076",
-            "isAbout": "dcpho076"
-        },
-        {
-            "variableName": "cpho27a",
-            "isAbout": "cpho27a"
-        },
-        {
-            "variableName": "dcpho080",
-            "isAbout": "dcpho080"
-        },
-        {
-            "variableName": "cpho17",
-            "isAbout": "cpho17"
-        },
-        {
-            "variableName": "dcpho052",
-            "isAbout": "dcpho052"
-        },
-        {
-            "variableName": "dcpho053",
-            "isAbout": "dcpho053"
-        },
-        {
-            "variableName": "dcpho054",
-            "isAbout": "dcpho054"
-        },
-        {
-            "variableName": "dcpho055",
-            "isAbout": "dcpho055"
-        },
-        {
-            "variableName": "dcpho056",
-            "isAbout": "dcpho056"
-        },
-        {
-            "variableName": "dcpho057a",
-            "isAbout": "dcpho057a"
-        },
-        {
-            "variableName": "dcpho057b",
-            "isAbout": "dcpho057b"
-        },
-        {
-            "variableName": "dcpho057c",
-            "isAbout": "dcpho057c"
-        },
-        {
-            "variableName": "cpho18",
-            "isAbout": "cpho18"
-        },
-        {
-            "variableName": "dcpho058",
-            "isAbout": "dcpho058"
-        },
-        {
-            "variableName": "dcpho059",
-            "isAbout": "dcpho059"
-        },
-        {
-            "variableName": "dcpho060",
-            "isAbout": "dcpho060"
-        },
-        {
-            "variableName": "dcpho061",
-            "isAbout": "dcpho061"
-        },
-        {
-            "variableName": "cpho25a_fear2",
-            "isAbout": "cpho25a_fear2"
-        },
-        {
-            "variableName": "dcpho074_fear2",
-            "isAbout": "dcpho074_fear2"
-        },
-        {
-            "variableName": "dcpho075_fear2",
-            "isAbout": "dcpho075_fear2"
-        },
-        {
-            "variableName": "dcpho076_fear2",
-            "isAbout": "dcpho076_fear2"
-        },
-        {
-            "variableName": "cpho27a_fear2",
-            "isAbout": "cpho27a_fear2"
-        },
-        {
-            "variableName": "dcpho080_fear2",
-            "isAbout": "dcpho080_fear2"
-        },
-        {
-            "variableName": "cpho21",
-            "isAbout": "cpho21"
-        },
-        {
-            "variableName": "dcpho062",
-            "isAbout": "dcpho062"
-        },
-        {
-            "variableName": "dcpho063",
-            "isAbout": "dcpho063"
-        },
-        {
-            "variableName": "dcpho064",
-            "isAbout": "dcpho064"
-        },
-        {
-            "variableName": "dcpho065",
-            "isAbout": "dcpho065"
-        },
-        {
-            "variableName": "dcpho066",
-            "isAbout": "dcpho066"
-        },
-        {
-            "variableName": "dcpho067a",
-            "isAbout": "dcpho067a"
-        },
-        {
-            "variableName": "dcpho067b",
-            "isAbout": "dcpho067b"
-        },
-        {
-            "variableName": "dcpho067c",
-            "isAbout": "dcpho067c"
-        },
-        {
-            "variableName": "cpho22",
-            "isAbout": "cpho22"
-        },
-        {
-            "variableName": "dcpho068",
-            "isAbout": "dcpho068"
-        },
-        {
-            "variableName": "dcpho069",
-            "isAbout": "dcpho069"
-        },
-        {
-            "variableName": "dcpho070",
-            "isAbout": "dcpho070"
-        },
-        {
-            "variableName": "dcpho071",
-            "isAbout": "dcpho071"
-        },
-        {
-            "variableName": "cpho25a_fear3",
-            "isAbout": "cpho25a_fear3"
-        },
-        {
-            "variableName": "dcpho074_fear3",
-            "isAbout": "dcpho074_fear3"
-        },
-        {
-            "variableName": "dcpho075_fear3",
-            "isAbout": "dcpho075_fear3"
-        },
-        {
-            "variableName": "dcpho076_fear3",
-            "isAbout": "dcpho076_fear3"
-        },
-        {
-            "variableName": "cpho27a_fear3",
-            "isAbout": "cpho27a_fear3"
-        },
-        {
-            "variableName": "dcpho080_fear3",
-            "isAbout": "dcpho080_fear3"
-        },
-        {
-            "variableName": "dcpho081",
-            "isAbout": "dcpho081"
-        },
-        {
-            "variableName": "dcpho082",
-            "isAbout": "dcpho082"
-        },
-        {
-            "variableName": "cpho29a",
-            "isAbout": "cpho29a"
-        },
-        {
-            "variableName": "dcpho083",
-            "isAbout": "dcpho083"
-        },
-        {
-            "variableName": "dcpho084",
-            "isAbout": "dcpho084"
-        },
-        {
-            "variableName": "dcpho085",
-            "isAbout": "dcpho085"
-        },
-        {
-            "variableName": "dcpho086",
-            "isAbout": "dcpho086"
-        },
-        {
-            "variableName": "dcpho087",
-            "isAbout": "dcpho087"
-        },
-        {
-            "variableName": "dcpho088",
-            "isAbout": "dcpho088"
-        },
-        {
-            "variableName": "dcpho089",
-            "isAbout": "dcpho089"
-        },
-        {
-            "variableName": "dcpho091",
-            "isAbout": "dcpho091"
-        },
-        {
-            "variableName": "dcpho092",
-            "isAbout": "dcpho092"
-        },
-        {
-            "variableName": "dcpho093",
-            "isAbout": "dcpho093"
-        },
-        {
-            "variableName": "dcpho094",
-            "isAbout": "dcpho094"
-        },
-        {
-            "variableName": "dcpho095",
-            "isAbout": "dcpho095"
-        },
-        {
-            "variableName": "cpho31",
-            "isAbout": "cpho31"
-        },
-        {
-            "variableName": "dcpho096",
-            "isAbout": "dcpho096"
-        },
-        {
-            "variableName": "dcpho100",
-            "isAbout": "dcpho100"
-        },
-        {
-            "variableName": "dcpho101",
-            "isAbout": "dcpho101"
-        },
-        {
-            "variableName": "dcpho102",
-            "isAbout": "dcpho102"
-        },
-        {
-            "variableName": "dcpho103",
-            "isAbout": "dcpho103"
-        },
-        {
-            "variableName": "dcpho104",
-            "isAbout": "dcpho104"
-        },
-        {
-            "variableName": "dcpho105",
-            "isAbout": "dcpho105"
-        },
-        {
-            "variableName": "dcpho106",
-            "isAbout": "dcpho106"
-        },
-        {
-            "variableName": "dcpho107",
-            "isAbout": "dcpho107"
-        },
-        {
-            "variableName": "dcpho108",
-            "isAbout": "dcpho108"
-        },
-        {
-            "variableName": "cpho_end",
-            "isAbout": "cpho_end"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "specific_phobia_title",
+                "isAbout": "specific_phobia_title",
+                "isVis": true
+            },
+            {
+                "variableName": "cpho0",
+                "isAbout": "cpho0",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho001",
+                "isAbout": "dcpho001",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho002",
+                "isAbout": "dcpho002",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho003",
+                "isAbout": "dcpho003",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho004",
+                "isAbout": "dcpho004",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho005",
+                "isAbout": "dcpho005",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho006",
+                "isAbout": "dcpho006",
+                "isVis": "dcpho005 == '1'"
+            },
+            {
+                "variableName": "dcpho007",
+                "isAbout": "dcpho007",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho008",
+                "isAbout": "dcpho008",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho009",
+                "isAbout": "dcpho009",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho010",
+                "isAbout": "dcpho010",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho011",
+                "isAbout": "dcpho011",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho012",
+                "isAbout": "dcpho012",
+                "isVis": "dcpho011 == '1'"
+            },
+            {
+                "variableName": "dcpho013",
+                "isAbout": "dcpho013",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho014",
+                "isAbout": "dcpho014",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho015",
+                "isAbout": "dcpho015",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho016",
+                "isAbout": "dcpho016",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho017",
+                "isAbout": "dcpho017",
+                "isVis": "dcpho016 == '1'"
+            },
+            {
+                "variableName": "dcpho018",
+                "isAbout": "dcpho018",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho019",
+                "isAbout": "dcpho019",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho020",
+                "isAbout": "dcpho020",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho021",
+                "isAbout": "dcpho021",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho022",
+                "isAbout": "dcpho022",
+                "isVis": "dcpho021 == '1'"
+            },
+            {
+                "variableName": "dcpho023",
+                "isAbout": "dcpho023",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho024",
+                "isAbout": "dcpho024",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho025",
+                "isAbout": "dcpho025",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho026",
+                "isAbout": "dcpho026",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho027",
+                "isAbout": "dcpho027",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho028",
+                "isAbout": "dcpho028",
+                "isVis": "dcpho027 == '1'"
+            },
+            {
+                "variableName": "dcpho029",
+                "isAbout": "dcpho029",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho030",
+                "isAbout": "dcpho030",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho031",
+                "isAbout": "dcpho031",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho032",
+                "isAbout": "dcpho032",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho033",
+                "isAbout": "dcpho033",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho034",
+                "isAbout": "dcpho034",
+                "isVis": true
+            },
+            {
+                "variableName": "dcpho035",
+                "isAbout": "dcpho035",
+                "isVis": "dcpho034 == '1'"
+            },
+            {
+                "variableName": "cpho8",
+                "isAbout": "cpho8",
+                "isVis": "dcpho001 == '0' && dcpho002 == '0' &&  dcpho003 == '0' &&  dcpho004 == '0' && dcpho005 == '0' && dcpho007 == '0' && dcpho008 == '0' && dcpho009 == '0' && dcpho010 == '0' && dcpho011 == '0'  && dcpho013 == '0' && dcpho014 == '0' && dcpho015 == '0' && dcpho016 == '0' && dcpho018 == '0' && dcpho019 == '0' && dcpho020 == '0' && dcpho021 == '0' && dcpho023 == '0' && dcpho024 == '0' && dcpho025 == '0' && dcpho026 == '0' && dcpho027 == '0' && dcpho029 == '0' && dcpho030 == '0' && dcpho031 == '0' && dcpho032 == '0' && dcpho033 == '0' && dcpho034 == '0'"
+            },
+            {
+                "variableName": "cpho9a",
+                "isAbout": "cpho9a",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho036",
+                "isAbout": "dcpho036",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho037",
+                "isAbout": "dcpho037",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho038",
+                "isAbout": "dcpho038",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho039",
+                "isAbout": "dcpho039",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho040",
+                "isAbout": "dcpho040",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho041",
+                "isAbout": "dcpho041",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho_fear_number",
+                "isAbout": "dcpho_fear_number",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "cpho10",
+                "isAbout": "cpho10",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho042",
+                "isAbout": "dcpho042",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho043",
+                "isAbout": "dcpho043",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho044",
+                "isAbout": "dcpho044",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho045",
+                "isAbout": "dcpho045",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho046",
+                "isAbout": "dcpho046",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho047a",
+                "isAbout": "dcpho047a",
+                "isVis": "dcpho046  == 1 || dcpho046  == 2"
+            },
+            {
+                "variableName": "dcpho047b",
+                "isAbout": "dcpho047b",
+                "isVis": "dcpho046  == 1 || dcpho046  == 2"
+            },
+            {
+                "variableName": "dcpho047c",
+                "isAbout": "dcpho047c",
+                "isVis": "dcpho046  == 1 || dcpho046  == 2"
+            },
+            {
+                "variableName": "cpho13",
+                "isAbout": "cpho13",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcphp048",
+                "isAbout": "dcphp048",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho049",
+                "isAbout": "dcpho049",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho050",
+                "isAbout": "dcpho050",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho051",
+                "isAbout": "dcpho051",
+                "isVis": "dcpho050 == '1'"
+            },
+            {
+                "variableName": "cpho25a",
+                "isAbout": "cpho25a",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho074",
+                "isAbout": "dcpho074",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho075",
+                "isAbout": "dcpho075",
+                "isVis": "dcpho074 == '0'"
+            },
+            {
+                "variableName": "dcpho076",
+                "isAbout": "dcpho076",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "cpho27a",
+                "isAbout": "cpho27a",
+                "isVis": "dcpho076 == '1'"
+            },
+            {
+                "variableName": "dcpho080",
+                "isAbout": "dcpho080",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "cpho17",
+                "isAbout": "cpho17",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho052",
+                "isAbout": "dcpho052",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho053",
+                "isAbout": "dcpho053",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho054",
+                "isAbout": "dcpho054",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho055",
+                "isAbout": "dcpho055",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho056",
+                "isAbout": "dcpho056",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho057a",
+                "isAbout": "dcpho057a",
+                "isVis": "dcpho056  == 1 || dcpho056  == 2"
+            },
+            {
+                "variableName": "dcpho057b",
+                "isAbout": "dcpho057b",
+                "isVis": "dcpho056  == 1 || dcpho056  == 2"
+            },
+            {
+                "variableName": "dcpho057c",
+                "isAbout": "dcpho057c",
+                "isVis": "dcpho056  == 1 || dcpho056  == 2"
+            },
+            {
+                "variableName": "cpho18",
+                "isAbout": "cpho18",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho058",
+                "isAbout": "dcpho058",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho059",
+                "isAbout": "dcpho059",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho060",
+                "isAbout": "dcpho060",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho061",
+                "isAbout": "dcpho061",
+                "isVis": "dcpho060 == '1'"
+            },
+            {
+                "variableName": "cpho25a_fear2",
+                "isAbout": "cpho25a_fear2",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho074_fear2",
+                "isAbout": "dcpho074_fear2",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "dcpho075_fear2",
+                "isAbout": "dcpho075_fear2",
+                "isVis": "dcpho074_fear2 == '0'"
+            },
+            {
+                "variableName": "dcpho076_fear2",
+                "isAbout": "dcpho076_fear2",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "cpho27a_fear2",
+                "isAbout": "cpho27a_fear2",
+                "isVis": "dcpho076_fear2 == '1'"
+            },
+            {
+                "variableName": "dcpho080_fear2",
+                "isAbout": "dcpho080_fear2",
+                "isVis": "dcpho_fear_number > 1"
+            },
+            {
+                "variableName": "cpho21",
+                "isAbout": "cpho21",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho062",
+                "isAbout": "dcpho062",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho063",
+                "isAbout": "dcpho063",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho064",
+                "isAbout": "dcpho064",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho065",
+                "isAbout": "dcpho065",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho066",
+                "isAbout": "dcpho066",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho067a",
+                "isAbout": "dcpho067a",
+                "isVis": "dcpho066 == 1 || dcpho066 == 2"
+            },
+            {
+                "variableName": "dcpho067b",
+                "isAbout": "dcpho067b",
+                "isVis": "dcpho066 == 1 || dcpho066 == 2"
+            },
+            {
+                "variableName": "dcpho067c",
+                "isAbout": "dcpho067c",
+                "isVis": "dcpho066 == 1 || dcpho066 == 2"
+            },
+            {
+                "variableName": "cpho22",
+                "isAbout": "cpho22",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho068",
+                "isAbout": "dcpho068",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho069",
+                "isAbout": "dcpho069",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho070",
+                "isAbout": "dcpho070",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho071",
+                "isAbout": "dcpho071",
+                "isVis": "dcpho070 == '1'"
+            },
+            {
+                "variableName": "cpho25a_fear3",
+                "isAbout": "cpho25a_fear3",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho074_fear3",
+                "isAbout": "dcpho074_fear3",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho075_fear3",
+                "isAbout": "dcpho075_fear3",
+                "isVis": "dcpho074_fear3 == '0'"
+            },
+            {
+                "variableName": "dcpho076_fear3",
+                "isAbout": "dcpho076_fear3",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "cpho27a_fear3",
+                "isAbout": "cpho27a_fear3",
+                "isVis": "dcpho076_fear3 == '1'"
+            },
+            {
+                "variableName": "dcpho080_fear3",
+                "isAbout": "dcpho080_fear3",
+                "isVis": "dcpho_fear_number > 2"
+            },
+            {
+                "variableName": "dcpho081",
+                "isAbout": "dcpho081",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "dcpho082",
+                "isAbout": "dcpho082",
+                "isVis": "cpho8 !== 1"
+            },
+            {
+                "variableName": "cpho29a",
+                "isAbout": "cpho29a",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho083",
+                "isAbout": "dcpho083",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho084",
+                "isAbout": "dcpho084",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho085",
+                "isAbout": "dcpho085",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho086",
+                "isAbout": "dcpho086",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho087",
+                "isAbout": "dcpho087",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho088",
+                "isAbout": "dcpho088",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho089",
+                "isAbout": "dcpho089",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho091",
+                "isAbout": "dcpho091",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho092",
+                "isAbout": "dcpho092",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho093",
+                "isAbout": "dcpho093",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho094",
+                "isAbout": "dcpho094",
+                "isVis": "dcpho093 == '0'"
+            },
+            {
+                "variableName": "dcpho095",
+                "isAbout": "dcpho095",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "cpho31",
+                "isAbout": "cpho31",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho096",
+                "isAbout": "dcpho096",
+                "isVis": "cpho31.includes(3)"
+            },
+            {
+                "variableName": "dcpho100",
+                "isAbout": "dcpho100",
+                "isVis": "dcpho082 == '1' "
+            },
+            {
+                "variableName": "dcpho101",
+                "isAbout": "dcpho101",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "dcpho102",
+                "isAbout": "dcpho102",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "dcpho103",
+                "isAbout": "dcpho103",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "dcpho104",
+                "isAbout": "dcpho104",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "dcpho105",
+                "isAbout": "dcpho105",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "dcpho106",
+                "isAbout": "dcpho106",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "dcpho107",
+                "isAbout": "dcpho107",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "dcpho108",
+                "isAbout": "dcpho108",
+                "isVis": "dcpho100 == '1' "
+            },
+            {
+                "variableName": "cpho_end",
+                "isAbout": "cpho_end",
+                "isVis": true
+            }
+        ],
         "order": [
             "specific_phobia_title",
             "cpho0",
@@ -680,141 +812,6 @@
             "dcpho108",
             "cpho_end"
         ],
-        "shuffle": false,
-        "visibility": {
-            "specific_phobia_title": true,
-            "cpho0": true,
-            "dcpho001": true,
-            "dcpho002": true,
-            "dcpho003": true,
-            "dcpho004": true,
-            "dcpho005": true,
-            "dcpho006": "dcpho005 == 1",
-            "dcpho007": true,
-            "dcpho008": true,
-            "dcpho009": true,
-            "dcpho010": true,
-            "dcpho011": true,
-            "dcpho012": "dcpho011 == 1",
-            "dcpho013": true,
-            "dcpho014": true,
-            "dcpho015": true,
-            "dcpho016": true,
-            "dcpho017": "dcpho016 == 1",
-            "dcpho018": true,
-            "dcpho019": true,
-            "dcpho020": true,
-            "dcpho021": true,
-            "dcpho022": "dcpho021 == 1",
-            "dcpho023": true,
-            "dcpho024": true,
-            "dcpho025": true,
-            "dcpho026": true,
-            "dcpho027": true,
-            "dcpho028": "dcpho027 == 1",
-            "dcpho029": true,
-            "dcpho030": true,
-            "dcpho031": true,
-            "dcpho032": true,
-            "dcpho033": true,
-            "dcpho034": true,
-            "dcpho035": "dcpho034 == 1",
-            "cpho8": "dcpho001 == 0 && dcpho002 == 0 &&  dcpho003 == 0 &&  dcpho004 == 0 && dcpho005 == 0 && dcpho007 == 0 && dcpho008 == 0 && dcpho009 == 0 && dcpho010 == 0 && dcpho011 == 0  && dcpho013 == 0 && dcpho014 == 0 && dcpho015 == 0 && dcpho016 == 0 && dcpho018 == 0 && dcpho019 == 0 && dcpho020 == 0 && dcpho021 == 0 && dcpho023 == 0 && dcpho024 == 0 && dcpho025 == 0 && dcpho026 == 0 && dcpho027 == 0 && dcpho029 == 0 && dcpho030 == 0 && dcpho031 == 0 && dcpho032 == 0 && dcpho033 == 0 && dcpho034 == 0",
-            "cpho9a": "cpho8 !== 1",
-            "dcpho036": "cpho8 !== 1",
-            "dcpho037": "cpho8 !== 1",
-            "dcpho038": "cpho8 !== 1",
-            "dcpho039": "cpho8 !== 1",
-            "dcpho040": "cpho8 !== 1",
-            "dcpho041": "cpho8 !== 1",
-            "dcpho_fear_number": "cpho8 !== 1",
-            "cpho10": "cpho8 !== 1",
-            "dcpho042": "cpho8 !== 1",
-            "dcpho043": "cpho8 !== 1",
-            "dcpho044": "cpho8 !== 1",
-            "dcpho045": "cpho8 !== 1",
-            "dcpho046": "cpho8 !== 1",
-            "dcpho047a": "dcpho046  == 1 || dcpho046  == 2",
-            "dcpho047b": "dcpho046  == 1 || dcpho046  == 2",
-            "dcpho047c": "dcpho046  == 1 || dcpho046  == 2",
-            "cpho13": "cpho8 !== 1",
-            "dcphp048": "cpho8 !== 1",
-            "dcpho049": "cpho8 !== 1",
-            "dcpho050": "cpho8 !== 1",
-            "dcpho051": "dcpho050 == 1",
-            "cpho25a": "cpho8 !== 1",
-            "dcpho074": "cpho8 !== 1",
-            "dcpho075": "dcpho074 == 0",
-            "dcpho076": "cpho8 !== 1",
-            "cpho27a": "dcpho076 == 1",
-            "dcpho080": "cpho8 !== 1",
-            "cpho17": "dcpho_fear_number > 1",
-            "dcpho052": "dcpho_fear_number > 1",
-            "dcpho053": "dcpho_fear_number > 1",
-            "dcpho054": "dcpho_fear_number > 1",
-            "dcpho055": "dcpho_fear_number > 1",
-            "dcpho056": "dcpho_fear_number > 1",
-            "dcpho057a": "dcpho056  == 1 || dcpho056  == 2",
-            "dcpho057b": "dcpho056  == 1 || dcpho056  == 2",
-            "dcpho057c": "dcpho056  == 1 || dcpho056  == 2",
-            "cpho18": "dcpho_fear_number > 1",
-            "dcpho058": "dcpho_fear_number > 1",
-            "dcpho059": "dcpho_fear_number > 1",
-            "dcpho060": "dcpho_fear_number > 1",
-            "dcpho061": "dcpho060 == 1",
-            "cpho25a_fear2": "dcpho_fear_number > 1",
-            "dcpho074_fear2": "dcpho_fear_number > 1",
-            "dcpho075_fear2": "dcpho074_fear2 == 0",
-            "dcpho076_fear2": "dcpho_fear_number > 1",
-            "cpho27a_fear2": "dcpho076_fear2 == 1",
-            "dcpho080_fear2": "dcpho_fear_number > 1",
-            "cpho21": "dcpho_fear_number > 2",
-            "dcpho062": "dcpho_fear_number > 2",
-            "dcpho063": "dcpho_fear_number > 2",
-            "dcpho064": "dcpho_fear_number > 2",
-            "dcpho065": "dcpho_fear_number > 2",
-            "dcpho066": "dcpho_fear_number > 2",
-            "dcpho067a": "dcpho066 == 1 || dcpho066 == 2",
-            "dcpho067b": "dcpho066 == 1 || dcpho066 == 2",
-            "dcpho067c": "dcpho066 == 1 || dcpho066 == 2",
-            "cpho22": "dcpho_fear_number > 2",
-            "dcpho068": "dcpho_fear_number > 2",
-            "dcpho069": "dcpho_fear_number > 2",
-            "dcpho070": "dcpho_fear_number > 2",
-            "dcpho071": "dcpho070 == 1",
-            "cpho25a_fear3": "dcpho_fear_number > 2",
-            "dcpho074_fear3": "dcpho_fear_number > 2",
-            "dcpho075_fear3": "dcpho074_fear3 == 0",
-            "dcpho076_fear3": "dcpho_fear_number > 2",
-            "cpho27a_fear3": "dcpho076_fear3 == 1",
-            "dcpho080_fear3": "dcpho_fear_number > 2",
-            "dcpho081": "cpho8 !== 1",
-            "dcpho082": "cpho8 !== 1",
-            "cpho29a": "dcpho082 == 1 ",
-            "dcpho083": "dcpho082 == 1 ",
-            "dcpho084": "dcpho082 == 1 ",
-            "dcpho085": "dcpho082 == 1 ",
-            "dcpho086": "dcpho082 == 1 ",
-            "dcpho087": "dcpho082 == 1 ",
-            "dcpho088": "dcpho082 == 1 ",
-            "dcpho089": "dcpho082 == 1 ",
-            "dcpho091": "dcpho082 == 1 ",
-            "dcpho092": "dcpho082 == 1 ",
-            "dcpho093": "dcpho082 == 1 ",
-            "dcpho094": "dcpho093 == 0",
-            "dcpho095": "dcpho082 == 1 ",
-            "cpho31": "dcpho082 == 1 ",
-            "dcpho096": "cpho31.includes(3)",
-            "dcpho100": "dcpho082 == 1 ",
-            "dcpho101": "dcpho100 == 1 ",
-            "dcpho102": "dcpho100 == 1 ",
-            "dcpho103": "dcpho100 == 1 ",
-            "dcpho104": "dcpho100 == 1 ",
-            "dcpho105": "dcpho100 == 1 ",
-            "dcpho106": "dcpho100 == 1 ",
-            "dcpho107": "dcpho100 == 1 ",
-            "dcpho108": "dcpho100 == 1 ",
-            "cpho_end": true
-        }
+        "shuffle": false
     }
 }

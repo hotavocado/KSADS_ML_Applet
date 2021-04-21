@@ -85,7 +85,8 @@
                 "schema:name": "99",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     },
     "schema:description": "MONTH"
 }

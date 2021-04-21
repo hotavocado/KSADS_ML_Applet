@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "ccdd_end",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
-    "question": "_INTERVIEWER: END of **Conduct Disorder** section_"
+    "question": "_INTERVIEWER: END of **Conduct Disorder** section_",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

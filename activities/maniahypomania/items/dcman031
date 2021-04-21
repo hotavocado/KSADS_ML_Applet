@@ -8,5 +8,8 @@
         "inputType": "text"
     },
     "question": "During this time, how many hours, on average, do you sleep per night?",
-    "schema:description": "HOURS"
+    "schema:description": "HOURS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }

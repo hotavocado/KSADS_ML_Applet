@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cadd25",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "static"
     },
     "question": "_INTERVIEWER: The participant did not endorse any positive attention or hyperactivity symptoms, END **Attention Deficit Hyperactivity Disorder** section._",
     "responseOptions": {
@@ -15,6 +15,7 @@
                 "schema:name": "End Section",
                 "@type": "schema:option"
             }
-        ]
+        ],
+        "requiredValue": ""
     }
 }

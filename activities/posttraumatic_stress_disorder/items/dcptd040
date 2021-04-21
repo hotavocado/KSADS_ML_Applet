@@ -7,5 +7,8 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "_INTERVIEWER: Record age of onset of symptoms using information from the previous questions._"
+    "question": "_INTERVIEWER: Record age of onset of symptoms using information from the previous questions._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
 }
