@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever had so much to drink that you passed out?  ",
+    "question": "Have you ever had so much to drink that you passed out?",
     "responseOptions": {
         "choices": [
             {

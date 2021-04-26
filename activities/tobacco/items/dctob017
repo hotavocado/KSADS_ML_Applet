@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctob017",
-    "preamble": "Past Use",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Was there ever a time when you smoked/used (insert tobacco product) at least once a week?",
+    "question": "### Past Use\r\n\r\nWas there ever a time when you smoked/used (insert tobacco product) at least once a week?",
     "responseOptions": {
         "choices": [
             {

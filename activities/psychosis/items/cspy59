@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cspy59",
-    "preamble": "Marked Impairment in Role Function",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you not do as well in school as before, stopped doing usual activities?",
+    "question": "### Marked Impairment in Role Function\r\n\r\nDid you not do as well in school as before, stopped doing usual activities?",
     "responseOptions": {
         "choices": [
             {

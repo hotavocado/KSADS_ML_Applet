@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd006",
-    "preamble": "Stolen from Family",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever secretly steal money or other things from your family or from the other people you live with?",
+    "question": "### Stolen from Family\r\n\r\nDid you ever secretly steal money or other things from your family or from the other people you live with?",
     "responseOptions": {
         "choices": [
             {

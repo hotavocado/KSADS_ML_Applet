@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat047",
-    "preamble": "Medical/Drugs",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was there a physical cause for your weight loss?",
+    "question": "### Medical/Drugs\r\n\r\nWas there a physical cause for your weight loss?",
     "responseOptions": {
         "choices": [
             {

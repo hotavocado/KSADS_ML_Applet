@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcptd019",
-    "preamble": "Increased Arousal",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "After the (event name): \r\n\r\n Did you have trouble sleeping? (falling asleep or staying asleep)",
+    "question": "### Increased Arousal\r\n\r\nAfter the (event name): \r\n\r\n Did you have trouble sleeping? (falling asleep or staying asleep)",
     "responseOptions": {
         "choices": [
             {

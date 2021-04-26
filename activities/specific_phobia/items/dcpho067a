@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho067a",
-    "preamble": "Worst Fear 3",
     "ui": {
         "allow": [
             "dontKnow"
         ],
         "inputType": "text"
     },
-    "question": "Example 1 (Things):",
+    "question": "### Worst Fear 3\r\n\r\nExample 1 (Things):",
     "schema:description": "EXAMPLE",
     "responseOptions": {
         "requiredValue": ""

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd006",
-    "preamble": "Deliberately Annoys other People",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often do things on purpose to bother or annoy other people? (code no if only with sibling)",
+    "question": "### Deliberately Annoys other People\r\n\r\nDid you often do things on purpose to bother or annoy other people? (code no if only with sibling)",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy047",
-    "preamble": "Tactile",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever had strange feelings in your body like things were crawling on you or someone touching you and nothing or no one was there?",
+    "question": "### Tactile\r\n\r\nHave you ever had strange feelings in your body like things were crawling on you or someone touching you and nothing or no one was there?",
     "responseOptions": {
         "choices": [
             {

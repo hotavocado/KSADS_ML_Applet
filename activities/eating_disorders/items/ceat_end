@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "static"
     },
-    "question": " _INTERVIEWER: END of **Eating Disorders** section_",
+    "question": "_INTERVIEWER: END of **Eating Disorders** section_",
     "responseOptions": {
         "requiredValue": ""
     }

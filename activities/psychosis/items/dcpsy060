@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy060",
-    "preamble": "Delusions of Control or Influence",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt that you were under someone else's control? Whose?",
+    "question": "### Delusions of Control or Influence\r\n\r\nHave you ever felt that you were under someone else's control? Whose?",
     "responseOptions": {
         "choices": [
             {

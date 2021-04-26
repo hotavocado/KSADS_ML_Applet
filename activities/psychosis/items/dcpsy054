@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy054",
-    "preamble": "Associated Conditions: Hallucinations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Were you drinking a lot then?",
+    "question": "### Associated Conditions: Hallucinations\r\n\r\nWere you drinking a lot then?",
     "responseOptions": {
         "choices": [
             {

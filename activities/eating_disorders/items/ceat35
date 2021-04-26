@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "ceat35",
-    "preamble": "Distress/Impairment",
     "ui": {
         "inputType": "static"
     },
-    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Access for Anorexia or Bulimia or Both if applicable. Remind child how to use scale, if necessary._",
+    "question": "### Distress/Impairment\r\n\r\nPlease look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Access for Anorexia or Bulimia or Both if applicable. Remind child how to use scale, if necessary._",
     "responseOptions": {
         "requiredValue": ""
     }

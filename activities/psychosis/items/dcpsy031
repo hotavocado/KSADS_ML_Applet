@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy031",
-    "preamble": "Other Verbal Hallucinations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever heard any other voices other people could not hear?",
+    "question": "### Other Verbal Hallucinations\r\n\r\nHave you ever heard any other voices other people could not hear?",
     "responseOptions": {
         "choices": [
             {

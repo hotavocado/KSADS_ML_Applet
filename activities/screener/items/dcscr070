@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Has there ever been a time when you felt sad or depressed most of the time?  ",
+    "question": "Has there ever been a time when you felt sad or depressed most of the time?",
     "responseOptions": {
         "choices": [
             {

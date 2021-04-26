@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd011",
-    "preamble": "Often Truant from School",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often skip school? ",
+    "question": "### Often Truant from School\r\n\r\nDid you often skip school?",
     "responseOptions": {
         "choices": [
             {

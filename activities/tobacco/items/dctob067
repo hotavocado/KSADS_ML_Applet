@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctob067",
-    "preamble": "Help-Seeking Treatment (Lifetime)",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Did you or your parents ever try to find help from a doctor or other professional for (list symptoms)?",
+    "question": "### Help-Seeking Treatment (Lifetime)\r\n\r\nDid you or your parents ever try to find help from a doctor or other professional for (list symptoms)?",
     "responseOptions": {
         "choices": [
             {

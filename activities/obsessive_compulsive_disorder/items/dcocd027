@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "What did you have to do? ",
+    "question": "What did you have to do?",
     "responseOptions": {
         "requiredValue": ""
     }

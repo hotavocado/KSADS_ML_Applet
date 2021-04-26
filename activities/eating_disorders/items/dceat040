@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat040",
-    "preamble": "Distorted Body Image",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "At the time you were losing weight were you a lot more concerned about your weight and/or shape than most people your age?",
+    "question": "### Distorted Body Image\r\n\r\nAt the time you were losing weight were you a lot more concerned about your weight and/or shape than most people your age?",
     "responseOptions": {
         "choices": [
             {

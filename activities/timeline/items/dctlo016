@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctlo016",
-    "preamble": "School",
     "ui": {
         "inputType": "text"
     },
-    "question": "When did your last school year begin? When did it end? When did summer break begin?  ",
+    "question": "### School\r\n\r\nWhen did your last school year begin? When did it end? When did summer break begin?",
     "responseOptions": {
         "requiredValue": ""
     }

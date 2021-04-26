@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcagr056",
-    "preamble": "Episodes: Current",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Are you still afraid of (fear)?",
+    "question": "### Episodes: Current\r\n\r\nAre you still afraid of (fear)?",
     "responseOptions": {
         "choices": [
             {

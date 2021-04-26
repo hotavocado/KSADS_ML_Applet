@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "@id": "dctob068",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "Did anyone, like a teacher or family member, suggest that you get help for (smoking/tobacco use)? ",
+    "question": "Did anyone, like a teacher or family member, suggest that you get help for (smoking/tobacco use)?",
     "responseOptions": {
         "choices": [
             {

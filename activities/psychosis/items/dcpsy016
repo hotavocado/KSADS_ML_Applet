@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy016",
-    "preamble": "Command Hallucinations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever heard voices telling you to do something and nobody else could hear it?",
+    "question": "### Command Hallucinations\r\n\r\nHave you ever heard voices telling you to do something and nobody else could hear it?",
     "responseOptions": {
         "choices": [
             {

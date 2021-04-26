@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctlo005",
-    "preamble": "\n",
     "ui": {
         "inputType": "date"
     },

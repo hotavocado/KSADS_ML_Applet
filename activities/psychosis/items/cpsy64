@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy64",
-    "preamble": "Odd or Bizarre Ideation or Magical Thinking",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you have unusual ideas, believe things you hadn't believed before?  Were there things that only you believed or cared about?",
+    "question": "### Odd or Bizarre Ideation or Magical Thinking\r\n\r\nDid you have unusual ideas, believe things you hadn't believed before?  Were there things that only you believed or cared about?",
     "responseOptions": {
         "choices": [
             {

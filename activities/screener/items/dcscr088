@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "If yes, On the days you felt this way, how much of the day did it last?  ",
+    "question": "If yes, On the days you felt this way, how much of the day did it last?",
     "responseOptions": {
         "choices": [
             {

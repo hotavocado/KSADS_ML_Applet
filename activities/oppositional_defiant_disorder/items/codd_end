@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "static"
     },
-    "question": " _INTERVIEWER: END of **Oppositional Defiant Disorder** section_",
+    "question": "_INTERVIEWER: END of **Oppositional Defiant Disorder** section_",
     "responseOptions": {
         "requiredValue": ""
     }

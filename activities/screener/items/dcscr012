@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcscr012",
-    "preamble": "Help Suggested",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you or anyone else (like your friends, parents, or teachers) ever thought you needed help because of problems with your mood, feelings, or how you were acting?",
+    "question": "### Help Suggested\r\n\r\nHave you or anyone else (like your friends, parents, or teachers) ever thought you needed help because of problems with your mood, feelings, or how you were acting?",
     "responseOptions": {
         "choices": [
             {

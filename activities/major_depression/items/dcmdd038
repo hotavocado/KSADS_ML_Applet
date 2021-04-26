@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd038",
-    "preamble": "Eating Disturbances",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you eat **less** or feel **less hungry** than usual? (Did you lose weight)",
+    "question": "### Eating Disturbances\r\n\r\nDuring this time, did you eat **less** or feel **less hungry** than usual? (Did you lose weight)",
     "responseOptions": {
         "choices": [
             {

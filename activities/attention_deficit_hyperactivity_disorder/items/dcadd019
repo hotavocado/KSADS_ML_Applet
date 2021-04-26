@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Do you still have a lot of difficulty with concentration and attention? ",
+    "question": "Do you still have a lot of difficulty with concentration and attention?",
     "responseOptions": {
         "choices": [
             {

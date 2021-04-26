@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy071",
-    "preamble": "Thought Insertion",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt that people could put thoughts in your mind? What thoughts were they?",
+    "question": "### Thought Insertion\r\n\r\nHave you ever felt that people could put thoughts in your mind? What thoughts were they?",
     "responseOptions": {
         "choices": [
             {

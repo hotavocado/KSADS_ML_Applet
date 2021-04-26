@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob050",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you ever have a time when you gave up or cut down on important activities - like sports or hanging out with friends and family - so you could (smoke/use tobacco)?",

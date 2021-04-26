@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman085",
-    "preamble": "Delusions:",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you think that someone was trying to harm you?",
+    "question": "### Delusions:\r\n\r\nDid you think that someone was trying to harm you?",
     "responseOptions": {
         "choices": [
             {

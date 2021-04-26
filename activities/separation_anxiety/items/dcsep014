@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did your (attachment figure(s)) ever stay with you in school? ",
+    "question": "Did your (attachment figure(s)) ever stay with you in school?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy58",
-    "preamble": "Social Isolation or Withdrawal",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you keep to yourself and not spend time with friends?",
+    "question": "### Social Isolation or Withdrawal\r\n\r\nDid you keep to yourself and not spend time with friends?",
     "responseOptions": {
         "choices": [
             {

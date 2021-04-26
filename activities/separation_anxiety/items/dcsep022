@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you have this/these on weekends too?               ",
+    "question": "Did you have this/these on weekends too?",
     "responseOptions": {
         "choices": [
             {

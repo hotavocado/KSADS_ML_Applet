@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcptd027",
-    "preamble": "Dissociate Episodes",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Do people say that you daydream a lot?",
+    "question": "### Dissociate Episodes\r\n\r\nDo people say that you daydream a lot?",
     "responseOptions": {
         "choices": [
             {

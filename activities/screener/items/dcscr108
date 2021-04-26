@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcscr108",
-    "preamble": "Suicide",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever thought a lot about death or dying?",
+    "question": "### Suicide\r\n\r\nHave you ever thought a lot about death or dying?",
     "responseOptions": {
         "choices": [
             {

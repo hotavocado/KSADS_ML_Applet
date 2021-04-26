@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpan037",
-    "preamble": "Avoidance Behavior",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: You may have to probe for the right response in younger children._  \r\n\r\n (During the worst time) Did this/these attacks stop you from doing things or cause you to do things differently?",
+    "question": "### Avoidance Behavior\r\n\r\n_INTERVIEWER: You may have to probe for the right response in younger children._  \r\n\r\n (During the worst time) Did this/these attacks stop you from doing things or cause you to do things differently?",
     "responseOptions": {
         "choices": [
             {

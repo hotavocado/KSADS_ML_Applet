@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy144",
-    "preamble": "Grossly Bizarre Behavior",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you do anything that called attention to yourself?  Like the way you dressed, acted or the things you said?  ",
+    "question": "### Grossly Bizarre Behavior\r\n\r\nDid you do anything that called attention to yourself?  Like the way you dressed, acted or the things you said?",
     "responseOptions": {
         "choices": [
             {

@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman110",
-    "preamble": "Alcohol and Drugs",
     "responseOptions": {
         "multipleChoice": true,
         "choices": [
@@ -34,5 +33,5 @@
     "ui": {
         "inputType": "radio"
     },
-    "question": "Were you using alcohol often or drugs or both during this time?  \r\n\r\n _PROBE: Did you start feeling this way before using alcohol/drugs or after or did you increase the quantity after you had these feelings?_"
+    "question": "### Alcohol and Drugs\r\n\r\nWere you using alcohol often or drugs or both during this time?  \r\n\r\n _PROBE: Did you start feeling this way before using alcohol/drugs or after or did you increase the quantity after you had these feelings?_"
 }

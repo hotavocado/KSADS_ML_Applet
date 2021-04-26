@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: The participant never drank alcohol. End **Alcohol Abuse and Dependence**  Section. ",
+    "question": "_INTERVIEWER: The participant never drank alcohol. End **Alcohol Abuse and Dependence**  Section.",
     "responseOptions": {
         "choices": [
             {

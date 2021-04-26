@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui082",
-    "preamble": "Attempt 5",
     "ui": {
         "inputType": "text"
     },
-    "question": "Age: \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "question": "### Attempt 5\r\n\r\nAge: \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "schema:description": "AGE",
     "responseOptions": {
         "requiredValue": ""

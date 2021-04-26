@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dcscr030",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you ever get into trouble for getting even with other people by doing things to hurt them, telling lies about them, or messing up their things?",

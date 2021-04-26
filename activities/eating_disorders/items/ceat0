@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "ceat0",
-    "preamble": "General Probes",
     "ui": {
         "inputType": "static"
     },
-    "question": "Earlier you told me some things about your eating habits and your weight. Now I would like to ask you some questions about that. ",
+    "question": "### General Probes\r\n\r\nEarlier you told me some things about your eating habits and your weight. Now I would like to ask you some questions about that.",
     "responseOptions": {
         "requiredValue": ""
     }

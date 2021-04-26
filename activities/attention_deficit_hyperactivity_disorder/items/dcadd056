@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd056",
-    "preamble": "Impairment: Socially (with peers)",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "Did these behaviors/inattention bother your friends?",
+    "question": "### Impairment: Socially (with peers)\r\n\r\nDid these behaviors/inattention bother your friends?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

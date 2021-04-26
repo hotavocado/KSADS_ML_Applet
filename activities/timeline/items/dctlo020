@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctlo020",
-    "preamble": "Peers",
     "ui": {
         "inputType": "text"
     },
-    "question": "Do you have friends in school? ",
+    "question": "### Peers\r\n\r\nDo you have friends in school?",
     "responseOptions": {
         "requiredValue": ""
     }

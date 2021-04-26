@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "static"
     },
-    "question": " _INTERVIEWER: END of **Alcohol Abuse and Dependence** section_",
+    "question": "_INTERVIEWER: END of **Alcohol Abuse and Dependence** section_",
     "responseOptions": {
         "requiredValue": ""
     }

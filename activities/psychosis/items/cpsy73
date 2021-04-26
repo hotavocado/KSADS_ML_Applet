@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy73",
-    "preamble": "Duration of Most Recent Episode",
     "ui": {
         "inputType": "text"
     },
-    "question": "How long did you feel/act this way? \r\n\r\n _(N days, N weeks, N months)_",
+    "question": "### Duration of Most Recent Episode\r\n\r\nHow long did you feel/act this way? \r\n\r\n _(N days, N weeks, N months)_",
     "responseOptions": {
         "requiredValue": ""
     }

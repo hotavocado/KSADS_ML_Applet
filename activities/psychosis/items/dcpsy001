@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy001",
-    "preamble": "Auditory: Non Verbal Sounds",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever hear sounds or noises that other people couldn't hear?",
+    "question": "### Auditory: Non Verbal Sounds\r\n\r\nDid you ever hear sounds or noises that other people couldn't hear?",
     "responseOptions": {
         "choices": [
             {

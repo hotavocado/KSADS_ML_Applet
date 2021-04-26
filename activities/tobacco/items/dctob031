@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob031",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Was there ever a time in your life when you smoked every day?",

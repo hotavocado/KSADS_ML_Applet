@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc052",
-    "preamble": "Dependence",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have your parents or friends worried about your drinking?",
+    "question": "### Dependence\r\n\r\nHave your parents or friends worried about your drinking?",
     "responseOptions": {
         "choices": [
             {

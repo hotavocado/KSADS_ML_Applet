@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui055",
-    "preamble": "Attempt 3",
     "responseOptions": {
         "multipleChoice": true,
         "choices": [
@@ -49,5 +48,5 @@
     "ui": {
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Did this attempt occur in the context of: (Check all that apply)_"
+    "question": "### Attempt 3\r\n\r\n_INTERVIEWER: Did this attempt occur in the context of: (Check all that apply)_"
 }

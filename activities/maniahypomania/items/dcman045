@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman045",
-    "preamble": "Distractibility",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you have problems concentrating, or get distracted very easily?",
+    "question": "### Distractibility\r\n\r\nDid you have problems concentrating, or get distracted very easily?",
     "responseOptions": {
         "choices": [
             {

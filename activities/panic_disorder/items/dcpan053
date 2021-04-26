@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpan053",
-    "preamble": "Distress",
     "ui": {
         "inputType": "text"
     },
-    "question": "How much did having these attacks upset or bother you? ",
+    "question": "### Distress\r\n\r\nHow much did having these attacks upset or bother you?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +67,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

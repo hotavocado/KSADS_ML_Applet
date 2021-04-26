@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui056",
-    "preamble": "Attempt 3",
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Other context):",
+    "question": "### Attempt 3\r\n\r\nSpecify (Other context):",
     "responseOptions": {
         "requiredValue": ""
     }

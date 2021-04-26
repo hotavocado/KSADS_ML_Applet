@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "codd0",
-    "preamble": "Symptoms",
     "ui": {
         "inputType": "static"
     },
-    "question": "Earlier you told me that you do things that might get you into trouble, like talking back to parents/teachers or losing your temper. I am now going to ask you some questions about that. ",
+    "question": "### Symptoms\r\n\r\nEarlier you told me that you do things that might get you into trouble, like talking back to parents/teachers or losing your temper. I am now going to ask you some questions about that.",
     "responseOptions": {
         "requiredValue": ""
     }

@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "In the past, did you keep your weight down on purpose?  ",
+    "question": "In the past, did you keep your weight down on purpose?",
     "responseOptions": {
         "choices": [
             {

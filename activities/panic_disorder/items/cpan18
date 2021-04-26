@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpan18",
-    "preamble": "Episodes: Course",
     "ui": {
         "inputType": "text"
     },
-    "question": "Thinking about all of your panic attacks: \r\n\r\n What was the longest period of time that the attacks did not bother you? \r\n\r\n  _(N days, N weeks, N months)_ ",
+    "question": "### Episodes: Course\r\n\r\nThinking about all of your panic attacks: \r\n\r\n What was the longest period of time that the attacks did not bother you? \r\n\r\n  _(N days, N weeks, N months)_",
     "responseOptions": {
         "requiredValue": ""
     }

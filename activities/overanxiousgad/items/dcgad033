@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Feel tired when you woke up in the morning?  ",
+    "question": "Feel tired when you woke up in the morning?",
     "responseOptions": {
         "choices": [
             {

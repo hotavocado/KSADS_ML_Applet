@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd003",
-    "preamble": "Difficulty Sustaining Attention in Play",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "When you are doing something you usually enjoy (like playing with toys or games) do you have a hard time paying attention for more than a short time?",
+    "question": "### Difficulty Sustaining Attention in Play\r\n\r\nWhen you are doing something you usually enjoy (like playing with toys or games) do you have a hard time paying attention for more than a short time?",
     "responseOptions": {
         "choices": [
             {

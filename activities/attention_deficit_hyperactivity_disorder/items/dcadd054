@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd054",
-    "preamble": "Distress",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "How much did having thoughts/behaviors upset or bother you? How much did you ever feel upset or disappointed with yourself because of your thoughts/behaivors?",
+    "question": "### Distress\r\n\r\nHow much did having thoughts/behaviors upset or bother you? How much did you ever feel upset or disappointed with yourself because of your thoughts/behaivors?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

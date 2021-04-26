@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cman42",
-    "preamble": "Associated Conditions (Episode)",
     "ui": {
         "inputType": "static"
     },
-    "question": "_INTERVIEWER: Associated condition questions apply **ONLY** to episode being coded._",
+    "question": "### Associated Conditions (Episode)\r\n\r\n_INTERVIEWER: Associated condition questions apply **ONLY** to episode being coded._",
     "responseOptions": {
         "requiredValue": ""
     }

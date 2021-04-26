@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat042",
-    "preamble": "Amenorrhea",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you begun to have menstrual periods?",
+    "question": "### Amenorrhea\r\n\r\nHave you begun to have menstrual periods?",
     "responseOptions": {
         "choices": [
             {

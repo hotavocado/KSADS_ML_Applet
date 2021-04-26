@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpan040",
-    "preamble": "Associated Conditions: Anxiety",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you only have this/these attack(s) when you were separated from your parents?",
+    "question": "### Associated Conditions: Anxiety\r\n\r\nDid you only have this/these attack(s) when you were separated from your parents?",
     "responseOptions": {
         "choices": [
             {

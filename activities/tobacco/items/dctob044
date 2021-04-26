@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob044",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "During these times, did you ever have emotional problems like feeling irritable, nervous, restless, depressed or have trouble concentrating?",

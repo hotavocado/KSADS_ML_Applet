@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "How would you feel if you didn't do it?  ",
+    "question": "How would you feel if you didn't do it?",
     "responseOptions": {
         "requiredValue": ""
     }

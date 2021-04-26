@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy63",
-    "preamble": "Digressive, Vague, Over-Elaborate, Circumstantial, Metaphorical, or Poverty of Speech",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was it hard for people to understand what you wanted to say?  Did they have trouble following you?  Did you stop saying very much?  ",
+    "question": "### Digressive, Vague, Over-Elaborate, Circumstantial, Metaphorical, or Poverty of Speech\r\n\r\nWas it hard for people to understand what you wanted to say?  Did they have trouble following you?  Did you stop saying very much?",
     "responseOptions": {
         "choices": [
             {

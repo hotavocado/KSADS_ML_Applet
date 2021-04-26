@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd040",
-    "preamble": "Impairment: Social",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "Social: How much did these behaviors change your relationships with your friends? \r\n\r\n  Probe: Did you find yourself spending much less time than usual with your friends?  Did your friends say something about your behavior",
+    "question": "### Impairment: Social\r\n\r\nSocial: How much did these behaviors change your relationships with your friends? \r\n\r\n  Probe: Did you find yourself spending much less time than usual with your friends?  Did your friends say something about your behavior",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

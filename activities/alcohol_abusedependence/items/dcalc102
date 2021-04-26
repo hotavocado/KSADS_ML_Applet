@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc102",
-    "preamble": "Course",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever have three (or more) of these problems in the same year?",
+    "question": "### Course\r\n\r\nDid you ever have three (or more) of these problems in the same year?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd001",
-    "preamble": "Stayed Out Late",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever get into trouble because you stayed out at night later than your parents permitted? (> 2 hours) ",
+    "question": "### Stayed Out Late\r\n\r\nDid you ever get into trouble because you stayed out at night later than your parents permitted? (> 2 hours)",
     "responseOptions": {
         "choices": [
             {

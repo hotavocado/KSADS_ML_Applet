@@ -104,17 +104,17 @@
             {
                 "variableName": "dceat020",
                 "isAbout": "dceat020",
-                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1' "
+                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1'"
             },
             {
                 "variableName": "ceat11",
                 "isAbout": "ceat11",
-                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1' "
+                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1'"
             },
             {
                 "variableName": "ceat12",
                 "isAbout": "ceat12",
-                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1' "
+                "isVis": "dceat011 == '1' || dceat012 == '1' || dceat014 == '1' || dceat015 == '1' || dceat016 == '1' || dceat017 == '1' ||  dceat018 == '1'"
             },
             {
                 "variableName": "dceat026",
@@ -284,7 +284,7 @@
             {
                 "variableName": "dceat062",
                 "isAbout": "dceat062",
-                "isVis": "dceat061 == '1' "
+                "isVis": "dceat061 == '1'"
             },
             {
                 "variableName": "dceat063",

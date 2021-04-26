@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho045",
-    "preamble": "Worst Fear 1",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was (fear) so upsetting that you tried to stay away from it?",
+    "question": "### Worst Fear 1\r\n\r\nWas (fear) so upsetting that you tried to stay away from it?",
     "responseOptions": {
         "choices": [
             {

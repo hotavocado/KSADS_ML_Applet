@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "ctob6",
-    "preamble": "Dependence Symptoms",
     "ui": {
         "inputType": "static"
     },
-    "question": "The next questions are about some problems you may have had because of smoking/using tobacco. \r\n\r\n _INTERVIEWER: If they report both smoking and smokeless tobacco use, record symptoms for most severe._",
+    "question": "### Dependence Symptoms\r\n\r\nThe next questions are about some problems you may have had because of smoking/using tobacco. \r\n\r\n _INTERVIEWER: If they report both smoking and smokeless tobacco use, record symptoms for most severe._",
     "responseOptions": {
         "requiredValue": ""
     }

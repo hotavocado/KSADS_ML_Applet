@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "When you were worrying about (list things mentioned), did you: \r\n\r\n Get headaches or stomachaches, lump in your throat or other physical problems even when you were not sick? ",
+    "question": "When you were worrying about (list things mentioned), did you: \r\n\r\n Get headaches or stomachaches, lump in your throat or other physical problems even when you were not sick?",
     "responseOptions": {
         "choices": [
             {

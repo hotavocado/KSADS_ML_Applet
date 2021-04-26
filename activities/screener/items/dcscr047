@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Describe: ",
+    "question": "Describe:",
     "responseOptions": {
         "requiredValue": ""
     }

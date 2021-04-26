@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "@id": "dcsui009",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "How many times have you tried? ",
+    "question": "How many times have you tried?",
     "responseOptions": {
         "choices": [
             {

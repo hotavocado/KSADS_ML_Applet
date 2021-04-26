@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "When you were with a parent or friend, did (fear) upset you as much? ",
+    "question": "When you were with a parent or friend, did (fear) upset you as much?",
     "responseOptions": {
         "choices": [
             {

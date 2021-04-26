@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcptd012",
-    "preamble": "Avoidance",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "After the (event name): \r\n\r\n Have you tried hard not to think or hear about what happened?",
+    "question": "### Avoidance\r\n\r\nAfter the (event name): \r\n\r\n Have you tried hard not to think or hear about what happened?",
     "responseOptions": {
         "choices": [
             {

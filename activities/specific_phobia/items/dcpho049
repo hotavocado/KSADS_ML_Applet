@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "dcpho049",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
     "question": "How much did the fear you told me about cause problems for you at home, at school, or with your family or friends?",
     "responseOptions": {
@@ -67,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

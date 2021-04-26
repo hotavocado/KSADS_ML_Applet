@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you worry a lot about whether people liked you?        ",
+    "question": "Did you worry a lot about whether people liked you?",
     "responseOptions": {
         "choices": [
             {

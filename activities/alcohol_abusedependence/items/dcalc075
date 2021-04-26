@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc075",
-    "preamble": "Effects on Mood",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you ever become sad, depressed, or more irritable?",
+    "question": "### Effects on Mood\r\n\r\nDuring this time, did you ever become sad, depressed, or more irritable?",
     "responseOptions": {
         "choices": [
             {

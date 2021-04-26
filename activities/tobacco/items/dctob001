@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctob001",
-    "preamble": "Smoking Tobacco",
     "ui": {
         "inputType": "text"
     },
-    "question": "How old were you the very first time you ever smoked, even a puff of a cigarette, cigar, or pipe?  \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "question": "### Smoking Tobacco\r\n\r\nHow old were you the very first time you ever smoked, even a puff of a cigarette, cigar, or pipe?  \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "responseOptions": {
         "requiredValue": ""
     }

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc017",
-    "preamble": "Quantity/Past Frequency",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was there ever a time when you usually drank more often than (quote current frequency)?  ",
+    "question": "### Quantity/Past Frequency\r\n\r\nWas there ever a time when you usually drank more often than (quote current frequency)?",
     "responseOptions": {
         "choices": [
             {

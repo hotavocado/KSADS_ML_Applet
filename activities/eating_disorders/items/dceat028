@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat028",
-    "preamble": "Weight Loss",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "At that time, had you lost a lot of weight on purpose?",
+    "question": "### Weight Loss\r\n\r\nAt that time, had you lost a lot of weight on purpose?",
     "responseOptions": {
         "choices": [
             {

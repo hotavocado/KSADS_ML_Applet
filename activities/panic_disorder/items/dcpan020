@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpan020",
-    "preamble": "Attack Characteristics",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did (list endorsed symptoms) start within the same few minutes, like around the same time?",
+    "question": "### Attack Characteristics\r\n\r\nDid (list endorsed symptoms) start within the same few minutes, like around the same time?",
     "responseOptions": {
         "choices": [
             {

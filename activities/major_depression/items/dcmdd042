@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd042",
-    "preamble": "Psychomotor Changes",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you have trouble sitting still? ",
+    "question": "### Psychomotor Changes\r\n\r\nDuring this time, did you have trouble sitting still?",
     "responseOptions": {
         "choices": [
             {

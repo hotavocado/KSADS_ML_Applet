@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd053",
-    "preamble": "Cognition",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was it harder to keep your mind on things--like when doing homework or trying to remember something?  ",
+    "question": "### Cognition\r\n\r\nWas it harder to keep your mind on things--like when doing homework or trying to remember something?",
     "responseOptions": {
         "choices": [
             {

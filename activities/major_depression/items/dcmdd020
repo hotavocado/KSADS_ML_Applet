@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Like things would never get better?  ",
+    "question": "Like things would never get better?",
     "responseOptions": {
         "choices": [
             {

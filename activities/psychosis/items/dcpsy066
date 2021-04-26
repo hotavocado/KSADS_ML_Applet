@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy066",
-    "preamble": "Thought Broadcasting",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt that people could hear what you were thinking?",
+    "question": "### Thought Broadcasting\r\n\r\nHave you ever felt that people could hear what you were thinking?",
     "responseOptions": {
         "choices": [
             {

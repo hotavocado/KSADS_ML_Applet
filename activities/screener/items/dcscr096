@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: If any hallucination questions endorsed, ask next question ONLY to parent._ \r\n\r\n Is this something that is considered unusual for the child? ",
+    "question": "_INTERVIEWER: If any hallucination questions endorsed, ask next question ONLY to parent._ \r\n\r\n Is this something that is considered unusual for the child?",
     "responseOptions": {
         "choices": [
             {

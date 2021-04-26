@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctlo010",
-    "preamble": "Home",
     "ui": {
         "inputType": "text"
     },
-    "question": "Where did you first live when you were growing up?",
+    "question": "### Home\r\n\r\nWhere did you first live when you were growing up?",
     "responseOptions": {
         "requiredValue": ""
     }

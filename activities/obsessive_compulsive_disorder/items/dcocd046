@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd046",
-    "preamble": "Associated Conditions (Episode): Medical",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Just before you began having (insert obsessions/compulsions) were you taking any drugs or medicines?",
+    "question": "### Associated Conditions (Episode): Medical\r\n\r\nJust before you began having (insert obsessions/compulsions) were you taking any drugs or medicines?",
     "responseOptions": {
         "choices": [
             {

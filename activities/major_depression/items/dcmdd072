@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you think that something terrible was going to happen, or that someone was trying to hurt you or was talking about you? ",
+    "question": "Did you think that something terrible was going to happen, or that someone was trying to hurt you or was talking about you?",
     "responseOptions": {
         "choices": [
             {

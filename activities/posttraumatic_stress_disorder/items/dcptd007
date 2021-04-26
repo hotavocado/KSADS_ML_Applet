@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcptd007",
-    "preamble": "Re-experiencing",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Following the (event name): \r\n\r\n Have you often thought about what happened even though you didn't want to think about it?",
+    "question": "### Re-experiencing\r\n\r\nFollowing the (event name): \r\n\r\n Have you often thought about what happened even though you didn't want to think about it?",
     "responseOptions": {
         "choices": [
             {

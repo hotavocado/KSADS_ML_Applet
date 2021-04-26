@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "29) Anything else? ",
+    "question": "29) Anything else?",
     "responseOptions": {
         "choices": [
             {

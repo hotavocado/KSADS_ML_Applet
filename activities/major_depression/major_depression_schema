@@ -494,17 +494,17 @@
             {
                 "variableName": "dcmdd093",
                 "isAbout": "dcmdd093",
-                "isVis": "dcmdd092.includes(1) || dcmdd092.includes(2) "
+                "isVis": "dcmdd092.includes(1) || dcmdd092.includes(2)"
             },
             {
                 "variableName": "dcmdd094",
                 "isAbout": "dcmdd094",
-                "isVis": "dcmdd092.includes(1) || dcmdd092.includes(2) "
+                "isVis": "dcmdd092.includes(1) || dcmdd092.includes(2)"
             },
             {
                 "variableName": "dcmdd095",
                 "isAbout": "dcmdd095",
-                "isVis": "dcmdd092.includes(1) || dcmdd092.includes(2) "
+                "isVis": "dcmdd092.includes(1) || dcmdd092.includes(2)"
             },
             {
                 "variableName": "dcmdd096",

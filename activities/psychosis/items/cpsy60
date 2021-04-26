@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy60",
-    "preamble": "Markedly Peculiar Behavior",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you do things that other people couldn't understand or thought were strange, things you wouldn't usually do?",
+    "question": "### Markedly Peculiar Behavior\r\n\r\nDid you do things that other people couldn't understand or thought were strange, things you wouldn't usually do?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd002",
-    "preamble": "Argues with Adults",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you argue with or talk back to your parents more often than your friends did?",
+    "question": "### Argues with Adults\r\n\r\nDid you argue with or talk back to your parents more often than your friends did?",
     "responseOptions": {
         "choices": [
             {

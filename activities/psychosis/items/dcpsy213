@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy213",
-    "preamble": "Help-Seeking Treatment (Lifetime)",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did anyone, like a teacher or family member, suggest that you get help for (list behaviors/feelings)? ",
+    "question": "### Help-Seeking Treatment (Lifetime)\r\n\r\nDid anyone, like a teacher or family member, suggest that you get help for (list behaviors/feelings)?",
     "responseOptions": {
         "choices": [
             {

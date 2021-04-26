@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman152",
-    "preamble": "Number of Episodes",
     "ui": {
         "inputType": "text"
     },
-    "question": "How many times have you felt this way in your lifetime?",
+    "question": "### Number of Episodes\r\n\r\nHow many times have you felt this way in your lifetime?",
     "schema:description": "TIMES",
     "responseOptions": {
         "requiredValue": ""

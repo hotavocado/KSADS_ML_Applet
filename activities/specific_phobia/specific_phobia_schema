@@ -554,57 +554,57 @@
             {
                 "variableName": "cpho29a",
                 "isAbout": "cpho29a",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho083",
                 "isAbout": "dcpho083",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho084",
                 "isAbout": "dcpho084",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho085",
                 "isAbout": "dcpho085",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho086",
                 "isAbout": "dcpho086",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho087",
                 "isAbout": "dcpho087",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho088",
                 "isAbout": "dcpho088",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho089",
                 "isAbout": "dcpho089",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho091",
                 "isAbout": "dcpho091",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho092",
                 "isAbout": "dcpho092",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho093",
                 "isAbout": "dcpho093",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho094",
@@ -614,12 +614,12 @@
             {
                 "variableName": "dcpho095",
                 "isAbout": "dcpho095",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "cpho31",
                 "isAbout": "cpho31",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho096",
@@ -629,47 +629,47 @@
             {
                 "variableName": "dcpho100",
                 "isAbout": "dcpho100",
-                "isVis": "dcpho082 == '1' "
+                "isVis": "dcpho082 == '1'"
             },
             {
                 "variableName": "dcpho101",
                 "isAbout": "dcpho101",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "dcpho102",
                 "isAbout": "dcpho102",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "dcpho103",
                 "isAbout": "dcpho103",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "dcpho104",
                 "isAbout": "dcpho104",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "dcpho105",
                 "isAbout": "dcpho105",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "dcpho106",
                 "isAbout": "dcpho106",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "dcpho107",
                 "isAbout": "dcpho107",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "dcpho108",
                 "isAbout": "dcpho108",
-                "isVis": "dcpho100 == '1' "
+                "isVis": "dcpho100 == '1'"
             },
             {
                 "variableName": "cpho_end",

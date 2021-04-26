@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd007",
-    "preamble": "Blames Others for Mistakes",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often blame other people for your mistakes? (code no if only with sibling)",
+    "question": "### Blames Others for Mistakes\r\n\r\nDid you often blame other people for your mistakes? (code no if only with sibling)",
     "responseOptions": {
         "choices": [
             {

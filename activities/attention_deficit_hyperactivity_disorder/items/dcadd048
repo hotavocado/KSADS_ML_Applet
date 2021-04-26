@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd048",
-    "preamble": "Episodes: Offset",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Do you still have any of these (list behaviors)?",
+    "question": "### Episodes: Offset\r\n\r\nDo you still have any of these (list behaviors)?",
     "responseOptions": {
         "choices": [
             {

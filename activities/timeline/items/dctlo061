@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctlo061",
-    "preamble": "Emotional or behavorial problems",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever had problems with your feelings, nerves, or mood?",
+    "question": "### Emotional or behavorial problems\r\n\r\nHave you ever had problems with your feelings, nerves, or mood?",
     "responseOptions": {
         "choices": [
             {

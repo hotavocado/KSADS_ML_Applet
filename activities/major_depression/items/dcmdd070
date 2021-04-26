@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "On the days you had these things, how much of the day did you have them?  ",
+    "question": "On the days you had these things, how much of the day did you have them?",
     "responseOptions": {
         "choices": [
             {

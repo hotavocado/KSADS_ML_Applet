@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cmdd55",
-    "preamble": "Atypical Episodes",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Were any episodes coded **atypical in nature**, i.e., the respondent had symptoms of mood reactivity, overeating, oversleeping, interpersonal sensitivity and leaden paralysis? (Check with participant if unsure)_",
+    "question": "### Atypical Episodes\r\n\r\n_INTERVIEWER: Were any episodes coded **atypical in nature**, i.e., the respondent had symptoms of mood reactivity, overeating, oversleeping, interpersonal sensitivity and leaden paralysis? (Check with participant if unsure)_",
     "responseOptions": {
         "choices": [
             {

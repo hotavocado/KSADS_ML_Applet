@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy188",
-    "preamble": "Episodes: Current",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Are you still having these behaviors/feelings **now**? ",
+    "question": "### Episodes: Current\r\n\r\nAre you still having these behaviors/feelings **now**?",
     "responseOptions": {
         "choices": [
             {

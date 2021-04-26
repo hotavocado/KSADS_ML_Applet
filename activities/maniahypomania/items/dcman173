@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Would you say that you have felt this (list participant's endorsed symptoms) more often than not during your lifetime? ",
+    "question": "Would you say that you have felt this (list participant's endorsed symptoms) more often than not during your lifetime?",
     "responseOptions": {
         "choices": [
             {

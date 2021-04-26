@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd048",
-    "preamble": "Energy/Leaden Paralysis",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you feel really tired or have less energy than usual?",
+    "question": "### Energy/Leaden Paralysis\r\n\r\nDid you feel really tired or have less energy than usual?",
     "responseOptions": {
         "choices": [
             {

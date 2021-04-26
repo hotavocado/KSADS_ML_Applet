@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat027",
-    "preamble": "Anorexia Nervosa",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was there ever a time when you weighed much less than other people thought you ought to weigh?  Has anyone ever worried that you were much too thin?",
+    "question": "### Anorexia Nervosa\r\n\r\nWas there ever a time when you weighed much less than other people thought you ought to weigh?  Has anyone ever worried that you were much too thin?",
     "responseOptions": {
         "choices": [
             {

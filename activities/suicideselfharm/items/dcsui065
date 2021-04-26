@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui065",
-    "preamble": "Attempt 4",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Method:",
+    "question": "### Attempt 4\r\n\r\nMethod:",
     "responseOptions": {
         "choices": [
             {

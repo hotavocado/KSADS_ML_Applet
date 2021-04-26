@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpan054",
-    "preamble": "Impairment",
     "ui": {
         "inputType": "text"
     },
-    "question": "How much did the attacks you have told me about cause problems for you at home, at school, or with your family or friends?",
+    "question": "### Impairment\r\n\r\nHow much did the attacks you have told me about cause problems for you at home, at school, or with your family or friends?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +67,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

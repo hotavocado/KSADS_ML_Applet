@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd007",
-    "preamble": "Stolen without Confrontation",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever shoplift or steal something from others or a store worth at least $5? ",
+    "question": "### Stolen without Confrontation\r\n\r\nDid you ever shoplift or steal something from others or a store worth at least $5?",
     "responseOptions": {
         "choices": [
             {

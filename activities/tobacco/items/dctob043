@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob043",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "People who cut down or stop smoking after smoking regularly for some time may not feel well. During these times, did you ever feel really tired, or have headaches, problems going to the bathroom, upset stomach, weakness or trouble sleeping?",

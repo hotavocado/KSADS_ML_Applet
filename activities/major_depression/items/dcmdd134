@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Is there **more than one** depressive episode? (Check with participant if unsure)_ ",
+    "question": "_INTERVIEWER: Is there **more than one** depressive episode? (Check with participant if unsure)_",
     "responseOptions": {
         "choices": [
             {

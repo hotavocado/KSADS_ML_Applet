@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd061",
-    "preamble": "Episodes: Course",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Since you were (age of onset), was there ever a time when did not have (insert obsessions/compulsions)?",
+    "question": "### Episodes: Course\r\n\r\nSince you were (age of onset), was there ever a time when did not have (insert obsessions/compulsions)?",
     "responseOptions": {
         "choices": [
             {

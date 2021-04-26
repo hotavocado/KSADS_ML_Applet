@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd033",
-    "preamble": "Sleep",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you have problems falling asleep?",
+    "question": "### Sleep\r\n\r\nDuring this time, did you have problems falling asleep?",
     "responseOptions": {
         "choices": [
             {

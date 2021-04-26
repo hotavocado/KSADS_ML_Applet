@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui103",
-    "preamble": "Attempt 6",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Required medical assessment?",
+    "question": "### Attempt 6\r\n\r\nRequired medical assessment?",
     "responseOptions": {
         "choices": [
             {

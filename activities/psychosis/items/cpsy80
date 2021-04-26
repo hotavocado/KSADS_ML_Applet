@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy80",
-    "preamble": "Duration of Most Severe Episode",
     "ui": {
         "inputType": "text"
     },
-    "question": "When you felt your worst, how long did that feeling last? \r\n\r\n _(N days, N weeks, N months)_",
+    "question": "### Duration of Most Severe Episode\r\n\r\nWhen you felt your worst, how long did that feeling last? \r\n\r\n _(N days, N weeks, N months)_",
     "responseOptions": {
         "requiredValue": ""
     }

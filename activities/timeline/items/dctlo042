@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctlo042",
-    "preamble": "Parent about child",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Does (child's name) have any serious problems?",
+    "question": "### Parent about child\r\n\r\nDoes (child's name) have any serious problems?",
     "responseOptions": {
         "choices": [
             {

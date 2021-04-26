@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "How long did you see someone in total? ",
+    "question": "How long did you see someone in total?",
     "responseOptions": {
         "choices": [
             {

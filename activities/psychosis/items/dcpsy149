@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy149",
-    "preamble": "Inappropriate or Flat Affect",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was your face different from usual?  Did people have trouble figuring out how you were feeling by looking at your expression?  Please tell me about this? ",
+    "question": "### Inappropriate or Flat Affect\r\n\r\nWas your face different from usual?  Did people have trouble figuring out how you were feeling by looking at your expression?  Please tell me about this?",
     "responseOptions": {
         "choices": [
             {

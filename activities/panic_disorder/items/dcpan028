@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpan028",
-    "preamble": "Anxiety About Attacks",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "After an attack like this, did you ever worry that it would happen again?",
+    "question": "### Anxiety About Attacks\r\n\r\nAfter an attack like this, did you ever worry that it would happen again?",
     "responseOptions": {
         "choices": [
             {

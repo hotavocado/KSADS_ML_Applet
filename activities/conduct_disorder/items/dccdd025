@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd025",
-    "preamble": "Physically Cruel to People",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Were you ever physically cruel to another person and hurt him or her on purpose?",
+    "question": "### Physically Cruel to People\r\n\r\nWere you ever physically cruel to another person and hurt him or her on purpose?",
     "responseOptions": {
         "choices": [
             {

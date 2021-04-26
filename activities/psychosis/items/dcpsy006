@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy006",
-    "preamble": "Commenting Voices",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever heard a voice saying what you were doing, feeling or thinking, and nobody else could hear it?",
+    "question": "### Commenting Voices\r\n\r\nHave you ever heard a voice saying what you were doing, feeling or thinking, and nobody else could hear it?",
     "responseOptions": {
         "choices": [
             {

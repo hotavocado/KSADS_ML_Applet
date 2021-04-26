@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat037",
-    "preamble": "Anorexia Binging Type/Bulimia Differential",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did your episodes of binge eating only occur when you refused to maintain an appropriate weight?",
+    "question": "### Anorexia Binging Type/Bulimia Differential\r\n\r\nDid your episodes of binge eating only occur when you refused to maintain an appropriate weight?",
     "responseOptions": {
         "choices": [
             {

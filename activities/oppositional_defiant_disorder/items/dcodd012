@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd012",
-    "preamble": "Swears or Uses Obscene Language",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often get into trouble for swearing or using bad language?",
+    "question": "### Swears or Uses Obscene Language\r\n\r\nDid you often get into trouble for swearing or using bad language?",
     "responseOptions": {
         "choices": [
             {

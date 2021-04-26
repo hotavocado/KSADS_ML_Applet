@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "If yes, During that time/those times, how often did you feel that way?  ",
+    "question": "If yes, During that time/those times, how often did you feel that way?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd085",
-    "preamble": "Mood Congruency",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: If respondent had any psychotic symptoms, was the content **consistent** with depressive themes such as poverty, guilt, illness, personal inadequacy or catastrophe?_",
+    "question": "### Mood Congruency\r\n\r\n_INTERVIEWER: If respondent had any psychotic symptoms, was the content **consistent** with depressive themes such as poverty, guilt, illness, personal inadequacy or catastrophe?_",
     "responseOptions": {
         "choices": [
             {

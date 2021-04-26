@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho053",
-    "preamble": "Worst Fear 2",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did facing (fear) almost always make you feel scared (e.g. feeling nervous inside, crying, throwing a tantrum or needing to be near your parents)?",
+    "question": "### Worst Fear 2\r\n\r\nDid facing (fear) almost always make you feel scared (e.g. feeling nervous inside, crying, throwing a tantrum or needing to be near your parents)?",
     "responseOptions": {
         "choices": [
             {

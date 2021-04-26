@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd017",
-    "preamble": "Person recognizes that the obsessions are the product of his/her own mind, not imposed from without",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Are these your own thoughts, or does someone else put them in your head?",
+    "question": "### Person recognizes that the obsessions are the product of his/her own mind, not imposed from without\r\n\r\nAre these your own thoughts, or does someone else put them in your head?",
     "responseOptions": {
         "choices": [
             {

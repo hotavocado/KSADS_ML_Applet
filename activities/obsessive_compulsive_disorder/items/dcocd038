@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd038",
-    "preamble": "Symptoms: Compulsions",
     "ui": {
         "inputType": "text"
     },
-    "question": "What did you imagine might happen if you didn't do (insert compulsion)? ",
+    "question": "### Symptoms: Compulsions\r\n\r\nWhat did you imagine might happen if you didn't do (insert compulsion)?",
     "responseOptions": {
         "requiredValue": ""
     }

@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Get tired very easily?  ",
+    "question": "Get tired very easily?",
     "responseOptions": {
         "choices": [
             {

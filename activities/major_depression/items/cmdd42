@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cmdd42",
-    "preamble": "Episodes/Course (Lifetime)",
     "ui": {
         "inputType": "static"
     },
-    "question": "_INTERVIEWER: The following questions about course address episodes of depression across the lifetime._ ",
+    "question": "### Episodes/Course (Lifetime)\r\n\r\n_INTERVIEWER: The following questions about course address episodes of depression across the lifetime._",
     "responseOptions": {
         "requiredValue": ""
     }

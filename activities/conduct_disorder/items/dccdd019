@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd019",
-    "preamble": "Physically Cruel to Animals",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever been physically cruel to an animal and hurt it on purpose?",
+    "question": "### Physically Cruel to Animals\r\n\r\nHave you ever been physically cruel to an animal and hurt it on purpose?",
     "responseOptions": {
         "choices": [
             {

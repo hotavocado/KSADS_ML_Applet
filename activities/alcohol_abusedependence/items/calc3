@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: The participant is under 12. End **Alcohol Abuse and Dependence**  Section. ",
+    "question": "_INTERVIEWER: The participant is under 12. End **Alcohol Abuse and Dependence**  Section.",
     "responseOptions": {
         "choices": [
             {

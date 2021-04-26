@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd028",
-    "preamble": "Forced Someone into Sexual Activity",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever trick or threaten someone into having sex with you? \r\n\r\n _INTERVIEWER: Rate yes only if it sounds like they forced, manipulated, or threatened someone else into sexual activity._",
+    "question": "### Forced Someone into Sexual Activity\r\n\r\nDid you ever trick or threaten someone into having sex with you? \r\n\r\n _INTERVIEWER: Rate yes only if it sounds like they forced, manipulated, or threatened someone else into sexual activity._",
     "responseOptions": {
         "choices": [
             {

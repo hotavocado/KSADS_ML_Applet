@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman038",
-    "preamble": "Racing Thoughts/Flight of Ideas",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did your thoughts go faster than usual? ",
+    "question": "### Racing Thoughts/Flight of Ideas\r\n\r\nDid your thoughts go faster than usual?",
     "responseOptions": {
         "choices": [
             {

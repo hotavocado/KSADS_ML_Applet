@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc010",
-    "preamble": "Current Use",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you drink at all during the past 12 months?",
+    "question": "### Current Use\r\n\r\nDid you drink at all during the past 12 months?",
     "responseOptions": {
         "choices": [
             {

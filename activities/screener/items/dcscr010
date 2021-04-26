@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcscr010",
-    "preamble": "In-patient Treatment",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever had to go to a hospital and stay overnight because of problems with your mood, feelings, or how you were acting? \r\n\r\n _INTERVIEWER:  Refer to Table of Hospitalizations in the Medical History section._",
+    "question": "### In-patient Treatment\r\n\r\nHave you ever had to go to a hospital and stay overnight because of problems with your mood, feelings, or how you were acting? \r\n\r\n _INTERVIEWER:  Refer to Table of Hospitalizations in the Medical History section._",
     "responseOptions": {
         "choices": [
             {

@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpan0",
-    "preamble": "Symptoms",
     "ui": {
         "inputType": "static"
     },
-    "question": "Earlier you told me that you have had (an anxiety attack/anxiety attacks).  I'd like to ask you more about that/these.",
+    "question": "### Symptoms\r\n\r\nEarlier you told me that you have had (an anxiety attack/anxiety attacks).  I'd like to ask you more about that/these.",
     "responseOptions": {
         "requiredValue": ""
     }

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd069",
-    "preamble": "Symptom Frequency",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "You just told me that when you felt (sad/ grouchy/ like nothing was fun) that you also had _(list symptoms)_.  How often did you have these things?  ",
+    "question": "### Symptom Frequency\r\n\r\nYou just told me that when you felt (sad/ grouchy/ like nothing was fun) that you also had _(list symptoms)_.  How often did you have these things?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsep034",
-    "preamble": "Episodes: Course",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Since you were (age of onset), was there ever a time when you were not worried about being apart from (attachment figure(s))?",
+    "question": "### Episodes: Course\r\n\r\nSince you were (age of onset), was there ever a time when you were not worried about being apart from (attachment figure(s))?",
     "responseOptions": {
         "choices": [
             {

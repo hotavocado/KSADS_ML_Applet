@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cman61",
-    "preamble": "Duration",
     "ui": {
         "inputType": "text"
     },
-    "question": "How long was the longest episode?   \r\n\r\n _(N days, N weeks, N months)_",
+    "question": "### Duration\r\n\r\nHow long was the longest episode?   \r\n\r\n _(N days, N weeks, N months)_",
     "responseOptions": {
         "requiredValue": ""
     }

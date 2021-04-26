@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever tried to kill yourself or done anything that could have killed you? ",
+    "question": "Have you ever tried to kill yourself or done anything that could have killed you?",
     "responseOptions": {
         "choices": [
             {

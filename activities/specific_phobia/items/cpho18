@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpho18",
-    "preamble": "Worst Fear 2: Distress/Impairment ",
     "ui": {
         "inputType": "static"
     },
-    "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary._",
+    "question": "### Worst Fear 2: Distress/Impairment\r\n\r\nPlease look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary._",
     "responseOptions": {
         "requiredValue": ""
     }

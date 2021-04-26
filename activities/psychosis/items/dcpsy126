@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy126",
-    "preamble": "Formal Thought Disorder",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have there been times when people said they had trouble understanding what you were saying?",
+    "question": "### Formal Thought Disorder\r\n\r\nHave there been times when people said they had trouble understanding what you were saying?",
     "responseOptions": {
         "choices": [
             {

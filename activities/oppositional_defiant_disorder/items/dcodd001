@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd001",
-    "preamble": "Loses Temper",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often lose your temper, scream and yell at people, or break things when you got angry?",
+    "question": "### Loses Temper\r\n\r\nDid you often lose your temper, scream and yell at people, or break things when you got angry?",
     "responseOptions": {
         "choices": [
             {

@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob010",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "How often did you use (insert tobacco product)?",

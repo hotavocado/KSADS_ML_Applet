@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd021",
-    "preamble": "Irritable Mood/Anger",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you feel: \r\n\r\n Feel grouchy or irritable?",
+    "question": "### Irritable Mood/Anger\r\n\r\nDuring this time, did you feel: \r\n\r\n Feel grouchy or irritable?",
     "responseOptions": {
         "choices": [
             {

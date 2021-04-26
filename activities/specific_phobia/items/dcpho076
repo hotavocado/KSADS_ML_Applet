@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho076",
-    "preamble": "Worst Fear 1: Course",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Since you were (age of onset), was there ever a time when you were not afraid of (insert fear)?",
+    "question": "### Worst Fear 1: Course\r\n\r\nSince you were (age of onset), was there ever a time when you were not afraid of (insert fear)?",
     "responseOptions": {
         "choices": [
             {

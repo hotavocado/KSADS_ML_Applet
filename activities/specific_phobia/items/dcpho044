@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho044",
-    "preamble": "Worst Fear 1",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Were you much more scared of (fear) than people your age?",
+    "question": "### Worst Fear 1\r\n\r\nWere you much more scared of (fear) than people your age?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Irritable Mood: \r\n\r\n Has there ever been a time when you felt unusually grouchy, cranky, or irritable; when the smallest things would make you really mad? ",
+    "question": "Irritable Mood: \r\n\r\n Has there ever been a time when you felt unusually grouchy, cranky, or irritable; when the smallest things would make you really mad?",
     "responseOptions": {
         "choices": [
             {

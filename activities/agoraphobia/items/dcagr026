@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Why were you nervous or afraid in these situations? ",
+    "question": "Why were you nervous or afraid in these situations?",
     "responseOptions": {
         "requiredValue": ""
     }

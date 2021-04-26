@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd014",
-    "preamble": "Has Broken into Someone Else's Property",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever break into a house, a building, or a car?",
+    "question": "### Has Broken into Someone Else's Property\r\n\r\nDid you ever break into a house, a building, or a car?",
     "responseOptions": {
         "choices": [
             {

@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cmdd54",
-    "preamble": "Return to Baseline",
     "ui": {
         "inputType": "static"
     },
-    "question": "\nI would now like to talk about the time **in between** the periods when you felt (sad, grouchy, like nothing was fun).",
+    "question": "### Return to Baseline\r\n\r\n\nI would now like to talk about the time **in between** the periods when you felt (sad, grouchy, like nothing was fun).",
     "responseOptions": {
         "requiredValue": ""
     }

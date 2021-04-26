@@ -159,7 +159,7 @@
             {
                 "variableName": "cagr2_a",
                 "isAbout": "cagr2_a",
-                "isVis": "dcagr020 == '0' && dcagr021 == '0' && dcagr022 == '0' && dcagr023 == '0' && dcagr024 == '0' "
+                "isVis": "dcagr020 == '0' && dcagr021 == '0' && dcagr022 == '0' && dcagr023 == '0' && dcagr024 == '0'"
             },
             {
                 "variableName": "dcagr026",

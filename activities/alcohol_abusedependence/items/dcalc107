@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did anyone, like a teacher or family member, suggest that you get help for (list symptoms)? ",
+    "question": "Did anyone, like a teacher or family member, suggest that you get help for (list symptoms)?",
     "responseOptions": {
         "choices": [
             {

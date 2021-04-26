@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd038",
-    "preamble": "Distress",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "How much did having these behavior(s) upset or bother you? ",
+    "question": "### Distress\r\n\r\nHow much did having these behavior(s) upset or bother you?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

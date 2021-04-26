@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you stay home from school because of your difficulties with inattention or overactivity? ",
+    "question": "Did you stay home from school because of your difficulties with inattention or overactivity?",
     "responseOptions": {
         "choices": [
             {

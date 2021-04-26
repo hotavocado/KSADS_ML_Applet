@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy102",
-    "preamble": "Persecutory Delusions",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt people were going after you to hurt you or get at you?  ",
+    "question": "### Persecutory Delusions\r\n\r\nHave you ever felt people were going after you to hurt you or get at you?",
     "responseOptions": {
         "choices": [
             {

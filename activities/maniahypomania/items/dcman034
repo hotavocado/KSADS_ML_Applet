@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman034",
-    "preamble": "Talkative/Pressured Speech",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you talk more than usual?",
+    "question": "### Talkative/Pressured Speech\r\n\r\nDid you talk more than usual?",
     "responseOptions": {
         "choices": [
             {

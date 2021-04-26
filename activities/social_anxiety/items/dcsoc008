@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsoc008",
-    "preamble": "Performance Situations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever been very afraid or felt uncomfortable: \r\n\r\n 8) Speaking in class when a teacher calls on you?",
+    "question": "### Performance Situations\r\n\r\nHave you ever been very afraid or felt uncomfortable: \r\n\r\n 8) Speaking in class when a teacher calls on you?",
     "responseOptions": {
         "choices": [
             {

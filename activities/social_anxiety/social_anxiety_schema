@@ -399,57 +399,57 @@
             {
                 "variableName": "csoc38",
                 "isAbout": "csoc38",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc073",
                 "isAbout": "dcsoc073",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc074",
                 "isAbout": "dcsoc074",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc075",
                 "isAbout": "dcsoc075",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc076",
                 "isAbout": "dcsoc076",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc077",
                 "isAbout": "dcsoc077",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc078",
                 "isAbout": "dcsoc078",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc080",
                 "isAbout": "dcsoc080",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc081",
                 "isAbout": "dcsoc081",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc082",
                 "isAbout": "dcsoc082",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc083",
                 "isAbout": "dcsoc083",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc084",
@@ -459,12 +459,12 @@
             {
                 "variableName": "dcsoc085",
                 "isAbout": "dcsoc085",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "csoc40",
                 "isAbout": "csoc40",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc090",
@@ -474,47 +474,47 @@
             {
                 "variableName": "dcsoc091",
                 "isAbout": "dcsoc091",
-                "isVis": "dcsoc072 == '1' "
+                "isVis": "dcsoc072 == '1'"
             },
             {
                 "variableName": "dcsoc092",
                 "isAbout": "dcsoc092",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "dcsoc093",
                 "isAbout": "dcsoc093",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "dcsoc094",
                 "isAbout": "dcsoc094",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "dcsoc095",
                 "isAbout": "dcsoc095",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "dcsoc096",
                 "isAbout": "dcsoc096",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "dcsoc097",
                 "isAbout": "dcsoc097",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "dcsoc098",
                 "isAbout": "dcsoc098",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "dcsoc099",
                 "isAbout": "dcsoc099",
-                "isVis": "dcsoc091 == '1' "
+                "isVis": "dcsoc091 == '1'"
             },
             {
                 "variableName": "soc_end",

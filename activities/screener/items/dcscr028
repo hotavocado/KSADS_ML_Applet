@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Was there a time when you got into trouble with adults for refusing to do what they told you to do? ",
+    "question": "Was there a time when you got into trouble with adults for refusing to do what they told you to do?",
     "responseOptions": {
         "choices": [
             {

@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd041",
-    "preamble": "Impairment: School",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "School: How much did these behaviors change your relationships with your teachers or classmates?  -change how well you did at school, on tests, homework, or grades?",
+    "question": "### Impairment: School\r\n\r\nSchool: How much did these behaviors change your relationships with your teachers or classmates?  -change how well you did at school, on tests, homework, or grades?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": " How old were you the first time you skipped school? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "question": "How old were you the first time you skipped school? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "schema:description": "AGE",
     "responseOptions": {
         "requiredValue": ""

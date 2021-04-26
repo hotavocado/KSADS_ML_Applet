@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy61",
-    "preamble": "Marked Impairment in Personal Hygiene and Grooming",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you let your appearance go?  Did you stop caring about how you looked?  Did you bathe as usual?",
+    "question": "### Marked Impairment in Personal Hygiene and Grooming\r\n\r\nDid you let your appearance go?  Did you stop caring about how you looked?  Did you bathe as usual?",
     "responseOptions": {
         "choices": [
             {

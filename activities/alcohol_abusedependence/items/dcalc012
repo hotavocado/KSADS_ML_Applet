@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "What do you usually drink?        ",
+    "question": "What do you usually drink?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd019",
-    "preamble": "Marked Distress",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did thoughts about [insert obsession here] upset you? Make you feel bad, nervous? A lot?",
+    "question": "### Marked Distress\r\n\r\nDid thoughts about [insert obsession here] upset you? Make you feel bad, nervous? A lot?",
     "responseOptions": {
         "choices": [
             {

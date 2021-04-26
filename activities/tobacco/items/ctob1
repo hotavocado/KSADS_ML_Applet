@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "ctob1",
-    "preamble": "Current Use",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
-    "question": "In the past 12 months, which form of tobacco did you use the most?",
+    "question": "### Current Use\r\n\r\nIn the past 12 months, which form of tobacco did you use the most?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd015",
-    "preamble": "Has Deliberately Destroyed Others' Property",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever deliberately damage someone else's property, by doing something like breaking windows, slashing tires, or writing on buildings?",
+    "question": "### Has Deliberately Destroyed Others' Property\r\n\r\nDid you ever deliberately damage someone else's property, by doing something like breaking windows, slashing tires, or writing on buildings?",
     "responseOptions": {
         "choices": [
             {

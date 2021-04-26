@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy076",
-    "preamble": "Thought Reading",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt that people could know what you were thinking or read in your mind?",
+    "question": "### Thought Reading\r\n\r\nHave you ever felt that people could know what you were thinking or read in your mind?",
     "responseOptions": {
         "choices": [
             {

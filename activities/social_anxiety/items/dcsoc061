@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Problem/Illness): ",
+    "question": "Specify (Problem/Illness):",
     "responseOptions": {
         "requiredValue": ""
     }

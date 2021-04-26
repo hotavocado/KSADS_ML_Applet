@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui102",
-    "preamble": "Attempt 6",
     "ui": {
         "inputType": "text"
     },
-    "question": "Describe (Other method):",
+    "question": "### Attempt 6\r\n\r\nDescribe (Other method):",
     "responseOptions": {
         "requiredValue": ""
     }

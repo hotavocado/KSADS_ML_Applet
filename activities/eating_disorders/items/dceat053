@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat053",
-    "preamble": "Episodes: Offset",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Do you have these concerns now?",
+    "question": "### Episodes: Offset\r\n\r\nDo you have these concerns now?",
     "responseOptions": {
         "choices": [
             {

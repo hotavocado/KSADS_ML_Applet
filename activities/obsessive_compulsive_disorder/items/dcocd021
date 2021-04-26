@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd021",
-    "preamble": "Time consumption",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "How much of the time did you have these thoughts about [insert obsession here]? Every day? Less? (If less, read responses)",
+    "question": "### Time consumption\r\n\r\nHow much of the time did you have these thoughts about [insert obsession here]? Every day? Less? (If less, read responses)",
     "responseOptions": {
         "choices": [
             {

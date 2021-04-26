@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Specify (Other): ",
+    "question": "Specify (Other):",
     "responseOptions": {
         "requiredValue": ""
     }

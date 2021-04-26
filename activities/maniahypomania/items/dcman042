@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did they make sense to other people?  ",
+    "question": "Did they make sense to other people?",
     "responseOptions": {
         "choices": [
             {

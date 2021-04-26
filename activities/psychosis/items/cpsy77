@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy77",
-    "preamble": "Duration of Current Episode",
     "ui": {
         "inputType": "text"
     },
-    "question": "How long have you been feeling/acting this way? \r\n\r\n _(N days, N weeks, N months)_",
+    "question": "### Duration of Current Episode\r\n\r\nHow long have you been feeling/acting this way? \r\n\r\n _(N days, N weeks, N months)_",
     "responseOptions": {
         "requiredValue": ""
     }

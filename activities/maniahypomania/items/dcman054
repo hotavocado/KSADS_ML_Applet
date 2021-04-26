@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman054",
-    "preamble": "Risk of Painful Consequences",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you do things that you usually wouldn't do, or did you do things that you later wished you hadn't done? For example, did you: \r\n\r\n Spend or borrow a lot of money?",
+    "question": "### Risk of Painful Consequences\r\n\r\nDid you do things that you usually wouldn't do, or did you do things that you later wished you hadn't done? For example, did you: \r\n\r\n Spend or borrow a lot of money?",
     "responseOptions": {
         "choices": [
             {

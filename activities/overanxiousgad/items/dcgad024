@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Feel like you had butterflies in your stomach a lot?          ",
+    "question": "Feel like you had butterflies in your stomach a lot?",
     "responseOptions": {
         "choices": [
             {

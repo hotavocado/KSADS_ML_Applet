@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd031",
-    "preamble": "Distress/Impairment",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Were you ever suspended from school?",
+    "question": "### Distress/Impairment\r\n\r\nWere you ever suspended from school?",
     "responseOptions": {
         "choices": [
             {

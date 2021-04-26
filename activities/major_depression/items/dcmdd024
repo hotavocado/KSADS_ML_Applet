@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd024",
-    "preamble": "Anhedonia/Loss of Interest",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you feel: \r\n\r\n Like you just weren't interested in anything?",
+    "question": "### Anhedonia/Loss of Interest\r\n\r\nDuring this time, did you feel: \r\n\r\n Like you just weren't interested in anything?",
     "responseOptions": {
         "choices": [
             {

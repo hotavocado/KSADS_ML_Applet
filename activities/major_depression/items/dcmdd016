@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd016",
-    "preamble": "Sad Mood",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you feel: \r\n\r\n Sad or depressed? ",
+    "question": "### Sad Mood\r\n\r\nDuring this time, did you feel: \r\n\r\n Sad or depressed?",
     "responseOptions": {
         "choices": [
             {

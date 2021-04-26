@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc001",
-    "preamble": "General Probes: Alcohol Use",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever had a drink of beer, wine, liquor, even a sip?",
+    "question": "### General Probes: Alcohol Use\r\n\r\nHave you ever had a drink of beer, wine, liquor, even a sip?",
     "responseOptions": {
         "choices": [
             {

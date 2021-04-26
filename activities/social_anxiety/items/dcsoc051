@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Was this fear so upsetting that you tried to get out of doing (performance situation)?  ",
+    "question": "Was this fear so upsetting that you tried to get out of doing (performance situation)?",
     "responseOptions": {
         "choices": [
             {

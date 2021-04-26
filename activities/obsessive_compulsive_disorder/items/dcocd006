@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd006",
-    "preamble": "Specific Thoughts",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "I would like to ask you about some thoughts that people sometimes have. Have you had thoughts about: \r\n\r\n Concern with harming others/self?",
+    "question": "### Specific Thoughts\r\n\r\nI would like to ask you about some thoughts that people sometimes have. Have you had thoughts about: \r\n\r\n Concern with harming others/self?",
     "responseOptions": {
         "choices": [
             {

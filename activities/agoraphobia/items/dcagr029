@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcagr029",
-    "preamble": "Worst Fear Category",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "\nI will now ask you about (your fear listed). When you were most afraid of (list fear): \r\n\r\n How often did you feel nervous or afraid (insert situation)? \r\n\r\n  _INTERVIEWER: Please read responses never, sometimes, almost always._ ",
+    "question": "### Worst Fear Category\r\n\r\n\nI will now ask you about (your fear listed). When you were most afraid of (list fear): \r\n\r\n How often did you feel nervous or afraid (insert situation)? \r\n\r\n  _INTERVIEWER: Please read responses never, sometimes, almost always._",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd057",
-    "preamble": "Worthlessness",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you blame yourself for bad things that happened?",
+    "question": "### Worthlessness\r\n\r\nDid you blame yourself for bad things that happened?",
     "responseOptions": {
         "choices": [
             {

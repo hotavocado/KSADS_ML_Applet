@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy120",
-    "preamble": "Associated Conditions: Delusions",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Were you drinking a lot then?",
+    "question": "### Associated Conditions: Delusions\r\n\r\nWere you drinking a lot then?",
     "responseOptions": {
         "choices": [
             {

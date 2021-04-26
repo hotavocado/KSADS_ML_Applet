@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcptd002",
-    "preamble": "Symptoms",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Now I want to ask you about some of your thoughts/feelings/behaviors after (insert worst event name here). After the (event name) happened, did you ever feel: \r\n\r\n Very afraid?",
+    "question": "### Symptoms\r\n\r\nNow I want to ask you about some of your thoughts/feelings/behaviors after (insert worst event name here). After the (event name) happened, did you ever feel: \r\n\r\n Very afraid?",
     "responseOptions": {
         "choices": [
             {

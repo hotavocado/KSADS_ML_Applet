@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat009",
-    "preamble": "Episodes: Offset",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Do you currently have times when you do these behaviors?",
+    "question": "### Episodes: Offset\r\n\r\nDo you currently have times when you do these behaviors?",
     "responseOptions": {
         "choices": [
             {

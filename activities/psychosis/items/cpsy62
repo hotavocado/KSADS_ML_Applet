@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy62",
-    "preamble": "Blunted, Flat, or Inappropriate Affect",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did people say your expression was different, that it was hard to tell how you were feeling, that you looked off in space?",
+    "question": "### Blunted, Flat, or Inappropriate Affect\r\n\r\nDid people say your expression was different, that it was hard to tell how you were feeling, that you looked off in space?",
     "responseOptions": {
         "choices": [
             {

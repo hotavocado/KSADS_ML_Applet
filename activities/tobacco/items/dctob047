@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob047",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Were there ever times when you (smoked/used tobacco) more often or for more days in a row than you planned?",

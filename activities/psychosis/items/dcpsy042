@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy042",
-    "preamble": "Olfactory",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever smelled strange odors other people could not smell?",
+    "question": "### Olfactory\r\n\r\nHave you ever smelled strange odors other people could not smell?",
     "responseOptions": {
         "choices": [
             {

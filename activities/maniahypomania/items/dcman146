@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman146",
-    "preamble": "Episodes/Course (Lifetime)",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have there been other times when you felt (list symptoms)?",
+    "question": "### Episodes/Course (Lifetime)\r\n\r\nHave there been other times when you felt (list symptoms)?",
     "responseOptions": {
         "choices": [
             {

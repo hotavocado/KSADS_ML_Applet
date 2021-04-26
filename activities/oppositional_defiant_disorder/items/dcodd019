@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd019",
-    "preamble": "Impairment: Family",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "How much did these behaviors change your relationships with your family?  \r\n\r\n Probe: Did your family say something about this to you?  Did family members seem upset, angry, or annoyed with you because of your behavior?",
+    "question": "### Impairment: Family\r\n\r\nHow much did these behaviors change your relationships with your family?  \r\n\r\n Probe: Did your family say something about this to you?  Did family members seem upset, angry, or annoyed with you because of your behavior?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

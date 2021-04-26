@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpan057",
-    "preamble": "Episodes/Course (Lifetime)",
     "ui": {
         "inputType": "text"
     },
-    "question": "How many attacks like this have you had in your life?",
+    "question": "### Episodes/Course (Lifetime)\r\n\r\nHow many attacks like this have you had in your life?",
     "schema:description": "ATTACKS",
     "responseOptions": {
         "requiredValue": ""

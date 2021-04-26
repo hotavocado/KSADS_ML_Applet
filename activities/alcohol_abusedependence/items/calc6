@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: The participant never drank more than a sip of  alcohol. End **Alcohol Abuse and Dependence**  Section. ",
+    "question": "_INTERVIEWER: The participant never drank more than a sip of  alcohol. End **Alcohol Abuse and Dependence**  Section.",
     "responseOptions": {
         "choices": [
             {

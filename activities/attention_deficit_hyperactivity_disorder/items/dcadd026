@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd026",
-    "preamble": "Difficulty Playing Quietly",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you had trouble playing quietly or doing quiet activities, like reading or being read to, for more than a few minutes at a time?",
+    "question": "### Difficulty Playing Quietly\r\n\r\nHave you had trouble playing quietly or doing quiet activities, like reading or being read to, for more than a few minutes at a time?",
     "responseOptions": {
         "choices": [
             {

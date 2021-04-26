@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui052",
-    "preamble": "Attempt 3",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you want to die?",
+    "question": "### Attempt 3\r\n\r\nDid you want to die?",
     "responseOptions": {
         "choices": [
             {

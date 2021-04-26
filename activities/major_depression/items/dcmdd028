@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd028",
-    "preamble": "Diurnal Variation",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you usually feel worse at (a) certain time(s) of the day or night?",
+    "question": "### Diurnal Variation\r\n\r\nDuring this time, did you usually feel worse at (a) certain time(s) of the day or night?",
     "responseOptions": {
         "choices": [
             {

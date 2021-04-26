@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did doing even little things make you feel really tired, like going up stairs, getting out of a chair, or getting out of bed (for school)?  ",
+    "question": "Did doing even little things make you feel really tired, like going up stairs, getting out of a chair, or getting out of bed (for school)?",
     "responseOptions": {
         "choices": [
             {

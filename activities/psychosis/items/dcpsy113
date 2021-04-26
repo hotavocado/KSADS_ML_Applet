@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy113",
-    "preamble": "Other Bizarre Delusions",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: Probe for any other bizarre delusions_",
+    "question": "### Other Bizarre Delusions\r\n\r\n_INTERVIEWER: Probe for any other bizarre delusions_",
     "responseOptions": {
         "choices": [
             {

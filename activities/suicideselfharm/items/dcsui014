@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui014",
-    "preamble": "Attempt 1",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Required medical admission?",
+    "question": "### Attempt 1\r\n\r\nRequired medical admission?",
     "responseOptions": {
         "choices": [
             {

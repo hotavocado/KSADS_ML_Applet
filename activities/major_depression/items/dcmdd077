@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd077",
-    "preamble": "Hallucinations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you see or hear things that other people could not see or hear? \r\n\r\n  _PROBE: Like voices talking to you or noises, or visions?_ ",
+    "question": "### Hallucinations\r\n\r\nDuring this time, did you see or hear things that other people could not see or hear? \r\n\r\n  _PROBE: Like voices talking to you or noises, or visions?_",
     "responseOptions": {
         "choices": [
             {

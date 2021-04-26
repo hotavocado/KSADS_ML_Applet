@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd055",
-    "preamble": "Impairment: Family",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "Did your family seem upset, angry, or annoyed with you because of your difficulties?",
+    "question": "### Impairment: Family\r\n\r\nDid your family seem upset, angry, or annoyed with you because of your difficulties?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

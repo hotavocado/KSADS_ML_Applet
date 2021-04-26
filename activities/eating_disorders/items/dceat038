@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat038",
-    "preamble": "Fear of Gaining Weight",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "At that time did you still feel fat or did you see yourself as too fat in some ways?",
+    "question": "### Fear of Gaining Weight\r\n\r\nAt that time did you still feel fat or did you see yourself as too fat in some ways?",
     "responseOptions": {
         "choices": [
             {

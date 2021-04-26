@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc021",
-    "preamble": "Past Quantity",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was there ever a time when you usually drank more than (quote current quantity) or a time when you drank the most?",
+    "question": "### Past Quantity\r\n\r\nWas there ever a time when you usually drank more than (quote current quantity) or a time when you drank the most?",
     "responseOptions": {
         "choices": [
             {

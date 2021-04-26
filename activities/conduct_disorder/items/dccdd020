@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd020",
-    "preamble": "Often Bullies Others",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often bully others? (Hitting, threatening or scaring someone who was younger or smaller)",
+    "question": "### Often Bullies Others\r\n\r\nDid you often bully others? (Hitting, threatening or scaring someone who was younger or smaller)",
     "responseOptions": {
         "choices": [
             {

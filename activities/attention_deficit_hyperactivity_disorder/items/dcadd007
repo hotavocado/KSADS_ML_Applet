@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd007",
-    "preamble": "Easily Distracted",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have even little things taken your mind away from what you are doing?  (Were you unable to keep your mind on what you were doing if things were going on nearby?) ",
+    "question": "### Easily Distracted\r\n\r\nHave even little things taken your mind away from what you are doing?  (Were you unable to keep your mind on what you were doing if things were going on nearby?)",
     "responseOptions": {
         "choices": [
             {

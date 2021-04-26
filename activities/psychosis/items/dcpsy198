@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy198",
-    "preamble": "Total Number of Episodes",
     "ui": {
         "inputType": "text"
     },
-    "question": "How many different times have you felt/acted this way? \r\n\r\n _INTERVIEWER: Different episodes should be seperated by at least 2 months)_",
+    "question": "### Total Number of Episodes\r\n\r\nHow many different times have you felt/acted this way? \r\n\r\n _INTERVIEWER: Different episodes should be seperated by at least 2 months)_",
     "schema:description": "TIMES",
     "responseOptions": {
         "requiredValue": ""

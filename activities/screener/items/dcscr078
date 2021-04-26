@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Increased Motor Activity: \r\n\r\n Have there been times when you were much more active than usual, had problems sitting still, or needed to move around a lot? ",
+    "question": "Increased Motor Activity: \r\n\r\n Have there been times when you were much more active than usual, had problems sitting still, or needed to move around a lot?",
     "responseOptions": {
         "choices": [
             {

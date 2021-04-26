@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "text"
     },
-    "question": "Have you had any serious problems? ",
+    "question": "Have you had any serious problems?",
     "responseOptions": {
         "requiredValue": ""
     }

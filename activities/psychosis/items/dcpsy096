@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy096",
-    "preamble": "Delusions of Reference",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt people were talking about you behind your back?  What about people in TV or radio?  ",
+    "question": "### Delusions of Reference\r\n\r\nHave you ever felt people were talking about you behind your back?  What about people in TV or radio?",
     "responseOptions": {
         "choices": [
             {

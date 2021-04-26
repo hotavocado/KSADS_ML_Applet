@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcagr052",
-    "preamble": "Associated Conditions: Anxiety",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Were you afraid of (fear) only when you were anxious or worried about something else, or when you were  having panic attacks? \r\n\r\n  _INTERVIEWER: Define panic attacks, as necessary._",
+    "question": "### Associated Conditions: Anxiety\r\n\r\nWere you afraid of (fear) only when you were anxious or worried about something else, or when you were  having panic attacks? \r\n\r\n  _INTERVIEWER: Define panic attacks, as necessary._",
     "responseOptions": {
         "choices": [
             {

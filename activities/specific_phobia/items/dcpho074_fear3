@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho074_fear3",
-    "preamble": "Worst Fear 3: Offset",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Are you still afraid of [insert fear]?",
+    "question": "### Worst Fear 3: Offset\r\n\r\nAre you still afraid of [insert fear]?",
     "responseOptions": {
         "choices": [
             {

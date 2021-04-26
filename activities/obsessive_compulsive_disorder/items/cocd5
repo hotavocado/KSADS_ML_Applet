@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cocd5",
-    "preamble": "General Probes: Compulsions",
     "ui": {
         "inputType": "static"
     },
-    "question": "Some people feel like they have to repeat things over and over again to get rid of the thoughts in their head. Now I'm going to ask you some questions about this.  \r\n\r\n _INTERVIEWER: Behavior is designed to neutralize/prevent discomfort or something dreaded from happening, but activity is either not appropriate or is excessive._",
+    "question": "### General Probes: Compulsions\r\n\r\nSome people feel like they have to repeat things over and over again to get rid of the thoughts in their head. Now I'm going to ask you some questions about this.  \r\n\r\n _INTERVIEWER: Behavior is designed to neutralize/prevent discomfort or something dreaded from happening, but activity is either not appropriate or is excessive._",
     "responseOptions": {
         "requiredValue": ""
     }

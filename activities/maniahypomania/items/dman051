@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you feel like you could do anything? ",
+    "question": "Did you feel like you could do anything?",
     "responseOptions": {
         "choices": [
             {

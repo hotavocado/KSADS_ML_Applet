@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "ctob3",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "_INTERVIEWER: Participant never used tobacco weekly, END **Tobacco** Section._",

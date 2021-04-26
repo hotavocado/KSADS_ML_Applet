@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "dctlo009",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
     "question": "What is your grade in school? (or last completed grade)",
     "responseOptions": {

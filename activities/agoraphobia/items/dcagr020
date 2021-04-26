@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcagr020",
-    "preamble": "Nature of Fear",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "When you were in (this/these) situation(s) (list specifics from above), were  you ever afraid that: \r\n\r\n You might get trapped?",
+    "question": "### Nature of Fear\r\n\r\nWhen you were in (this/these) situation(s) (list specifics from above), were  you ever afraid that: \r\n\r\n You might get trapped?",
     "responseOptions": {
         "choices": [
             {

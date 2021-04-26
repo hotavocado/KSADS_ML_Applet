@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you start thinking these things before, after, or at the same time that you started feeling (too active/happy/excited/grouchy /energetic)? ",
+    "question": "Did you start thinking these things before, after, or at the same time that you started feeling (too active/happy/excited/grouchy /energetic)?",
     "responseOptions": {
         "choices": [
             {

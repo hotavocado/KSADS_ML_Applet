@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy091",
-    "preamble": "Nilhilistic Delusions",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt that the world was coming to an end soon? (Explore)",
+    "question": "### Nilhilistic Delusions\r\n\r\nHave you ever felt that the world was coming to an end soon? (Explore)",
     "responseOptions": {
         "choices": [
             {

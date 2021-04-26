@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat011",
-    "preamble": "Compensatory Behavior",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you do anything to make yourself thin, like: \r\n\r\n Making yourself throw up?  ",
+    "question": "### Compensatory Behavior\r\n\r\nDid you do anything to make yourself thin, like: \r\n\r\n Making yourself throw up?",
     "responseOptions": {
         "choices": [
             {

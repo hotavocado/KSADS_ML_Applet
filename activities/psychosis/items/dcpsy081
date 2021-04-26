@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy081",
-    "preamble": "Somatic Delusions",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt that something was happening to your insides or that something was living inside you?",
+    "question": "### Somatic Delusions\r\n\r\nHave you ever felt that something was happening to your insides or that something was living inside you?",
     "responseOptions": {
         "choices": [
             {

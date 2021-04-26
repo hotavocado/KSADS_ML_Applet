@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcgad036",
-    "preamble": "Associated Conditions (Episode): Medical",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you have these worries only when you had a serious physical problem or illness?",
+    "question": "### Associated Conditions (Episode): Medical\r\n\r\nDid you have these worries only when you had a serious physical problem or illness?",
     "responseOptions": {
         "choices": [
             {

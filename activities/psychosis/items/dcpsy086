@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy086",
-    "preamble": "Delusions of Grandiosity",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt that you were a very important person or that you had special powers?",
+    "question": "### Delusions of Grandiosity\r\n\r\nHave you ever felt that you were a very important person or that you had special powers?",
     "responseOptions": {
         "choices": [
             {

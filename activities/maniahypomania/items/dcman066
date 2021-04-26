@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Loss of interest or pleasure? ",
+    "question": "Loss of interest or pleasure?",
     "responseOptions": {
         "choices": [
             {

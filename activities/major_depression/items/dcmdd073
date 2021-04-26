@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you think that something had gone wrong with your body?  ",
+    "question": "Did you think that something had gone wrong with your body?",
     "responseOptions": {
         "choices": [
             {

@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho058",
-    "preamble": "Worst Fear 2: Distress",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "How much did having this fear upset or bother you?",
+    "question": "### Worst Fear 2: Distress\r\n\r\nHow much did having this fear upset or bother you?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

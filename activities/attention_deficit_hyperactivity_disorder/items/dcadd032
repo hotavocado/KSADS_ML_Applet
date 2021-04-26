@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd032",
-    "preamble": "Trouble Waiting for Turn",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you have a lot of trouble waiting your turn - for example, was it very hard for you to wait in a line or to wait for a teacher to call on you in class before you spoke out loud?",
+    "question": "### Trouble Waiting for Turn\r\n\r\nDid you have a lot of trouble waiting your turn - for example, was it very hard for you to wait in a line or to wait for a teacher to call on you in class before you spoke out loud?",
     "responseOptions": {
         "choices": [
             {

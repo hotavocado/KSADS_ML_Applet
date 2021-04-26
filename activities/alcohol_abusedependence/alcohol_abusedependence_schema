@@ -29,7 +29,7 @@
             {
                 "variableName": "calc3",
                 "isAbout": "calc3",
-                "isVis": "calc2 == 0 "
+                "isVis": "calc2 == 0"
             },
             {
                 "variableName": "dcalc001",
@@ -44,7 +44,7 @@
             {
                 "variableName": "dcalc002",
                 "isAbout": "dcalc002",
-                "isVis": "calc2 !== 1 || calc5 !== 1  "
+                "isVis": "calc2 !== 1 || calc5 !== 1"
             },
             {
                 "variableName": "calc6",

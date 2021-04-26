@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you worry a lot about what other people thought about you?                                                    ",
+    "question": "Did you worry a lot about what other people thought about you?",
     "responseOptions": {
         "choices": [
             {

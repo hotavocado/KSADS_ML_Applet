@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob039",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you ever have times when you purposely stopped, cut down, or went without (smoking /tobacco)?",

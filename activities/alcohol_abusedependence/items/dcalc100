@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc100",
-    "preamble": "Course: Onset",
     "ui": {
         "inputType": "text"
     },
-    "question": "You reported that (list some abuse/dependence symptoms from above). How old were you the very first time you had these problems? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "question": "### Course: Onset\r\n\r\nYou reported that (list some abuse/dependence symptoms from above). How old were you the very first time you had these problems? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "schema:description": "AGE",
     "responseOptions": {
         "requiredValue": ""

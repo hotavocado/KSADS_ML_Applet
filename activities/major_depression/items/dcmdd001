@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Do you feel this way now?  ",
+    "question": "Do you feel this way now?",
     "responseOptions": {
         "choices": [
             {

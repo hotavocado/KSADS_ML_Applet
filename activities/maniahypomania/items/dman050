@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dman050",
-    "preamble": "Self-Esteem/Grandiosity",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you feel more confident in yourself than usual? ",
+    "question": "### Self-Esteem/Grandiosity\r\n\r\nDid you feel more confident in yourself than usual?",
     "responseOptions": {
         "choices": [
             {

@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd092",
-    "preamble": "Alcohol and Drugs",
     "responseOptions": {
         "multipleChoice": true,
         "choices": [
@@ -34,5 +33,5 @@
     "ui": {
         "inputType": "radio"
     },
-    "question": "Were you using alcohol often or drugs or both during this time? \r\n\r\n _PROBE: Did you increase how you use alcohol/drugs when you started feeling sad/depressed or were you using drugs/alcohol before you started to feel sad/depressed)?_"
+    "question": "### Alcohol and Drugs\r\n\r\nWere you using alcohol often or drugs or both during this time? \r\n\r\n _PROBE: Did you increase how you use alcohol/drugs when you started feeling sad/depressed or were you using drugs/alcohol before you started to feel sad/depressed)?_"
 }

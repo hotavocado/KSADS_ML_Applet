@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc027",
-    "preamble": "Symptoms: Alcohol Abuse/Dependence",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did your drinking ever cause you to: \r\n\r\n Have problems at home, work, or school?",
+    "question": "### Symptoms: Alcohol Abuse/Dependence\r\n\r\nDid your drinking ever cause you to: \r\n\r\n Have problems at home, work, or school?",
     "responseOptions": {
         "choices": [
             {

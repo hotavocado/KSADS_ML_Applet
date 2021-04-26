@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho066",
-    "preamble": "Worst Fear 3",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did being afraid of (fear) keep you from doing things you should or wanted to do? ",
+    "question": "### Worst Fear 3\r\n\r\nDid being afraid of (fear) keep you from doing things you should or wanted to do?",
     "responseOptions": {
         "choices": [
             {

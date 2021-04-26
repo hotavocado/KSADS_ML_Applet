@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "5) Any other animal or insect? ",
+    "question": "5) Any other animal or insect?",
     "responseOptions": {
         "choices": [
             {

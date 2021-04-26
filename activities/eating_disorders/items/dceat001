@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat001",
-    "preamble": "Bulimia",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Now I am going to ask you about eating binges.  An eating binge is when someone stuffs themselves with a whole lot of food in a short time - like several whole pizzas or a whole chocolate cake or several containers of ice cream - and they don't seem to be able to control how much they eat. \r\n\r\n Have you ever had an eating binge like that?  ",
+    "question": "### Bulimia\r\n\r\nNow I am going to ask you about eating binges.  An eating binge is when someone stuffs themselves with a whole lot of food in a short time - like several whole pizzas or a whole chocolate cake or several containers of ice cream - and they don't seem to be able to control how much they eat. \r\n\r\n Have you ever had an eating binge like that?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd071",
-    "preamble": "Psychosis (Episode)",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "**Delusions:** \r\n\r\n During this time, did you think that your (list symptoms) was a punishment for something you had done?    ",
+    "question": "### Psychosis (Episode)\r\n\r\n**Delusions:** \r\n\r\n During this time, did you think that your (list symptoms) was a punishment for something you had done?",
     "responseOptions": {
         "choices": [
             {

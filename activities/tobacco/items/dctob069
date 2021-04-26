@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob069",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you ever go to see a doctor, nurse, social worker, psychologist, school counselor, minister/priest or other professional to get help for (smoking/tobacco use)?",

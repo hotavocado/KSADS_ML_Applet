@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob048",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Were there times when you tried to stop or cut down on your (smoking/tobacco use) and found that you were not able to?",

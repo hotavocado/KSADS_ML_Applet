@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd003",
-    "preamble": "Has Run Away Home Overnight",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever run away from home overnight?",
+    "question": "### Has Run Away Home Overnight\r\n\r\nDid you ever run away from home overnight?",
     "responseOptions": {
         "choices": [
             {

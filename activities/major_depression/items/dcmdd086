@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd086",
-    "preamble": "Medical",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "When you were feeling (sad, grouchy, like nothing was fun): \r\n\r\n Did you have a serious physical problem or illness? \r\n\r\n _Probe: Did the physical problem/illness happen before the sad/depressed feelings or after?_",
+    "question": "### Medical\r\n\r\nWhen you were feeling (sad, grouchy, like nothing was fun): \r\n\r\n Did you have a serious physical problem or illness? \r\n\r\n _Probe: Did the physical problem/illness happen before the sad/depressed feelings or after?_",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Have trouble sleeping? ",
+    "question": "Have trouble sleeping?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd008",
-    "preamble": "Irritable or Easily Annoyed",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Were you often irritable or grouchy? ",
+    "question": "### Irritable or Easily Annoyed\r\n\r\nWere you often irritable or grouchy?",
     "responseOptions": {
         "choices": [
             {

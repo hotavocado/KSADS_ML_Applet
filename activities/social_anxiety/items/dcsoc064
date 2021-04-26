@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsoc064",
-    "preamble": "Episodes: Offset",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Are you still afraid of (performance situation listed)?",
+    "question": "### Episodes: Offset\r\n\r\nAre you still afraid of (performance situation listed)?",
     "responseOptions": {
         "choices": [
             {

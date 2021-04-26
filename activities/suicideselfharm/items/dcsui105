@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui105",
-    "preamble": "Attempt 6",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Required psychiatric admission?",
+    "question": "### Attempt 6\r\n\r\nRequired psychiatric admission?",
     "responseOptions": {
         "choices": [
             {

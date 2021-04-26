@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy67",
-    "preamble": "Associated Conditions",
     "ui": {
         "inputType": "static"
     },
-    "question": "_INTERVIEWER: Probe to find out if the above psychotic symptoms were associated with any of the following:_",
+    "question": "### Associated Conditions\r\n\r\n_INTERVIEWER: Probe to find out if the above psychotic symptoms were associated with any of the following:_",
     "responseOptions": {
         "requiredValue": ""
     }

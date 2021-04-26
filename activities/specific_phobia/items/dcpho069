@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho069",
-    "preamble": "Worst Fear 3: Impairment",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "How much did the fear you told me about cause problems for you at home, at school, or with your family or friends?",
+    "question": "### Worst Fear 3: Impairment\r\n\r\nHow much did the fear you told me about cause problems for you at home, at school, or with your family or friends?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

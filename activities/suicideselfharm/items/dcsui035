@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsui035",
-    "preamble": "Attempt 2",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_INTERVIEWER: How **serious** was the attempt?_",
+    "question": "### Attempt 2\r\n\r\n_INTERVIEWER: How **serious** was the attempt?_",
     "responseOptions": {
         "choices": [
             {

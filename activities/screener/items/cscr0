@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cscr0",
-    "preamble": "Treatment",
     "ui": {
         "inputType": "static"
     },
-    "question": "_INTERVIEWER: Use timeline to date treatment, symptoms, etc._",
+    "question": "### Treatment\r\n\r\n_INTERVIEWER: Use timeline to date treatment, symptoms, etc._",
     "responseOptions": {
         "requiredValue": ""
     }

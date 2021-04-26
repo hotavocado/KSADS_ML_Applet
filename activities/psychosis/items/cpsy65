@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy65",
-    "preamble": "Unusual Perceptual Experiences",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you see or hear unusual things or have strange feelings?",
+    "question": "### Unusual Perceptual Experiences\r\n\r\nDid you see or hear unusual things or have strange feelings?",
     "responseOptions": {
         "choices": [
             {

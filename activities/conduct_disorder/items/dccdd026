@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd026",
-    "preamble": "Tried to Hurt Someone with a Weapon",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever try to hurt someone with a weapon like a bat, brick, broken bottle, knife, or gun?",
+    "question": "### Tried to Hurt Someone with a Weapon\r\n\r\nDid you ever try to hurt someone with a weapon like a bat, brick, broken bottle, knife, or gun?",
     "responseOptions": {
         "choices": [
             {

@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cagr0",
-    "preamble": "Symptoms",
     "ui": {
         "inputType": "static"
     },
-    "question": "Earlier you said that you have been very nervous or afraid of (list endorsed fears).  I'd now like to ask you more about (that/those).",
+    "question": "### Symptoms\r\n\r\nEarlier you said that you have been very nervous or afraid of (list endorsed fears).  I'd now like to ask you more about (that/those).",
     "responseOptions": {
         "requiredValue": ""
     }

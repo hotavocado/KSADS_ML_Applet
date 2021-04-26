@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy108",
-    "preamble": "Delusions of Guilt or Sin",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever felt like you were being (or should be) punished because you were evil? (Explore)",
+    "question": "### Delusions of Guilt or Sin\r\n\r\nHave you ever felt like you were being (or should be) punished because you were evil? (Explore)",
     "responseOptions": {
         "choices": [
             {

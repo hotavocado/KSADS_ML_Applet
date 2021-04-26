@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpsy66",
-    "preamble": "Marked Lack of Initiative, Interests, or Energy",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "You didn't do as much, didn't have your usual energy, didn't keep up with things you usually did?",
+    "question": "### Marked Lack of Initiative, Interests, or Energy\r\n\r\nYou didn't do as much, didn't have your usual energy, didn't keep up with things you usually did?",
     "responseOptions": {
         "choices": [
             {

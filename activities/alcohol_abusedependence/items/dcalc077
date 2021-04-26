@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcalc077",
-    "preamble": "Withdrawal and Medical Consequences",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "When you didn't drink or when you cut down or stopped drinking, did you feel bad or sick?",
+    "question": "### Withdrawal and Medical Consequences\r\n\r\nWhen you didn't drink or when you cut down or stopped drinking, did you feel bad or sick?",
     "responseOptions": {
         "choices": [
             {

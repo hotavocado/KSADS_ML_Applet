@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd101",
-    "preamble": "Impairment (Episode)",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "How much did your feeling (sad, grouchy, like nothing was fun) you told me about cause problems for you at home, at school, or with your family or friends?",
+    "question": "### Impairment (Episode)\r\n\r\nHow much did your feeling (sad, grouchy, like nothing was fun) you told me about cause problems for you at home, at school, or with your family or friends?",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

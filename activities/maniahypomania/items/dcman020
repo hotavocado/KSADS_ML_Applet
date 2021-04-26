@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman020",
-    "preamble": "Mood",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time, did you: \r\n\r\n Feel really, really happy or excited much more than usual? ",
+    "question": "### Mood\r\n\r\nDuring this time, did you: \r\n\r\n Feel really, really happy or excited much more than usual?",
     "responseOptions": {
         "choices": [
             {

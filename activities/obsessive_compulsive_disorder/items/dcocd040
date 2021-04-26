@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcocd040",
-    "preamble": "Recognizes that behavior is excessive/unreasonable (may not be present for children)",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": " Did having to do [insert compulsion here] seem silly? Did it make sense to you? Did you think you were doing [insert compulsion here] too much?",
+    "question": "### Recognizes that behavior is excessive/unreasonable (may not be present for children)\r\n\r\nDid having to do [insert compulsion here] seem silly? Did it make sense to you? Did you think you were doing [insert compulsion here] too much?",
     "responseOptions": {
         "choices": [
             {

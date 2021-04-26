@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dctlo053",
-    "preamble": "Child about self",
     "ui": {
         "inputType": "text"
     },
-    "question": "What do you enjoy most? (e.g. hobbies, sports, clubs, etc.)",
+    "question": "### Child about self\r\n\r\nWhat do you enjoy most? (e.g. hobbies, sports, clubs, etc.)",
     "responseOptions": {
         "requiredValue": ""
     }

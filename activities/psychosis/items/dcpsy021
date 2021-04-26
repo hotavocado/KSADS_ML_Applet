@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy021",
-    "preamble": "Persecutory Hallucinations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever heard voices making fun of you? Threatening you? Saying bad things about you?",
+    "question": "### Persecutory Hallucinations\r\n\r\nHave you ever heard voices making fun of you? Threatening you? Saying bad things about you?",
     "responseOptions": {
         "choices": [
             {

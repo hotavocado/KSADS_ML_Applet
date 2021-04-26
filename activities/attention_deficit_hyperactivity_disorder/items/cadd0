@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cadd0",
-    "preamble": "General Probes: Inattention",
     "ui": {
         "inputType": "static"
     },
-    "question": "Everyone has times when they have trouble concentrating or keeping their mind on what they are doing.  The next questions are about whether you have had more difficulty than most people with concentration or attention. ",
+    "question": "### General Probes: Inattention\r\n\r\nEveryone has times when they have trouble concentrating or keeping their mind on what they are doing.  The next questions are about whether you have had more difficulty than most people with concentration or attention.",
     "responseOptions": {
         "requiredValue": ""
     }

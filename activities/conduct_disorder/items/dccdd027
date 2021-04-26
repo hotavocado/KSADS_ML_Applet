@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd027",
-    "preamble": "Stolen with Confrontation of a Victim",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever threaten someone, hold someone up, or attack someone to steal from them?",
+    "question": "### Stolen with Confrontation of a Victim\r\n\r\nDid you ever threaten someone, hold someone up, or attack someone to steal from them?",
     "responseOptions": {
         "choices": [
             {

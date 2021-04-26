@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob051",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did tobacco ever cause you any physical problems like coughing, difficulty breathing, lung trouble, or problems with your heart or blood pressure?",

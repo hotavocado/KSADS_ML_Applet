@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd027",
-    "preamble": "Mood Reactivity",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "If something good happened, or if someone tried to cheer you up, how much better would you feel, at least for a little while?",
+    "question": "### Mood Reactivity\r\n\r\nIf something good happened, or if someone tried to cheer you up, how much better would you feel, at least for a little while?",
     "responseOptions": {
         "choices": [
             {

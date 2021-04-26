@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dceat026",
-    "preamble": "Body Image",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time (did you ever have a time when you) were you a lot more concerned about your weight and/or shape than most people your age?",
+    "question": "### Body Image\r\n\r\nDuring this time (did you ever have a time when you) were you a lot more concerned about your weight and/or shape than most people your age?",
     "responseOptions": {
         "choices": [
             {

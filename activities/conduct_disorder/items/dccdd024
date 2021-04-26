@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd024",
-    "preamble": "Often Initiates Physical Fights",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often start physical fights with others?",
+    "question": "### Often Initiates Physical Fights\r\n\r\nDid you often start physical fights with others?",
     "responseOptions": {
         "choices": [
             {

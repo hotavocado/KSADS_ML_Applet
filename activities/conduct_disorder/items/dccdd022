@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd022",
-    "preamble": "Deliberately Threatened/Frightened Someone",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you threaten or frighten someone on purpose?",
+    "question": "### Deliberately Threatened/Frightened Someone\r\n\r\nDid you threaten or frighten someone on purpose?",
     "responseOptions": {
         "choices": [
             {

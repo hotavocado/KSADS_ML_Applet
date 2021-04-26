@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you worry a lot about how well you did your school work?                                     ",
+    "question": "Did you worry a lot about how well you did your school work?",
     "responseOptions": {
         "choices": [
             {

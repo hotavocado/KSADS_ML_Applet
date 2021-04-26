@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "cpho25a_fear2",
-    "preamble": "Worst Fear 2: Onset",
     "ui": {
         "inputType": "text"
     },
-    "question": "How old were you the **first time** you had this fear? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "question": "### Worst Fear 2: Onset\r\n\r\nHow old were you the **first time** you had this fear? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "responseOptions": {
         "requiredValue": ""
     }

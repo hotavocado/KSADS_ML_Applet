@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcscr103",
-    "preamble": "Intermittent Explosive Disorder",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever had a time when you became so angry you could not control your temper and ended up hitting someone or breaking things? \r\n\r\n _INTERVIEWER: Use clinical judgement here to rate positively. The item broken should be something of value like a car window or punching holes in the wall, not minor things like breaking a pencil._",
+    "question": "### Intermittent Explosive Disorder\r\n\r\nHave you ever had a time when you became so angry you could not control your temper and ended up hitting someone or breaking things? \r\n\r\n _INTERVIEWER: Use clinical judgement here to rate positively. The item broken should be something of value like a car window or punching holes in the wall, not minor things like breaking a pencil._",
     "responseOptions": {
         "choices": [
             {

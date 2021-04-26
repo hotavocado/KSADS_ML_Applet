@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd096",
-    "preamble": "Bereavement",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you start feeling (sad, grouchy, like nothing was fun) soon after someone close to you died?  ",
+    "question": "### Bereavement\r\n\r\nDid you start feeling (sad, grouchy, like nothing was fun) soon after someone close to you died?",
     "responseOptions": {
         "choices": [
             {

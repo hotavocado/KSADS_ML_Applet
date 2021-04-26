@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "static"
     },
-    "question": "## Pyschosis ",
+    "question": "## Pyschosis",
     "responseOptions": {
         "requiredValue": ""
     }

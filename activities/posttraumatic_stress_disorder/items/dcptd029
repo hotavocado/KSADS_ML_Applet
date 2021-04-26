@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcptd029",
-    "preamble": "Hallucinations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Since (event name) happened, have you had any experiences in which you saw things that other people couldn't see, or heard things that other people couldn't hear?  ",
+    "question": "### Hallucinations\r\n\r\nSince (event name) happened, have you had any experiences in which you saw things that other people couldn't see, or heard things that other people couldn't hear?",
     "responseOptions": {
         "choices": [
             {

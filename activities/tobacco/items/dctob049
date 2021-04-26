@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob049",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you ever have times when you chain-smoked, that is, started another cigarette as soon as you finished one?",

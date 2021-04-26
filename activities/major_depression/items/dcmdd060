@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd060",
-    "preamble": "Interpersonal Sensitivity",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "_(Not specific to episode)_ In general, do you get your feelings hurt easily when other kids tease you or don't want to play with you?",
+    "question": "### Interpersonal Sensitivity\r\n\r\n_(Not specific to episode)_ In general, do you get your feelings hurt easily when other kids tease you or don't want to play with you?",
     "responseOptions": {
         "choices": [
             {

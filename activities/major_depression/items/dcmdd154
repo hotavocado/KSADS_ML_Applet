@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcmdd154",
-    "preamble": "Seasonal Variation",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you feel (sad, grouchy, like nothing was fun) at certain times of the year, like in the winter, spring, summer, or fall?",
+    "question": "### Seasonal Variation\r\n\r\nDid you feel (sad, grouchy, like nothing was fun) at certain times of the year, like in the winter, spring, summer, or fall?",
     "responseOptions": {
         "choices": [
             {

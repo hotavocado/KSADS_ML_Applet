@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman024",
-    "preamble": "Increased Activity/Restlessness",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "During this time: \r\n\r\n Did you get through your school work much more easily or faster than usual? ",
+    "question": "### Increased Activity/Restlessness\r\n\r\nDuring this time: \r\n\r\n Did you get through your school work much more easily or faster than usual?",
     "responseOptions": {
         "choices": [
             {

@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpho052",
-    "preamble": "Worst Fear 2",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "When you knew you had to (or had to do) (fear), did you become very nervous, scared, upset?",
+    "question": "### Worst Fear 2\r\n\r\nWhen you knew you had to (or had to do) (fear), did you become very nervous, scared, upset?",
     "responseOptions": {
         "choices": [
             {

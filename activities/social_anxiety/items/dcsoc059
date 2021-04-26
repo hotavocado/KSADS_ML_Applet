@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsoc059",
-    "preamble": "Associated Conditions: Medical",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was your fear related to being embarrassed by a physical problem like stuttering or acne or eating problems? ",
+    "question": "### Associated Conditions: Medical\r\n\r\nWas your fear related to being embarrassed by a physical problem like stuttering or acne or eating problems?",
     "responseOptions": {
         "choices": [
             {

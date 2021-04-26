@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcsoc001",
-    "preamble": "Social Situations",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever been very afraid or felt uncomfortable: \r\n\r\n 1) Meeting new people your own age?",
+    "question": "### Social Situations\r\n\r\nHave you ever been very afraid or felt uncomfortable: \r\n\r\n 1) Meeting new people your own age?",
     "responseOptions": {
         "choices": [
             {

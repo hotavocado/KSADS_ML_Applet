@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd028",
-    "preamble": "Difficulty Staying Seated",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often get up from your seat when you were not supposed to - like at dinner, at school, or religious services?",
+    "question": "### Difficulty Staying Seated\r\n\r\nDid you often get up from your seat when you were not supposed to - like at dinner, at school, or religious services?",
     "responseOptions": {
         "choices": [
             {

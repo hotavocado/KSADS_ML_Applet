@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcadd031",
-    "preamble": "Interrupts Others",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you often interrupt people or abruptly join other people's conversations without being asked to do so?",
+    "question": "### Interrupts Others\r\n\r\nDid you often interrupt people or abruptly join other people's conversations without being asked to do so?",
     "responseOptions": {
         "choices": [
             {

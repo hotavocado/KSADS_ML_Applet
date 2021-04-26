@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dcpho_fear_number",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "_INTERVIEWER: How many fears did you list to assess?_",

@@ -209,22 +209,22 @@
             {
                 "variableName": "dctob055",
                 "isAbout": "dctob055",
-                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1' "
+                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1'"
             },
             {
                 "variableName": "ctob10",
                 "isAbout": "ctob10",
-                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1' "
+                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1'"
             },
             {
                 "variableName": "dctob057",
                 "isAbout": "dctob057",
-                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1' "
+                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1'"
             },
             {
                 "variableName": "dctob059",
                 "isAbout": "dctob059",
-                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1' "
+                "isVis": "dctob036 == '1' || dctob038 == '1' || dctob039 == '1'  || dctob043 == '1' || dctob044 == '1'  || dctob046 == '1' || dctob047 == '1' || dctob048 == '1'  || dctob049 == '1' || dctob050 == '1'  || dctob051 == '1'  || dctob053 == '1'"
             },
             {
                 "variableName": "dctob060",

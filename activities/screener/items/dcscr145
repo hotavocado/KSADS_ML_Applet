@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcscr145",
-    "preamble": "Tobacco",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you ever smoked a cigarette, cigar, pipe or other tobacco product, even a single puff? ",
+    "question": "### Tobacco\r\n\r\nHave you ever smoked a cigarette, cigar, pipe or other tobacco product, even a single puff?",
     "responseOptions": {
         "choices": [
             {

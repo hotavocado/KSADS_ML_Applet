@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Was there always something to explain these (nausea/headaches), like a cold or flu or swollen tonsils?               ",
+    "question": "Was there always something to explain these (nausea/headaches), like a cold or flu or swollen tonsils?",
     "responseOptions": {
         "choices": [
             {

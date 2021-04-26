@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "If female & applicable: Did your periods ever stop?  ",
+    "question": "If female & applicable: Did your periods ever stop?",
     "responseOptions": {
         "choices": [
             {

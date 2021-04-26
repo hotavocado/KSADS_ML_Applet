@@ -5,9 +5,12 @@
     "@type": "reproschema:Field",
     "@id": "dctob066",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "How much did smoking upset or bother you? ",
+    "question": "How much did smoking upset or bother you?",
     "responseOptions": {
         "choices": [
             {
@@ -67,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

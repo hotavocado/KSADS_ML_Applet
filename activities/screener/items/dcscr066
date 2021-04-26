@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcscr066",
-    "preamble": "Eating Disorders",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Was there ever a time when you felt really fat or heavy, but other people said that you were too thin?",
+    "question": "### Eating Disorders\r\n\r\nWas there ever a time when you felt really fat or heavy, but other people said that you were too thin?",
     "responseOptions": {
         "choices": [
             {

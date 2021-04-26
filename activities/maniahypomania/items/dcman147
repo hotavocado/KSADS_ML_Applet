@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcman147",
-    "preamble": "First Episode",
     "ui": {
         "inputType": "text"
     },
-    "question": "How old were you when this happened for the very first time?  \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "question": "### First Episode\r\n\r\nHow old were you when this happened for the very first time?  \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "schema:description": "AGE",
     "responseOptions": {
         "requiredValue": ""

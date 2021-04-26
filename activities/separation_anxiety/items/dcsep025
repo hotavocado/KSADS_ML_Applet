@@ -10,7 +10,7 @@
         ],
         "inputType": "radio"
     },
-    "question": "Did you worry about these things more than children your age? ",
+    "question": "Did you worry about these things more than children your age?",
     "responseOptions": {
         "choices": [
             {

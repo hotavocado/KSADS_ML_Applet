@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob052",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you continue to (smoked/use tobacco) even though you had these problems?",

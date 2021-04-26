@@ -4,11 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd044",
-    "preamble": "Impairment: Global",
     "ui": {
-        "inputType": "select"
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
     },
-    "question": "_INTERVIEWER: What number describes how impaired the participant was during the episode?_",
+    "question": "### Impairment: Global\r\n\r\n_INTERVIEWER: What number describes how impaired the participant was during the episode?_",
     "responseOptions": {
         "choices": [
             {
@@ -68,7 +70,7 @@
             },
             {
                 "schema:value": 998,
-                "schema:name": "Unknown ",
+                "schema:name": "Unknown",
                 "@type": "schema:option"
             }
         ],

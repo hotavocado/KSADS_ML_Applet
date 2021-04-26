@@ -15,7 +15,7 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "End Section ",
+                "schema:name": "End Section",
                 "@type": "schema:option"
             }
         ],

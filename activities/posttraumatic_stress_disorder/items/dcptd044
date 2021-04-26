@@ -4,11 +4,10 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcptd044",
-    "preamble": "Episodes: Offset",
     "ui": {
         "inputType": "text"
     },
-    "question": "When was the **last time** you had feelings/behaviors related to this event? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
+    "question": "### Episodes: Offset\r\n\r\nWhen was the **last time** you had feelings/behaviors related to this event? \r\n\r\n _Code 998 if \"always\", 999 if \"unknown\"._",
     "responseOptions": {
         "requiredValue": ""
     }

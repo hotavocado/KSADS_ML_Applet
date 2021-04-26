@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob038",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Over time did you become so used to tobacco that you were able to smoke without getting sick to your stomach or without feeling grouchy or restless?",

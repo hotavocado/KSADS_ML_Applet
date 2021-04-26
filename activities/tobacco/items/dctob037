@@ -5,6 +5,9 @@
     "@type": "reproschema:Field",
     "@id": "dctob037",
     "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
         "inputType": "radio"
     },
     "question": "Did you find it difficult to think of anything else?",

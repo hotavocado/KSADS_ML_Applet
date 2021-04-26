@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dccdd018",
-    "preamble": "Deliberately Engaged in Fire Setting",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Did you ever start a fire to try to cause serious damage?",
+    "question": "### Deliberately Engaged in Fire Setting\r\n\r\nDid you ever start a fire to try to cause serious damage?",
     "responseOptions": {
         "choices": [
             {

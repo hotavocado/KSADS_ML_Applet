@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcpsy194",
-    "preamble": "Most Severe Episode",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Is this the worst you have felt?",
+    "question": "### Most Severe Episode\r\n\r\nIs this the worst you have felt?",
     "responseOptions": {
         "choices": [
             {

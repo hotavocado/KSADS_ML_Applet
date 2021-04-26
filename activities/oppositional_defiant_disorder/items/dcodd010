@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd010",
-    "preamble": "Angry/Resentful",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you often gotten angry because you thought things were unfair?",
+    "question": "### Angry/Resentful\r\n\r\nHave you often gotten angry because you thought things were unfair?",
     "responseOptions": {
         "choices": [
             {

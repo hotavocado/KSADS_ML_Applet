@@ -4,14 +4,13 @@
     ],
     "@type": "reproschema:Field",
     "@id": "dcodd011",
-    "preamble": "Spiteful/Vindictive",
     "ui": {
         "allow": [
             "autoAdvance"
         ],
         "inputType": "radio"
     },
-    "question": "Have you often tried to get back at people or get even with them by doing things like hurting them, messing up their things, or telling lies about them?  (code no if only with sibling)",
+    "question": "### Spiteful/Vindictive\r\n\r\nHave you often tried to get back at people or get even with them by doing things like hurting them, messing up their things, or telling lies about them?  (code no if only with sibling)",
     "responseOptions": {
         "choices": [
             {
