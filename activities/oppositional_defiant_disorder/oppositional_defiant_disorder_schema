@@ -84,7 +84,7 @@
             {
                 "variableName": "codd10",
                 "isAbout": "codd10",
-                "isVis": "dcodd001 == '0' && dcodd002 == '0' && dcodd003 == '0' && dcodd004 == '0' && dcodd005 == '0' &&  dcodd006 == '0' && dcodd007 == '0' && dcodd008 == '0' && dcodd009 == '0' && dcodd010 == '0' && dcodd011 == '0' && dcodd012 == '0'"
+                "isVis": "dcodd001 == 0 && dcodd002 == 0 && dcodd003 == 0 && dcodd004 == 0 && dcodd005 == 0 &&  dcodd006 == 0 && dcodd007 == 0 && dcodd008 == 0 && dcodd009 == 0 && dcodd010 == 0 && dcodd011 == 0 && dcodd012 == 0"
             },
             {
                 "variableName": "dcodd013",
@@ -144,7 +144,7 @@
             {
                 "variableName": "dcodd023",
                 "isAbout": "dcodd023",
-                "isVis": "dcodd022 == '1'"
+                "isVis": "dcodd022 == 1"
             },
             {
                 "variableName": "dcodd024",
@@ -164,7 +164,7 @@
             {
                 "variableName": "dcodd028",
                 "isAbout": "dcodd028",
-                "isVis": "dcodd027 == '0'"
+                "isVis": "dcodd027 == 0"
             },
             {
                 "variableName": "dcodd029",
@@ -174,7 +174,7 @@
             {
                 "variableName": "codd21a",
                 "isAbout": "codd21a",
-                "isVis": "dcodd029 == '1'"
+                "isVis": "dcodd029 == 1"
             },
             {
                 "variableName": "dcodd033",
@@ -194,72 +194,72 @@
             {
                 "variableName": "codd24",
                 "isAbout": "codd24",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd036",
                 "isAbout": "dcodd036",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd037",
                 "isAbout": "dcodd037",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd038",
                 "isAbout": "dcodd038",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd039",
                 "isAbout": "dcodd039",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd040",
                 "isAbout": "dcodd040",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd041",
                 "isAbout": "dcodd041",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd043",
                 "isAbout": "dcodd043",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd044",
                 "isAbout": "dcodd044",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd045",
                 "isAbout": "dcodd045",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd046",
                 "isAbout": "dcodd046",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd047",
                 "isAbout": "dcodd047",
-                "isVis": "dcodd046 == '0'"
+                "isVis": "dcodd046 == 0"
             },
             {
                 "variableName": "dcodd048",
                 "isAbout": "dcodd048",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "codd26",
                 "isAbout": "codd26",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd053",
@@ -269,47 +269,47 @@
             {
                 "variableName": "dcodd054",
                 "isAbout": "dcodd054",
-                "isVis": "dcodd035 == '1'"
+                "isVis": "dcodd035 == 1"
             },
             {
                 "variableName": "dcodd055",
                 "isAbout": "dcodd055",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "dcodd056",
                 "isAbout": "dcodd056",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "dcodd057",
                 "isAbout": "dcodd057",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "dcodd058",
                 "isAbout": "dcodd058",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "dcodd059",
                 "isAbout": "dcodd059",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "dcodd060",
                 "isAbout": "dcodd060",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "dcodd061",
                 "isAbout": "dcodd061",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "dcodd062",
                 "isAbout": "dcodd062",
-                "isVis": "dcodd054 == '1'"
+                "isVis": "dcodd054 == 1"
             },
             {
                 "variableName": "codd_end",

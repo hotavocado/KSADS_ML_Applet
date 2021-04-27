@@ -29,42 +29,42 @@
             {
                 "variableName": "dcsui003",
                 "isAbout": "dcsui003",
-                "isVis": "dcsui002 == '1'"
+                "isVis": "dcsui002 == 1"
             },
             {
                 "variableName": "dcsui004",
                 "isAbout": "dcsui004",
-                "isVis": "dcsui002 == '1'"
+                "isVis": "dcsui002 == 1"
             },
             {
                 "variableName": "dcsui005",
                 "isAbout": "dcsui005",
-                "isVis": "dcsui002 == '1'"
+                "isVis": "dcsui002 == 1"
             },
             {
                 "variableName": "csui2",
                 "isAbout": "csui2",
-                "isVis": "dcsui002 == '1'"
+                "isVis": "dcsui002 == 1"
             },
             {
                 "variableName": "dcsui006",
                 "isAbout": "dcsui006",
-                "isVis": "dcsui002 == '1'"
+                "isVis": "dcsui002 == 1"
             },
             {
                 "variableName": "dcsui007",
                 "isAbout": "dcsui007",
-                "isVis": "dcsui006 == '1'"
+                "isVis": "dcsui006 == 1"
             },
             {
                 "variableName": "dcsui008",
                 "isAbout": "dcsui008",
-                "isVis": "dcsui002 == '1'"
+                "isVis": "dcsui002 == 1"
             },
             {
                 "variableName": "dcsui009",
                 "isAbout": "dcsui009",
-                "isVis": "dcsui008 == '1'"
+                "isVis": "dcsui008 == 1"
             },
             {
                 "variableName": "csui4",
@@ -84,7 +84,7 @@
             {
                 "variableName": "dcsui012",
                 "isAbout": "dcsui012",
-                "isVis": "dcsui011 == '4'"
+                "isVis": "dcsui011 == 4"
             },
             {
                 "variableName": "dcsui013",
@@ -139,7 +139,7 @@
             {
                 "variableName": "dcsui030",
                 "isAbout": "dcsui030",
-                "isVis": "dcsui029 == '4'"
+                "isVis": "dcsui029 == 4"
             },
             {
                 "variableName": "dcsui031",
@@ -194,7 +194,7 @@
             {
                 "variableName": "dcsui048",
                 "isAbout": "dcsui048",
-                "isVis": "dcsui047 == '4'"
+                "isVis": "dcsui047 == 4"
             },
             {
                 "variableName": "dcsui049",
@@ -249,7 +249,7 @@
             {
                 "variableName": "dcsui066",
                 "isAbout": "dcsui066",
-                "isVis": "dcsui065 == '4'"
+                "isVis": "dcsui065 == 4"
             },
             {
                 "variableName": "dcsui067",
@@ -304,7 +304,7 @@
             {
                 "variableName": "dcsui084",
                 "isAbout": "dcsui084",
-                "isVis": "dcsui083 == '4'"
+                "isVis": "dcsui083 == 4"
             },
             {
                 "variableName": "dcsui085",
@@ -359,7 +359,7 @@
             {
                 "variableName": "dcsui102",
                 "isAbout": "dcsui102",
-                "isVis": "dcsui101 == '4'"
+                "isVis": "dcsui101 == 4"
             },
             {
                 "variableName": "dcsui103",
@@ -414,17 +414,17 @@
             {
                 "variableName": "dcsui119",
                 "isAbout": "dcsui119",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui120",
                 "isAbout": "dcsui120",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui121",
                 "isAbout": "dcsui121",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui122",
@@ -434,32 +434,32 @@
             {
                 "variableName": "dcsui128",
                 "isAbout": "dcsui128",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui129",
                 "isAbout": "dcsui129",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui130",
                 "isAbout": "dcsui130",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui131",
                 "isAbout": "dcsui131",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui132",
                 "isAbout": "dcsui132",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "dcsui133",
                 "isAbout": "dcsui133",
-                "isVis": "dcsui118 == '1'"
+                "isVis": "dcsui118 == 1"
             },
             {
                 "variableName": "csui_end",

@@ -49,7 +49,7 @@
             {
                 "variableName": "dcagr006",
                 "isAbout": "dcagr006",
-                "isVis": "dcagr005 == '1'"
+                "isVis": "dcagr005 == 1"
             },
             {
                 "variableName": "dcagr007",
@@ -64,7 +64,7 @@
             {
                 "variableName": "dcagr009",
                 "isAbout": "dcagr009",
-                "isVis": "dcagr008 == '1'"
+                "isVis": "dcagr008 == 1"
             },
             {
                 "variableName": "dcagr010",
@@ -114,12 +114,12 @@
             {
                 "variableName": "dcagr019",
                 "isAbout": "dcagr019",
-                "isVis": "dcagr018 == '1'"
+                "isVis": "dcagr018 == 1"
             },
             {
                 "variableName": "cagr1",
                 "isAbout": "cagr1",
-                "isVis": "dcagr001 == '0' && dcagr002 == '0' && dcagr003 == '0' && dcagr004 == '0' && dcagr005 == '0' && dcagr007 == '0' && dcagr008 == '0' && dcagr010 == '0' && dcagr011 == '0' && dcagr012 == '0' && dcagr013 == '0' && dcagr014 == '0' && dcagr015 == '0' && dcagr016 == '0' && dcagr017 == '0' && dcagr018 == '0'"
+                "isVis": "dcagr001 == 0 && dcagr002 == 0 && dcagr003 == 0 && dcagr004 == 0 && dcagr005 == 0 && dcagr007 == 0 && dcagr008 == 0 && dcagr010 == 0 && dcagr011 == 0 && dcagr012 == 0 && dcagr013 == 0 && dcagr014 == 0 && dcagr015 == 0 && dcagr016 == 0 && dcagr017 == 0 && dcagr018 == 0"
             },
             {
                 "variableName": "cagr2",
@@ -154,12 +154,12 @@
             {
                 "variableName": "dcagr025",
                 "isAbout": "dcagr025",
-                "isVis": "dcagr024 == '1' || dcagr024 == '2'"
+                "isVis": "dcagr024 == 1 || dcagr024 == 2"
             },
             {
                 "variableName": "cagr2_a",
                 "isAbout": "cagr2_a",
-                "isVis": "dcagr020 == '0' && dcagr021 == '0' && dcagr022 == '0' && dcagr023 == '0' && dcagr024 == '0'"
+                "isVis": "dcagr020 == 0 && dcagr021 == 0 && dcagr022 == 0 && dcagr023 == 0 && dcagr024 == 0"
             },
             {
                 "variableName": "dcagr026",
@@ -219,17 +219,17 @@
             {
                 "variableName": "dcagr037a",
                 "isAbout": "dcagr037a",
-                "isVis": "dcagr036 == '1'"
+                "isVis": "dcagr036 == 1"
             },
             {
                 "variableName": "dcagr037b",
                 "isAbout": "dcagr037b",
-                "isVis": "dcagr036 == '1'"
+                "isVis": "dcagr036 == 1"
             },
             {
                 "variableName": "dcagr037c",
                 "isAbout": "dcagr037c",
-                "isVis": "dcagr036 == '1'"
+                "isVis": "dcagr036 == 1"
             },
             {
                 "variableName": "dcagr038",
@@ -284,7 +284,7 @@
             {
                 "variableName": "cagr12",
                 "isAbout": "cagr12",
-                "isVis": "dcagr046 == '1'"
+                "isVis": "dcagr046 == 1"
             },
             {
                 "variableName": "dcagr050",
@@ -294,7 +294,7 @@
             {
                 "variableName": "dcagr051",
                 "isAbout": "dcagr051",
-                "isVis": "dcagr050 == '1'"
+                "isVis": "dcagr050 == 1"
             },
             {
                 "variableName": "dcagr052",
@@ -319,7 +319,7 @@
             {
                 "variableName": "dcagr057",
                 "isAbout": "dcagr057",
-                "isVis": "dcagr056 == '0'"
+                "isVis": "dcagr056 == 0"
             },
             {
                 "variableName": "dcagr058",
@@ -329,7 +329,7 @@
             {
                 "variableName": "cagr19",
                 "isAbout": "cagr19",
-                "isVis": "dcagr058 == '1'"
+                "isVis": "dcagr058 == 1"
             },
             {
                 "variableName": "dcagr062",
@@ -344,72 +344,72 @@
             {
                 "variableName": "cagr22",
                 "isAbout": "cagr22",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr064",
                 "isAbout": "dcagr064",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr065",
                 "isAbout": "dcagr065",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr066",
                 "isAbout": "dcagr066",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr067",
                 "isAbout": "dcagr067",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr068",
                 "isAbout": "dcagr068",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr069",
                 "isAbout": "dcagr069",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr071",
                 "isAbout": "dcagr071",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr072",
                 "isAbout": "dcagr072",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr073",
                 "isAbout": "dcagr073",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr074",
                 "isAbout": "dcagr074",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr075",
                 "isAbout": "dcagr075",
-                "isVis": "dcagr074 == '0'"
+                "isVis": "dcagr074 == 0"
             },
             {
                 "variableName": "dcagr076",
                 "isAbout": "dcagr076",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "cagr24",
                 "isAbout": "cagr24",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr080",
@@ -419,47 +419,47 @@
             {
                 "variableName": "dcagr081",
                 "isAbout": "dcagr081",
-                "isVis": "dcagr063 == '1'"
+                "isVis": "dcagr063 == 1"
             },
             {
                 "variableName": "dcagr082",
                 "isAbout": "dcagr082",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "dcagr083",
                 "isAbout": "dcagr083",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "dcagr084",
                 "isAbout": "dcagr084",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "dcagr085",
                 "isAbout": "dcagr085",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "dcagr086",
                 "isAbout": "dcagr086",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "dcagr087",
                 "isAbout": "dcagr087",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "dcagr088",
                 "isAbout": "dcagr088",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "dcagr089",
                 "isAbout": "dcagr089",
-                "isVis": "dcagr081 == '1'"
+                "isVis": "dcagr081 == 1"
             },
             {
                 "variableName": "cagr_end",

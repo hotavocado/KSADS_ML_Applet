@@ -39,7 +39,7 @@
             {
                 "variableName": "calc5",
                 "isAbout": "calc5",
-                "isVis": "dcalc001 == '0'"
+                "isVis": "dcalc001 == 0"
             },
             {
                 "variableName": "dcalc002",
@@ -49,7 +49,7 @@
             {
                 "variableName": "calc6",
                 "isAbout": "calc6",
-                "isVis": "dcalc002 == '0'"
+                "isVis": "dcalc002 == 0"
             },
             {
                 "variableName": "dcalc003",
@@ -74,47 +74,47 @@
             {
                 "variableName": "dcalc011",
                 "isAbout": "dcalc011",
-                "isVis": "dcalc010 == '1'"
+                "isVis": "dcalc010 == 1"
             },
             {
                 "variableName": "dcalc012",
                 "isAbout": "dcalc012",
-                "isVis": "dcalc010 == '1'"
+                "isVis": "dcalc010 == 1"
             },
             {
                 "variableName": "dcalc013",
                 "isAbout": "dcalc013",
-                "isVis": "dcalc012 == '6'"
+                "isVis": "dcalc012 == 6"
             },
             {
                 "variableName": "dcalc014",
                 "isAbout": "dcalc014",
-                "isVis": "dcalc010 == '1'"
+                "isVis": "dcalc010 == 1"
             },
             {
                 "variableName": "dcalc015",
                 "isAbout": "dcalc015",
-                "isVis": "dcalc010 == '1'"
+                "isVis": "dcalc010 == 1"
             },
             {
                 "variableName": "dcalc016",
                 "isAbout": "dcalc016",
-                "isVis": "dcalc010 == '1'"
+                "isVis": "dcalc010 == 1"
             },
             {
                 "variableName": "dcalc017",
                 "isAbout": "dcalc017",
-                "isVis": "dcalc010 == '1'"
+                "isVis": "dcalc010 == 1"
             },
             {
                 "variableName": "dcalc018",
                 "isAbout": "dcalc018",
-                "isVis": "dcalc017 == '1'"
+                "isVis": "dcalc017 == 1"
             },
             {
                 "variableName": "dcalc019",
                 "isAbout": "dcalc019",
-                "isVis": "dcalc010 == '1'"
+                "isVis": "dcalc010 == 1"
             },
             {
                 "variableName": "dcalc021",
@@ -124,17 +124,17 @@
             {
                 "variableName": "dcalc022",
                 "isAbout": "dcalc022",
-                "isVis": "dcalc021 == '1'"
+                "isVis": "dcalc021 == 1"
             },
             {
                 "variableName": "dcalc023",
                 "isAbout": "dcalc023",
-                "isVis": "dcalc021 == '1'"
+                "isVis": "dcalc021 == 1"
             },
             {
                 "variableName": "dcalc024",
                 "isAbout": "dcalc024",
-                "isVis": "dcalc021 == '1'"
+                "isVis": "dcalc021 == 1"
             },
             {
                 "variableName": "dcalc025",
@@ -144,7 +144,7 @@
             {
                 "variableName": "dcalc026",
                 "isAbout": "dcalc026",
-                "isVis": "dcalc025 == '1'"
+                "isVis": "dcalc025 == 1"
             },
             {
                 "variableName": "dcalc027",
@@ -199,7 +199,7 @@
             {
                 "variableName": "dcalc032",
                 "isAbout": "dcalc032",
-                "isVis": "dcalc027 == '1' || dcalc028 == '1' || dcalc029 == '1' || dcalc030 == '1' || dcalc031 == '1'"
+                "isVis": "dcalc027 == 1 || dcalc028 == 1 || dcalc029 == 1 || dcalc030 == 1 || dcalc031 == 1"
             },
             {
                 "variableName": "dcalc032a",
@@ -214,7 +214,7 @@
             {
                 "variableName": "dcalc035",
                 "isAbout": "dcalc035",
-                "isVis": "dcalc034 == '1'"
+                "isVis": "dcalc034 == 1"
             },
             {
                 "variableName": "dcalc036",
@@ -224,7 +224,7 @@
             {
                 "variableName": "dcalc037",
                 "isAbout": "dcalc037",
-                "isVis": "dcalc036 == '1'"
+                "isVis": "dcalc036 == 1"
             },
             {
                 "variableName": "dcalc038",
@@ -234,7 +234,7 @@
             {
                 "variableName": "dcalc039",
                 "isAbout": "dcalc039",
-                "isVis": "dcalc038 == '1'"
+                "isVis": "dcalc038 == 1"
             },
             {
                 "variableName": "dcalc040",
@@ -244,12 +244,12 @@
             {
                 "variableName": "dcalc041",
                 "isAbout": "dcalc041",
-                "isVis": "dcalc040 == '1'"
+                "isVis": "dcalc040 == 1"
             },
             {
                 "variableName": "dcalc042",
                 "isAbout": "dcalc042",
-                "isVis": "dcalc040 == '1'"
+                "isVis": "dcalc040 == 1"
             },
             {
                 "variableName": "dcalc043",
@@ -259,17 +259,17 @@
             {
                 "variableName": "dcalc044",
                 "isAbout": "dcalc044",
-                "isVis": "dcalc043 == '1'"
+                "isVis": "dcalc043 == 1"
             },
             {
                 "variableName": "dcalc045",
                 "isAbout": "dcalc045",
-                "isVis": "dcalc043 == '1'"
+                "isVis": "dcalc043 == 1"
             },
             {
                 "variableName": "dcalc046",
                 "isAbout": "dcalc046",
-                "isVis": "dcalc043 == '1'"
+                "isVis": "dcalc043 == 1"
             },
             {
                 "variableName": "dcalc047",
@@ -304,17 +304,17 @@
             {
                 "variableName": "dcalc056",
                 "isAbout": "dcalc056",
-                "isVis": "dcalc055 == '1'"
+                "isVis": "dcalc055 == 1"
             },
             {
                 "variableName": "dcalc057",
                 "isAbout": "dcalc057",
-                "isVis": "dcalc055 == '1'"
+                "isVis": "dcalc055 == 1"
             },
             {
                 "variableName": "dcalc058",
                 "isAbout": "dcalc058",
-                "isVis": "dcalc055 == '1'"
+                "isVis": "dcalc055 == 1"
             },
             {
                 "variableName": "dcalc059",
@@ -324,12 +324,12 @@
             {
                 "variableName": "dcalc060",
                 "isAbout": "dcalc060",
-                "isVis": "dcalc059 == '1'"
+                "isVis": "dcalc059 == 1"
             },
             {
                 "variableName": "dcalc061",
                 "isAbout": "dcalc061",
-                "isVis": "dcalc059 == '1'"
+                "isVis": "dcalc059 == 1"
             },
             {
                 "variableName": "dcalc062",
@@ -339,12 +339,12 @@
             {
                 "variableName": "dcalc063",
                 "isAbout": "dcalc063",
-                "isVis": "dcalc062 == '1'"
+                "isVis": "dcalc062 == 1"
             },
             {
                 "variableName": "dcalc064",
                 "isAbout": "dcalc064",
-                "isVis": "dcalc062 == '1'"
+                "isVis": "dcalc062 == 1"
             },
             {
                 "variableName": "dcalc065",
@@ -394,7 +394,7 @@
             {
                 "variableName": "dcalc074",
                 "isAbout": "dcalc074",
-                "isVis": "dcalc073 == '1'"
+                "isVis": "dcalc073 == 1"
             },
             {
                 "variableName": "dcalc075",
@@ -414,62 +414,62 @@
             {
                 "variableName": "dcacl078",
                 "isAbout": "dcacl078",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc079",
                 "isAbout": "dcalc079",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc080",
                 "isAbout": "dcalc080",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc081",
                 "isAbout": "dcalc081",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc082",
                 "isAbout": "dcalc082",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc083",
                 "isAbout": "dcalc083",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc084",
                 "isAbout": "dcalc084",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc085",
                 "isAbout": "dcalc085",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc086",
                 "isAbout": "dcalc086",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc087",
                 "isAbout": "dcalc087",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc088",
                 "isAbout": "dcalc088",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc089",
                 "isAbout": "dcalc089",
-                "isVis": "dcalc077 == '1'"
+                "isVis": "dcalc077 == 1"
             },
             {
                 "variableName": "dcalc090",
@@ -479,52 +479,52 @@
             {
                 "variableName": "dcalc091",
                 "isAbout": "dcalc091",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc092",
                 "isAbout": "dcalc092",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc093",
                 "isAbout": "dcalc093",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc094",
                 "isAbout": "dcalc094",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc095",
                 "isAbout": "dcalc095",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc096",
                 "isAbout": "dcalc096",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc097",
                 "isAbout": "dcalc097",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc098",
                 "isAbout": "dcalc098",
-                "isVis": "dcalc090 == '1'"
+                "isVis": "dcalc090 == 1"
             },
             {
                 "variableName": "dcalc099",
                 "isAbout": "dcalc099",
-                "isVis": "dcalc098 == '1'"
+                "isVis": "dcalc098 == 1"
             },
             {
                 "variableName": "calc20",
                 "isAbout": "calc20",
-                "isVis": "dcalc027 == '0' && dcalc028 == '0' && dcalc029 == '0' && dcalc030 == '0'  && dcalc031 == '0' && dcalc034 == '0' && dcalc036 == '0' && dcalc038 == '0' && dcalc040 == '0' && dcalc043 == '0' && dcalc047 == '0' && dcalc052 == '0' && dcalc053 == '0' && dcalc054 == '0' && dcalc055 == '0' && dcalc059 == '0' && dcalc062 == '0' && dcalc065 == '0' && dcalc066 == '0' && dcalc067 == '0' && dcalc068 == '0' && dcalc069 == '0' && dcalc070 == '0' && dcalc071 == '0' && dcalc072 == '0' && dcalc073 == '0' && dcalc075 == '0' && dcalc076 == '0' && dcalc077 == '0' && dcalc090 == '0'"
+                "isVis": "dcalc027 == 0 && dcalc028 == 0 && dcalc029 == 0 && dcalc030 == 0  && dcalc031 == 0 && dcalc034 == 0 && dcalc036 == 0 && dcalc038 == 0 && dcalc040 == 0 && dcalc043 == 0 && dcalc047 == 0 && dcalc052 == 0 && dcalc053 == 0 && dcalc054 == 0 && dcalc055 == 0 && dcalc059 == 0 && dcalc062 == 0 && dcalc065 == 0 && dcalc066 == 0 && dcalc067 == 0 && dcalc068 == 0 && dcalc069 == 0 && dcalc070 == 0 && dcalc071 == 0 && dcalc072 == 0 && dcalc073 == 0 && dcalc075 == 0 && dcalc076 == 0 && dcalc077 == 0 && dcalc090 == 0"
             },
             {
                 "variableName": "dcalc100",
@@ -544,7 +544,7 @@
             {
                 "variableName": "dcalc103",
                 "isAbout": "dcalc103",
-                "isVis": "dcalc102 == '1'"
+                "isVis": "dcalc102 == 1"
             },
             {
                 "variableName": "calc26",
@@ -579,72 +579,72 @@
             {
                 "variableName": "calc29a",
                 "isAbout": "calc29a",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc109",
                 "isAbout": "dcalc109",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc110",
                 "isAbout": "dcalc110",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc111",
                 "isAbout": "dcalc111",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc112",
                 "isAbout": "dcalc112",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc113",
                 "isAbout": "dcalc113",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc114",
                 "isAbout": "dcalc114",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc116",
                 "isAbout": "dcalc116",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc117",
                 "isAbout": "dcalc117",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc118",
                 "isAbout": "dcalc118",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc119",
                 "isAbout": "dcalc119",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc120",
                 "isAbout": "dcalc120",
-                "isVis": "dcalc119 == '0'"
+                "isVis": "dcalc119 == 0"
             },
             {
                 "variableName": "dcalc121",
                 "isAbout": "dcalc121",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "calc30",
                 "isAbout": "calc30",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc125",
@@ -654,47 +654,47 @@
             {
                 "variableName": "dcalc126",
                 "isAbout": "dcalc126",
-                "isVis": "dcalc108 == '1'"
+                "isVis": "dcalc108 == 1"
             },
             {
                 "variableName": "dcalc128",
                 "isAbout": "dcalc128",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "dcalc129",
                 "isAbout": "dcalc129",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "dcalc130",
                 "isAbout": "dcalc130",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "dcalc131",
                 "isAbout": "dcalc131",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "dcalc132",
                 "isAbout": "dcalc132",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "dcalc133",
                 "isAbout": "dcalc133",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "dcalc134",
                 "isAbout": "dcalc134",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "dcalc135",
                 "isAbout": "dcalc135",
-                "isVis": "dcalc126 == '1'"
+                "isVis": "dcalc126 == 1"
             },
             {
                 "variableName": "calc_end",

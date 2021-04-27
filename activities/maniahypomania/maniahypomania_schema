@@ -29,22 +29,22 @@
             {
                 "variableName": "dcman002",
                 "isAbout": "dcman002",
-                "isVis": "dcman001 == '0'"
+                "isVis": "dcman001 == 0"
             },
             {
                 "variableName": "cman1",
                 "isAbout": "cman1",
-                "isVis": "dcman001 == '0'"
+                "isVis": "dcman001 == 0"
             },
             {
                 "variableName": "cman2",
                 "isAbout": "cman2",
-                "isVis": "dcman001 == '0'"
+                "isVis": "dcman001 == 0"
             },
             {
                 "variableName": "cman3",
                 "isAbout": "cman3",
-                "isVis": "dcman001 == '1'"
+                "isVis": "dcman001 == 1"
             },
             {
                 "variableName": "dcman012",
@@ -54,17 +54,17 @@
             {
                 "variableName": "dcman013",
                 "isAbout": "dcman013",
-                "isVis": "dcman012 == '1'"
+                "isVis": "dcman012 == 1"
             },
             {
                 "variableName": "cman4",
                 "isAbout": "cman4",
-                "isVis": "dcman012 == '1'"
+                "isVis": "dcman012 == 1"
             },
             {
                 "variableName": "cman5",
                 "isAbout": "cman5",
-                "isVis": "dcman012 == '1'"
+                "isVis": "dcman012 == 1"
             },
             {
                 "variableName": "cman6",
@@ -134,12 +134,12 @@
             {
                 "variableName": "dcman032",
                 "isAbout": "dcman032",
-                "isVis": "cman13 == '1'"
+                "isVis": "cman13 == 1"
             },
             {
                 "variableName": "dcman033",
                 "isAbout": "dcman033",
-                "isVis": "cman13 == '0'"
+                "isVis": "cman13 == 0"
             },
             {
                 "variableName": "dcman034",
@@ -169,22 +169,22 @@
             {
                 "variableName": "dcman039",
                 "isAbout": "dcman039",
-                "isVis": "dcman038 == '1'"
+                "isVis": "dcman038 == 1"
             },
             {
                 "variableName": "dcman040",
                 "isAbout": "dcman040",
-                "isVis": "dcman038 == '1'"
+                "isVis": "dcman038 == 1"
             },
             {
                 "variableName": "dcman041",
                 "isAbout": "dcman041",
-                "isVis": "dcman038 == '1'"
+                "isVis": "dcman038 == 1"
             },
             {
                 "variableName": "dcman042",
                 "isAbout": "dcman042",
-                "isVis": "dcman038 == '1'"
+                "isVis": "dcman038 == 1"
             },
             {
                 "variableName": "dcman043",
@@ -254,7 +254,7 @@
             {
                 "variableName": "dcman056",
                 "isAbout": "dcman056",
-                "isVis": "dcman055 == '1'"
+                "isVis": "dcman055 == 1"
             },
             {
                 "variableName": "dcman057",
@@ -264,7 +264,7 @@
             {
                 "variableName": "dcman058",
                 "isAbout": "dcman058",
-                "isVis": "dcman057 == '1'"
+                "isVis": "dcman057 == 1"
             },
             {
                 "variableName": "dcman059",
@@ -279,7 +279,7 @@
             {
                 "variableName": "dcman061",
                 "isAbout": "dcman061",
-                "isVis": "dcman060 == '1'"
+                "isVis": "dcman060 == 1"
             },
             {
                 "variableName": "dcman062",
@@ -304,7 +304,7 @@
             {
                 "variableName": "dcman065",
                 "isAbout": "dcman065",
-                "isVis": "dcman064 == '1'"
+                "isVis": "dcman064 == 1"
             },
             {
                 "variableName": "dcman066",
@@ -314,7 +314,7 @@
             {
                 "variableName": "dcman067",
                 "isAbout": "dcman067",
-                "isVis": "dcman066 == '1'"
+                "isVis": "dcman066 == 1"
             },
             {
                 "variableName": "dcman068",
@@ -324,12 +324,12 @@
             {
                 "variableName": "dcman069",
                 "isAbout": "dcman069",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman068 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman068 == 1"
             },
             {
                 "variableName": "dcman070",
                 "isAbout": "dcman070",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman068 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman068 == 1"
             },
             {
                 "variableName": "dcman071",
@@ -339,12 +339,12 @@
             {
                 "variableName": "dcman072",
                 "isAbout": "dcman072",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman071 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman071 == 1"
             },
             {
                 "variableName": "dcman073",
                 "isAbout": "dcman073",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman071 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman071 == 1"
             },
             {
                 "variableName": "dcman074",
@@ -354,12 +354,12 @@
             {
                 "variableName": "dcman075",
                 "isAbout": "dcman075",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman074 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman074 == 1"
             },
             {
                 "variableName": "dcman076",
                 "isAbout": "dcman076",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman074 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman074 == 1"
             },
             {
                 "variableName": "dcman077",
@@ -369,12 +369,12 @@
             {
                 "variableName": "dcman078",
                 "isAbout": "dcman078",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman077 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman077 == 1"
             },
             {
                 "variableName": "dcman079",
                 "isAbout": "dcman079",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman077 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman077 == 1"
             },
             {
                 "variableName": "dcman080",
@@ -384,12 +384,12 @@
             {
                 "variableName": "dcman081",
                 "isAbout": "dcman081",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman080 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman080 == 1"
             },
             {
                 "variableName": "dcman082",
                 "isAbout": "dcman082",
-                "isVis": "dcman064 == '1' && dcman066 == '1' && dcman080 == '1'"
+                "isVis": "dcman064 == 1 && dcman066 == 1 && dcman080 == 1"
             },
             {
                 "variableName": "dcman083",
@@ -399,7 +399,7 @@
             {
                 "variableName": "dcman084",
                 "isAbout": "dcman084",
-                "isVis": "dcman083 == '1'"
+                "isVis": "dcman083 == 1"
             },
             {
                 "variableName": "dcman085",
@@ -429,37 +429,37 @@
             {
                 "variableName": "dcman090a",
                 "isAbout": "dcman090a",
-                "isVis": "dcman089 == '1'"
+                "isVis": "dcman089 == 1"
             },
             {
                 "variableName": "dcman090b",
                 "isAbout": "dcman090b",
-                "isVis": "dcman089 == '1'"
+                "isVis": "dcman089 == 1"
             },
             {
                 "variableName": "dcman090c",
                 "isAbout": "dcman090c",
-                "isVis": "dcman089 == '1'"
+                "isVis": "dcman089 == 1"
             },
             {
                 "variableName": "dcman090d",
                 "isAbout": "dcman090d",
-                "isVis": "dcman089 == '1'"
+                "isVis": "dcman089 == 1"
             },
             {
                 "variableName": "dcman091",
                 "isAbout": "dcman091",
-                "isVis": "dcman089 == '1'"
+                "isVis": "dcman089 == 1"
             },
             {
                 "variableName": "dcman092",
                 "isAbout": "dcman092",
-                "isVis": "dcman089 == '1'"
+                "isVis": "dcman089 == 1"
             },
             {
                 "variableName": "cman37",
                 "isAbout": "cman37",
-                "isVis": "dcman089 == '1'"
+                "isVis": "dcman089 == 1"
             },
             {
                 "variableName": "dcman095",
@@ -479,37 +479,37 @@
             {
                 "variableName": "dcman098a",
                 "isAbout": "dcman098a",
-                "isVis": "dcman097 == '1'"
+                "isVis": "dcman097 == 1"
             },
             {
                 "variableName": "dcman098b",
                 "isAbout": "dcman098b",
-                "isVis": "dcman097 == '1'"
+                "isVis": "dcman097 == 1"
             },
             {
                 "variableName": "dcman098c",
                 "isAbout": "dcman098c",
-                "isVis": "dcman097 == '1'"
+                "isVis": "dcman097 == 1"
             },
             {
                 "variableName": "dcman098d",
                 "isAbout": "dcman098d",
-                "isVis": "dcman097 == '1'"
+                "isVis": "dcman097 == 1"
             },
             {
                 "variableName": "dcman099",
                 "isAbout": "dcman099",
-                "isVis": "dcman097 == '1'"
+                "isVis": "dcman097 == 1"
             },
             {
                 "variableName": "dcman100",
                 "isAbout": "dcman100",
-                "isVis": "dcman097 == '1'"
+                "isVis": "dcman097 == 1"
             },
             {
                 "variableName": "cman40",
                 "isAbout": "cman40",
-                "isVis": "dcman097 == '1'"
+                "isVis": "dcman097 == 1"
             },
             {
                 "variableName": "dcman103",
@@ -529,7 +529,7 @@
             {
                 "variableName": "dcman105",
                 "isAbout": "dcman105",
-                "isVis": "dcman104 == '1'"
+                "isVis": "dcman104 == 1"
             },
             {
                 "variableName": "dcman106",
@@ -539,17 +539,17 @@
             {
                 "variableName": "dcman107",
                 "isAbout": "dcman107",
-                "isVis": "dcman106 == '1'"
+                "isVis": "dcman106 == 1"
             },
             {
                 "variableName": "dcman108",
                 "isAbout": "dcman108",
-                "isVis": "dcman106 == '1'"
+                "isVis": "dcman106 == 1"
             },
             {
                 "variableName": "dcman109",
                 "isAbout": "dcman109",
-                "isVis": "dcman106 == '1'"
+                "isVis": "dcman106 == 1"
             },
             {
                 "variableName": "dcman110",
@@ -594,7 +594,7 @@
             {
                 "variableName": "dcman117",
                 "isAbout": "dcman117",
-                "isVis": "dcman116 == '1'"
+                "isVis": "dcman116 == 1"
             },
             {
                 "variableName": "dcman118",
@@ -609,72 +609,72 @@
             {
                 "variableName": "cman49",
                 "isAbout": "cman49",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman120",
                 "isAbout": "dcman120",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman121",
                 "isAbout": "dcman121",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman122",
                 "isAbout": "dcman122",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman123",
                 "isAbout": "dcman123",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman124",
                 "isAbout": "dcman124",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman125",
                 "isAbout": "dcman125",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman127",
                 "isAbout": "dcman127",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman128",
                 "isAbout": "dcman128",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman129",
                 "isAbout": "dcman129",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman130",
                 "isAbout": "dcman130",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman131",
                 "isAbout": "dcman131",
-                "isVis": "dcman130 == '0'"
+                "isVis": "dcman130 == 0"
             },
             {
                 "variableName": "dcman132",
                 "isAbout": "dcman132",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "cman50",
                 "isAbout": "cman50",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman136",
@@ -684,47 +684,47 @@
             {
                 "variableName": "dcman137",
                 "isAbout": "dcman137",
-                "isVis": "dcman119 == '1'"
+                "isVis": "dcman119 == 1"
             },
             {
                 "variableName": "dcman138",
                 "isAbout": "dcman138",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman139",
                 "isAbout": "dcman139",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman140",
                 "isAbout": "dcman140",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman141",
                 "isAbout": "dcman141",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman142",
                 "isAbout": "dcman142",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman143",
                 "isAbout": "dcman143",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman144",
                 "isAbout": "dcman144",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman145",
                 "isAbout": "dcman145",
-                "isVis": "dcman137 == '1'"
+                "isVis": "dcman137 == 1"
             },
             {
                 "variableName": "dcman146",
@@ -734,52 +734,52 @@
             {
                 "variableName": "dcman147",
                 "isAbout": "dcman147",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "cman57",
                 "isAbout": "cman57",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "dcman152",
                 "isAbout": "dcman152",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "cman59",
                 "isAbout": "cman59",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "cman59a",
                 "isAbout": "cman59a",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "cman61",
                 "isAbout": "cman61",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "cman62",
                 "isAbout": "cman62",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "cman63",
                 "isAbout": "cman63",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "dcman173",
                 "isAbout": "dcman173",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "dcman174",
                 "isAbout": "dcman174",
-                "isVis": "dcman146 =='1'"
+                "isVis": "dcman146 ==1"
             },
             {
                 "variableName": "cman_end",

@@ -44,102 +44,102 @@
             {
                 "variableName": "dcocd005",
                 "isAbout": "dcocd005",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd006",
                 "isAbout": "dcocd006",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd007",
                 "isAbout": "dcocd007",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd008",
                 "isAbout": "dcocd008",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd009",
                 "isAbout": "dcocd009",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd010",
                 "isAbout": "dcocd010",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd011",
                 "isAbout": "dcocd011",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd012",
                 "isAbout": "dcocd012",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd013",
                 "isAbout": "dcocd013",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd014",
                 "isAbout": "dcocd014",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd015",
                 "isAbout": "dcocd015",
-                "isVis": "dcocd014 == '1'"
+                "isVis": "dcocd014 == 1"
             },
             {
                 "variableName": "cocd4",
                 "isAbout": "cocd4",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd016",
                 "isAbout": "dcocd016",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd017",
                 "isAbout": "dcocd017",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd018",
                 "isAbout": "dcocd018",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd019",
                 "isAbout": "dcocd019",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd020",
                 "isAbout": "dcocd020",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd021",
                 "isAbout": "dcocd021",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd022",
                 "isAbout": "dcocd022",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "dcocd023",
                 "isAbout": "dcocd023",
-                "isVis": "dcocd001 == '1' || dcocd002 == '1'  || dcocd003 == '1' ||  dcocd004 == '1'"
+                "isVis": "dcocd001 == 1 || dcocd002 == 1  || dcocd003 == 1 ||  dcocd004 == 1"
             },
             {
                 "variableName": "cocd5",
@@ -164,97 +164,97 @@
             {
                 "variableName": "dcocd027",
                 "isAbout": "dcocd027",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd028",
                 "isAbout": "dcocd028",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd029",
                 "isAbout": "dcocd029",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd030",
                 "isAbout": "dcocd030",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd031",
                 "isAbout": "dcocd031",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd032",
                 "isAbout": "dcocd032",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd033",
                 "isAbout": "dcocd033",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd034",
                 "isAbout": "dcocd034",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd035",
                 "isAbout": "dcocd035",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd036",
                 "isAbout": "dcocd036",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd037",
                 "isAbout": "dcocd037",
-                "isVis": "dcocd036 == '1'"
+                "isVis": "dcocd036 == 1"
             },
             {
                 "variableName": "dcocd038",
                 "isAbout": "dcocd038",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd039",
                 "isAbout": "dcocd039",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd040",
                 "isAbout": "dcocd040",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd041",
                 "isAbout": "dcocd041",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd042",
                 "isAbout": "dcocd042",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd043",
                 "isAbout": "dcocd043",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd044",
                 "isAbout": "dcocd044",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd045",
                 "isAbout": "dcocd045",
-                "isVis": "dcocd024 == '1' || dcocd025 == '1' || dcocd026 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd025 == 1 || dcocd026 == 1"
             },
             {
                 "variableName": "dcocd046",
@@ -269,7 +269,7 @@
             {
                 "variableName": "dcocd048",
                 "isAbout": "dcocd048",
-                "isVis": "dcocd047 == '1'"
+                "isVis": "dcocd047 == 1"
             },
             {
                 "variableName": "dcocd049",
@@ -279,17 +279,17 @@
             {
                 "variableName": "dcocd050",
                 "isAbout": "dcocd050",
-                "isVis": "dcocd049 == '1'"
+                "isVis": "dcocd049 == 1"
             },
             {
                 "variableName": "dcocd051",
                 "isAbout": "dcocd051",
-                "isVis": "dcocd049 == '1'"
+                "isVis": "dcocd049 == 1"
             },
             {
                 "variableName": "dcocd052",
                 "isAbout": "dcocd052",
-                "isVis": "dcocd049 == '1'"
+                "isVis": "dcocd049 == 1"
             },
             {
                 "variableName": "cocd11",
@@ -314,7 +314,7 @@
             {
                 "variableName": "dcocd056",
                 "isAbout": "dcocd056",
-                "isVis": "dcocd055 == '1'"
+                "isVis": "dcocd055 == 1"
             },
             {
                 "variableName": "cocd15a",
@@ -329,7 +329,7 @@
             {
                 "variableName": "dcocd060",
                 "isAbout": "dcocd060",
-                "isVis": "dcocd059 == '0'"
+                "isVis": "dcocd059 == 0"
             },
             {
                 "variableName": "dcocd061",
@@ -339,7 +339,7 @@
             {
                 "variableName": "cocd17a",
                 "isAbout": "cocd17a",
-                "isVis": "dcocd061 == '1'"
+                "isVis": "dcocd061 == 1"
             },
             {
                 "variableName": "dcocd065",
@@ -354,72 +354,72 @@
             {
                 "variableName": "cocd20",
                 "isAbout": "cocd20",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd067",
                 "isAbout": "dcocd067",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd068",
                 "isAbout": "dcocd068",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd069",
                 "isAbout": "dcocd069",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd070",
                 "isAbout": "dcocd070",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd071",
                 "isAbout": "dcocd071",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd072",
                 "isAbout": "dcocd072",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd074",
                 "isAbout": "dcocd074",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd075",
                 "isAbout": "dcocd075",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd076",
                 "isAbout": "dcocd076",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd077",
                 "isAbout": "dcocd077",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd078",
                 "isAbout": "dcocd078",
-                "isVis": "dcocd077 == '0'"
+                "isVis": "dcocd077 == 0"
             },
             {
                 "variableName": "dcocd079",
                 "isAbout": "dcocd079",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "cocd22",
                 "isAbout": "cocd22",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd084",
@@ -429,62 +429,62 @@
             {
                 "variableName": "dcocd085",
                 "isAbout": "dcocd085",
-                "isVis": "dcocd066 == '1'"
+                "isVis": "dcocd066 == 1"
             },
             {
                 "variableName": "dcocd086",
                 "isAbout": "dcocd086",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd087",
                 "isAbout": "dcocd087",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd088",
                 "isAbout": "dcocd088",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd089",
                 "isAbout": "dcocd089",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd090",
                 "isAbout": "dcocd090",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd091",
                 "isAbout": "dcocd091",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd092",
                 "isAbout": "dcocd092",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd093",
                 "isAbout": "dcocd093",
-                "isVis": "dcocd085 == '1'"
+                "isVis": "dcocd085 == 1"
             },
             {
                 "variableName": "dcocd094",
                 "isAbout": "dcocd094",
-                "isVis": "dcocd024 == '1' || dcocd035 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd035 == 1"
             },
             {
                 "variableName": "dcocd095",
                 "isAbout": "dcocd095",
-                "isVis": "dcocd024 == '1' || dcocd035 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd035 == 1"
             },
             {
                 "variableName": "dcocd096",
                 "isAbout": "dcocd096",
-                "isVis": "dcocd024 == '1' || dcocd035 == '1'"
+                "isVis": "dcocd024 == 1 || dcocd035 == 1"
             },
             {
                 "variableName": "cocd_end",

@@ -134,77 +134,77 @@
             {
                 "variableName": "dctlo027",
                 "isAbout": "dctlo027",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo028",
                 "isAbout": "dctlo028",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "timeline_instructions3",
                 "isAbout": "timeline_instructions3",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo031",
                 "isAbout": "dctlo031",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo032",
                 "isAbout": "dctlo032",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo33",
                 "isAbout": "dctlo33",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo34",
                 "isAbout": "dctlo34",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo35",
                 "isAbout": "dctlo35",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo36",
                 "isAbout": "dctlo36",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo37",
                 "isAbout": "dctlo37",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo38",
                 "isAbout": "dctlo38",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo039",
                 "isAbout": "dctlo039",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo039_notes",
                 "isAbout": "dctlo039_notes",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo040",
                 "isAbout": "dctlo040",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo041",
                 "isAbout": "dctlo041",
-                "isVis": "ctlo0 == '1'"
+                "isVis": "ctlo0 == 1"
             },
             {
                 "variableName": "dctlo042",
@@ -214,17 +214,17 @@
             {
                 "variableName": "dctlo043",
                 "isAbout": "dctlo043",
-                "isVis": "dctlo042 == '1'"
+                "isVis": "dctlo042 == 1"
             },
             {
                 "variableName": "dctlo044",
                 "isAbout": "dctlo044",
-                "isVis": "dctlo042 == '1'"
+                "isVis": "dctlo042 == 1"
             },
             {
                 "variableName": "dctlo045",
                 "isAbout": "dctlo045",
-                "isVis": "dctlo042 == '1'"
+                "isVis": "dctlo042 == 1"
             },
             {
                 "variableName": "dctlo046",

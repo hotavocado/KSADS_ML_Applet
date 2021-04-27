@@ -29,22 +29,22 @@
             {
                 "variableName": "dcmdd002",
                 "isAbout": "dcmdd002",
-                "isVis": "dcmdd001 == '0'"
+                "isVis": "dcmdd001 == 0"
             },
             {
                 "variableName": "cmdd1",
                 "isAbout": "cmdd1",
-                "isVis": "dcmdd001 == '0'"
+                "isVis": "dcmdd001 == 0"
             },
             {
                 "variableName": "dcmdd006",
                 "isAbout": "dcmdd006",
-                "isVis": "dcmdd001 == '0'"
+                "isVis": "dcmdd001 == 0"
             },
             {
                 "variableName": "cmdd2",
                 "isAbout": "cmdd2",
-                "isVis": "dcmdd001 == '1'"
+                "isVis": "dcmdd001 == 1"
             },
             {
                 "variableName": "dcmdd010",
@@ -54,17 +54,17 @@
             {
                 "variableName": "dcmdd011",
                 "isAbout": "dcmdd011",
-                "isVis": "dcmdd010 == '1'"
+                "isVis": "dcmdd010 == 1"
             },
             {
                 "variableName": "cmdd3",
                 "isAbout": "cmdd3",
-                "isVis": "dcmdd010 == '1'"
+                "isVis": "dcmdd010 == 1"
             },
             {
                 "variableName": "dcmdd015",
                 "isAbout": "dcmdd015",
-                "isVis": "dcmdd010 == '1'"
+                "isVis": "dcmdd010 == 1"
             },
             {
                 "variableName": "cmdd4",
@@ -79,7 +79,7 @@
             {
                 "variableName": "dcmdd017",
                 "isAbout": "dcmdd017",
-                "isVis": "dcmdd016 == '1'"
+                "isVis": "dcmdd016 == 1"
             },
             {
                 "variableName": "dcmdd018",
@@ -139,22 +139,22 @@
             {
                 "variableName": "dcmdd029",
                 "isAbout": "dcmdd029",
-                "isVis": "dcmdd028 == '1'"
+                "isVis": "dcmdd028 == 1"
             },
             {
                 "variableName": "dcmdd030",
                 "isAbout": "dcmdd030",
-                "isVis": "dcmdd028 == '1'"
+                "isVis": "dcmdd028 == 1"
             },
             {
                 "variableName": "dcmdd031",
                 "isAbout": "dcmdd031",
-                "isVis": "dcmdd028 == '1'"
+                "isVis": "dcmdd028 == 1"
             },
             {
                 "variableName": "dcmdd032",
                 "isAbout": "dcmdd032",
-                "isVis": "dcmdd028 == '1'"
+                "isVis": "dcmdd028 == 1"
             },
             {
                 "variableName": "dcmdd033",
@@ -174,7 +174,7 @@
             {
                 "variableName": "dcmdd036",
                 "isAbout": "dcmdd036",
-                "isVis": "dcmdd035 == '1'"
+                "isVis": "dcmdd035 == 1"
             },
             {
                 "variableName": "dcmdd037",
@@ -194,7 +194,7 @@
             {
                 "variableName": "dcmdd040",
                 "isAbout": "dcmdd040",
-                "isVis": "dcmdd039 == '1'"
+                "isVis": "dcmdd039 == 1"
             },
             {
                 "variableName": "dcmdd042",
@@ -224,7 +224,7 @@
             {
                 "variableName": "dcmdd047",
                 "isAbout": "dcmdd047",
-                "isVis": "dcmdd042 == '1' || dcmdd043 == '1' || dcmdd044 == '1' || dcmdd045 == '1' || dcmdd046 == '1'"
+                "isVis": "dcmdd042 == 1 || dcmdd043 == 1 || dcmdd044 == 1 || dcmdd045 == 1 || dcmdd046 == 1"
             },
             {
                 "variableName": "dcmdd048",
@@ -324,17 +324,17 @@
             {
                 "variableName": "dcmdd066",
                 "isAbout": "dcmdd066",
-                "isVis": "dcmdd065 == '1'"
+                "isVis": "dcmdd065 == 1"
             },
             {
                 "variableName": "dcmdd067",
                 "isAbout": "dcmdd067",
-                "isVis": "dcmdd065 == '1'"
+                "isVis": "dcmdd065 == 1"
             },
             {
                 "variableName": "dcmdd068",
                 "isAbout": "dcmdd068",
-                "isVis": "dcmdd065 == '1'"
+                "isVis": "dcmdd065 == 1"
             },
             {
                 "variableName": "dcmdd069",
@@ -364,32 +364,32 @@
             {
                 "variableName": "dcmdd074",
                 "isAbout": "dcmdd074",
-                "isVis": "dcmdd071 == '1' || dcmdd072 == '1' || dcmdd073 == '1'"
+                "isVis": "dcmdd071 == 1 || dcmdd072 == 1 || dcmdd073 == 1"
             },
             {
                 "variableName": "dcmdd075a",
                 "isAbout": "dcmdd075a",
-                "isVis": "dcmdd074 == '1'"
+                "isVis": "dcmdd074 == 1"
             },
             {
                 "variableName": "dcmdd075b",
                 "isAbout": "dcmdd075b",
-                "isVis": "dcmdd074 == '1'"
+                "isVis": "dcmdd074 == 1"
             },
             {
                 "variableName": "dcmdd075c",
                 "isAbout": "dcmdd075c",
-                "isVis": "dcmdd074 == '1'"
+                "isVis": "dcmdd074 == 1"
             },
             {
                 "variableName": "dcmdd075d",
                 "isAbout": "dcmdd075d",
-                "isVis": "dcmdd074 == '1'"
+                "isVis": "dcmdd074 == 1"
             },
             {
                 "variableName": "dcmdd076",
                 "isAbout": "dcmdd076",
-                "isVis": "dcmdd074 == '1'"
+                "isVis": "dcmdd074 == 1"
             },
             {
                 "variableName": "dcmdd077",
@@ -404,42 +404,42 @@
             {
                 "variableName": "dcmdd079",
                 "isAbout": "dcmdd079",
-                "isVis": "dcmdd077 == '1' || dcmdd078 == '1'"
+                "isVis": "dcmdd077 == 1 || dcmdd078 == 1"
             },
             {
                 "variableName": "dcmdd080a",
                 "isAbout": "dcmdd080a",
-                "isVis": "dcmdd079 == '1'"
+                "isVis": "dcmdd079 == 1"
             },
             {
                 "variableName": "dcmdd080b",
                 "isAbout": "dcmdd080b",
-                "isVis": "dcmdd079 == '1'"
+                "isVis": "dcmdd079 == 1"
             },
             {
                 "variableName": "dcmdd080c",
                 "isAbout": "dcmdd080c",
-                "isVis": "dcmdd079 == '1'"
+                "isVis": "dcmdd079 == 1"
             },
             {
                 "variableName": "dcmdd080d",
                 "isAbout": "dcmdd080d",
-                "isVis": "dcmdd079 == '1'"
+                "isVis": "dcmdd079 == 1"
             },
             {
                 "variableName": "dcmdd081",
                 "isAbout": "dcmdd081",
-                "isVis": "dcmdd079 == '1'"
+                "isVis": "dcmdd079 == 1"
             },
             {
                 "variableName": "dcmdd082",
                 "isAbout": "dcmdd082",
-                "isVis": "dcmdd079 == '1'"
+                "isVis": "dcmdd079 == 1"
             },
             {
                 "variableName": "cmdd26",
                 "isAbout": "cmdd26",
-                "isVis": "dcmdd079 == '1'"
+                "isVis": "dcmdd079 == 1"
             },
             {
                 "variableName": "dcmdd085",
@@ -459,7 +459,7 @@
             {
                 "variableName": "dcmdd087",
                 "isAbout": "dcmdd087",
-                "isVis": "dcmdd086 == '1'"
+                "isVis": "dcmdd086 == 1"
             },
             {
                 "variableName": "dcmdd088",
@@ -469,17 +469,17 @@
             {
                 "variableName": "dcmdd089",
                 "isAbout": "dcmdd089",
-                "isVis": "dcmdd088 == '1'"
+                "isVis": "dcmdd088 == 1"
             },
             {
                 "variableName": "dcmdd090",
                 "isAbout": "dcmdd090",
-                "isVis": "dcmdd088 == '1'"
+                "isVis": "dcmdd088 == 1"
             },
             {
                 "variableName": "dcmdd091",
                 "isAbout": "dcmdd091",
-                "isVis": "dcmdd088 == '1'"
+                "isVis": "dcmdd088 == 1"
             },
             {
                 "variableName": "cmdd30",
@@ -489,7 +489,7 @@
             {
                 "variableName": "dcmdd092",
                 "isAbout": "dcmdd092",
-                "isVis": "cmdd30 == '0'"
+                "isVis": "cmdd30 == 0"
             },
             {
                 "variableName": "dcmdd093",
@@ -514,12 +514,12 @@
             {
                 "variableName": "dcmdd097",
                 "isAbout": "dcmdd097",
-                "isVis": "dcmdd096 == '1'"
+                "isVis": "dcmdd096 == 1"
             },
             {
                 "variableName": "cmdd34",
                 "isAbout": "cmdd34",
-                "isVis": "dcmdd096 == '1'"
+                "isVis": "dcmdd096 == 1"
             },
             {
                 "variableName": "cmdd35a",
@@ -544,7 +544,7 @@
             {
                 "variableName": "dcmdd103",
                 "isAbout": "dcmdd103",
-                "isVis": "dcmdd102 == '1'"
+                "isVis": "dcmdd102 == 1"
             },
             {
                 "variableName": "dcmdd104",
@@ -564,77 +564,77 @@
             {
                 "variableName": "cmdd39",
                 "isAbout": "cmdd39",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd107",
                 "isAbout": "dcmdd107",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd108",
                 "isAbout": "dcmdd108",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd109",
                 "isAbout": "dcmdd109",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd110",
                 "isAbout": "dcmdd110",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd111",
                 "isAbout": "dcmdd111",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd112",
                 "isAbout": "dcmdd112",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd113",
                 "isAbout": "dcmdd113",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd115",
                 "isAbout": "dcmdd115",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd116",
                 "isAbout": "dcmdd116",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd117",
                 "isAbout": "dcmdd117",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd118",
                 "isAbout": "dcmdd118",
-                "isVis": "dcmdd117 == '0'"
+                "isVis": "dcmdd117 == 0"
             },
             {
                 "variableName": "dcmdd119",
                 "isAbout": "dcmdd119",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd120",
                 "isAbout": "dcmdd120",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "cmdd40",
                 "isAbout": "cmdd40",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd124",
@@ -644,47 +644,47 @@
             {
                 "variableName": "dcmdd125",
                 "isAbout": "dcmdd125",
-                "isVis": "dcmdd106 == '1'"
+                "isVis": "dcmdd106 == 1"
             },
             {
                 "variableName": "dcmdd126",
                 "isAbout": "dcmdd126",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "dcmdd127",
                 "isAbout": "dcmdd127",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "dcmdd128",
                 "isAbout": "dcmdd128",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "dcmdd129",
                 "isAbout": "dcmdd129",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "dcmdd130",
                 "isAbout": "dcmdd130",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "dcmdd131",
                 "isAbout": "dcmdd131",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "dcmdd132",
                 "isAbout": "dcmdd132",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "dcmdd133",
                 "isAbout": "dcmdd133",
-                "isVis": "dcmdd125 == '1'"
+                "isVis": "dcmdd125 == 1"
             },
             {
                 "variableName": "cmdd42",
@@ -699,102 +699,102 @@
             {
                 "variableName": "dcmdd135",
                 "isAbout": "dcmdd135",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd47",
                 "isAbout": "cmdd47",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "dcmdd138",
                 "isAbout": "dcmdd138",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "dcmdd139",
                 "isAbout": "dcmdd139",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd49",
                 "isAbout": "cmdd49",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd51a",
                 "isAbout": "cmdd51a",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd51",
                 "isAbout": "cmdd51",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd52",
                 "isAbout": "cmdd52",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "dcmdd152",
                 "isAbout": "dcmdd152",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "dcmdd153",
                 "isAbout": "dcmdd153",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "dcmdd154",
                 "isAbout": "dcmdd154",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd54",
                 "isAbout": "cmdd54",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "dcmdd155",
                 "isAbout": "dcmdd155",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd55",
                 "isAbout": "cmdd55",
-                "isVis": "dcmdd134 == '1'"
+                "isVis": "dcmdd134 == 1"
             },
             {
                 "variableName": "cmdd56",
                 "isAbout": "cmdd56",
-                "isVis": "cmdd55 == '1'"
+                "isVis": "cmdd55 == 1"
             },
             {
                 "variableName": "dcmdd156",
                 "isAbout": "dcmdd156",
-                "isVis": "cmdd55 == '1'"
+                "isVis": "cmdd55 == 1"
             },
             {
                 "variableName": "dcmdd157",
                 "isAbout": "dcmdd157",
-                "isVis": "cmdd55 == '1'"
+                "isVis": "cmdd55 == 1"
             },
             {
                 "variableName": "dcmdd158",
                 "isAbout": "dcmdd158",
-                "isVis": "cmdd55 == '1'"
+                "isVis": "cmdd55 == 1"
             },
             {
                 "variableName": "dcmdd159",
                 "isAbout": "dcmdd159",
-                "isVis": "cmdd55 == '1'"
+                "isVis": "cmdd55 == 1"
             },
             {
                 "variableName": "dcmdd160",
                 "isAbout": "dcmdd160",
-                "isVis": "cmdd55 == '1'"
+                "isVis": "cmdd55 == 1"
             },
             {
                 "variableName": "cmdd_end",
