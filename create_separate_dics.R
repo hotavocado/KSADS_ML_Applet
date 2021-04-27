@@ -63,10 +63,10 @@ for (i in activity_names) {
 
 }
 
-
-
 #rerun code to save all datadic
 #rerun the node file
 #re push to github
 #readd the first several applets, and refresh the others.
 
+#export names
+write_lines(activity_names, '/Users/mike.xiao/Documents/GitHub/KSADS_ML_Applet/activity_names.txt')
