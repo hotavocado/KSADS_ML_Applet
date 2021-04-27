@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "ocd_title",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "## Obsessive Compulsive Disorder",
     "responseOptions": {

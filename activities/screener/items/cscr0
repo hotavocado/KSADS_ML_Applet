@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Treatment\r\n\r\n_INTERVIEWER: Use timeline to date treatment, symptoms, etc._",
     "responseOptions": {

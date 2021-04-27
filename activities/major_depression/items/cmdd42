@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cmdd42",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Episodes/Course (Lifetime)\r\n\r\n_INTERVIEWER: The following questions about course address episodes of depression across the lifetime._",
     "responseOptions": {

@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr48",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Post Traumatic Stress Disorder\r\n\r\nNow I'm going to ask you about upsetting things that sometimes happen to children or teenagers. \r\n\r\n _INTERVIEWER: Refer to Participant Card 5 (Stressful Experiences)_",
     "responseOptions": {

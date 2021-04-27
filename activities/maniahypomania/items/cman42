@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cman42",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Associated Conditions (Episode)\r\n\r\n_INTERVIEWER: Associated condition questions apply **ONLY** to episode being coded._",
     "responseOptions": {

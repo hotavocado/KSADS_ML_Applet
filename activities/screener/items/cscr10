@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr10",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Conduct Disorder\r\n\r\nSome young people do other things that may get them into trouble with adults like breaking rules or getting into trouble with the police or other authorities if they get caught. They may lie a lot, steal, skip school, smoke or drink.",
     "responseOptions": {

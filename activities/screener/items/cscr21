@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr21",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Agoraphobia\r\n\r\n_INTERVIEWER: Read the card to ages 7-12 or for those children with learning/reading problems: Participant Card 4 (Other fears)_",
     "responseOptions": {

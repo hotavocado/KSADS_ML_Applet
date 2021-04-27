@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "calc0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "The next questions are about your use of alcohol including beer, wine, wine coolers, and hard liquor like vodka, gin, whiskey, and mixed drinks.   When I say 'drink', I mean a glass of wine, a bottle or can of beer, a shot of liquor, or a mixed drink. \r\n\r\n One Standard Drink: \r\n\r\n 12 oz. beer = 1 can or bottle \r\n\r\n 5 oz. wine = 1 small glass \r\n\r\n 1.5 oz. hard liquor = 1 shot or 1 mixed drink",
     "responseOptions": {

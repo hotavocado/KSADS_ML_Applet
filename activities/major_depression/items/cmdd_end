@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cmdd_end",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: END of  **Major Depression** section._",
     "responseOptions": {

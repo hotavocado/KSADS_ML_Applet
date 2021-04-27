@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cman6",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: Code the most intense episode._ \r\n\r\n Now I would like to talk to you about that time.",
     "responseOptions": {

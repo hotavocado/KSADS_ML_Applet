@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cpan_end",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: The participant did not endorse any fear/worries. End **Panic Disorder** Section._",
     "responseOptions": {

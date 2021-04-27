@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csep14",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "What kind of person/people did you get help from? \r\n\r\n _INTERVIEWER: Refer to Participant Card 13 (Professional/Treatment), record and code responses on the following screens._",
     "responseOptions": {

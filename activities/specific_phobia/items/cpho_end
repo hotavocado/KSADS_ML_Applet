@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cpho_end",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: END of **Specfic Phobia** section_",
     "responseOptions": {

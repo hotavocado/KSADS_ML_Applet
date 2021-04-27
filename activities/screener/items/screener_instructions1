@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "screener_instructions1",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Screening Probes\r\n\r\nI'm now going to ask you some more questions about your feelings, behavior and mood.",
     "responseOptions": {

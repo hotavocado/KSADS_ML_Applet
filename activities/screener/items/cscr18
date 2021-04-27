@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr18",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Panic Disorder\r\n\r\nSome people have what we call \"panic or anxiety attacks\".  In these kinds of attacks, people become very scared, even though there is nothing around to frighten them.  Sometimes, they feel they can't breathe or their heart beats fast.  The attacks come on very quickly and then go away.",
     "responseOptions": {

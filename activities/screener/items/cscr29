@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr29",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "\n_INTERVIEWER: Sometimes a child will initially give a negative answer; if current sadness/depressed affect/state is evident, ask about current mood._",
     "responseOptions": {

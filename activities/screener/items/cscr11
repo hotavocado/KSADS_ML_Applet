@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr11",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Specific Phobia\r\n\r\nSome people have fears of things, like spiders, heights, elevators, dogs, blood, or shots.  When they are faced with the thing that they fear, they become very frightened and upset even though there is no real danger.  They may go out of their way to stay away from the thing that they fear. \r\n\r\n _INTERVIEWER: Read the card to ages 7-12 or for those children with learning/reading problems: Participant Card 2 (Fears)_",
     "responseOptions": {

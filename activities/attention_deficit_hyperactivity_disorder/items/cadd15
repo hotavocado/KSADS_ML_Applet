@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cadd15",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### General Probes: Hyperactivity/Impulsivity\r\n\r\nEveryone has times when they are very active.  I would now like to ask you whether you ever had times when you had a lot more trouble than most people with being very restless, fidgety, or impatient.",
     "responseOptions": {

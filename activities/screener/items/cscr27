@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr27",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: Since the participant endorsed one of the previous probes, complete the entire **Eating** section_",
     "responseOptions": {

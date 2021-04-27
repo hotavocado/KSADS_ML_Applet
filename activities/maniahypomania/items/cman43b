@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cman43b",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Distress/Impairment (Episode)\r\n\r\nI want to know how your feeling (too happy/excited/grouchy/energetic) and other symptoms caused problems for you. Please look at the scale: Participant Card 8, Distress/Impaiment \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary, and assess areas most pertinent to the disorder; e.g. family, school, peers._",
     "responseOptions": {

@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cptd0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "Earlier I asked about different experiences you might have had or witnessed. I am going to ask you a little about those now. \r\n\r\n _INTERVIEWER: If any events potentially qualify for PTSD, LIST them below and prioritize the one which has had the most impact on the subject._",
     "responseOptions": {

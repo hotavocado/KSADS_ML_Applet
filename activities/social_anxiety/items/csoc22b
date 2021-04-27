@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csoc22b",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Performance Fear Category\r\n\r\n_INTERVIEWER: List the worst performance fear below. Assist the participant in choosing a situation coded with some distress or avoidance. Record the number corresponding to the social situation._ \r\n\r\n You said that you were very afraid or uncomfortable about (list performance situations). Which one of these things upsets you the most? \r\n\r\n Refer to Participant Card 3: Social/Performance",
     "responseOptions": {

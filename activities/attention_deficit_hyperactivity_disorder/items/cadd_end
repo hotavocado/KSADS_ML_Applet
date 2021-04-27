@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cadd_end",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: END of **Attention Deficit Hyperactivity Disorder** section_",
     "responseOptions": {

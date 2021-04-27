@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cmdd35a",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Distress (Episode)\r\n\r\nI want to know how much your depression and other symptoms caused problems for you. Please look at the scale: Participant Card 8 (Distress/Impairment) \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary, and assess areas most pertinent to the disorder; e.g. family, school, peers._",
     "responseOptions": {

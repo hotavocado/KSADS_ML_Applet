@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr37",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Psychosis\r\n\r\nNow I am going to ask you some questions about things that happen to people during stressful times. \r\n\r\n _INTERVIEWER: When asking psychosis questions, ask child/parent to give examples._",
     "responseOptions": {

@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "ctob6",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Dependence Symptoms\r\n\r\nThe next questions are about some problems you may have had because of smoking/using tobacco. \r\n\r\n _INTERVIEWER: If they report both smoking and smokeless tobacco use, record symptoms for most severe._",
     "responseOptions": {

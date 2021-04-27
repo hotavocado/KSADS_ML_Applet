@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr4",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Overanxious/Generalized Anxiety Disorder\r\n\r\nSome young people worry a lot. They may often feel nervous, anxious or unable to relax.  They may have times when they worry a lot more than usual.",
     "responseOptions": {

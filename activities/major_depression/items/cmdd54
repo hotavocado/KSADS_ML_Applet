@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cmdd54",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Return to Baseline\r\n\r\n\nI would now like to talk about the time **in between** the periods when you felt (sad, grouchy, like nothing was fun).",
     "responseOptions": {

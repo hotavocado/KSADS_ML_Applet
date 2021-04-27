@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cpsy0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Hallucinations\r\n\r\nEarlier you told me about some experiences that you have had (list child's behaviors). Now I am going to ask you a little about those. \r\n\r\n _INTERVIEWER: To be rated positively, a hallucination should have been present throughout the day for several days or intermittently throughout a one-week period._",
     "responseOptions": {

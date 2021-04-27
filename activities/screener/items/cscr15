@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr15",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Social Anxiety\r\n\r\nMost people feel uncomfortable when they have to speak in front of people, meet new people, or when they are in situations in which they may say or do something embarrassing.  Some people become so uncomfortable in these situations that they either stay away from them or become very upset, even though they know that it doesn't make sense. \r\n\r\n _INTERVIEWER: refer to at Participant Card 3 (Social/Performance)_",
     "responseOptions": {

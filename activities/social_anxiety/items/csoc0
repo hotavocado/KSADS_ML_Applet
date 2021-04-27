@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csoc0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "Earlier you said that you were very afraid of or uncomfortable about (list endorsed fears). I'd now like to ask you more about (that/those). \r\n\r\n _INTERVIEWER: For each situation endorsed, ask about Frequency, Distress and Avoidance using the questions and response choices below. If fear is not current, ask about worst time. _ \r\n\r\n Refer to Participant Card 3: Social/Performance",
     "responseOptions": {

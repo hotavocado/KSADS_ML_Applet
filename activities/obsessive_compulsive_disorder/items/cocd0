@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cocd0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### General Probes: Obsessions\r\n\r\nEarlier I asked you about thoughts or ideas that come into your head over and over again. I would like to ask you more about (that/those) now. Recurrent and persistent ideas, thoughts, impulses (initially experienced as intrusive and senseless).",
     "responseOptions": {

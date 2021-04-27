@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csep0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Symptoms\r\n\r\nEarlier you told me that you worried about your parents or grown-ups who took care of you. I'd now like to ask you some more questions about that.",
     "responseOptions": {

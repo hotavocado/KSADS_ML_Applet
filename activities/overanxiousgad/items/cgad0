@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cgad0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Content of Worry\r\n\r\nEarlier, you told me that (insert endorsed symptoms from screener). I will first ask you about what you worried about during (that/these times).",
     "responseOptions": {

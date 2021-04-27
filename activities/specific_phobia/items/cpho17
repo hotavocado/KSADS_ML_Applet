@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cpho17",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Worst Fear 2\r\n\r\nI will now ask you about (your second fear listed): When you were most afraid of (your second fear):\r\n\r\n _INTERVIEWER: Read responses never, sometimes, almost always after each question._",
     "responseOptions": {

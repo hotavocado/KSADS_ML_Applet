@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "panic_disorder_title",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "## Panic Disorder",
     "responseOptions": {

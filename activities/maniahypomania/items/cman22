@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cman22",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Depressive Symptoms\r\n\r\nDuring this period, did you also feel/have? (As I list these other symptoms, please recall if you have ever had any of them at the same time.) \r\n\r\n _INTERVIEWER: Refer to Participant Card 7 (Course Pattern) _",
     "responseOptions": {

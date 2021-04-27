@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csep_end",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: END of **Separation Anxiety** section_",
     "responseOptions": {

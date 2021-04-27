@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cmdd20",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Mordbid Thoughts\r\n\r\nSometimes kids who feel sad, down, or angry think about death or even wish they were dead.",
     "responseOptions": {

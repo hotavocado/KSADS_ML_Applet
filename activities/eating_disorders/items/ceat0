@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "ceat0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### General Probes\r\n\r\nEarlier you told me some things about your eating habits and your weight. Now I would like to ask you some questions about that.",
     "responseOptions": {

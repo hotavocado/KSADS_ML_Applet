@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "ccdd23",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "Please look at Participant Card 8: Distress/Impairment. \r\n\r\n _INTERVIEWER: Remind child how to use scale, if necessary._",
     "responseOptions": {

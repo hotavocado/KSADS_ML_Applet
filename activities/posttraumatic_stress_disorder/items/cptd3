@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cptd3",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "Look at Participant Card 5 (Stressful Experiences). Which one do you think about the most or upsets you the most, 2nd most, etc? \r\n\r\n _INTERVIEWER: Record responses in the following screens, Remind child how to use scale, if necessary._",
     "responseOptions": {

@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "suicide_title",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "## Suicide/Self-Harm",
     "responseOptions": {

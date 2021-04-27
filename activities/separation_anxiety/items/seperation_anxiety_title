@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "seperation_anxiety_title",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "## Seperation Anxiety",
     "responseOptions": {

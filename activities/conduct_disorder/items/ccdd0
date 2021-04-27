@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "ccdd0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Symptoms\r\n\r\nEarlier you told me you might do things that may get you into trouble with adults like breaking rules or getting into trouble with the police or other authorities. I am now going to ask you some questions about this.",
     "responseOptions": {

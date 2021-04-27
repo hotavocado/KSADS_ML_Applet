@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr7",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Attention Deficit Hyperactivity Disorder (ADHD)\r\n\r\nSome children have trouble paying attention and following instructions. They may be distracted easily and forget what they are supposed to do. These children often have difficulty staying still, are always on the go and often interrupt people.",
     "responseOptions": {

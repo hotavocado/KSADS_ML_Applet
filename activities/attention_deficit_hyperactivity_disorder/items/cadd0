@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cadd0",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### General Probes: Inattention\r\n\r\nEveryone has times when they have trouble concentrating or keeping their mind on what they are doing.  The next questions are about whether you have had more difficulty than most people with concentration or attention.",
     "responseOptions": {

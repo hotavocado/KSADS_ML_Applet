@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "social_anx_title",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "## Social Anxiety",
     "responseOptions": {

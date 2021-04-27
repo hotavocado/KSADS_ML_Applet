@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csoc5",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Nature of Fear\r\n\r\nWhen you were in these situations (list specific examples from above), were you afraid or uncomfortable because:",
     "responseOptions": {

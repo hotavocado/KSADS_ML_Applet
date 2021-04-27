@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr5",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Seperation Anxiety\r\n\r\nSome young people worry a lot about being away from their parents or the grown-up who takes care of them.",
     "responseOptions": {

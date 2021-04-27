@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "depression_title",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "## Major Depression",
     "responseOptions": {

@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csep2",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "_INTERVIEWER: The participant did not endorse any fear/worries. End **Separation Anxiety** Section._",
     "responseOptions": {

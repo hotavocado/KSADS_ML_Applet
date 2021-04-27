@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "cscr28",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Depression\r\n\r\nSome people have times when they feel sad, depressed, irritable or moody. They no longer enjoy the things they used to do; they may feel tired and have less energy than usual.  These changes are much different from their usual selves.",
     "responseOptions": {

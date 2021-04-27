@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "csui11",
     "ui": {
-        "inputType": "static"
+        "inputType": "markdown-message"
     },
     "question": "### Self-Harm\r\n\r\n_INTERVIEWER:  This is self-mutilation or self-damage NOT accompanied by the wish or intention to die.  Code NO if **only** under context of suicidal ideation or behavior._",
     "responseOptions": {
